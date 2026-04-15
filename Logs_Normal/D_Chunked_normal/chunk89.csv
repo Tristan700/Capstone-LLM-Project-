@@ -1,151 +1,101 @@
-EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName
-4799,10178,,2026-04-08 16:15:30.844000+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,
-4624,10179,,2026-04-08 16:15:31.125666+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10180,,2026-04-08 16:15:31.125671+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10181,,2026-04-08 16:15:31.126894+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k CameraMonitor,,C:\Windows\System32\services.exe,
-4688,10182,,2026-04-08 16:15:31.207256+00:00,,,0x0000000000000580,,,,,Security,,,,NORMALVM$,pizza,sihost.exe,,C:\Windows\System32\svchost.exe,
-6000,327,,2026-04-08 16:15:31.209574+00:00,,,,,,,,Appiclation,,,,,,,,,
-4688,10183,,2026-04-08 16:15:31.264795+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc,,C:\Windows\System32\services.exe,
-4688,10184,,2026-04-08 16:15:31.360203+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc,,C:\Windows\System32\services.exe,
-4673,10185,,2026-04-08 16:15:31.716093+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10186,,2026-04-08 16:15:31.746029+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService,,C:\Windows\System32\services.exe,
-4688,10187,,2026-04-08 16:15:31.898619+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,pizza,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},,C:\Windows\System32\svchost.exe,
-4688,10188,,2026-04-08 16:15:31.904373+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,pizza,taskhostw.exe USER,,C:\Windows\System32\svchost.exe,
-4688,10189,,2026-04-08 16:15:31.912979+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,pizza,taskhostw.exe,,C:\Windows\System32\svchost.exe,
-4688,10190,,2026-04-08 16:15:31.915741+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,C:\Windows\System32\svchost.exe,
-5379,10191,,2026-04-08 16:15:32.217785+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10192,,2026-04-08 16:15:32.218702+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10193,,2026-04-08 16:15:32.218784+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10194,,2026-04-08 16:15:32.223248+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10195,,2026-04-08 16:15:32.224264+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10196,,2026-04-08 16:15:32.224466+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10197,,2026-04-08 16:15:32.863207+00:00,,,0x00000000000002a4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\userinit.exe,,C:\Windows\System32\winlogon.exe,
-4688,10198,,2026-04-08 16:15:32.992058+00:00,,,0x0000000000001120,,,,,Security,,,,pizza,-,C:\WINDOWS\Explorer.EXE,,C:\Windows\System32\userinit.exe,
-4688,10199,,2026-04-08 16:15:33.258520+00:00,,,0x0000000000000f78,,,,,Security,,,,pizza,-,"""C:\Windows\System32\ShellHost.exe""",,C:\Windows\System32\sihost.exe,
-4688,10200,,2026-04-08 16:15:34.136341+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc,,C:\Windows\System32\services.exe,
-4624,10201,,2026-04-08 16:15:34.207680+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10202,,2026-04-08 16:15:34.207684+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10203,,2026-04-08 16:15:34.209904+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo,,C:\Windows\System32\services.exe,
-4673,10204,,2026-04-08 16:15:34.828741+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10205,,2026-04-08 16:15:35.662708+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,
-5058,10206,,2026-04-08 16:15:35.706976+00:00,,,,,%%2458,,,Security,,,,pizza,,,,,
-5061,10207,,2026-04-08 16:15:35.707785+00:00,,,,,%%2480,,,Security,,,,pizza,,,,,
-5059,10208,,2026-04-08 16:15:35.708349+00:00,,,,,%%2464,,,Security,,,,pizza,,,,,
-4688,10209,,2026-04-08 16:15:35.748344+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc,,C:\Windows\System32\services.exe,
-4688,10210,,2026-04-08 16:15:35.948532+00:00,,,0x0000000000000f78,,,,,Security,,,,NORMALVM$,pizza,"""C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"" /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp",,C:\Windows\System32\sihost.exe,
-5058,10211,,2026-04-08 16:15:36.056259+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,
-5061,10212,,2026-04-08 16:15:36.056677+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,
-5059,10213,,2026-04-08 16:15:36.057854+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,
-4673,10214,,2026-04-08 16:15:36.255732+00:00,,,0x0000000000001204,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,10215,,2026-04-08 16:15:36.545889+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{69B7FE84-6361-4423-B948-1D64820B1E96},,C:\Windows\System32\svchost.exe,
-4688,10216,,2026-04-08 16:15:37.420408+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"" -ServerName:FullTrustApp.AppXykjsye98af63ez2annt9djke8trg8stn.mca",,C:\Windows\System32\svchost.exe,
-4673,10217,,2026-04-08 16:15:37.445040+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,10218,,2026-04-08 16:15:37.544424+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca",,C:\Windows\System32\svchost.exe,
-4673,10219,,2026-04-08 16:15:37.989801+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10220,,2026-04-08 16:15:38.439611+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,
-4688,10221,,2026-04-08 16:15:38.788269+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc,,C:\Windows\System32\services.exe,
-4688,10222,,2026-04-08 16:15:39.205912+00:00,,,0x0000000000001070,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,
-4688,10223,,2026-04-08 16:15:39.444498+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe"" -ServerName:Microsoft.Windows.DashboardServer",,C:\Windows\System32\svchost.exe,
-4673,10224,,2026-04-08 16:15:39.703285+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4673,10225,,2026-04-08 16:15:40.495308+00:00,,,0x000000000000113c,,,,,Security,,,,pizza,,,C:\Windows\explorer.exe,,
-4688,10226,,2026-04-08 16:15:40.629517+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SoftLandingTask\SoftLandingTask.exe"" -Embedding",,C:\Windows\System32\svchost.exe,
-4673,10227,,2026-04-08 16:15:40.629520+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-10010,938,,2026-04-08 16:15:40.917715+00:00,,,,,,,,System,,,,,,,,,
-4673,10228,,2026-04-08 16:15:41.088631+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4673,10229,,2026-04-08 16:15:41.099596+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10230,,2026-04-08 16:15:41.302254+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca",,C:\Windows\System32\svchost.exe,
-4673,10231,,2026-04-08 16:15:41.505770+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,10232,,2026-04-08 16:15:41.546530+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{D4872B74-3AFC-47CD-B8A2-9E4F998539BC},,C:\Windows\System32\svchost.exe,
-4688,10233,,2026-04-08 16:15:41.635578+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:SettingsUXHostApp.AppXbcemfss8fnwzwnsjec8qzh0c3jnkn6x0.mca",,C:\Windows\System32\svchost.exe,
-4673,10234,,2026-04-08 16:15:41.727213+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,10235,,2026-04-08 16:15:42.113701+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca",,C:\Windows\System32\svchost.exe,
-4688,10236,,2026-04-08 16:15:43.162346+00:00,,,0x0000000000001178,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --embedded-browser-webview=1 --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --noerrdialogs --disable-features=msSmartScreenProtection --edge-webview-enable-mojo-ipcz --enable-features=msEdgeFluentOverlayScrollbar --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.97)"" --lang=en-US --mojo-named-platform-channel-pipe=4472.6016.2921936805182268445 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe,
-4688,10237,,2026-04-08 16:15:43.580952+00:00,,,0x00000000000017b8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=crashpad-handler --user-data-dir=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView /prefetch:4 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=146.0.7680.179 ""--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --annotation=plat=Win64 ""--annotation=prod=Edge WebView2"" --annotation=ver=146.0.3856.109 --initial-client-data=0x16c,0x170,0x174,0x148,0x17c,0x7ffa8dd334d8,0x7ffa8dd334e4,0x7ffa8dd334f0",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4688,10238,,2026-04-08 16:15:45.858248+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\smartscreen.exe -Embedding,,C:\Windows\System32\svchost.exe,
-5379,10239,,2026-04-08 16:15:46.143551+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10240,,2026-04-08 16:15:46.144943+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10241,,2026-04-08 16:15:46.144989+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10242,,2026-04-08 16:15:46.990807+00:00,,,0x00000000000017b8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=gpu-process --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.97)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=1592,i,4945600212070934286,7416231352190313833,262144 --field-trial-handle=1956,i,6078480730948159026,6721498702270035775,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1960,i,14362246081800096169,14529789461455454791,4 --trace-process-track-uuid=3190708988185955192 --mojo-platform-channel-handle=1952 /prefetch:2 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4688,10243,,2026-04-08 16:15:47.389183+00:00,,,0x00000000000017b8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.97)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --embedded-browser-webview=1 --startup-read-main-dll --metrics-shmem-handle=2176,i,10536952720363580671,18387145290864661434,524288 --field-trial-handle=1956,i,6078480730948159026,6721498702270035775,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1960,i,14362246081800096169,14529789461455454791,4 --trace-process-track-uuid=3190708989122997041 --mojo-platform-channel-handle=2216 /prefetch:11 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4688,10244,,2026-04-08 16:15:47.523829+00:00,,,0x00000000000017b8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.97)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --embedded-browser-webview=1 --startup-read-main-dll --metrics-shmem-handle=2380,i,6365926793173372895,18105208623525371483,524288 --field-trial-handle=1956,i,6078480730948159026,6721498702270035775,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1960,i,14362246081800096169,14529789461455454791,4 --trace-process-track-uuid=3190708990060038890 --mojo-platform-channel-handle=3296 /prefetch:13 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4624,10245,,2026-04-08 16:15:47.540014+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10246,,2026-04-08 16:15:47.540018+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10247,,2026-04-08 16:15:47.541128+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p,,C:\Windows\System32\services.exe,
-5058,10248,,2026-04-08 16:15:47.562086+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,
-5061,10249,,2026-04-08 16:15:47.562420+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,
-5059,10250,,2026-04-08 16:15:47.562950+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,
-5379,10251,,2026-04-08 16:15:47.835081+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10252,,2026-04-08 16:15:47.839514+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10253,,2026-04-08 16:15:47.858925+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10254,,2026-04-08 16:15:47.859190+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10255,,2026-04-08 16:15:47.859329+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10256,,2026-04-08 16:15:48.726786+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe"" -RegisterProcessAsComServer -Embedding",,C:\Windows\System32\svchost.exe,
-4673,10257,,2026-04-08 16:15:48.910000+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,10258,,2026-04-08 16:15:48.939667+00:00,,,0x00000000000017b8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=renderer --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.97)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --embedded-browser-webview=1 --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--expose-gc --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=5 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=46397276 --ram-no-pressure-read-main-dll --metrics-shmem-handle=3640,i,6577854068825832439,10552908624725628390,2097152 --field-trial-handle=1956,i,6078480730948159026,6721498702270035775,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1960,i,14362246081800096169,14529789461455454791,4 --trace-process-track-uuid=3190708990997080739 --mojo-platform-channel-handle=3660 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630 /prefetch:1",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4688,10259,,2026-04-08 16:15:49.016247+00:00,,,0x000000000000113c,,,,,Security,,,,pizza,-,"""C:\Windows\System32\fsquirt.exe"" -Register",,C:\Windows\explorer.exe,
-4688,10260,,2026-04-08 16:15:49.489149+00:00,,,0x00000000000008f4,,,,,Security,,,,NORMALVM$,pizza,/QuitInfo:0000000000000320;0000000000000324; ,,C:\Windows\System32\svchost.exe,
-4673,10261,,2026-04-08 16:15:49.857185+00:00,,,0x0000000000001420,,,,,Security,,,,pizza,,,C:\Windows\System32\RuntimeBroker.exe,,
-4688,10262,,2026-04-08 16:15:50.410576+00:00,,,0x000000000000113c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --profile-directory=Default",,C:\Windows\explorer.exe,
-4688,10263,,2026-04-08 16:15:50.633663+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=crashpad-handler ""--user-data-dir=C:\Users\pizza\AppData\Local\Microsoft\Edge\User Data"" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\pizza\AppData\Local\Microsoft\Edge\User Data\Crashpad"" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=146.0.7680.179 ""--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --annotation=plat=Win64 --annotation=prod=Edge --annotation=ver=146.0.3856.109 --initial-client-data=0x2f8,0x2fc,0x300,0x2f4,0x398,0x7ffa8dd334d8,0x7ffa8dd334e4,0x7ffa8dd334f0",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10264,,2026-04-08 16:15:51.145718+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --startup-read-main-dll --metrics-shmem-handle=1688,i,12137183227249621188,13877521031581857879,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708989122997041 --mojo-platform-channel-handle=2304 /prefetch:11",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10265,,2026-04-08 16:15:51.177505+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=1540,i,902075843181200506,7294472993107847869,262144 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708988185955192 --mojo-platform-channel-handle=2236 /prefetch:2",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10266,,2026-04-08 16:15:51.265589+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --startup-read-main-dll --metrics-shmem-handle=1956,i,5646507513690491147,8933532071078832003,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708990060038890 --mojo-platform-channel-handle=2716 /prefetch:13",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-5379,10267,,2026-04-08 16:15:51.389429+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10268,,2026-04-08 16:15:51.390898+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10269,,2026-04-08 16:15:51.390947+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10270,,2026-04-08 16:15:51.449968+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\146.0.3856.109\elevation_service.exe""",,C:\Windows\System32\services.exe,
-4673,10271,,2026-04-08 16:15:52.034060+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,10272,,2026-04-08 16:15:52.034323+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,10273,,2026-04-08 16:15:52.034698+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,10274,,2026-04-08 16:15:52.034843+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4688,10275,,2026-04-08 16:15:52.306936+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=edge_collections.mojom.CollectionsDataManager --lang=en-US --service-sandbox-type=collections --skip-read-main-dll --metrics-shmem-handle=4004,i,11295620912282681187,46121561695988991,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708992871164437 --mojo-platform-channel-handle=4632 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10276,,2026-04-08 16:15:52.849798+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=6 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=49958288 --ram-no-pressure-read-main-dll --metrics-shmem-handle=3516,i,6373220529238468248,3721987737391380085,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708991934122588 --mojo-platform-channel-handle=3596 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10277,,2026-04-08 16:15:52.874151+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --instant-process --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=5 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=49960486 --skip-read-main-dll --metrics-shmem-handle=3524,i,8382451173296826282,13404206526300133218,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708990997080739 --mojo-platform-channel-handle=3600 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-5379,10278,,2026-04-08 16:15:53.396622+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10279,,2026-04-08 16:15:54.484709+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\146.0.3856.109\elevation_service.exe""",,C:\Windows\System32\services.exe,
-5379,10280,,2026-04-08 16:15:54.730381+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10281,,2026-04-08 16:15:54.732372+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10282,,2026-04-08 16:15:54.732422+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10283,,2026-04-08 16:15:54.868534+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10284,,2026-04-08 16:15:54.869370+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10285,,2026-04-08 16:15:54.869431+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5058,10286,,2026-04-08 16:15:54.928358+00:00,,,,,%%2458,,,Security,,,,NORMALVM$,,,,,
-5061,10287,,2026-04-08 16:15:54.928606+00:00,,,,,%%2480,,,Security,,,,NORMALVM$,,,,,
-5379,10288,,2026-04-08 16:15:55.056942+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10289,,2026-04-08 16:15:55.057098+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10290,,2026-04-08 16:15:55.198465+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=PooledProcess2 --lang=en-US --service-sandbox-type=utility --skip-read-main-dll --metrics-shmem-handle=5764,i,18095034898197291142,1741571123492734889,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708994745248135 --mojo-platform-channel-handle=5772 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-5379,10291,,2026-04-08 16:15:58.543867+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10292,,2026-04-08 16:15:58.547079+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10293,,2026-04-08 16:15:58.547134+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10294,,2026-04-08 16:15:58.547911+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10295,,2026-04-08 16:15:58.644852+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10296,,2026-04-08 16:15:58.645674+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10297,,2026-04-08 16:15:58.645725+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10298,,2026-04-08 16:15:58.646379+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10299,,2026-04-08 16:15:58.913826+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10300,,2026-04-08 16:15:58.914654+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10301,,2026-04-08 16:15:58.914700+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10302,,2026-04-08 16:15:58.915327+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-4688,10303,,2026-04-08 16:16:00.046976+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=asset_store.mojom.AssetStoreService --lang=en-US --service-sandbox-type=asset_store_service --skip-read-main-dll --metrics-shmem-handle=6044,i,15996384953403366935,13730822288334242041,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708995682289984 --mojo-platform-channel-handle=6236 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,10304,,2026-04-08 16:16:00.051184+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=entity_extraction_service.mojom.Extractor --lang=en-US --service-sandbox-type=entity_extraction --onnx-enabled-for-ee --skip-read-main-dll --metrics-shmem-handle=6108,i,4086735155511481395,18171003771332495607,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190708996619331833 --mojo-platform-channel-handle=6288 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-5379,10305,,2026-04-08 16:16:01.795483+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10306,,2026-04-08 16:16:01.986189+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10307,,2026-04-08 16:16:01.986364+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10308,,2026-04-08 16:16:01.986403+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-4624,10309,,2026-04-08 16:16:02.125340+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10310,,2026-04-08 16:16:02.125345+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10311,,2026-04-08 16:16:02.126764+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BDESVC,,C:\Windows\System32\services.exe,
-4624,10312,,2026-04-08 16:16:02.250195+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10313,,2026-04-08 16:16:02.250200+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10314,,2026-04-08 16:16:02.251305+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s lfsvc,,C:\Windows\System32\services.exe,
-4673,10315,,2026-04-08 16:16:02.931828+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-5379,10316,,2026-04-08 16:16:03.885817+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10317,,2026-04-08 16:16:04.306774+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10318,,2026-04-08 16:16:04.307026+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10319,,2026-04-08 16:16:04.308935+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10320,,2026-04-08 16:16:04.309130+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10321,,2026-04-08 16:16:04.366922+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10322,,2026-04-08 16:16:04.368027+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10323,,2026-04-08 16:16:04.588581+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10324,,2026-04-08 16:16:04.588768+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,10325,,2026-04-08 16:16:04.588911+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+7026,669,,2026-04-01 18:09:16.421251+00:00,,,,,,,,System,,,,,,,,,,6160
+18,670,,2026-04-01 18:09:16.431797+00:00,,,,,,,,System,,,,,,,,,,6161
+4624,5916,,2026-04-01 18:09:17.219034+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6162
+4672,5917,,2026-04-01 18:09:17.219040+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6163
+4798,5918,,2026-04-01 18:09:18.569309+00:00,,,,,,,,Security,C:\Windows\System32\LogonUI.exe,,,NORMALVM$,pizza,,,,,6164
+4624,5919,,2026-04-01 18:09:19.617012+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6165
+4672,5920,,2026-04-01 18:09:19.617018+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6166
+5024,5921,,2026-04-01 18:09:21.493200+00:00,,,,,,,,Security,,,,,,,,,,6167
+4624,5922,,2026-04-01 18:09:22.518272+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6168
+4672,5923,,2026-04-01 18:09:22.518280+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6169
+4624,5924,,2026-04-01 18:09:22.587011+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6170
+4672,5925,,2026-04-01 18:09:22.587015+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6171
+900,207,,2026-04-01 18:09:25.801413+00:00,,,,,,,,Appiclation,,,,,,,,,,6172
+16394,208,,2026-04-01 18:09:25.869919+00:00,,,,,,,,Appiclation,,,,,,,,,,6173
+1066,209,,2026-04-01 18:09:25.949215+00:00,,,,,,,,Appiclation,,,,,,,,,,6174
+1003,210,,2026-04-01 18:09:25.984123+00:00,,,,,,,,Appiclation,,,,,,,,,,6175
+902,211,,2026-04-01 18:09:26.043873+00:00,,,,,,,,Appiclation,,,,,,,,,,6176
+4624,5926,,2026-04-01 18:09:26.660542+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6177
+4672,5927,,2026-04-01 18:09:26.660547+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6178
+1003,212,,2026-04-01 18:09:27.340816+00:00,,,,,,,,Appiclation,,,,,,,,,,6179
+8198,213,,2026-04-01 18:09:27.354895+00:00,,,,,,,,Appiclation,,,,,,,,,,6180
+1041,671,,2026-04-01 18:09:27.444397+00:00,,,,,,,,System,,,,,,,,,,6181
+1038,672,,2026-04-01 18:09:27.444462+00:00,,,,,,,,System,,,,,,,,,,6182
+1282,673,,2026-04-01 18:09:32.133284+00:00,,,,,,,,System,,,,,,,,,,6183
+86,214,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 18:09:32.588472+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 18:09:32 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: fd013bd1-04f6-44a6-8c46-913f7620c604
+",,Appiclation,,,,,,,,,,6184
+1025,674,,2026-04-01 18:09:32.593077+00:00,,,,,,,,System,,,,,,,,,,6185
+86,215,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 18:09:32.802769+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 18:09:32 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 672ea153-250f-432f-859a-7032f43e2891
+",,Appiclation,,,,,,,,,,6186
+16384,216,,2026-04-01 18:09:57.379700+00:00,,,,,,,,Appiclation,,,,,,,,,,6187
+903,217,,2026-04-01 18:09:57.607220+00:00,,,,,,,,Appiclation,,,,,,,,,,6188
+4624,5928,,2026-04-01 18:10:01.067549+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6189
+4672,5929,,2026-04-01 18:10:01.067560+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6190
+4799,5930,,2026-04-01 18:10:16.045610+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,6191
+5611,218,,2026-04-01 18:10:16.101835+00:00,,,,,,,,Appiclation,,,,,,,,,,6192
+5617,219,,2026-04-01 18:10:16.751444+00:00,,,,,,,,Appiclation,,,,,,,,,,6193
+4624,5931,,2026-04-01 18:11:16.278439+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6194
+4672,5932,,2026-04-01 18:11:16.278448+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6195
+4799,5933,,2026-04-01 18:11:21.005144+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,6196
+5058,5934,,2026-04-01 18:11:21.202309+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,6197
+5061,5935,,2026-04-01 18:11:21.202974+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,6198
+5059,5936,,2026-04-01 18:11:21.203520+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6199
+4624,5937,,2026-04-01 18:11:21.860460+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6200
+4672,5938,,2026-04-01 18:11:21.860464+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6201
+0,220,,2026-04-01 18:11:22.457342+00:00,,,,,,,,Appiclation,,,,,,,,,,6202
+4624,5939,,2026-04-01 18:11:22.539068+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6203
+4672,5940,,2026-04-01 18:11:22.539074+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6204
+900,221,,2026-04-01 18:11:22.954361+00:00,,,,,,,,Appiclation,,,,,,,,,,6205
+16394,222,,2026-04-01 18:11:23.031101+00:00,,,,,,,,Appiclation,,,,,,,,,,6206
+4624,5941,,2026-04-01 18:11:23.081097+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6207
+4672,5942,,2026-04-01 18:11:23.081102+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6208
+4624,5943,,2026-04-01 18:11:23.461227+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6209
+4672,5944,,2026-04-01 18:11:23.461235+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6210
+4624,5945,,2026-04-01 18:11:23.629440+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6211
+4672,5946,,2026-04-01 18:11:23.629448+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6212
+10016,675,,2026-04-01 18:11:24.873846+00:00,,,,,,,,System,,,,,,,,,,6213
+4624,5947,,2026-04-01 18:11:24.876043+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6214
+4672,5948,,2026-04-01 18:11:24.876049+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6215
+1,223,,2026-04-01 18:11:25.178272+00:00,,,,,,,,Appiclation,,,,,,,,,,6216
+4624,5949,,2026-04-01 18:11:25.431589+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6217
+4672,5950,,2026-04-01 18:11:25.431593+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6218
+4624,5951,,2026-04-01 18:11:26.214418+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6219
+4672,5952,,2026-04-01 18:11:26.214424+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6220
+1003,224,,2026-04-01 18:11:26.539467+00:00,,,,,,,,Appiclation,,,,,,,,,,6221
+4799,5953,,2026-04-01 18:11:26.541592+00:00,,,,,,,,Security,C:\Windows\System32\SearchIndexer.exe,,,NORMALVM$,Administrators,,,,,6222
+15,225,,2026-04-01 18:11:27.217386+00:00,,,,,,,,Appiclation,,,,,,,,,,6223
+5379,5954,,2026-04-01 18:11:28.152363+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6224
+5379,5955,,2026-04-01 18:11:28.152842+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6225
+5379,5956,,2026-04-01 18:11:28.152914+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6226
+5379,5957,,2026-04-01 18:11:29.270395+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6227
+4798,5958,,2026-04-01 18:11:29.328585+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6228
+4798,5959,,2026-04-01 18:11:29.329531+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6229
+4798,5960,,2026-04-01 18:11:29.329821+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6230
+4798,5961,,2026-04-01 18:11:29.330200+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6231
+4798,5962,,2026-04-01 18:11:29.331890+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6232
+4798,5963,,2026-04-01 18:11:29.332182+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6233
+4798,5964,,2026-04-01 18:11:29.332445+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6234
+4798,5965,,2026-04-01 18:11:29.332722+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6235
+4624,5966,,2026-04-01 18:11:29.337488+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6236
+4672,5967,,2026-04-01 18:11:29.337492+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6237
+5379,5968,,2026-04-01 18:11:29.556896+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6238
+5379,5969,,2026-04-01 18:11:29.580713+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6239

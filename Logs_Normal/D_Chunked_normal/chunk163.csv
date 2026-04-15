@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4624,10094,,2026-04-08 16:15:17.759871+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11340
+4672,10095,,2026-04-08 16:15:17.759880+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11341
+4688,10096,,2026-04-08 16:15:17.763088+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s WpnService,,C:\Windows\System32\services.exe,,11342
+4688,10097,,2026-04-08 16:15:17.915344+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe""",,C:\Windows\System32\services.exe,,11343
+4673,10098,,2026-04-08 16:15:18.092710+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11344
+4799,10099,,2026-04-08 16:15:18.149754+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,11345
+4688,10100,,2026-04-08 16:15:18.163147+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k WSAIFabricSvcGroup -p -s WSAIFabricSvc,,C:\Windows\System32\services.exe,,11346
+4673,10101,,2026-04-08 16:15:18.422293+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11347
+4673,10102,,2026-04-08 16:15:18.555950+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11348
+4673,10103,,2026-04-08 16:15:18.571711+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11349
+5615,316,,2026-04-08 16:15:18.700607+00:00,,,,,,,,Appiclation,,,,,,,,,,11350
+7026,933,,2026-04-08 16:15:18.821156+00:00,,,,,,,,System,,,,,,,,,,11351
+18,934,,2026-04-08 16:15:18.836039+00:00,,,,,,,,System,,,,,,,,,,11352
+4688,10104,,2026-04-08 16:15:19.396572+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-AMFilter.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11353
+4688,10105,,2026-04-08 16:15:19.421808+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,NORMALVM$,taskhostw.exe network,,C:\Windows\System32\svchost.exe,,11354
+4688,10106,,2026-04-08 16:15:19.466997+00:00,,,0x0000000000000dac,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11355
+4688,10107,,2026-04-08 16:15:19.963919+00:00,,,0x0000000000000b34,,,,,Security,,,,NORMALVM$,-,AggregatorHost.exe,,C:\Windows\System32\svchost.exe,,11356
+4688,10108,,2026-04-08 16:15:20.028679+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-AMFilter.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Drivers\WdFilter.sys"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Drivers\WdFilter.sys"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Drivers\WdFilter.sys""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11357
+4688,10109,,2026-04-08 16:15:20.057789+00:00,,,0x0000000000000e34,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11358
+4673,10110,,2026-04-08 16:15:20.911793+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11359
+4688,10111,,2026-04-08 16:15:20.963730+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Windows-Windows Defender.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11360
+4688,10112,,2026-04-08 16:15:20.970127+00:00,,,0x0000000000000e98,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11361
+4673,10113,,2026-04-08 16:15:21.064920+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11362
+4688,10114,,2026-04-08 16:15:21.150848+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Windows-Windows Defender.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpEvMsg.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpEvMsg.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpEvMsg.dll""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11363
+4688,10115,,2026-04-08 16:15:21.153362+00:00,,,0x0000000000000ecc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11364
+4688,10116,,2026-04-08 16:15:21.535585+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-Service.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11365
+4688,10117,,2026-04-08 16:15:21.538343+00:00,,,0x0000000000000ef0,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11366
+4688,10118,,2026-04-08 16:15:21.623129+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-Service.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpSvc.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpSvc.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpSvc.dll""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11367
+4688,10119,,2026-04-08 16:15:21.625647+00:00,,,0x0000000000000f14,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11368
+4688,10120,,2026-04-08 16:15:21.705685+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-NIS.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11369
+4688,10121,,2026-04-08 16:15:21.708796+00:00,,,0x0000000000000f38,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11370
+4688,10122,,2026-04-08 16:15:21.760916+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-NIS.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\NisSrv.exe"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\NisSrv.exe"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\NisSrv.exe""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11371
+4688,10123,,2026-04-08 16:15:21.765015+00:00,,,0x0000000000000f5c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11372
+4688,10124,,2026-04-08 16:15:21.855413+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-RTP.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11373
+4688,10125,,2026-04-08 16:15:21.860201+00:00,,,0x0000000000000f84,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11374
+4688,10126,,2026-04-08 16:15:21.938892+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-RTP.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpRtp.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpRtp.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpRtp.dll""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11375
+4688,10127,,2026-04-08 16:15:21.944130+00:00,,,0x0000000000000fa8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11376
+4688,10128,,2026-04-08 16:15:22.063251+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-Protection.man""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11377
+4688,10129,,2026-04-08 16:15:22.069601+00:00,,,0x0000000000000fcc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11378
+4688,10130,,2026-04-08 16:15:22.208975+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\Microsoft-Antimalware-Protection.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpClient.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpClient.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpClient.dll""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11379
+4688,10131,,2026-04-08 16:15:22.215004+00:00,,,0x0000000000000ff0,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wevtutil.exe,,11380
+5024,10132,,2026-04-08 16:15:22.717390+00:00,,,,,,,,Security,,,,,,,,,,11381
+4624,10133,,2026-04-08 16:15:23.773891+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11382
+4672,10134,,2026-04-08 16:15:23.773897+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11383
+4688,10135,,2026-04-08 16:15:23.775023+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost,,C:\Windows\System32\services.exe,,11384
+4624,10136,,2026-04-08 16:15:23.832729+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11385
+4672,10137,,2026-04-08 16:15:23.832733+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11386
+4688,10138,,2026-04-08 16:15:23.833921+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc,,C:\Windows\System32\services.exe,,11387
+4673,10139,,2026-04-08 16:15:23.876907+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11388
+4688,10140,,2026-04-08 16:15:24.144642+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\sppsvc.exe,,C:\Windows\System32\services.exe,,11389
+900,317,,2026-04-08 16:15:24.277510+00:00,,,,,,,,Appiclation,,,,,,,,,,11390
+16394,318,,2026-04-08 16:15:24.395926+00:00,,,,,,,,Appiclation,,,,,,,,,,11391
+1066,319,,2026-04-08 16:15:24.498318+00:00,,,,,,,,Appiclation,,,,,,,,,,11392
+1003,320,,2026-04-08 16:15:24.536615+00:00,,,,,,,,Appiclation,,,,,,,,,,11393
+902,321,,2026-04-08 16:15:24.616394+00:00,,,,,,,,Appiclation,,,,,,,,,,11394
+4688,10141,,2026-04-08 16:15:25.269627+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\SppExtComObj.exe -Embedding,,C:\Windows\System32\svchost.exe,,11395
+4688,10142,,2026-04-08 16:15:25.361223+00:00,,,0x0000000000000ea8,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\System32\SLUI.exe"" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8;NotificationInterval=1440;Trigger=NetworkAvailable",,C:\Windows\System32\SppExtComObj.Exe,,11396
+4688,10143,,2026-04-08 16:15:26.390751+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalService -p -s LicenseManager,,C:\Windows\System32\services.exe,,11397
+4624,10144,,2026-04-08 16:15:26.534595+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11398
+4672,10145,,2026-04-08 16:15:26.534603+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11399
+4688,10146,,2026-04-08 16:15:26.535698+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,,C:\Windows\System32\services.exe,,11400
+1003,322,,2026-04-08 16:15:27.027485+00:00,,,,,,,,Appiclation,,,,,,,,,,11401
+8198,323,,2026-04-08 16:15:27.046921+00:00,,,,,,,,Appiclation,,,,,,,,,,11402
+4688,10147,,2026-04-08 16:15:27.557867+00:00,,,0x0000000000000bfc,,,,,Security,,,,NORMALVM$,-,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpCmdRun.exe"" -RegisterWmiSchema -Root ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MsMpEng.exe,,11403
+4688,10148,,2026-04-08 16:15:27.577417+00:00,,,0x0000000000000f70,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpCmdRun.exe,,11404
+4688,10149,,2026-04-08 16:15:27.805183+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\NisSrv.exe""",,C:\Windows\System32\services.exe,,11405
+4799,10150,,2026-04-08 16:15:27.829390+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,11406
+5611,324,,2026-04-08 16:15:27.921965+00:00,,,,,,,,Appiclation,,,,,,,,,,11407
+4673,10151,,2026-04-08 16:15:27.979296+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11408
+4688,10152,,2026-04-08 16:15:27.983990+00:00,,,0x00000000000008f4,,,,,Security,,,,NORMALVM$,-,/QuitInfo:00000000000002E0;00000000000002E4; ,,C:\Windows\System32\svchost.exe,,11409
+4688,10153,,2026-04-08 16:15:29.004782+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\wermgr.exe"" -upload",,C:\Windows\System32\svchost.exe,,11410
+5617,325,,2026-04-08 16:15:29.731693+00:00,,,,,,,,Appiclation,,,,,,,,,,11411
+1041,935,,2026-04-08 16:15:30.017666+00:00,,,,,,,,System,,,,,,,,,,11412
+1038,936,,2026-04-08 16:15:30.017742+00:00,,,,,,,,System,,,,,,,,,,11413
+4673,10154,,2026-04-08 16:15:30.029680+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11414
+4673,10155,,2026-04-08 16:15:30.595909+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11415
+4673,10156,,2026-04-08 16:15:30.595911+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11416
+4673,10157,,2026-04-08 16:15:30.595913+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11417
+5058,10158,,2026-04-08 16:15:30.607269+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,11418
+5061,10159,,2026-04-08 16:15:30.607775+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,11419

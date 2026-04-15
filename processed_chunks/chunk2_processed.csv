@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+5061,400,,2026-04-01 16:17:57.707687+00:00,,,,,%%2481,,,Security,,,,LOCAL SERVICE,,,,,,70,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5058,401,,2026-04-01 16:17:57.722775+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,71,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5061,402,,2026-04-01 16:17:57.722969+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,72,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5059,403,,2026-04-01 16:17:57.723169+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,73,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5059,404,,2026-04-01 16:17:57.723606+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,74,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5059,405,,2026-04-01 16:17:57.726082+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,75,0,No,Normal system activity with LOCAL SERVICE user and generic operation code.
+5379,406,,2026-04-01 16:17:58.360941+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,76,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,407,,2026-04-01 16:17:58.361200+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,77,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,408,,2026-04-01 16:17:58.395428+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,78,0,No,Normal system activity with defaultuser0 and no specific details provided.
+4624,409,,2026-04-01 16:17:58.953020+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,79,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,410,,2026-04-01 16:17:58.953041+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,80,0,No,Normal system activity with SYSTEM user and no specific details provided.
+11,278,,2026-04-01 16:17:59.838320+00:00,,,,,,,,System,,,,,,,,,,81,0,No,Normal system activity with no specific details provided.
+4624,411,,2026-04-01 16:18:01.731007+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,82,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,412,,2026-04-01 16:18:01.731012+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,83,0,No,Normal system activity with SYSTEM user and no specific details provided.
+4624,413,,2026-04-01 16:18:01.834095+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,84,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,414,,2026-04-01 16:18:01.834101+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,85,0,No,Normal system activity with SYSTEM user and no specific details provided.
+16,279,,2026-04-01 16:18:02.023933+00:00,,,,,,,,System,,,,,,,,,,86,0,No,Normal system activity with no specific details provided.
+1041,280,,2026-04-01 16:18:02.250965+00:00,,,,,,,,System,,,,,,,,,,87,0,No,Normal system activity with no specific details provided.
+1038,281,,2026-04-01 16:18:02.251026+00:00,,,,,,,,System,,,,,,,,,,88,0,No,Normal system activity with no specific details provided.
+4624,415,,2026-04-01 16:18:02.745985+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,89,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,416,,2026-04-01 16:18:02.745989+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,90,0,No,Normal system activity with SYSTEM user and no specific details provided.
+23,24,,2026-04-01 16:18:03.266760+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,91,0,No,Normal application activity with InitializeDataChangedSignaler operation.
+24,25,,2026-04-01 16:18:03.312799+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,92,0,No,Normal application activity with InitializeDataChangedSignaler operation.
+16,282,,2026-04-01 16:18:03.315151+00:00,,,,,,,,System,,,,,,,,,,93,0,No,Normal system activity with no specific details provided.
+5379,417,,2026-04-01 16:18:04.270588+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,94,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,418,,2026-04-01 16:18:04.271021+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,95,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,419,,2026-04-01 16:18:04.271074+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,96,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+23,26,,2026-04-01 16:18:04.371515+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,97,0,No,Normal application activity with InitializeDataChangedSignaler operation.
+4624,420,,2026-04-01 16:18:04.390137+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,98,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,421,,2026-04-01 16:18:04.390141+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,99,0,No,Normal system activity with SYSTEM user and no specific details provided.
+24,27,,2026-04-01 16:18:04.440718+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,100,0,No,Normal application activity with InitializeDataChangedSignaler operation.
+16,283,,2026-04-01 16:18:04.445242+00:00,,,,,,,,System,,,,,,,,,,101,0,No,Normal system activity with no specific details provided.
+4798,422,,2026-04-01 16:18:04.492638+00:00,,,,,,,,Security,C:\Windows\System32\DeviceCensus.exe,,,WIN-2RR949GCCSV$,defaultuser0,,,,,102,0,No,Normal system activity with WIN-2RR949GCCSV$ user and DeviceCensus.exe process.
+5382,423,,2026-04-01 16:18:05.060810+00:00,,,,,,,2026-04-01 16:17:51.444338+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,103,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+16,284,,2026-04-01 16:18:05.136301+00:00,,,,,,,,System,,,,,,,,,,104,0,No,Normal system activity with no specific details provided.
+4624,424,,2026-04-01 16:18:05.355858+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,105,0,No,Normal system activity with SYSTEM user and services.exe process.
+4672,425,,2026-04-01 16:18:05.355864+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,106,0,No,Normal system activity with SYSTEM user and no specific details provided.
+0,28,,2026-04-01 16:18:05.483015+00:00,,,,,,,,Appiclation,,,,,,,,,,107,0,No,Normal application activity with no specific details provided.
+1001,29,,2026-04-01 16:18:05.557135+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,108,0,No,Normal application activity with crashpad_log event.
+1001,30,,2026-04-01 16:18:05.565447+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,109,0,No,Normal application activity with crashpad_log event.
+5379,426,,2026-04-01 16:18:05.992851+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,110,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,427,,2026-04-01 16:18:06.145210+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,111,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,428,,2026-04-01 16:18:06.145594+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,112,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,429,,2026-04-01 16:18:06.145636+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,113,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+0,31,,2026-04-01 16:18:06.380362+00:00,,,,,,,,Appiclation,,,,,,,,,,114,0,No,Normal application activity with no specific details provided.
+5379,430,,2026-04-01 16:18:06.636183+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,115,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,431,,2026-04-01 16:18:06.660156+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,116,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,432,,2026-04-01 16:18:06.660347+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,117,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,433,,2026-04-01 16:18:06.660599+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,118,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,434,,2026-04-01 16:18:06.664083+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,119,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,435,,2026-04-01 16:18:06.664139+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,120,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,436,,2026-04-01 16:18:06.664289+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,121,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+1001,32,,2026-04-01 16:18:06.813553+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,122,0,No,Normal application activity with crashpad_log event.
+5379,437,,2026-04-01 16:18:06.965572+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,123,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,438,,2026-04-01 16:18:06.965746+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,124,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,439,,2026-04-01 16:18:06.967043+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,125,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,440,,2026-04-01 16:18:06.967224+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,126,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,441,,2026-04-01 16:18:06.999599+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,127,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,442,,2026-04-01 16:18:07.043612+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,128,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,443,,2026-04-01 16:18:07.082260+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,129,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,444,,2026-04-01 16:18:07.082712+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,130,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,445,,2026-04-01 16:18:07.086817+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,131,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,446,,2026-04-01 16:18:07.094133+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,132,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,447,,2026-04-01 16:18:07.096670+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,133,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,448,,2026-04-01 16:18:07.096731+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,134,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,449,,2026-04-01 16:18:07.288576+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,135,0,No,Normal system activity with defaultuser0 and no specific details provided.
+5379,450,,2026-04-01 16:18:07.356365+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,136,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,451,,2026-04-01 16:18:07.356707+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,137,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,452,,2026-04-01 16:18:07.364315+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,138,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,453,,2026-04-01 16:18:07.364367+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,139,0,No,Normal system activity with WIN-2RR949GCCSV$ user and no specific details provided.
+5379,454,,2026-04-01 16:18:08.105684+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,140,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,455,,2026-04-01 16:18:08.178734+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,141,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,456,,2026-04-01 16:18:08.227270+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,142,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,457,,2026-04-01 16:18:08.227556+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,143,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,458,,2026-04-01 16:18:08.230524+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,144,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,459,,2026-04-01 16:18:08.230579+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,145,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,460,,2026-04-01 16:18:08.230745+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,146,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,461,,2026-04-01 16:18:09.352661+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,147,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,462,,2026-04-01 16:18:09.377171+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,148,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.
+5379,463,,2026-04-01 16:18:09.546577+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,149,0,No,Normal system activity with LOCAL SERVICE user and no specific details provided.

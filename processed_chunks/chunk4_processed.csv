@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,512,,2026-04-01 16:18:55.145124+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,210,0,Normal system activity; missing details and no suspicious indicators.
+5379,513,,2026-04-01 16:18:57.383366+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,211,0,Normal system activity; missing details and no suspicious indicators.
+5379,514,,2026-04-01 16:18:57.393414+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,212,0,Normal system activity; missing details and no suspicious indicators.
+4624,515,,2026-04-01 16:18:57.665684+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,213,0,Normal system activity; services.exe is a standard Windows process.
+4672,516,,2026-04-01 16:18:57.665689+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,214,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+4624,517,,2026-04-01 16:18:59.341112+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,215,0,Normal system activity; services.exe is a standard Windows process.
+4672,518,,2026-04-01 16:18:59.341116+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,216,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+5379,519,,2026-04-01 16:19:01.520340+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,217,0,Normal system activity; missing details and no suspicious indicators.
+5379,520,,2026-04-01 16:19:01.520422+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,218,0,Normal system activity; missing details and no suspicious indicators.
+5379,521,,2026-04-01 16:19:01.521187+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,219,0,Normal system activity; missing details and no suspicious indicators.
+5379,522,,2026-04-01 16:19:01.858271+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,220,0,Normal system activity; missing details and no suspicious indicators.
+5379,523,,2026-04-01 16:19:01.858662+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,221,0,Normal system activity; missing details and no suspicious indicators.
+16384,39,,2026-04-01 16:19:03.825722+00:00,,,,,,,,Appiclation,,,,,,,,,,222,0,Normal system activity; missing details and no suspicious indicators.
+903,40,,2026-04-01 16:19:03.913687+00:00,,,,,,,,Appiclation,,,,,,,,,,223,0,Normal system activity; missing details and no suspicious indicators.
+5379,524,,2026-04-01 16:19:12.727770+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,224,0,Normal system activity; missing details and no suspicious indicators.
+5379,525,,2026-04-01 16:19:12.729763+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,225,0,Normal system activity; missing details and no suspicious indicators.
+4624,526,,2026-04-01 16:19:26.231731+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,226,0,Normal system activity; services.exe is a standard Windows process.
+4672,527,,2026-04-01 16:19:26.231737+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,227,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+4799,528,,2026-04-01 16:19:32.031483+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,228,0,Normal system activity; svchost.exe is a standard Windows process.
+4113,41,,2026-04-01 16:19:32.863476+00:00,,,,,,,,Appiclation,,,,,,,,,,229,0,Normal system activity; missing details and no suspicious indicators.
+4097,42,,2026-04-01 16:19:34.915995+00:00,,,,,,,,Appiclation,,,,,,,,,,230,0,Normal system activity; missing details and no suspicious indicators.
+4799,529,,2026-04-01 16:19:35.104158+00:00,,,,,,,,Security,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{1599EDAC-EF90-4FF0-B6C4-2AE6CF4F172F}\EDGEMITMP_C93BA.tmp\setup.exe,,,WIN-2RR949GCCSV$,Users,,,,,231,0,Normal system activity; setup.exe is a common installer process.
+2562,43,,2026-04-01 16:19:41.106510+00:00,,,,,,,,Appiclation,,,,,,,,,,232,0,Normal system activity; missing details and no suspicious indicators.
+5379,530,,2026-04-01 16:19:42.209938+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,233,0,Normal system activity; missing details and no suspicious indicators.
+5379,531,,2026-04-01 16:19:42.210011+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,234,0,Normal system activity; missing details and no suspicious indicators.
+5379,532,,2026-04-01 16:19:42.211021+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,235,0,Normal system activity; missing details and no suspicious indicators.
+5379,533,,2026-04-01 16:19:42.433687+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,236,0,Normal system activity; missing details and no suspicious indicators.
+5379,534,,2026-04-01 16:19:42.442469+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,237,0,Normal system activity; missing details and no suspicious indicators.
+4624,535,,2026-04-01 16:19:42.467770+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,238,0,Normal system activity; services.exe is a standard Windows process.
+4672,536,,2026-04-01 16:19:42.467775+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,239,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+5379,537,,2026-04-01 16:19:42.494152+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,240,0,Normal system activity; missing details and no suspicious indicators.
+5379,538,,2026-04-01 16:19:42.494265+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,241,0,Normal system activity; missing details and no suspicious indicators.
+1001,44,,2026-04-01 16:19:42.846962+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,242,0,Normal system activity; crashpad_log is related to application crash reporting.
+1001,45,,2026-04-01 16:19:42.933550+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,243,0,Normal system activity; crashpad_log is related to application crash reporting.
+4097,46,,2026-04-01 16:19:42.939671+00:00,,,,,,,,Appiclation,,,,,,,,,,244,0,Normal system activity; missing details and no suspicious indicators.
+7030,292,,2026-04-01 16:19:46.159172+00:00,,,,,,,,System,,,,,,,,,,245,0,Normal system activity; missing details and no suspicious indicators.
+7045,291,,2026-04-01 16:19:46.159172+00:00,,,,,,,,System,,,,,,,,,,246,0,Normal system activity; missing details and no suspicious indicators.
+4624,539,,2026-04-01 16:19:53.750954+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,247,0,Normal system activity; services.exe is a standard Windows process.
+4672,540,,2026-04-01 16:19:53.750999+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,248,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+900,47,,2026-04-01 16:19:55.869530+00:00,,,,,,,,Appiclation,,,,,,,,,,249,0,Normal system activity; missing details and no suspicious indicators.
+4624,541,,2026-04-01 16:19:55.996265+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,250,0,Normal system activity; services.exe is a standard Windows process.
+4672,542,,2026-04-01 16:19:55.996271+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,251,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+16394,48,,2026-04-01 16:19:56.140570+00:00,,,,,,,,Appiclation,,,,,,,,,,252,0,Normal system activity; missing details and no suspicious indicators.
+1001,49,,2026-04-01 16:19:56.310253+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,253,0,Normal system activity; crashpad_log is related to application crash reporting.
+1,50,,2026-04-01 16:19:57.406963+00:00,,,,,,,,Appiclation,,,,,,,,,,254,0,Normal system activity; missing details and no suspicious indicators.
+1001,51,,2026-04-01 16:19:57.435835+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,255,0,Normal system activity; crashpad_log is related to application crash reporting.
+5379,543,,2026-04-01 16:19:58.569038+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,256,0,Normal system activity; missing details and no suspicious indicators.
+5379,544,,2026-04-01 16:19:58.569115+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,257,0,Normal system activity; missing details and no suspicious indicators.
+5379,545,,2026-04-01 16:19:58.569620+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,258,0,Normal system activity; missing details and no suspicious indicators.
+5379,546,,2026-04-01 16:19:58.889988+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,259,0,Normal system activity; missing details and no suspicious indicators.
+5379,547,,2026-04-01 16:19:58.903784+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,260,0,Normal system activity; missing details and no suspicious indicators.
+5379,548,,2026-04-01 16:19:58.905792+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,261,0,Normal system activity; missing details and no suspicious indicators.
+5379,549,,2026-04-01 16:19:58.905838+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,262,0,Normal system activity; missing details and no suspicious indicators.
+16,52,,2026-04-01 16:19:59.506359+00:00,,,,,,,,Appiclation,,,,,,,,,,263,0,Normal system activity; missing details and no suspicious indicators.
+15,53,,2026-04-01 16:19:59.525372+00:00,,,,,,,,Appiclation,,,,,,,,,,264,0,Normal system activity; missing details and no suspicious indicators.
+44,293,,2026-04-01 16:20:32.196751+00:00,,,,,,,,System,,,,,,,,,,265,0,Normal system activity; missing details and no suspicious indicators.
+44,294,,2026-04-01 16:20:32.196753+00:00,,,,,,,,System,,,,,,,,,,266,0,Normal system activity; missing details and no suspicious indicators.
+44,295,,2026-04-01 16:20:32.196753+00:00,,,,,,,,System,,,,,,,,,,267,0,Normal system activity; missing details and no suspicious indicators.
+5379,550,,2026-04-01 16:20:35.662596+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,268,0,Normal system activity; missing details and no suspicious indicators.
+5379,551,,2026-04-01 16:20:35.662840+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,269,0,Normal system activity; missing details and no suspicious indicators.
+5379,552,,2026-04-01 16:20:35.663399+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,270,0,Normal system activity; missing details and no suspicious indicators.
+5379,553,,2026-04-01 16:20:35.880693+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,271,0,Normal system activity; missing details and no suspicious indicators.
+5379,554,,2026-04-01 16:20:35.881166+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,272,0,Normal system activity; missing details and no suspicious indicators.
+5379,555,,2026-04-01 16:20:35.884672+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,273,0,Normal system activity; missing details and no suspicious indicators.
+5379,556,,2026-04-01 16:20:35.884743+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,274,0,Normal system activity; missing details and no suspicious indicators.
+0,54,,2026-04-01 16:20:39.460041+00:00,,,,,,,,Appiclation,,,,,,,,,,275,0,Normal system activity; missing details and no suspicious indicators.
+4624,557,,2026-04-01 16:20:42.042547+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,276,0,Normal system activity; services.exe is a standard Windows process.
+4672,558,,2026-04-01 16:20:42.042551+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,277,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+15,296,,2026-04-01 16:20:44.290569+00:00,,,,,,,,System,,,,,,,,,,278,0,Normal system activity; missing details and no suspicious indicators.
+4624,559,,2026-04-01 16:20:51.913786+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,279,0,Normal system activity; services.exe is a standard Windows process.
+4672,560,,2026-04-01 16:20:51.913794+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,280,0,Normal system activity; SYSTEM user activity is typical for internal processes.
+0,55,,2026-04-01 16:21:11.266569+00:00,,,,,,,,Appiclation,,,,,,,,,,281,0,Normal system activity; missing details and no suspicious indicators.
+16384,56,,2026-04-01 16:21:28.805496+00:00,,,,,,,,Appiclation,,,,,,,,,,282,0,Normal system activity; missing details and no suspicious indicators.
+43,297,,2026-04-01 16:21:39.861605+00:00,,,,,,,,System,,,,,,,,,,283,0,Normal system activity; missing details and no suspicious indicators.
+7040,298,,2026-04-01 16:21:40.885138+00:00,,,,,,,,System,,,,,,,,,,284,0,Normal system activity; missing details and no suspicious indicators.
+7040,299,,2026-04-01 16:21:42.610315+00:00,,,,,,,,System,,,,,,,,,,285,0,Normal system activity; missing details and no suspicious indicators.
+4907,561,,2026-04-01 16:21:51.996244+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,286,0,Normal system activity; TiWorker.exe is a standard Windows Update process.
+4907,562,,2026-04-01 16:21:51.997320+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,287,0,Normal system activity; TiWorker.exe is a standard Windows Update process.
+4907,563,,2026-04-01 16:21:52.030958+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,288,0,Normal system activity; TiWorker.exe is a standard Windows Update process.
+4907,564,,2026-04-01 16:21:52.042624+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,289,0,Normal system activity; TiWorker.exe is a standard Windows Update process.

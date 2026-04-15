@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4673,9656,,2026-04-08 16:09:12.899050+00:00,,,0x00000000000001a4,,,,,Security,,,,DWM-1,,,C:\Windows\System32\dwm.exe,,,10780
+6,838,,2026-04-08 16:09:12.936495+00:00,,,,,,,,System,,,,,,,,,,10781
+6,839,,2026-04-08 16:09:12.943396+00:00,,,,,,,,System,,,,,,,,,,10782
+1,840,,2026-04-08 16:09:12.943403+00:00,,,,,,,,System,,,,,,,,,,10783
+6,841,,2026-04-08 16:09:12.943476+00:00,,,,,,,,System,,,,,,,,,,10784
+6,842,,2026-04-08 16:09:12.955439+00:00,,,,,,,,System,,,,,,,,,,10785
+6,843,,2026-04-08 16:09:12.964283+00:00,,,,,,,,System,,,,,,,,,,10786
+4688,9658,,2026-04-08 16:09:12.974604+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,,C:\Windows\System32\services.exe,,10787
+4688,9659,,2026-04-08 16:09:12.981346+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,,C:\Windows\System32\services.exe,,10788
+4624,9660,,2026-04-08 16:09:13.028748+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10789
+4672,9661,,2026-04-08 16:09:13.028753+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10790
+4688,9662,,2026-04-08 16:09:13.030405+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,,C:\Windows\System32\services.exe,,10791
+4688,9663,,2026-04-08 16:09:13.037436+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceRedirectionGuard -p -s EventSystem,,C:\Windows\System32\services.exe,,10792
+4624,9664,,2026-04-08 16:09:13.044586+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10793
+4672,9665,,2026-04-08 16:09:13.044592+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10794
+4688,9666,,2026-04-08 16:09:13.046066+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain,,C:\Windows\System32\services.exe,,10795
+4624,9667,,2026-04-08 16:09:13.051329+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10796
+4672,9668,,2026-04-08 16:09:13.051332+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10797
+4688,9669,,2026-04-08 16:09:13.053967+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s Themes,,C:\Windows\System32\services.exe,,10798
+4624,9670,,2026-04-08 16:09:13.187809+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10799
+4672,9671,,2026-04-08 16:09:13.187815+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10800
+4688,9672,,2026-04-08 16:09:13.189709+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s SENS,,C:\Windows\System32\services.exe,,10801
+4688,9673,,2026-04-08 16:09:13.238535+00:00,,,0x0000000000000004,,,,,Security,,,,NORMALVM$,-,,,,,10802
+4624,9674,,2026-04-08 16:09:13.371756+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10803
+4672,9675,,2026-04-08 16:09:13.371761+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10804
+4688,9676,,2026-04-08 16:09:13.377794+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule,,C:\Windows\System32\services.exe,,10805
+5379,9677,,2026-04-08 16:09:13.413265+00:00,,,,,,,2026-04-08 16:09:11.638468+00:00,Security,,,,NORMALVM$,,,,,,10806
+4688,9678,,2026-04-08 16:09:13.428587+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp,,C:\Windows\System32\services.exe,,10807
+1101,9565,,2026-04-08 16:09:13.446709+00:00,,,,,,,,Security,,,,,,,,,,10808
+4624,9679,,2026-04-08 16:09:13.509037+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10809
+4672,9680,,2026-04-08 16:09:13.509041+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10810
+4688,9681,,2026-04-08 16:09:13.510450+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder,,C:\Windows\System32\services.exe,,10811
+6008,796,,2026-04-08 16:09:13.599136+00:00,,,,,,,,System,,,,,,,,,,10812
+4688,9682,,2026-04-08 16:09:13.601692+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s FontCache,,C:\Windows\System32\services.exe,,10813
+6009,797,,2026-04-08 16:09:13.621090+00:00,,,,,,,,System,,,,,,,,,,10814
+6005,798,,2026-04-08 16:09:13.621145+00:00,,,,,,,,System,,,,,,,,,,10815
+6013,799,,2026-04-08 16:09:13.621677+00:00,,,,,,,,System,,,,,,,,,,10816
+4673,9683,,2026-04-08 16:09:13.742170+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10817
+50036,844,,2026-04-08 16:09:13.788944+00:00,,,,,,,,System,,,,,,,,,,10818
+50103,845,,2026-04-08 16:09:13.790045+00:00,,,,,,,,System,,,,,,,,,,10819
+50036,846,,2026-04-08 16:09:13.790462+00:00,,,,,,,,System,,,,,,,,,,10820
+4673,9684,,2026-04-08 16:09:13.824158+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10821
+51046,847,,2026-04-08 16:09:13.868111+00:00,,,,,,,,System,,,,,,,,,,10822
+4688,9685,,2026-04-08 16:09:13.964167+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p,,C:\Windows\System32\services.exe,,10823
+4688,9686,,2026-04-08 16:09:14.017160+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p,,C:\Windows\System32\services.exe,,10824
+4624,9687,,2026-04-08 16:09:14.153023+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10825
+4672,9688,,2026-04-08 16:09:14.153028+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10826
+4688,9689,,2026-04-08 16:09:14.156006+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TextInputManagementService,,C:\Windows\System32\services.exe,,10827
+4688,9690,,2026-04-08 16:09:14.238276+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc,,C:\Windows\System32\services.exe,,10828
+4688,9691,,2026-04-08 16:09:14.271410+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc,,C:\Windows\System32\services.exe,,10829
+4688,9692,,2026-04-08 16:09:14.330175+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,taskhostw.exe ExploitGuardPolicy,,C:\Windows\System32\svchost.exe,,10830
+4688,9693,,2026-04-08 16:09:14.385010+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",,C:\Windows\System32\svchost.exe,,10831
+4624,9694,,2026-04-08 16:09:14.396227+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10832
+4672,9695,,2026-04-08 16:09:14.396231+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10833
+4688,9696,,2026-04-08 16:09:14.398375+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s ShellHWDetection,,C:\Windows\System32\services.exe,,10834
+4624,9697,,2026-04-08 16:09:14.457136+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10835
+4672,9698,,2026-04-08 16:09:14.457140+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10836
+4688,9699,,2026-04-08 16:09:14.458656+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository,,C:\Windows\System32\services.exe,,10837
+112,848,,2026-04-08 16:09:14.541349+00:00,,,4.0,,,,,System,,,,,,,,,,10838
+112,849,,2026-04-08 16:09:14.541357+00:00,,,4.0,,,,,System,,,,,,,,,,10839
+112,850,,2026-04-08 16:09:14.541363+00:00,,,4.0,,,,,System,,,,,,,,,,10840
+112,851,,2026-04-08 16:09:14.541367+00:00,,,4.0,,,,,System,,,,,,,,,,10841
+112,852,,2026-04-08 16:09:14.541372+00:00,,,4.0,,,,,System,,,,,,,,,,10842
+112,853,,2026-04-08 16:09:14.541380+00:00,,,4.0,,,,,System,,,,,,,,,,10843
+112,854,,2026-04-08 16:09:14.541386+00:00,,,4.0,,,,,System,,,,,,,,,,10844
+112,855,,2026-04-08 16:09:14.541388+00:00,,,4.0,,,,,System,,,,,,,,,,10845
+112,856,,2026-04-08 16:09:14.541397+00:00,,,4.0,,,,,System,,,,,,,,,,10846
+112,857,,2026-04-08 16:09:14.541401+00:00,,,4.0,,,,,System,,,,,,,,,,10847
+112,858,,2026-04-08 16:09:14.541449+00:00,,,4.0,,,,,System,,,,,,,,,,10848
+112,859,,2026-04-08 16:09:14.541454+00:00,,,4.0,,,,,System,,,,,,,,,,10849
+112,860,,2026-04-08 16:09:14.541456+00:00,,,4.0,,,,,System,,,,,,,,,,10850
+4624,9700,,2026-04-08 16:09:14.542889+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10851
+4672,9701,,2026-04-08 16:09:14.542915+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10852
+4688,9702,,2026-04-08 16:09:14.563143+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\spoolsv.exe,,C:\Windows\System32\services.exe,,10853
+4688,9703,,2026-04-08 16:09:14.670410+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p,,C:\Windows\System32\services.exe,,10854
+4688,9704,,2026-04-08 16:09:14.800966+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation,,C:\Windows\System32\services.exe,,10855
+5033,9705,,2026-04-08 16:09:14.814581+00:00,,,,,,,,Security,,,,,,,,,,10856
+4673,9706,,2026-04-08 16:09:14.814646+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10857
+4674,9707,,2026-04-08 16:09:15.072298+00:00,,,0x00000000000002f0,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\lsass.exe,,,10858
+4674,9708,,2026-04-08 16:09:15.072771+00:00,,,0x00000000000002f0,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\lsass.exe,,,10859

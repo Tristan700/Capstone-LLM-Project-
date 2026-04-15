@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4688,11292,,2026-04-08 16:27:20.416842+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,12600
+4688,11293,,2026-04-08 16:27:20.530897+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,12601
+4673,11294,,2026-04-08 16:27:21.809656+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12602
+4673,11295,,2026-04-08 16:27:21.836264+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12603
+4688,11296,,2026-04-08 16:27:22.185968+00:00,,,0x0000000000000a30,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12604
+4688,11297,,2026-04-08 16:27:24.558613+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,\\?\C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,C:\Windows\System32\svchost.exe,,12605
+5379,11298,,2026-04-08 16:27:24.626394+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12606
+5379,11299,,2026-04-08 16:27:24.626493+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12607
+5379,11300,,2026-04-08 16:27:24.627542+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12608
+5379,11301,,2026-04-08 16:27:24.798759+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12609
+5379,11302,,2026-04-08 16:27:24.799116+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12610
+5379,11303,,2026-04-08 16:27:24.802145+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12611
+5379,11304,,2026-04-08 16:27:24.802191+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12612
+4673,11305,,2026-04-08 16:27:24.828979+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12613
+4798,11306,,2026-04-08 16:27:25.111927+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,12614
+4798,11307,,2026-04-08 16:27:25.112410+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,12615
+4798,11308,,2026-04-08 16:27:25.115658+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,12616
+4798,11309,,2026-04-08 16:27:25.116091+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,12617
+4673,11310,,2026-04-08 16:27:26.781349+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12618
+4688,11311,,2026-04-08 16:27:27.142170+00:00,,,0x0000000000000a30,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12619
+4688,11312,,2026-04-08 16:27:28.195400+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12620
+4688,11313,,2026-04-08 16:27:28.215630+00:00,,,0x00000000000007c0,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12621
+4673,11314,,2026-04-08 16:27:28.756397+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12622
+4688,11315,,2026-04-08 16:27:29.176407+00:00,,,0x00000000000007c0,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12623
+4688,11316,,2026-04-08 16:27:29.780579+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordLength""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12624
+4688,11317,,2026-04-08 16:27:29.800772+00:00,,,0x0000000000002510,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12625
+4673,11318,,2026-04-08 16:27:30.243454+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12626
+4688,11319,,2026-04-08 16:27:30.678499+00:00,,,0x0000000000002510,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12627
+4688,11320,,2026-04-08 16:27:31.422535+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutDuration""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12628
+4688,11321,,2026-04-08 16:27:31.443295+00:00,,,0x00000000000016fc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12629
+4673,11322,,2026-04-08 16:27:32.043650+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12630
+4688,11323,,2026-04-08 16:27:32.330940+00:00,,,0x00000000000016fc,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12631
+4688,11324,,2026-04-08 16:27:32.901442+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12632
+4688,11325,,2026-04-08 16:27:32.918285+00:00,,,0x0000000000002054,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12633
+4673,11326,,2026-04-08 16:27:33.350311+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12634
+4688,11327,,2026-04-08 16:27:33.794817+00:00,,,0x0000000000002054,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12635
+4688,11328,,2026-04-08 16:27:34.358028+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""ResetLockoutCount""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12636
+4688,11329,,2026-04-08 16:27:34.374165+00:00,,,0x0000000000000808,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12637
+4673,11330,,2026-04-08 16:27:34.925064+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12638
+4688,11331,,2026-04-08 16:27:35.218884+00:00,,,0x0000000000000808,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12639
+4688,11332,,2026-04-08 16:27:35.759079+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"powershell -NoProfile -Command ""[bool](Get-CimInstance -Query 'SELECT * FROM Win32_UserAccount WHERE LocalAccount = TRUE AND SID LIKE ''S-1-5-21-%-501''' | Where-Object -Property Disabled)""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12640
+4688,11333,,2026-04-08 16:27:35.778696+00:00,,,0x0000000000001884,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12641
+4673,11334,,2026-04-08 16:27:36.480202+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12642
+4798,11335,,2026-04-08 16:27:37.183537+00:00,,,,,,,,Security,C:\Windows\System32\wbem\WmiPrvSE.exe,,,NORMALVM$,Administrator,,,,,12643
+4798,11336,,2026-04-08 16:27:37.183762+00:00,,,,,,,,Security,C:\Windows\System32\wbem\WmiPrvSE.exe,,,NORMALVM$,DefaultAccount,,,,,12644
+4798,11337,,2026-04-08 16:27:37.183931+00:00,,,,,,,,Security,C:\Windows\System32\wbem\WmiPrvSE.exe,,,NORMALVM$,Guest,,,,,12645
+4798,11338,,2026-04-08 16:27:37.184139+00:00,,,,,,,,Security,C:\Windows\System32\wbem\WmiPrvSE.exe,,,NORMALVM$,pizza,,,,,12646
+4798,11339,,2026-04-08 16:27:37.184328+00:00,,,,,,,,Security,C:\Windows\System32\wbem\WmiPrvSE.exe,,,NORMALVM$,WDAGUtilityAccount,,,,,12647
+4688,11340,,2026-04-08 16:27:37.280933+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,net user,,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12648
+4688,11341,,2026-04-08 16:27:37.292425+00:00,,,0x0000000000001484,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\net.exe,,12649
+4688,11342,,2026-04-08 16:27:37.328234+00:00,,,0x0000000000001484,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net1 user,,C:\Windows\SysWOW64\net.exe,,12650
+4688,11343,,2026-04-08 16:27:37.363348+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,net user,,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12651
+4688,11344,,2026-04-08 16:27:37.372002+00:00,,,0x00000000000008b0,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\net.exe,,12652
+4688,11345,,2026-04-08 16:27:37.404783+00:00,,,0x00000000000008b0,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net1 user,,C:\Windows\SysWOW64\net.exe,,12653
+4688,11346,,2026-04-08 16:27:37.435171+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticetext,,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12654
+4688,11347,,2026-04-08 16:27:37.448380+00:00,,,0x0000000000001338,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\reg.exe,,12655
+4688,11348,,2026-04-08 16:27:37.481804+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticecaption,,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12656
+4688,11349,,2026-04-08 16:27:37.494535+00:00,,,0x0000000000001478,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\reg.exe,,12657
+4688,11350,,2026-04-08 16:27:37.543798+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Credential Validation""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12658
+4688,11351,,2026-04-08 16:27:37.552761+00:00,,,0x0000000000001de8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12659
+4688,11352,,2026-04-08 16:27:37.596001+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Application Group Management""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12660
+4688,11353,,2026-04-08 16:27:37.605053+00:00,,,0x00000000000025c8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12661
+4688,11354,,2026-04-08 16:27:37.637949+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Security Group Management""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12662
+4688,11355,,2026-04-08 16:27:37.645882+00:00,,,0x00000000000016c8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12663
+4688,11356,,2026-04-08 16:27:37.677727+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""User Account Management""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12664
+4688,11357,,2026-04-08 16:27:37.687004+00:00,,,0x0000000000001804,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12665
+4688,11358,,2026-04-08 16:27:37.718695+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Plug and Play Events""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12666
+4688,11359,,2026-04-08 16:27:37.727705+00:00,,,0x0000000000000a14,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12667
+4688,11360,,2026-04-08 16:27:37.759865+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Process Creation""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12668
+4688,11361,,2026-04-08 16:27:37.768040+00:00,,,0x0000000000001f04,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12669
+4688,11362,,2026-04-08 16:27:37.800905+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Account Lockout""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12670
+4688,11363,,2026-04-08 16:27:37.816095+00:00,,,0x0000000000001864,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12671
+4688,11364,,2026-04-08 16:27:37.849903+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Group Membership""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12672
+4688,11365,,2026-04-08 16:27:37.858294+00:00,,,0x0000000000001c4c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12673
+4688,11366,,2026-04-08 16:27:37.890871+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Logoff""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12674
+4688,11367,,2026-04-08 16:27:37.900131+00:00,,,0x00000000000009f4,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12675
+4688,11368,,2026-04-08 16:27:37.933804+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Logon""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12676
+4688,11369,,2026-04-08 16:27:37.942120+00:00,,,0x0000000000001418,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12677
+4688,11370,,2026-04-08 16:27:37.974165+00:00,,,0x0000000000002778,,,,,Security,,,,NORMALVM$,-,"auditpol.exe /get /subcategory:""Other Logon/Logoff Events""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12678
+4688,11371,,2026-04-08 16:27:37.982698+00:00,,,0x0000000000001f08,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\auditpol.exe,,12679

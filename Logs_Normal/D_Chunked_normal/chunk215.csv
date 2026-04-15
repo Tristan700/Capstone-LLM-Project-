@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4673,13594,,2026-04-08 17:15:02.538784+00:00,,,0x0000000000001204,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14980
+4673,13595,,2026-04-08 17:15:10.444471+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14981
+4688,13596,,2026-04-08 17:15:14.171301+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.RulesEngine.AppXgphnekvm0vv49drvfehh4b6kyf6ckafp.mca",,C:\Windows\System32\svchost.exe,,14982
+4688,13597,,2026-04-08 17:15:17.409660+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,pizza,taskhostw.exe,,C:\Windows\System32\svchost.exe,,14983
+4688,13598,,2026-04-08 17:15:19.075041+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CloudBackupRestoreSvc,,C:\Windows\System32\services.exe,,14984
+4624,13599,,2026-04-08 17:15:53.511967+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,14985
+4672,13600,,2026-04-08 17:15:53.511974+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,14986
+4688,13601,,2026-04-08 17:15:53.516529+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,,C:\Windows\System32\services.exe,,14987
+4673,13602,,2026-04-08 17:16:02.667763+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,,14988
+4688,13603,,2026-04-08 17:16:02.668375+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --ram-no-pressure-read-main-dll --metrics-shmem-handle=3980,i,4301292136182042433,13115985754588391037,524288 --field-trial-handle=2228,i,7183740068659207902,2882136987270805104,262144 --variations-seed-version --pseudonymization-salt-handle=2232,i,13275570900427019124,6051898983168592210,4 --trace-process-track-uuid=3190708992871164437 --mojo-platform-channel-handle=3860 /prefetch:14 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,14989
+5379,13604,,2026-04-08 17:16:05.588284+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14990
+5379,13605,,2026-04-08 17:16:05.589756+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14991
+5379,13606,,2026-04-08 17:16:05.589811+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14992
+5379,13607,,2026-04-08 17:16:08.413303+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14993
+5379,13608,,2026-04-08 17:16:08.413670+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14994
+5379,13609,,2026-04-08 17:16:08.630777+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14995
+5379,13610,,2026-04-08 17:16:08.630962+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14996
+5379,13611,,2026-04-08 17:16:08.631107+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14997
+5379,13612,,2026-04-08 17:16:11.048714+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14998
+5379,13613,,2026-04-08 17:16:11.053881+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,14999
+5379,13614,,2026-04-08 17:16:11.056480+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15000
+5379,13615,,2026-04-08 17:16:11.864285+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15001
+5379,13616,,2026-04-08 17:16:11.864517+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15002
+5379,13617,,2026-04-08 17:16:14.779860+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15003
+5379,13618,,2026-04-08 17:16:14.780058+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15004
+5379,13619,,2026-04-08 17:16:14.780193+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15005
+4673,13620,,2026-04-08 17:16:14.942579+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15006
+4688,13621,,2026-04-08 17:16:15.555838+00:00,,,0x0000000000000dd4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\sdbinst.exe -m -bg,,C:\Windows\System32\svchost.exe,,15007
+4688,13622,,2026-04-08 17:16:15.613375+00:00,,,0x00000000000006e8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\sdbinst.exe,,15008
+4688,13623,,2026-04-08 17:16:52.886835+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,15009
+5379,13624,,2026-04-08 17:16:53.288914+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15010
+5379,13625,,2026-04-08 17:16:53.290104+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15011
+5379,13626,,2026-04-08 17:16:53.290146+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15012
+5379,13627,,2026-04-08 17:16:53.293261+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15013
+5379,13628,,2026-04-08 17:16:53.293753+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15014
+5379,13629,,2026-04-08 17:16:53.314491+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15015
+5379,13630,,2026-04-08 17:16:53.314671+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15016
+5379,13631,,2026-04-08 17:16:53.314812+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15017
+5379,13632,,2026-04-08 17:17:12.413305+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15018
+5379,13633,,2026-04-08 17:17:12.414093+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15019
+5379,13634,,2026-04-08 17:17:12.414145+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15020
+5379,13635,,2026-04-08 17:17:12.416697+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15021
+5379,13636,,2026-04-08 17:17:12.416889+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15022
+5379,13637,,2026-04-08 17:17:12.431736+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15023
+5379,13638,,2026-04-08 17:17:12.431896+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15024
+5379,13639,,2026-04-08 17:17:12.432035+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15025
+7040,1009,,2026-04-08 17:17:49.189835+00:00,,,,,,,,System,,,,,,,,,,15026
+4688,13640,,2026-04-08 17:19:13.283113+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15027
+4673,13641,,2026-04-08 17:19:13.669743+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,15028
+4688,13642,,2026-04-08 17:19:13.697737+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,15029
+4688,13643,,2026-04-08 17:19:13.814949+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,15030
+4673,13644,,2026-04-08 17:19:17.163784+00:00,,,0x0000000000001204,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,15031
+4688,13645,,2026-04-08 17:19:17.167667+00:00,,,0x0000000000000f78,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2502.2.0_x64__8wekyb3d8bbwe\CalculatorApp.exe"" ",,C:\Windows\System32\sihost.exe,,15032
+4688,13646,,2026-04-08 17:19:17.546415+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15033
+16,1010,,2026-04-08 17:19:17.748388+00:00,,,,,,,,System,,,,,,,,,,15034
+4688,13647,,2026-04-08 17:19:17.776266+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,15035
+5379,13648,,2026-04-08 17:19:19.558277+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15036
+5379,13649,,2026-04-08 17:19:19.559240+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15037
+5379,13650,,2026-04-08 17:19:19.559284+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15038
+5379,13651,,2026-04-08 17:19:19.563585+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15039
+5379,13652,,2026-04-08 17:19:19.563875+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15040
+5379,13653,,2026-04-08 17:19:19.588688+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15041
+5379,13654,,2026-04-08 17:19:19.588974+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15042
+5379,13655,,2026-04-08 17:19:19.589222+00:00,,,,,,,2026-04-08 17:12:43.999352+00:00,Security,,,,pizza,,,,,,15043
+4688,13656,,2026-04-08 17:19:19.871176+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource scheduler",,C:\Windows\System32\svchost.exe,,15044
+4673,13657,,2026-04-08 17:19:20.265179+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15045
+4688,13658,,2026-04-08 17:20:01.831839+00:00,,,0x0000000000002028,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-2352865859-2334931103-2005901029-100114_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-2352865859-2334931103-2005901029-100114 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",,C:\Windows\System32\SearchIndexer.exe,,15046
+4688,13659,,2026-04-08 17:20:06.576290+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,15047
+4673,13660,,2026-04-08 17:20:27.935797+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15048
+4673,13661,,2026-04-08 17:20:27.935984+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15049
+4673,13662,,2026-04-08 17:20:28.176167+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15050
+4673,13663,,2026-04-08 17:20:28.176359+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15051
+4688,13664,,2026-04-08 17:20:28.373426+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=74 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=3925861477 --ram-no-pressure-read-main-dll --metrics-shmem-handle=4808,i,8791443577184001597,8995861543764817302,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709055652968320 --mojo-platform-channel-handle=8832 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,15052
+4688,13665,,2026-04-08 17:20:28.376806+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=75 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=3926101833 --skip-read-main-dll --metrics-shmem-handle=6560,i,15737828610075591056,3555207890313445003,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709056590010169 --mojo-platform-channel-handle=8052 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,15053
+4688,13666,,2026-04-08 17:20:33.353203+00:00,,,0x0000000000002028,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",,C:\Windows\System32\SearchIndexer.exe,,15054
+4673,13667,,2026-04-08 17:20:33.445864+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15055
+4673,13668,,2026-04-08 17:20:33.446102+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,,15056
+4688,13669,,2026-04-08 17:20:33.781431+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15057
+4688,13670,,2026-04-08 17:20:34.147699+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=76 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=3931371562 --skip-read-main-dll --metrics-shmem-handle=10556,i,15561705235584492143,13161987095316057400,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709057527052018 --mojo-platform-channel-handle=10516 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,15058
+4688,13671,,2026-04-08 17:20:35.031496+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=chrome.mojom.FileUtilService --lang=en-US --service-sandbox-type=service --skip-read-main-dll --metrics-shmem-handle=10116,i,12814144841434496321,1310351195628170510,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709058464093867 --mojo-platform-channel-handle=10440 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,15059

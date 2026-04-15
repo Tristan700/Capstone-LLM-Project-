@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+6,354,,2026-04-01 16:31:49.577415+00:00,,,,,,,,System,,,,,,,,,,420,0,No,Normal system log with no specific details provided.
+6,355,,2026-04-01 16:31:49.697519+00:00,,,,,,,,System,,,,,,,,,,421,0,No,Normal system log with no specific details provided.
+172,356,,2026-04-01 16:31:49.728268+00:00,,,,6.0,,,,System,,,,,,,,,,422,0,No,Normal system log with no specific details provided.
+4688,621,,2026-04-01 16:31:49.730473+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,423,0,No,Normal security log with minimal details and no user or process information.
+4696,622,,2026-04-01 16:31:49.730579+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,424,0,No,Normal security log with minimal details and no user or process information.
+4826,623,,2026-04-01 16:31:49.730581+00:00,,,,,,,,Security,,,,-,,,,,,425,0,No,Normal security log with minimal details and no user or process information.
+4688,624,,2026-04-01 16:31:49.736780+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,426,0,No,Normal security log with minimal details and no user or process information.
+16,357,,2026-04-01 16:31:49.753681+00:00,,,,,,,,System,,,,,,,,,,427,0,No,Normal system log with no specific details provided.
+16,358,,2026-04-01 16:31:49.762810+00:00,,,,,,,,System,,,,,,,,,,428,0,No,Normal system log with no specific details provided.
+16,359,,2026-04-01 16:31:49.777128+00:00,,,,,,,,System,,,,,,,,,,429,0,No,Normal system log with no specific details provided.
+55,360,,2026-04-01 16:31:49.994442+00:00,,,,,,,,System,,,,,,,,,,430,0,No,Normal system log with no specific details provided.
+32,361,,2026-04-01 16:31:50.260996+00:00,,,,,,,,System,,,,,,,,,,431,0,No,Normal system log with no specific details provided.
+4688,625,,2026-04-01 16:31:50.501728+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,432,0,No,Normal security log with minimal details and no user or process information.
+16,362,,2026-04-01 16:31:50.681948+00:00,,,,,,,,System,,,,,,,,,,433,0,No,Normal system log with no specific details provided.
+16,363,,2026-04-01 16:31:50.685530+00:00,,,,,,,,System,,,,,,,,,,434,0,No,Normal system log with no specific details provided.
+98,364,,2026-04-01 16:31:50.690338+00:00,,,,,,,,System,,,,,,,,,,435,0,No,Normal system log with no specific details provided.
+16,365,,2026-04-01 16:31:50.695017+00:00,,,,,,,,System,,,,,,,,,,436,0,No,Normal system log with no specific details provided.
+16,366,,2026-04-01 16:31:50.696646+00:00,,,,,,,,System,,,,,,,,,,437,0,No,Normal system log with no specific details provided.
+15,367,,2026-04-01 16:31:51.500418+00:00,,,,,,,,System,,,,,,,,,,438,0,No,Normal system log with no specific details provided.
+16,368,,2026-04-01 16:31:51.519491+00:00,,,,,,,,System,,,,,,,,,,439,0,No,Normal system log with no specific details provided.
+24,369,,2026-04-01 16:31:51.645596+00:00,,,,,,,,System,,,,,,,,,,440,0,No,Normal system log with no specific details provided.
+4688,626,,2026-04-01 16:31:51.835451+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,441,0,No,Normal security log with minimal details and no user or process information.
+4688,627,,2026-04-01 16:31:51.937588+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,442,0,No,Normal security log with minimal details and no user or process information.
+4688,628,,2026-04-01 16:31:52.034227+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,443,0,No,Normal security log with minimal details and no user or process information.
+4688,629,,2026-04-01 16:31:52.038448+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,444,0,No,Normal security log with minimal details and no user or process information.
+4688,630,,2026-04-01 16:31:52.049234+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,445,0,No,Normal security log with minimal details and no user or process information.
+4688,631,,2026-04-01 16:31:52.070835+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,446,0,No,Normal security log with minimal details and no user or process information.
+19,370,,2026-04-01 16:31:52.119024+00:00,,,,,,,,System,,,,,,,,,,447,0,No,Normal system log with no specific details provided.
+25,371,,2026-04-01 16:31:52.119043+00:00,,,,,,,,System,,,,,,,,,,448,0,No,Normal system log with no specific details provided.
+23,372,,2026-04-01 16:31:52.119610+00:00,,,,,,,,System,,,,,,,,,,449,0,No,Normal system log with no specific details provided.
+4688,632,,2026-04-01 16:31:52.193682+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,450,0,No,Normal security log with minimal details and no user or process information.
+14,373,,2026-04-01 16:31:52.244057+00:00,,,,,,,,System,,,,,,,,,,451,0,No,Normal system log with no specific details provided.
+12,374,,2026-04-01 16:31:52.246416+00:00,,,,,,,,System,,,,,,,,,,452,0,No,Normal system log with no specific details provided.
+4688,633,,2026-04-01 16:31:52.250629+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,453,0,No,Normal security log with minimal details and no user or process information.
+6156,375,,2026-04-01 16:31:52.321611+00:00,,,,,,,,System,,,,,,,,,,454,0,No,Normal system log with no specific details provided.
+6417,634,,2026-04-01 16:31:52.358156+00:00,,,0x00000000000002ec,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,455,0,No,Normal security log with minimal details and no user or process information.
+4608,635,,2026-04-01 16:31:52.361340+00:00,,,,,,,,Security,,,,,,,,,,456,0,No,Normal security log with minimal details and no user or process information.
+4624,636,,2026-04-01 16:31:52.366684+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,457,0,No,Normal security log with minimal details and no user or process information.
+4902,637,,2026-04-01 16:31:52.543308+00:00,,,,,,,,Security,,,,,,,,,,458,0,No,Normal security log with minimal details and no user or process information.
+16962,376,,2026-04-01 16:31:52.549084+00:00,,,,,,,,System,,,,,,,,,,459,0,No,Normal system log with no specific details provided.
+16977,377,,2026-04-01 16:31:52.560940+00:00,,,,,,,,System,,,,,,,,,,460,0,No,Normal system log with no specific details provided.
+16983,378,,2026-04-01 16:31:52.560944+00:00,,,,,,,,System,,,,,,,,,,461,0,No,Normal system log with no specific details provided.
+4648,638,,2026-04-01 16:31:52.609388+00:00,,,0x00000000000002a4,,,,,Security,,,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,,462,0,No,Normal security log with minimal details and no user or process information.
+4624,639,,2026-04-01 16:31:52.609402+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,-,463,0,No,Normal security log with minimal details and no user or process information.
+4648,640,,2026-04-01 16:31:52.610674+00:00,,,0x000000000000026c,,,,,Security,,,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,,464,0,No,Normal security log with minimal details and no user or process information.
+4624,641,,2026-04-01 16:31:52.610977+00:00,,,0x000000000000026c,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,-,465,0,No,Normal security log with minimal details and no user or process information.
+4624,642,,2026-04-01 16:31:52.655733+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,466,0,No,Normal security log with minimal details and no user or process information.
+4672,643,,2026-04-01 16:31:52.655741+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,467,0,No,Normal security log with minimal details and no user or process information.
+4624,644,,2026-04-01 16:31:52.866335+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,NETWORK SERVICE,,C:\Windows\System32\services.exe,,-,468,0,No,Normal security log with minimal details and no user or process information.
+4672,645,,2026-04-01 16:31:52.866341+00:00,,,,,,,,Security,,,,NETWORK SERVICE,,,,,,469,0,No,Normal security log with minimal details and no user or process information.
+16,379,,2026-04-01 16:31:52.868933+00:00,,,,,,,,System,,,,,,,,,,470,0,No,Normal system log with no specific details provided.
+4624,646,,2026-04-01 16:31:52.957737+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,471,0,No,Normal security log with minimal details and no user or process information.
+4672,647,,2026-04-01 16:31:52.957743+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,472,0,No,Normal security log with minimal details and no user or process information.
+4648,648,,2026-04-01 16:31:53.062967+00:00,,,0x00000000000002a4,,,,,Security,,,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,,473,0,No,Normal security log with minimal details and no user or process information.
+4624,649,,2026-04-01 16:31:53.062979+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,474,0,No,Normal security log with minimal details and no user or process information.
+4624,650,,2026-04-01 16:31:53.062984+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,475,0,No,Normal security log with minimal details and no user or process information.
+4672,651,,2026-04-01 16:31:53.062988+00:00,,,,,,,,Security,,,,DWM-1,,,,,,476,0,No,Normal security log with minimal details and no user or process information.
+4672,652,,2026-04-01 16:31:53.062990+00:00,,,,,,,,Security,,,,DWM-1,,,,,,477,0,No,Normal security log with minimal details and no user or process information.
+4624,653,,2026-04-01 16:31:53.275171+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,478,0,No,Normal security log with minimal details and no user or process information.
+4672,654,,2026-04-01 16:31:53.275177+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,479,0,No,Normal security log with minimal details and no user or process information.
+4624,655,,2026-04-01 16:31:53.283899+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,480,0,No,Normal security log with minimal details and no user or process information.
+4672,656,,2026-04-01 16:31:53.283903+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,481,0,No,Normal security log with minimal details and no user or process information.
+16,380,,2026-04-01 16:31:53.287287+00:00,,,,,,,,System,,,,,,,,,,482,0,No,Normal system log with no specific details provided.
+4624,657,,2026-04-01 16:31:53.312979+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,LOCAL SERVICE,,C:\Windows\System32\services.exe,,-,483,0,No,Normal security log with minimal details and no user or process information.
+4672,658,,2026-04-01 16:31:53.312983+00:00,,,,,,,,Security,,,,LOCAL SERVICE,,,,,,484,0,No,Normal security log with minimal details and no user or process information.
+16,381,,2026-04-01 16:31:53.315088+00:00,,,,,,,,System,,,,,,,,,,485,0,No,Normal system log with no specific details provided.
+4624,659,,2026-04-01 16:31:53.378773+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,486,0,No,Normal security log with minimal details and no user or process information.
+4672,660,,2026-04-01 16:31:53.378777+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,487,0,No,Normal security log with minimal details and no user or process information.
+4624,661,,2026-04-01 16:31:53.427799+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,488,0,No,Normal security log with minimal details and no user or process information.
+4672,662,,2026-04-01 16:31:53.428173+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,489,0,No,Normal security log with minimal details and no user or process information.
+4624,663,,2026-04-01 16:31:53.583717+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,490,0,No,Normal security log with minimal details and no user or process information.
+4672,664,,2026-04-01 16:31:53.583723+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,491,0,No,Normal security log with minimal details and no user or process information.
+4624,665,,2026-04-01 16:31:53.694370+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,492,0,No,Normal security log with minimal details and no user or process information.
+4672,666,,2026-04-01 16:31:53.694376+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,493,0,No,Normal security log with minimal details and no user or process information.
+1531,81,,2026-04-01 16:31:53.696371+00:00,,,,,,,,Appiclation,,,,,,,,,,494,0,No,Normal application log with no specific details provided.
+4624,667,,2026-04-01 16:31:53.994799+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,495,0,No,Normal security log with minimal details and no user or process information.
+4672,668,,2026-04-01 16:31:53.994802+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,496,0,No,Normal security log with minimal details and no user or process information.
+6,382,,2026-04-01 16:31:53.998566+00:00,,,,,,,,System,,,,,,,,,,497,0,No,Normal system log with no specific details provided.
+6,383,,2026-04-01 16:31:54.033396+00:00,,,,,,,,System,,,,,,,,,,498,0,No,Normal system log with no specific details provided.
+6,384,,2026-04-01 16:31:54.036175+00:00,,,,,,,,System,,,,,,,,,,499,0,No,Normal system log with no specific details provided.

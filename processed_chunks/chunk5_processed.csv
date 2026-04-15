@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4672,560,,2026-04-01 16:20:51.913794+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,280,0,Normal system activity; SYSTEM user in Security source with no specific details.
+0,55,,2026-04-01 16:21:11.266569+00:00,,,,,,,,Appiclation,,,,,,,,,,281,0,Normal system activity; no specific details provided in the log.
+16384,56,,2026-04-01 16:21:28.805496+00:00,,,,,,,,Appiclation,,,,,,,,,,282,0,Normal system activity; no specific details provided in the log.
+43,297,,2026-04-01 16:21:39.861605+00:00,,,,,,,,System,,,,,,,,,,283,0,Normal system activity; no specific details provided in the log.
+7040,298,,2026-04-01 16:21:40.885138+00:00,,,,,,,,System,,,,,,,,,,284,0,Normal system activity; no specific details provided in the log.
+7040,299,,2026-04-01 16:21:42.610315+00:00,,,,,,,,System,,,,,,,,,,285,0,Normal system activity; no specific details provided in the log.
+4907,561,,2026-04-01 16:21:51.996244+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,286,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,562,,2026-04-01 16:21:51.997320+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,287,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,563,,2026-04-01 16:21:52.030958+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,288,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,564,,2026-04-01 16:21:52.042624+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,289,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,565,,2026-04-01 16:21:52.972462+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,290,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,566,,2026-04-01 16:21:52.973940+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,291,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,567,,2026-04-01 16:21:53.113480+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,292,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,568,,2026-04-01 16:21:53.115070+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,293,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,569,,2026-04-01 16:21:53.132895+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,294,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,570,,2026-04-01 16:21:53.149933+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,295,0,Normal system activity; TiWorker.exe running from a standard system directory.
+7040,300,,2026-04-01 16:21:54.105335+00:00,,,,,,,,System,,,,,,,,,,296,0,Normal system activity; no specific details provided in the log.
+7040,301,,2026-04-01 16:21:56.313662+00:00,,,,,,,,System,,,,,,,,,,297,0,Normal system activity; no specific details provided in the log.
+16394,57,,2026-04-01 16:22:00.163301+00:00,,,,,,,,Appiclation,,,,,,,,,,298,0,Normal system activity; no specific details provided in the log.
+4907,571,,2026-04-01 16:22:04.142483+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,299,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,572,,2026-04-01 16:22:04.163416+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,300,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,573,,2026-04-01 16:22:06.808535+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,301,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,574,,2026-04-01 16:22:06.810650+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,302,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,575,,2026-04-01 16:22:06.811951+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,303,0,Normal system activity; TiWorker.exe running from a standard system directory.
+4907,576,,2026-04-01 16:22:06.813913+00:00,,,0x0000000000000ac4,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe,,,304,0,Normal system activity; TiWorker.exe running from a standard system directory.
+7040,302,,2026-04-01 16:22:08.947105+00:00,,,,,,,,System,,,,,,,,,,305,0,Normal system activity; no specific details provided in the log.
+19,303,,2026-04-01 16:22:09.903316+00:00,,,,,,,,System,,,,,,,,,,306,0,Normal system activity; no specific details provided in the log.
+0,58,,2026-04-01 16:22:10.712015+00:00,,,,,,,,Appiclation,,,,,,,,,,307,0,Normal system activity; no specific details provided in the log.
+16384,59,,2026-04-01 16:22:41.343395+00:00,,,,,,,,Appiclation,,,,,,,,,,308,0,Normal system activity; no specific details provided in the log.
+16394,60,,2026-04-01 16:22:42.943905+00:00,,,,,,,,Appiclation,,,,,,,,,,309,0,Normal system activity; no specific details provided in the log.
+1034,61,,2026-04-01 16:22:51.660219+00:00,,,,,,,,Appiclation,,,,,,,,,,310,0,Normal system activity; no specific details provided in the log.
+1034,62,,2026-04-01 16:22:51.663242+00:00,,,,,,,,Appiclation,,,,,,,,,,311,0,Normal system activity; no specific details provided in the log.
+44,304,,2026-04-01 16:22:56.077568+00:00,,,,,,,,System,,,,,,,,,,312,0,Normal system activity; no specific details provided in the log.
+44,305,,2026-04-01 16:22:56.077568+00:00,,,,,,,,System,,,,,,,,,,313,0,Normal system activity; no specific details provided in the log.
+43,306,,2026-04-01 16:22:56.181551+00:00,,,,,,,,System,,,,,,,,,,314,0,Normal system activity; no specific details provided in the log.
+7045,307,,2026-04-01 16:22:56.468332+00:00,,,,,,,,System,,,,,,,,,,315,0,Normal system activity; no specific details provided in the log.
+3,308,,2026-04-01 16:22:56.514790+00:00,,,,,,,,System,,,,,,,,,,316,0,Normal system activity; no specific details provided in the log.
+19,309,,2026-04-01 16:22:56.650620+00:00,,,,,,,,System,,,,,,,,,,317,0,Normal system activity; no specific details provided in the log.
+43,310,,2026-04-01 16:23:04.552050+00:00,,,,,,,,System,,,,,,,,,,318,0,Normal system activity; no specific details provided in the log.
+19,311,,2026-04-01 16:23:05.265388+00:00,,,,,,,,System,,,,,,,,,,319,0,Normal system activity; no specific details provided in the log.
+16384,63,,2026-04-01 16:23:24.919819+00:00,,,,,,,,Appiclation,,,,,,,,,,320,0,Normal system activity; no specific details provided in the log.
+0,64,,2026-04-01 16:23:44.637442+00:00,,,,,,,,Appiclation,,,,,,,,,,321,0,Normal system activity; no specific details provided in the log.
+16,312,,2026-04-01 16:23:46.312326+00:00,,,,,,,,System,,,,,,,,,,322,0,Normal system activity; no specific details provided in the log.
+16,313,,2026-04-01 16:23:49.364632+00:00,,,,,,,,System,,,,,,,,,,323,0,Normal system activity; no specific details provided in the log.
+16,314,,2026-04-01 16:23:53.339529+00:00,,,,,,,,System,,,,,,,,,,324,0,Normal system activity; no specific details provided in the log.
+43,315,,2026-04-01 16:23:53.985275+00:00,,,,,,,,System,,,,,,,,,,325,0,Normal system activity; no specific details provided in the log.
+19,316,,2026-04-01 16:23:54.026129+00:00,,,,,,,,System,,,,,,,,,,326,0,Normal system activity; no specific details provided in the log.
+43,317,,2026-04-01 16:23:54.038601+00:00,,,,,,,,System,,,,,,,,,,327,0,Normal system activity; no specific details provided in the log.
+19,318,,2026-04-01 16:23:54.120628+00:00,,,,,,,,System,,,,,,,,,,328,0,Normal system activity; no specific details provided in the log.
+16394,65,,2026-04-01 16:24:01.301516+00:00,,,,,,,,Appiclation,,,,,,,,,,329,0,Normal system activity; no specific details provided in the log.
+0,66,,2026-04-01 16:24:07.835255+00:00,,,,,,,,Appiclation,,,,,,,,,,330,0,Normal system activity; no specific details provided in the log.
+16384,67,,2026-04-01 16:24:37.728781+00:00,,,,,,,,Appiclation,,,,,,,,,,331,0,Normal system activity; no specific details provided in the log.
+0,68,,2026-04-01 16:25:08.090357+00:00,,,,,,,,Appiclation,,,,,,,,,,332,0,Normal system activity; no specific details provided in the log.
+0,69,,2026-04-01 16:26:07.940380+00:00,,,,,,,,Appiclation,,,,,,,,,,333,0,Normal system activity; no specific details provided in the log.
+0,70,,2026-04-01 16:27:07.869680+00:00,,,,,,,,Appiclation,,,,,,,,,,334,0,Normal system activity; no specific details provided in the log.
+4624,577,,2026-04-01 16:27:42.811846+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,335,0,"Normal system activity; SYSTEM user authenticated using Negotiate, typical for services."
+4672,578,,2026-04-01 16:27:42.811852+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,336,0,Normal system activity; SYSTEM user in Security source with no specific details.
+0,71,,2026-04-01 16:28:07.923723+00:00,,,,,,,,Appiclation,,,,,,,,,,337,0,Normal system activity; no specific details provided in the log.
+4624,579,,2026-04-01 16:28:09.813042+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,338,0,"Normal system activity; SYSTEM user authenticated using Negotiate, typical for services."
+4672,580,,2026-04-01 16:28:09.813047+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,339,0,Normal system activity; SYSTEM user in Security source with no specific details.
+16,319,,2026-04-01 16:28:10.513674+00:00,,,,,,,,System,,,,,,,,,,340,0,Normal system activity; no specific details provided in the log.
+4624,581,,2026-04-01 16:28:11.029619+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,341,0,"Normal system activity; SYSTEM user authenticated using Negotiate, typical for services."
+4672,582,,2026-04-01 16:28:11.029623+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,342,0,Normal system activity; SYSTEM user in Security source with no specific details.
+1001,72,,2026-04-01 16:28:11.820980+00:00,,AppxDeploymentFailureBlue,,,,,,Appiclation,,,,,,,,,,343,0,Normal system activity; AppxDeploymentFailureBlue event with no specific details.
+4624,583,,2026-04-01 16:28:12.134254+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,344,0,"Normal system activity; SYSTEM user authenticated using Negotiate, typical for services."
+4672,584,,2026-04-01 16:28:12.134258+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,345,0,Normal system activity; SYSTEM user in Security source with no specific details.
+5379,585,,2026-04-01 16:28:12.915281+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,346,0,Normal system activity; no specific details provided in the log.
+5379,586,,2026-04-01 16:28:12.915552+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,347,0,Normal system activity; no specific details provided in the log.
+5379,587,,2026-04-01 16:28:12.915663+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,348,0,Normal system activity; no specific details provided in the log.
+5379,588,,2026-04-01 16:28:12.929714+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,349,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,589,,2026-04-01 16:28:12.937107+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,350,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,590,,2026-04-01 16:28:12.946684+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,351,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,591,,2026-04-01 16:28:14.144817+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,352,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,592,,2026-04-01 16:28:14.145098+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,353,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,593,,2026-04-01 16:28:14.145493+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,354,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,594,,2026-04-01 16:28:14.560467+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,355,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,595,,2026-04-01 16:28:14.574295+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,356,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,596,,2026-04-01 16:28:14.596918+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,357,0,Normal system activity; defaultuser0 involved but no specific details provided.
+5379,597,,2026-04-01 16:28:14.597080+00:00,,,,,,,2026-04-01 16:28:12.135397+00:00,Security,,,,defaultuser0,,,,,,358,0,Normal system activity; defaultuser0 involved but no specific details provided.
+4624,598,,2026-04-01 16:28:15.721233+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,359,0,"Normal system activity; SYSTEM user authenticated using Negotiate, typical for services."

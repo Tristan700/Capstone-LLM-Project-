@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4688,10883,,2026-04-08 16:19:32.837332+00:00,,,0x0000000000001e84,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\icacls.exe,,12180
+5379,10884,,2026-04-08 16:19:32.905869+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12181
+5379,10885,,2026-04-08 16:19:32.905931+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12182
+5379,10886,,2026-04-08 16:19:32.906649+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12183
+4688,10887,,2026-04-08 16:19:32.991024+00:00,,,0x0000000000001a58,,,,,Security,,,,NORMALVM$,-,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\authd.pass"" /remove *S-1-5-11 /q",,C:\Windows\SysWOW64\msiexec.exe,,12184
+4688,10888,,2026-04-08 16:19:33.000690+00:00,,,0x00000000000021f8,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\icacls.exe,,12185
+5379,10889,,2026-04-08 16:19:33.151817+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12186
+5379,10890,,2026-04-08 16:19:33.154963+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12187
+5379,10891,,2026-04-08 16:19:33.160727+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12188
+5379,10892,,2026-04-08 16:19:33.160776+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12189
+4688,10893,,2026-04-08 16:19:33.242268+00:00,,,0x0000000000001a58,,,,,Security,,,,NORMALVM$,-,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\tmp"" /remove:g *S-1-5-11 /q",,C:\Windows\SysWOW64\msiexec.exe,,12190
+4688,10894,,2026-04-08 16:19:33.264582+00:00,,,0x0000000000000a98,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\icacls.exe,,12191
+11707,348,,2026-04-08 16:19:33.335171+00:00,,,,,,,,Appiclation,,,,,,,,,,12192
+1033,349,,2026-04-08 16:19:33.335585+00:00,,,,,,,,Appiclation,,,,,,,,,,12193
+1042,350,,2026-04-08 16:19:33.361105+00:00,,,,,,,,Appiclation,,,,,,,,,,12194
+4673,10895,,2026-04-08 16:19:33.829613+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12195
+5379,10896,,2026-04-08 16:19:33.960712+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12196
+5379,10897,,2026-04-08 16:19:33.961700+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12197
+5379,10898,,2026-04-08 16:19:33.961748+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12198
+5379,10899,,2026-04-08 16:19:33.965235+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12199
+5379,10900,,2026-04-08 16:19:33.965464+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12200
+5379,10901,,2026-04-08 16:19:33.982201+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12201
+5379,10902,,2026-04-08 16:19:33.982397+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12202
+5379,10903,,2026-04-08 16:19:33.982588+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12203
+5379,10904,,2026-04-08 16:19:34.158579+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12204
+5379,10905,,2026-04-08 16:19:34.159412+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12205
+5379,10906,,2026-04-08 16:19:34.159458+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12206
+5379,10907,,2026-04-08 16:19:34.162720+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12207
+5379,10908,,2026-04-08 16:19:34.163252+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12208
+5379,10909,,2026-04-08 16:19:34.177671+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12209
+5379,10910,,2026-04-08 16:19:34.177864+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12210
+5379,10911,,2026-04-08 16:19:34.178011+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,12211
+1001,351,,2026-04-08 16:19:34.331783+00:00,,APPCRASH,,,,,,Appiclation,,,,,,,,,,12212
+7034,952,,2026-04-08 16:19:34.573048+00:00,,,,,,,,System,,,,,,,,,,12213
+4688,10912,,2026-04-08 16:19:35.165689+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\sppsvc.exe,,C:\Windows\System32\services.exe,,12214
+16394,352,,2026-04-08 16:19:35.252394+00:00,,,,,,,,Appiclation,,,,,,,,,,12215
+4688,10913,,2026-04-08 16:19:35.484253+00:00,,,0x0000000000000dd4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW,,C:\Windows\System32\svchost.exe,,12216
+4688,10914,,2026-04-08 16:19:35.495201+00:00,,,0x0000000000001894,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\CompatTelRunner.exe,,12217
+5379,10915,,2026-04-08 16:19:35.868248+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12218
+5379,10916,,2026-04-08 16:19:35.868319+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12219
+5379,10917,,2026-04-08 16:19:35.868793+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12220
+5379,10918,,2026-04-08 16:19:35.999996+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12221
+5379,10919,,2026-04-08 16:19:36.000355+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12222
+5379,10920,,2026-04-08 16:19:36.004730+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12223
+5379,10921,,2026-04-08 16:19:36.004772+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,,12224
+4673,10922,,2026-04-08 16:19:36.016459+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12225
+4688,10923,,2026-04-08 16:19:51.928621+00:00,,,0x0000000000001ca0,,,,,Security,,,,pizza,-,"""C:\WINDOWS\system32\net.exe"" START Wazuh",,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,,12226
+4688,10924,,2026-04-08 16:19:51.942930+00:00,,,0x0000000000000af0,,,,,Security,,,,pizza,-,C:\WINDOWS\system32\net1 START Wazuh,,C:\Windows\System32\net.exe,,12227
+4688,10925,,2026-04-08 16:19:51.960995+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\ossec-agent\wazuh-agent.exe""",,C:\Windows\System32\services.exe,,12228
+4673,10926,,2026-04-08 16:19:52.791206+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12229
+4688,10927,,2026-04-08 16:19:53.187279+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""PasswordHistorySize""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12230
+4688,10928,,2026-04-08 16:19:53.263794+00:00,,,0x00000000000014bc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12231
+4624,10929,,2026-04-08 16:19:53.422777+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,12232
+4672,10930,,2026-04-08 16:19:53.422781+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,12233
+4688,10931,,2026-04-08 16:19:53.424236+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\servicing\TrustedInstaller.exe,,C:\Windows\System32\services.exe,,12234
+4688,10932,,2026-04-08 16:19:53.483950+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe -Embedding,,C:\Windows\System32\svchost.exe,,12235
+4798,10933,,2026-04-08 16:19:54.617386+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,,12236
+4798,10934,,2026-04-08 16:19:54.618319+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,,12237
+4798,10935,,2026-04-08 16:19:54.618935+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,,12238
+4798,10936,,2026-04-08 16:19:54.619558+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,,12239
+4798,10937,,2026-04-08 16:19:54.620445+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,,12240
+4798,10938,,2026-04-08 16:19:54.620934+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,,12241
+4798,10939,,2026-04-08 16:19:54.622892+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,,12242
+4798,10940,,2026-04-08 16:19:54.623138+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,,12243
+4798,10941,,2026-04-08 16:19:54.623373+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,,12244
+4798,10942,,2026-04-08 16:19:54.623625+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,,12245
+4798,10943,,2026-04-08 16:19:54.624098+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,,12246
+4673,10944,,2026-04-08 16:19:56.037092+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12247
+4688,10945,,2026-04-08 16:19:56.509552+00:00,,,0x00000000000014bc,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12248
+4688,10946,,2026-04-08 16:19:57.834806+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12249
+4688,10947,,2026-04-08 16:19:57.849493+00:00,,,0x00000000000008b4,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12250
+4673,10948,,2026-04-08 16:19:58.335138+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12251
+4688,10949,,2026-04-08 16:19:58.606129+00:00,,,0x00000000000008b4,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12252
+4688,10950,,2026-04-08 16:19:59.351330+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12253
+4688,10951,,2026-04-08 16:19:59.361715+00:00,,,0x000000000000201c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12254
+4673,10952,,2026-04-08 16:19:59.773941+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12255
+4688,10953,,2026-04-08 16:20:00.192236+00:00,,,0x000000000000201c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12256
+4688,10954,,2026-04-08 16:20:01.013453+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,12257
+4688,10955,,2026-04-08 16:20:01.026707+00:00,,,0x000000000000080c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,,12258
+4673,10956,,2026-04-08 16:20:01.612675+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,12259

@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+5379,454,,2026-04-01 16:18:08.105684+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,140,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,455,,2026-04-01 16:18:08.178734+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,141,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,456,,2026-04-01 16:18:08.227270+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,142,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,457,,2026-04-01 16:18:08.227556+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,143,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,458,,2026-04-01 16:18:08.230524+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,144,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,459,,2026-04-01 16:18:08.230579+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,145,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,460,,2026-04-01 16:18:08.230745+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,146,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,461,,2026-04-01 16:18:09.352661+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,147,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,462,,2026-04-01 16:18:09.377171+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,148,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,463,,2026-04-01 16:18:09.546577+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,149,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,464,,2026-04-01 16:18:09.546629+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,LOCAL SERVICE,,,,,,150,0,No,Normal system activity; missing details and no indications of malicious activity.
+23,33,,2026-04-01 16:18:10.132607+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,151,0,No,Normal initialization of data signaler; no suspicious activity indicated.
+24,34,,2026-04-01 16:18:10.249475+00:00,,,,,InitializeDataChangedSignaler,,,Appiclation,,,,,,,,,,152,0,No,Normal initialization of data signaler; no suspicious activity indicated.
+16,285,,2026-04-01 16:18:10.252092+00:00,,,,,,,,System,,,,,,,,,,153,0,No,Normal system log with no specific operation or error; no suspicious activity.
+4624,465,,2026-04-01 16:18:14.348148+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,154,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,466,,2026-04-01 16:18:14.348154+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,155,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,467,,2026-04-01 16:18:16.386715+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,156,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,468,,2026-04-01 16:18:16.386719+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,157,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,469,,2026-04-01 16:18:16.530336+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,158,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,470,,2026-04-01 16:18:16.530342+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,159,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,471,,2026-04-01 16:18:16.750933+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,160,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,472,,2026-04-01 16:18:16.750937+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,161,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+16,286,,2026-04-01 16:18:17.458391+00:00,,,,,,,,System,,,,,,,,,,162,0,No,Normal system log with no specific operation or error; no suspicious activity.
+4624,473,,2026-04-01 16:18:30.872818+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,163,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,474,,2026-04-01 16:18:30.872826+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,164,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,475,,2026-04-01 16:18:30.979315+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,165,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,476,,2026-04-01 16:18:30.979319+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,166,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,477,,2026-04-01 16:18:33.006931+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,167,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,478,,2026-04-01 16:18:33.006935+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,168,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+5379,479,,2026-04-01 16:18:33.571484+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,169,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,480,,2026-04-01 16:18:33.571547+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,170,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,481,,2026-04-01 16:18:33.572109+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,171,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,482,,2026-04-01 16:18:33.934021+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,172,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,483,,2026-04-01 16:18:33.937868+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,173,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,484,,2026-04-01 16:18:33.942101+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,174,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,485,,2026-04-01 16:18:33.942245+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,175,0,No,Normal system activity; missing details and no indications of malicious activity.
+16,287,,2026-04-01 16:18:34.606611+00:00,,,,,,,,System,,,,,,,,,,176,0,No,Normal system log with no specific operation or error; no suspicious activity.
+24,288,,2026-04-01 16:18:34.732594+00:00,,,,,,,,System,,,,,,,,,,177,0,No,Normal system log with no specific operation or error; no suspicious activity.
+1,289,,2026-04-01 16:18:34.732655+00:00,,,,3.0,,,,System,,,,,,,\Device\HarddiskVolume3\Windows\System32\CloudExperienceHostBroker.exe,,,178,3,Yes,Event with a specific reason code '3.0' which might indicate an issue or change.
+5379,486,,2026-04-01 16:18:48.995403+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,179,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,487,,2026-04-01 16:18:48.995478+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,180,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,488,,2026-04-01 16:18:48.995781+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,181,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,489,,2026-04-01 16:18:49.673038+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,182,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,490,,2026-04-01 16:18:49.673693+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,183,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,491,,2026-04-01 16:18:49.891714+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,184,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,492,,2026-04-01 16:18:49.891802+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,185,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,493,,2026-04-01 16:18:50.621017+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,186,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,494,,2026-04-01 16:18:50.621992+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,187,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,495,,2026-04-01 16:18:50.622314+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,188,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,496,,2026-04-01 16:18:50.622362+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,189,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,497,,2026-04-01 16:18:51.231720+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,190,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,498,,2026-04-01 16:18:51.730278+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,191,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,499,,2026-04-01 16:18:51.892080+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,192,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,500,,2026-04-01 16:18:51.892933+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,193,0,No,Normal system activity; missing details and no indications of malicious activity.
+7040,290,,2026-04-01 16:18:51.902435+00:00,,,,,,,,System,,,,,,,,,,194,0,No,Normal system log with no specific operation or error; no suspicious activity.
+5379,501,,2026-04-01 16:18:51.905991+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,195,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,502,,2026-04-01 16:18:51.906069+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,196,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,503,,2026-04-01 16:18:51.915873+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,197,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,504,,2026-04-01 16:18:52.255442+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,198,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,505,,2026-04-01 16:18:52.355621+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,199,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,506,,2026-04-01 16:18:52.356096+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,200,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,507,,2026-04-01 16:18:52.356146+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,201,0,No,Normal system activity; missing details and no indications of malicious activity.
+4109,35,,2026-04-01 16:18:52.959812+00:00,,,,,,,,Appiclation,,,,,,,,,,202,0,No,Normal application log with no specific operation or error; no suspicious activity.
+4111,37,,2026-04-01 16:18:52.959812+00:00,,,,,,,,Appiclation,,,,,,,,,,203,0,No,Normal application log with no specific operation or error; no suspicious activity.
+4108,36,,2026-04-01 16:18:52.959812+00:00,,,,,,,,Appiclation,,,,,,,,,,204,0,No,Normal application log with no specific operation or error; no suspicious activity.
+4097,38,,2026-04-01 16:18:52.976566+00:00,,,,,,,,Appiclation,,,,,,,,,,205,0,No,Normal application log with no specific operation or error; no suspicious activity.
+5379,508,,2026-04-01 16:18:54.193529+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,206,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,509,,2026-04-01 16:18:54.193594+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,207,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,510,,2026-04-01 16:18:54.193869+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,208,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,511,,2026-04-01 16:18:55.106749+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,209,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,512,,2026-04-01 16:18:55.145124+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,210,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,513,,2026-04-01 16:18:57.383366+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,211,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,514,,2026-04-01 16:18:57.393414+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,212,0,No,Normal system activity; missing details and no indications of malicious activity.
+4624,515,,2026-04-01 16:18:57.665684+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,213,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,516,,2026-04-01 16:18:57.665689+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,214,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+4624,517,,2026-04-01 16:18:59.341112+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,215,0,No,Normal system login by SYSTEM user via services.exe; typical system operation.
+4672,518,,2026-04-01 16:18:59.341116+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,216,0,No,Normal system privilege assignment to SYSTEM user; typical system operation.
+5379,519,,2026-04-01 16:19:01.520340+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,217,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,520,,2026-04-01 16:19:01.520422+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,218,0,No,Normal system activity; missing details and no indications of malicious activity.
+5379,521,,2026-04-01 16:19:01.521187+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,219,0,No,Normal system activity; missing details and no indications of malicious activity.

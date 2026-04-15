@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+4688,13797,,2026-04-08 17:26:02.920099+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wlidsvc,,C:\Windows\System32\services.exe,,15190
+5379,13798,,2026-04-08 17:26:03.014606+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15191
+5379,13799,,2026-04-08 17:26:03.015440+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15192
+5379,13800,,2026-04-08 17:26:03.015484+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15193
+5379,13801,,2026-04-08 17:26:03.018242+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,NORMALVM$,,,,,,15194
+5379,13802,,2026-04-08 17:26:03.018400+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,NORMALVM$,,,,,,15195
+5379,13803,,2026-04-08 17:26:03.018543+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,NORMALVM$,,,,,,15196
+5379,13804,,2026-04-08 17:26:03.040478+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15197
+5379,13805,,2026-04-08 17:26:03.040619+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15198
+5379,13806,,2026-04-08 17:26:03.040766+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15199
+5379,13807,,2026-04-08 17:26:03.041740+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15200
+5379,13808,,2026-04-08 17:26:03.042269+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15201
+5379,13809,,2026-04-08 17:26:03.042307+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15202
+5379,13810,,2026-04-08 17:26:03.067774+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15203
+5379,13811,,2026-04-08 17:26:03.068439+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15204
+5379,13812,,2026-04-08 17:26:03.093437+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15205
+5379,13813,,2026-04-08 17:26:03.093582+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15206
+5379,13814,,2026-04-08 17:26:03.093721+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15207
+7040,1015,,2026-04-08 17:26:09.516251+00:00,,,,,,,,System,,,,,,,,,,15208
+4688,13815,,2026-04-08 17:26:10.631853+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Windows\ImmersiveControlPanel\SystemSettings.exe"" -ServerName:microsoft.windows.immersivecontrolpanel",,C:\Windows\System32\svchost.exe,,15209
+4688,13816,,2026-04-08 17:26:11.599274+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15210
+4673,13817,,2026-04-08 17:26:12.366001+00:00,,,0x0000000000002578,,,,,Security,,,,pizza,,,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,15211
+4673,13818,,2026-04-08 17:26:12.533167+00:00,,,0x0000000000002578,,,,,Security,,,,pizza,,,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,15212
+4673,13819,,2026-04-08 17:26:12.851120+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,15213
+4688,13820,,2026-04-08 17:26:13.287304+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s SstpSvc,,C:\Windows\System32\services.exe,,15214
+4688,13821,,2026-04-08 17:26:13.311388+00:00,,,0x00000000000017c0,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,C:\Windows\System32\svchost.exe,,15215
+4688,13822,,2026-04-08 17:26:13.936054+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15216
+4624,13823,,2026-04-08 17:26:14.105858+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,15217
+4672,13824,,2026-04-08 17:26:14.105865+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15218
+4688,13825,,2026-04-08 17:26:14.110981+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,C:\Windows\System32\services.exe,,15219
+4673,13826,,2026-04-08 17:26:19.037634+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,15220
+4624,13827,,2026-04-08 17:26:19.080536+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,15221
+4672,13828,,2026-04-08 17:26:19.080540+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15222
+4688,13829,,2026-04-08 17:26:19.083248+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs,,C:\Windows\System32\services.exe,,15223
+4688,13830,,2026-04-08 17:26:19.160717+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,15224
+4673,13831,,2026-04-08 17:26:21.084021+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15225
+4688,13832,,2026-04-08 17:26:23.237114+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,15226
+4673,13833,,2026-04-08 17:26:23.417528+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15227
+5379,13834,,2026-04-08 17:26:23.460089+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15228
+5379,13835,,2026-04-08 17:26:23.461020+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15229
+5379,13836,,2026-04-08 17:26:23.461065+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15230
+5379,13837,,2026-04-08 17:26:23.477600+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15231
+5379,13838,,2026-04-08 17:26:23.477818+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15232
+5379,13839,,2026-04-08 17:26:23.526274+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15233
+5379,13840,,2026-04-08 17:26:23.526443+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15234
+5379,13841,,2026-04-08 17:26:23.526577+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15235
+4673,13842,,2026-04-08 17:26:23.629171+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15236
+4673,13843,,2026-04-08 17:26:26.260981+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15237
+4673,13844,,2026-04-08 17:26:26.274794+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15238
+4624,13845,,2026-04-08 17:26:27.996250+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,15239
+4672,13846,,2026-04-08 17:26:27.996260+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15240
+4688,13847,,2026-04-08 17:26:27.997477+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,,C:\Windows\System32\services.exe,,15241
+4798,13848,,2026-04-08 17:26:34.324617+00:00,,,,,,,,Security,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,pizza,Administrator,,,,,15242
+4798,13849,,2026-04-08 17:26:34.325365+00:00,,,,,,,,Security,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,pizza,DefaultAccount,,,,,15243
+4798,13850,,2026-04-08 17:26:34.325552+00:00,,,,,,,,Security,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,pizza,Guest,,,,,15244
+4798,13851,,2026-04-08 17:26:34.326149+00:00,,,,,,,,Security,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,pizza,pizza,,,,,15245
+4798,13852,,2026-04-08 17:26:34.326370+00:00,,,,,,,,Security,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,,,pizza,WDAGUtilityAccount,,,,,15246
+4688,13853,,2026-04-08 17:26:46.037951+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,C:\Windows\System32\svchost.exe,,15247
+4673,13854,,2026-04-08 17:26:46.136929+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,15248
+4624,13855,,2026-04-08 17:26:46.139763+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,15249
+4672,13856,,2026-04-08 17:26:46.139767+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15250
+4688,13857,,2026-04-08 17:26:46.143562+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\servicing\TrustedInstaller.exe,,C:\Windows\System32\services.exe,,15251
+4688,13858,,2026-04-08 17:26:46.190908+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe -Embedding,,C:\Windows\System32\svchost.exe,,15252
+4624,13859,,2026-04-08 17:26:47.491594+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,15253
+4672,13860,,2026-04-08 17:26:47.491600+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15254
+4688,13861,,2026-04-08 17:26:47.492882+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv,,C:\Windows\System32\services.exe,,15255
+5379,13862,,2026-04-08 17:26:48.641106+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15256
+5379,13863,,2026-04-08 17:26:48.641998+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15257
+5379,13864,,2026-04-08 17:26:48.642044+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15258
+5379,13865,,2026-04-08 17:26:48.654192+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15259
+5379,13866,,2026-04-08 17:26:48.654490+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15260
+5379,13867,,2026-04-08 17:26:48.673277+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15261
+5379,13868,,2026-04-08 17:26:48.673471+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15262
+5379,13869,,2026-04-08 17:26:48.673695+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15263
+4673,13870,,2026-04-08 17:26:59.418066+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,15264
+4688,13871,,2026-04-08 17:26:59.418783+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,15265
+4688,13872,,2026-04-08 17:27:02.640709+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,15266
+5379,13873,,2026-04-08 17:27:03.019461+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15267
+5379,13874,,2026-04-08 17:27:03.020599+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15268
+5379,13875,,2026-04-08 17:27:03.020645+00:00,,,,,,,2026-04-08 17:26:02.920063+00:00,Security,,,,pizza,,,,,,15269

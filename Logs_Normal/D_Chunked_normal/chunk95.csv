@@ -1,151 +1,81 @@
-EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName
-5379,10917,,2026-04-08 16:19:35.868793+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10918,,2026-04-08 16:19:35.999996+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10919,,2026-04-08 16:19:36.000355+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10920,,2026-04-08 16:19:36.004730+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-5379,10921,,2026-04-08 16:19:36.004772+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,NORMALVM$,,,,,
-4673,10922,,2026-04-08 16:19:36.016459+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10923,,2026-04-08 16:19:51.928621+00:00,,,0x0000000000001ca0,,,,,Security,,,,pizza,-,"""C:\WINDOWS\system32\net.exe"" START Wazuh",,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,
-4688,10924,,2026-04-08 16:19:51.942930+00:00,,,0x0000000000000af0,,,,,Security,,,,pizza,-,C:\WINDOWS\system32\net1 START Wazuh,,C:\Windows\System32\net.exe,
-4688,10925,,2026-04-08 16:19:51.960995+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\ossec-agent\wazuh-agent.exe""",,C:\Windows\System32\services.exe,
-4673,10926,,2026-04-08 16:19:52.791206+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10927,,2026-04-08 16:19:53.187279+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""PasswordHistorySize""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10928,,2026-04-08 16:19:53.263794+00:00,,,0x00000000000014bc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4624,10929,,2026-04-08 16:19:53.422777+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-
-4672,10930,,2026-04-08 16:19:53.422781+00:00,,,,,,,,Security,,,,SYSTEM,,,,,
-4688,10931,,2026-04-08 16:19:53.424236+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\servicing\TrustedInstaller.exe,,C:\Windows\System32\services.exe,
-4688,10932,,2026-04-08 16:19:53.483950+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe -Embedding,,C:\Windows\System32\svchost.exe,
-4798,10933,,2026-04-08 16:19:54.617386+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,
-4798,10934,,2026-04-08 16:19:54.618319+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,
-4798,10935,,2026-04-08 16:19:54.618935+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,
-4798,10936,,2026-04-08 16:19:54.619558+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,
-4798,10937,,2026-04-08 16:19:54.620445+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4798,10938,,2026-04-08 16:19:54.620934+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4798,10939,,2026-04-08 16:19:54.622892+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,
-4798,10940,,2026-04-08 16:19:54.623138+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,
-4798,10941,,2026-04-08 16:19:54.623373+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,
-4798,10942,,2026-04-08 16:19:54.623625+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,
-4798,10943,,2026-04-08 16:19:54.624098+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4673,10944,,2026-04-08 16:19:56.037092+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10945,,2026-04-08 16:19:56.509552+00:00,,,0x00000000000014bc,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10946,,2026-04-08 16:19:57.834806+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10947,,2026-04-08 16:19:57.849493+00:00,,,0x00000000000008b4,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10948,,2026-04-08 16:19:58.335138+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10949,,2026-04-08 16:19:58.606129+00:00,,,0x00000000000008b4,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10950,,2026-04-08 16:19:59.351330+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10951,,2026-04-08 16:19:59.361715+00:00,,,0x000000000000201c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10952,,2026-04-08 16:19:59.773941+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10953,,2026-04-08 16:20:00.192236+00:00,,,0x000000000000201c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10954,,2026-04-08 16:20:01.013453+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10955,,2026-04-08 16:20:01.026707+00:00,,,0x000000000000080c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10956,,2026-04-08 16:20:01.612675+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10957,,2026-04-08 16:20:01.880507+00:00,,,0x000000000000080c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10958,,2026-04-08 16:20:02.592491+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,
-4688,10959,,2026-04-08 16:20:02.738569+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordLength""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10960,,2026-04-08 16:20:02.756927+00:00,,,0x0000000000000e40,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10961,,2026-04-08 16:20:03.252605+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10962,,2026-04-08 16:20:03.743042+00:00,,,0x0000000000000e40,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10963,,2026-04-08 16:20:04.542032+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutDuration""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10964,,2026-04-08 16:20:04.556456+00:00,,,0x000000000000220c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10965,,2026-04-08 16:20:05.088816+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10966,,2026-04-08 16:20:05.419422+00:00,,,0x000000000000220c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-16384,353,,2026-04-08 16:20:05.547533+00:00,,,,,,,,Appiclation,,,,,,,,,
-4688,10967,,2026-04-08 16:20:06.404854+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10968,,2026-04-08 16:20:06.420864+00:00,,,0x000000000000186c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10969,,2026-04-08 16:20:07.009405+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10970,,2026-04-08 16:20:07.329525+00:00,,,0x000000000000186c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10971,,2026-04-08 16:20:08.390045+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""ResetLockoutCount""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10972,,2026-04-08 16:20:08.406517+00:00,,,0x0000000000000e80,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10973,,2026-04-08 16:20:08.834070+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10974,,2026-04-08 16:20:09.329096+00:00,,,0x0000000000000e80,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4688,10975,,2026-04-08 16:20:10.593973+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"powershell -NoProfile -Command ""[bool](Get-CimInstance -Query 'SELECT * FROM Win32_UserAccount WHERE LocalAccount = TRUE AND SID LIKE ''S-1-5-21-%-501''' | Where-Object -Property Disabled)""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10976,,2026-04-08 16:20:10.615120+00:00,,,0x00000000000021d0,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,10977,,2026-04-08 16:20:11.230623+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10978,,2026-04-08 16:20:12.520485+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe SBServicing,,C:\Windows\System32\svchost.exe,
-4673,10979,,2026-04-08 16:20:12.594402+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10980,,2026-04-08 16:20:13.963251+00:00,,,0x000000000000090c,,,,,Security,,,,NORMALVM$,-,"""active-response/bin/restart-wazuh.exe""",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,10981,,2026-04-08 16:20:14.030712+00:00,,,0x0000000000001afc,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Program Files (x86)\ossec-agent\active-response\bin\restart-wazuh.exe,
-4688,10982,,2026-04-08 16:20:15.123657+00:00,,,0x0000000000001afc,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\cmd.exe /c %WINDIR%\system32\net.exe stop Wazuh,,C:\Program Files (x86)\ossec-agent\active-response\bin\restart-wazuh.exe,
-4688,10983,,2026-04-08 16:20:15.163700+00:00,,,0x0000000000000e48,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net.exe  stop Wazuh,,C:\Windows\SysWOW64\cmd.exe,
-4688,10984,,2026-04-08 16:20:15.233448+00:00,,,0x00000000000021e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net1  stop Wazuh,,C:\Windows\SysWOW64\net.exe,
-4688,10985,,2026-04-08 16:20:15.604229+00:00,,,0x0000000000001afc,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\cmd.exe /c %WINDIR%\system32\net.exe start Wazuh,,C:\Program Files (x86)\ossec-agent\active-response\bin\restart-wazuh.exe,
-4688,10986,,2026-04-08 16:20:15.623344+00:00,,,0x0000000000001f24,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net.exe  start Wazuh,,C:\Windows\SysWOW64\cmd.exe,
-4688,10987,,2026-04-08 16:20:15.671329+00:00,,,0x00000000000010fc,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\net1  start Wazuh,,C:\Windows\SysWOW64\net.exe,
-4688,10988,,2026-04-08 16:20:15.710342+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\ossec-agent\wazuh-agent.exe""",,C:\Windows\System32\services.exe,
-4673,10989,,2026-04-08 16:20:16.486481+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,
-4688,10990,,2026-04-08 16:20:16.657013+00:00,,,0x0000000000001918,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""PasswordHistorySize""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4798,10991,,2026-04-08 16:20:17.961594+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,
-4798,10992,,2026-04-08 16:20:17.962385+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,
-4798,10993,,2026-04-08 16:20:17.963943+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,
-4798,10994,,2026-04-08 16:20:17.964722+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,
-4798,10995,,2026-04-08 16:20:17.967894+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4798,10996,,2026-04-08 16:20:17.968494+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4798,10997,,2026-04-08 16:20:17.972031+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Administrator,,,,
-4798,10998,,2026-04-08 16:20:17.972300+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,DefaultAccount,,,,
-4798,10999,,2026-04-08 16:20:17.972624+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,Guest,,,,
-4798,11000,,2026-04-08 16:20:17.972910+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,pizza,,,,
-4798,11001,,2026-04-08 16:20:17.973173+00:00,,,,,,,,Security,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,,,NORMALVM$,WDAGUtilityAccount,,,,
-4688,11002,,2026-04-08 16:20:21.803541+00:00,,,0x0000000000001b64,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,11003,,2026-04-08 16:20:31.520977+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,11004,,2026-04-08 16:20:31.520979+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4688,11005,,2026-04-08 16:20:31.940159+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=24 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=329446312 --ram-no-pressure-read-main-dll --metrics-shmem-handle=5632,i,8173080964946854180,11042109509315793508,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709008800875870 --mojo-platform-channel-handle=5384 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4673,11006,,2026-04-08 16:20:32.181929+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11007,,2026-04-08 16:20:32.654360+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,C:\Windows\System32\svchost.exe,
-4688,11008,,2026-04-08 16:20:32.933619+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,pizza,taskhostw.exe Logon,,C:\Windows\System32\svchost.exe,
-4673,11010,,2026-04-08 16:20:33.764706+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,11009,,2026-04-08 16:20:33.764706+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,11011,,2026-04-08 16:20:34.036743+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,11012,,2026-04-08 16:20:34.036747+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4688,11013,,2026-04-08 16:20:34.108345+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.26.509.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe"" -Embedding",,C:\Windows\System32\svchost.exe,
-4673,11014,,2026-04-08 16:20:34.133234+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11015,,2026-04-08 16:20:34.172165+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=25 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=331680706 --skip-read-main-dll --metrics-shmem-handle=6508,i,7536170475023851116,273327307624619195,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709009737917719 --mojo-platform-channel-handle=6756 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,11016,,2026-04-08 16:20:34.324421+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=26 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=331961107 --skip-read-main-dll --metrics-shmem-handle=5756,i,7120968894960159489,13265161831872116291,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709010674959568 --mojo-platform-channel-handle=7556 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,11017,,2026-04-08 16:20:44.197317+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-US --service-sandbox-type=none --skip-read-main-dll --metrics-shmem-handle=3000,i,6595356674812477795,12611362351875807260,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709013486085115 --mojo-platform-channel-handle=8236 /prefetch:14",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,11018,,2026-04-08 16:20:44.204184+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --skip-read-main-dll --metrics-shmem-handle=6484,i,9840130906876321157,13232358941631446302,524288 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709012549043266 --mojo-platform-channel-handle=8300 /prefetch:12",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4688,11019,,2026-04-08 16:20:48.253365+00:00,,,0x0000000000001d5c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=gpu-process --disable-gpu-sandbox --use-gl=disabled --gpu-vendor-id=5140 --gpu-device-id=140 --gpu-sub-system-id=0 --gpu-revision=0 --gpu-driver-version=10.0.26100.7309 --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8037) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 146.0.3856.109)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.2002.40.0 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADoAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --ram-no-pressure-read-main-dll --metrics-shmem-handle=4492,i,11864971083321317240,3335240973593488316,262144 --field-trial-handle=1880,i,15770908163211229083,13922424497461490398,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1884,i,1085138879887985569,7197626132809622165,4 --trace-process-track-uuid=3190708991934122588 --mojo-platform-channel-handle=324 /prefetch:10 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4688,11020,,2026-04-08 16:21:00.042074+00:00,,,0x0000000000001918,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4673,11021,,2026-04-08 16:21:02.185020+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4673,11022,,2026-04-08 16:21:02.185213+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,,
-4688,11023,,2026-04-08 16:21:02.448225+00:00,,,0x000000000000197c,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=31 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=360110750 --ram-no-pressure-read-main-dll --metrics-shmem-handle=8588,i,17098093048210636915,18222558262360475693,2097152 --field-trial-handle=2240,i,2400975570258413225,3891293034718384497,262144 --variations-seed-version --pseudonymization-salt-handle=2244,i,12755698159010275288,6639703179006343923,4 --trace-process-track-uuid=3190709015360168813 --mojo-platform-channel-handle=8500 /prefetch:1",,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,
-4673,11024,,2026-04-08 16:21:03.048103+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11025,,2026-04-08 16:21:03.088675+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\Microsoft.WindowsStore_22602.1401.4.0_x64__8wekyb3d8bbwe\StoreDesktopExtension.exe"" -Embedding",,C:\Windows\System32\svchost.exe,
-4673,11026,,2026-04-08 16:21:03.175400+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4673,11027,,2026-04-08 16:21:03.257051+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11028,,2026-04-08 16:21:03.260689+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca",,C:\Windows\System32\svchost.exe,
-4688,11029,,2026-04-08 16:21:03.306265+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:OobeHost.AppXdcwkjpb46w3zw4hbmx5jfxajhymjka0d.mca",,C:\Windows\System32\svchost.exe,
-4673,11030,,2026-04-08 16:21:03.440733+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11031,,2026-04-08 16:21:06.446520+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca",,C:\Windows\System32\svchost.exe,
-4673,11032,,2026-04-08 16:21:06.494465+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4673,11033,,2026-04-08 16:21:06.514051+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11034,,2026-04-08 16:21:06.543570+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:SettingsUXHostApp.AppXbcemfss8fnwzwnsjec8qzh0c3jnkn6x0.mca",,C:\Windows\System32\svchost.exe,
-4688,11035,,2026-04-08 16:21:06.570303+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXpybpk6fj2fe0gb0jan49e6dncngk3pa1.mca",,C:\Windows\System32\svchost.exe,
-4688,11036,,2026-04-08 16:21:06.968735+00:00,,,0x000000000000078c,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-4673,11037,,2026-04-08 16:21:19.458530+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,
-4688,11038,,2026-04-08 16:21:20.894184+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.RulesEngine.AppXgphnekvm0vv49drvfehh4b6kyf6ckafp.mca",,C:\Windows\System32\svchost.exe,
-4673,11039,,2026-04-08 16:21:23.753492+00:00,,,0x00000000000014e0,,,,,Security,,,,pizza,,,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe,,
-4688,11040,,2026-04-08 16:21:23.819853+00:00,,,0x00000000000014e0,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --noerrdialogs --disk-cache-size=52428800 --edge-webview-is-background --lang=en-US --mojo-named-platform-channel-pipe=5344.8212.5517387107151344118 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe,
-4673,11041,,2026-04-08 16:21:24.383997+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,
-4688,11042,,2026-04-08 16:21:24.384836+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=crashpad-handler --user-data-dir=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView /prefetch:4 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=146.0.7680.179 ""--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --annotation=plat=Win64 ""--annotation=prod=Edge WebView2"" --annotation=ver=146.0.3856.109 --initial-client-data=0x170,0x174,0x178,0x14c,0x1ac,0x7ffa8dd334d8,0x7ffa8dd334e4,0x7ffa8dd334f0",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4673,11043,,2026-04-08 16:21:24.709320+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,
-4688,11044,,2026-04-08 16:21:24.709702+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=gpu-process --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=1532,i,9635836293209885023,6365262953005325311,262144 --field-trial-handle=2228,i,7183740068659207902,2882136987270805104,262144 --variations-seed-version --pseudonymization-salt-handle=2232,i,13275570900427019124,6051898983168592210,4 --trace-process-track-uuid=3190708988185955192 --mojo-platform-channel-handle=2224 /prefetch:2 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4673,11045,,2026-04-08 16:21:24.839573+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,
-4688,11046,,2026-04-08 16:21:24.841183+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --startup-read-main-dll --metrics-shmem-handle=1776,i,16295594689295977422,4162964333501203799,524288 --field-trial-handle=2228,i,7183740068659207902,2882136987270805104,262144 --variations-seed-version --pseudonymization-salt-handle=2232,i,13275570900427019124,6051898983168592210,4 --trace-process-track-uuid=3190708989122997041 --mojo-platform-channel-handle=2292 /prefetch:11 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4673,11047,,2026-04-08 16:21:24.862074+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,
-4688,11048,,2026-04-08 16:21:24.862936+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --startup-read-main-dll --metrics-shmem-handle=1884,i,12072807232734045368,11062595015086227109,524288 --field-trial-handle=2228,i,7183740068659207902,2882136987270805104,262144 --variations-seed-version --pseudonymization-salt-handle=2232,i,13275570900427019124,6051898983168592210,4 --trace-process-track-uuid=3190708990060038890 --mojo-platform-channel-handle=428 /prefetch:13 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-4673,11049,,2026-04-08 16:21:24.977598+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,,
-4688,11050,,2026-04-08 16:21:24.980486+00:00,,,0x0000000000000df8,,,,,Security,,,,pizza,-,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe"" --type=renderer --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags=--expose-gc --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=5 --time-ticks-at-unix-epoch=-1775664902074034 --launch-time-ticks=382889972 --ram-no-pressure-read-main-dll --metrics-shmem-handle=3512,i,8999388767725491675,11434410206761238620,2097152 --field-trial-handle=2228,i,7183740068659207902,2882136987270805104,262144 --variations-seed-version --pseudonymization-salt-handle=2232,i,13275570900427019124,6051898983168592210,4 --trace-process-track-uuid=3190708990997080739 --mojo-platform-channel-handle=3528 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e /prefetch:1",,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.109\msedgewebview2.exe,
-5379,11051,,2026-04-08 16:21:26.946760+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11052,,2026-04-08 16:21:26.948154+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11053,,2026-04-08 16:21:26.948208+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11054,,2026-04-08 16:21:27.588402+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11055,,2026-04-08 16:21:27.595203+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11056,,2026-04-08 16:21:27.642759+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11057,,2026-04-08 16:21:27.643242+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-5379,11058,,2026-04-08 16:21:27.643633+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,
-1801,953,,2026-04-08 16:21:29.142374+00:00,,,,,,,,System,,,,,,,,,
-1796,954,,2026-04-08 16:21:29.177418+00:00,,,,,,,,System,,,,,,,,,
-1796,955,,2026-04-08 16:21:29.177479+00:00,,,,,,,,System,,,,,,,,,
-4688,11059,,2026-04-08 16:21:30.066088+00:00,,,0x0000000000001918,,,,,Security,,,,NORMALVM$,-,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,
-4688,11060,,2026-04-08 16:21:43.752390+00:00,,,0x0000000000002530,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,
-7040,956,,2026-04-08 16:21:47.983870+00:00,,,,,,,,System,,,,,,,,,
-4688,11061,,2026-04-08 16:21:59.636097+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\DllHost.exe"" /Processid:{5250E46F-BB09-D602-5891-F476DC89B700}",,C:\Windows\System32\svchost.exe,
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+5379,6288,,2026-04-01 18:15:44.499525+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6580
+5379,6289,,2026-04-01 18:15:44.527939+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6581
+5379,6290,,2026-04-01 18:15:44.528095+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6582
+5379,6291,,2026-04-01 18:15:44.528219+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6583
+5058,6292,,2026-04-01 18:15:44.553371+00:00,,,,,%%2458,,,Security,,,,NORMALVM$,,,,,,6584
+5061,6293,,2026-04-01 18:15:44.553541+00:00,,,,,%%2480,,,Security,,,,NORMALVM$,,,,,,6585
+256,240,,2026-04-01 18:16:13.671303+00:00,,,,,,,,Appiclation,,,,,,,,,,6586
+4624,6294,,2026-04-01 18:17:41.433252+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6587
+4672,6295,,2026-04-01 18:17:41.433258+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6588
+4664,6296,,2026-04-01 18:17:51.176077+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,6589
+4664,6297,,2026-04-01 18:17:51.178917+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,6590
+4664,6298,,2026-04-01 18:17:51.181211+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,6591
+4664,6299,,2026-04-01 18:17:51.183554+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,6592
+4664,6300,,2026-04-01 18:17:51.205181+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,6593
+16,684,,2026-04-01 18:17:51.824104+00:00,,,,,,,,System,,,,,,,,,,6594
+5379,6301,,2026-04-01 18:17:53.688217+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6595
+5379,6302,,2026-04-01 18:17:53.689295+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6596
+5379,6303,,2026-04-01 18:17:53.689341+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6597
+5379,6304,,2026-04-01 18:17:53.922321+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6598
+5379,6305,,2026-04-01 18:17:53.933126+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6599
+5379,6306,,2026-04-01 18:17:54.018557+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6600
+5379,6307,,2026-04-01 18:17:54.018753+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6601
+5379,6308,,2026-04-01 18:17:54.018921+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6602
+4799,6309,,2026-04-01 18:18:06.882622+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,6603
+12,4,,2026-04-01 19:15:47.560154+00:00,,,,,,,,System,,,,,,,,,,6604
+25,5,,2026-04-01 19:15:47.560156+00:00,,,,,,,,System,,,,,,,,,,6605
+153,6,,2026-04-01 19:15:47.560318+00:00,,,,,,,,System,,,,,,,,,,6606
+20,7,,2026-04-01 19:15:47.560665+00:00,,,,,,,,System,,,,,,,,,,6607
+247,8,,2026-04-01 19:15:47.560667+00:00,,,,,,,,System,,,,,,,,,,6608
+238,9,,2026-04-01 19:15:47.560669+00:00,,,,,,,,System,,,,,,,,,,6609
+25,10,,2026-04-01 19:15:47.560669+00:00,,,,,,,,System,,,,,,,,,,6610
+27,11,,2026-04-01 19:15:47.560671+00:00,,,,,,,,System,,,,,,,,,,6611
+18,12,,2026-04-01 19:15:47.560732+00:00,,,,,,,,System,,,,,,,,,,6612
+32,13,,2026-04-01 19:15:47.560745+00:00,,,,,,,,System,,,,,,,,,,6613
+20,14,,2026-04-01 19:15:47.565620+00:00,,,,,,,,System,,,,,,,,,,6614
+16,15,,2026-04-01 19:15:47.597548+00:00,,,,,,,,System,,,,,,,,,,6615
+6,16,,2026-04-01 19:15:51.646498+00:00,,,,,,,,System,,,,,,,,,,6616
+6,17,,2026-04-01 19:15:51.647047+00:00,,,,,,,,System,,,,,,,,,,6617
+6,18,,2026-04-01 19:15:51.647890+00:00,,,,,,,,System,,,,,,,,,,6618
+98,19,,2026-04-01 19:15:51.875080+00:00,,,,,,,,System,,,,,,,,,,6619
+6,20,,2026-04-01 19:15:51.922230+00:00,,,,,,,,System,,,,,,,,,,6620
+6,21,,2026-04-01 19:15:52.083143+00:00,,,,,,,,System,,,,,,,,,,6621
+55,22,,2026-04-01 19:15:52.202080+00:00,,,,,,,,System,,,,,,,,,,6622
+172,23,,2026-04-01 19:15:52.323450+00:00,,,,6.0,,,,System,,,,,,,,,,6623
+4688,1,,2026-04-01 19:15:52.325634+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,6624
+4696,2,,2026-04-01 19:15:52.325876+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,6625
+4826,3,,2026-04-01 19:15:52.325880+00:00,,,,,,,,Security,,,,-,,,,,,6626
+4688,4,,2026-04-01 19:15:52.327856+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,6627
+16,24,,2026-04-01 19:15:52.329630+00:00,,,,,,,,System,,,,,,,,,,6628
+16,25,,2026-04-01 19:15:52.330120+00:00,,,,,,,,System,,,,,,,,,,6629
+16,26,,2026-04-01 19:15:52.330137+00:00,,,,,,,,System,,,,,,,,,,6630
+4688,5,,2026-04-01 19:15:53.161638+00:00,,,0x0000000000000190,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6631
+16,27,,2026-04-01 19:15:53.211437+00:00,,,,,,,,System,,,,,,,,,,6632
+16,28,,2026-04-01 19:15:53.215034+00:00,,,,,,,,System,,,,,,,,,,6633
+16,29,,2026-04-01 19:15:53.216507+00:00,,,,,,,,System,,,,,,,,,,6634
+16,30,,2026-04-01 19:15:53.251270+00:00,,,,,,,,System,,,,,,,,,,6635
+24,31,,2026-04-01 19:15:53.277632+00:00,,,,,,,,System,,,,,,,,,,6636
+16,32,,2026-04-01 19:15:53.307299+00:00,,,,,,,,System,,,,,,,,,,6637
+16,33,,2026-04-01 19:15:53.487734+00:00,,,,,,,,System,,,,,,,,,,6638
+4688,6,,2026-04-01 19:15:53.666651+00:00,,,0x0000000000000190,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6639
+16,34,,2026-04-01 19:15:57.507149+00:00,,,,,,,,System,,,,,,,,,,6640
+4688,7,,2026-04-01 19:15:57.540720+00:00,,,0x0000000000000190,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6641
+4688,8,,2026-04-01 19:15:57.632614+00:00,,,0x0000000000000218,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6642
+4688,9,,2026-04-01 19:15:57.690784+00:00,,,0x0000000000000190,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6643
+4688,10,,2026-04-01 19:15:57.694523+00:00,,,0x0000000000000218,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6644
+4688,11,,2026-04-01 19:15:57.696304+00:00,,,0x0000000000000258,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6645
+4688,12,,2026-04-01 19:15:57.724939+00:00,,,0x0000000000000258,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6646
+19,35,,2026-04-01 19:15:57.744967+00:00,,,,,,,,System,,,,,,,,,,6647
+25,36,,2026-04-01 19:15:57.744984+00:00,,,,,,,,System,,,,,,,,,,6648
+23,37,,2026-04-01 19:15:57.745586+00:00,,,,,,,,System,,,,,,,,,,6649
+4688,13,,2026-04-01 19:15:57.819704+00:00,,,0x0000000000000260,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,6650
+14,38,,2026-04-01 19:15:57.875971+00:00,,,,,,,,System,,,,,,,,,,6651
+12,39,,2026-04-01 19:15:57.884758+00:00,,,,,,,,System,,,,,,,,,,6652
+4688,14,,2026-04-01 19:15:57.888369+00:00,,,0x0000000000000260,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,6653
+6156,40,,2026-04-01 19:15:57.946388+00:00,,,,,,,,System,,,,,,,,,,6654
+6417,15,,2026-04-01 19:15:57.961256+00:00,,,0x00000000000002e4,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,6655
+4608,16,,2026-04-01 19:15:57.968834+00:00,,,,,,,,Security,,,,,,,,,,6656
+4624,17,,2026-04-01 19:15:57.975025+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,6657
+4902,18,,2026-04-01 19:15:58.151655+00:00,,,,,,,,Security,,,,,,,,,,6658
+4717,19,,2026-04-01 19:15:58.180679+00:00,,,,,,,,Security,,,,MINWINPC$,,,,,,6659

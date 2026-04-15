@@ -1,0 +1,101 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+5617,300,,2026-04-08 16:09:30.500191+00:00,,,,,,,,Appiclation,,,,,,,,,,10990
+4688,9830,,2026-04-08 16:09:30.520374+00:00,,,0x0000000000000a14,,,,,Security,,,,NORMALVM$,-,"C:\WINDOWS\system32\wbem\mofcomp.exe ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\ProtectionManagement.mof""",,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpCmdRun.exe,,10991
+4688,9831,,2026-04-08 16:09:30.524721+00:00,,,0x0000000000000f88,,,,,Security,,,,NORMALVM$,-,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,C:\Windows\System32\wbem\mofcomp.exe,,10992
+4688,9832,,2026-04-08 16:09:30.579716+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalService -p -s LicenseManager,,C:\Windows\System32\services.exe,,10993
+4624,9833,,2026-04-08 16:09:30.841013+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10994
+4672,9834,,2026-04-08 16:09:30.841015+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10995
+4688,9835,,2026-04-08 16:09:30.841946+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,,C:\Windows\System32\services.exe,,10996
+1003,301,,2026-04-08 16:09:31.617922+00:00,,,,,,,,Appiclation,,,,,,,,,,10997
+8198,302,,2026-04-08 16:09:31.633142+00:00,,,,,,,,Appiclation,,,,,,,,,,10998
+1041,863,,2026-04-08 16:09:31.677980+00:00,,,,,,,,System,,,,,,,,,,10999
+1038,864,,2026-04-08 16:09:31.678043+00:00,,,,,,,,System,,,,,,,,,,11000
+4673,9836,,2026-04-08 16:09:31.756159+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11001
+1282,865,,2026-04-08 16:09:36.258429+00:00,,,,,,,,System,,,,,,,,,,11002
+86,303,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-08 16:09:36.646946+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 08 Apr 2026 16:10:08 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 8b6372ed-b18d-498a-86b7-2f77bce915e3
+",,Appiclation,,,,,,,,,,11003
+1025,866,,2026-04-08 16:09:36.652565+00:00,,,,,,,,System,,,,,,,,,,11004
+86,304,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-08 16:09:36.908560+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 08 Apr 2026 16:10:09 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 1dc8833d-5aa6-4872-a207-87f8988d2c91
+",,Appiclation,,,,,,,,,,11005
+16384,305,,2026-04-08 16:10:01.664537+00:00,,,,,,,,Appiclation,,,,,,,,,,11006
+903,306,,2026-04-08 16:10:01.898060+00:00,,,,,,,,Appiclation,,,,,,,,,,11007
+4624,9837,,2026-04-08 16:10:02.071074+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11008
+4672,9838,,2026-04-08 16:10:02.071081+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11009
+4688,9839,,2026-04-08 16:10:02.072977+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BDESVC,,C:\Windows\System32\services.exe,,11010
+4673,9840,,2026-04-08 16:10:02.108110+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11011
+4688,9841,,2026-04-08 16:10:14.864380+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",,C:\Windows\System32\svchost.exe,,11012
+4688,9842,,2026-04-08 16:10:17.585238+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,C:\Windows\System32\svchost.exe,,11013
+4673,9843,,2026-04-08 16:10:17.952143+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11014
+4688,9844,,2026-04-08 16:10:17.974182+00:00,,,0x0000000000001190,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,,11015
+4673,9845,,2026-04-08 16:10:18.049761+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11016
+4688,9846,,2026-04-08 16:11:18.286842+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc,,C:\Windows\System32\services.exe,,11017
+5058,9847,,2026-04-08 16:11:18.397303+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,11018
+5061,9848,,2026-04-08 16:11:18.398006+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,11019
+5059,9849,,2026-04-08 16:11:18.398518+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,11020
+4688,9850,,2026-04-08 16:11:18.715914+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,C:\Windows\System32\services.exe,,11021
+4624,9851,,2026-04-08 16:11:18.878374+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11022
+4672,9852,,2026-04-08 16:11:18.878380+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11023
+4688,9853,,2026-04-08 16:11:18.879940+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,C:\Windows\System32\services.exe,,11024
+4688,9854,,2026-04-08 16:11:19.015955+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /svc",,C:\Windows\System32\services.exe,,11025
+4688,9855,,2026-04-08 16:11:19.049570+00:00,,,0x0000000000001318,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,,11026
+0,307,,2026-04-08 16:11:19.065582+00:00,,,,,,,,Appiclation,,,,,,,,,,11027
+4624,9856,,2026-04-08 16:11:19.163889+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11028
+4672,9857,,2026-04-08 16:11:19.163898+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11029
+4688,9858,,2026-04-08 16:11:19.166130+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k InvSvcGroup -p -s InventorySvc,,C:\Windows\System32\services.exe,,11030
+4688,9859,,2026-04-08 16:11:19.304115+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,C:\Windows\System32\services.exe,,11031
+4688,9860,,2026-04-08 16:11:19.494581+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\sppsvc.exe,,C:\Windows\System32\services.exe,,11032
+900,308,,2026-04-08 16:11:19.520561+00:00,,,,,,,,Appiclation,,,,,,,,,,11033
+16394,309,,2026-04-08 16:11:19.562376+00:00,,,,,,,,Appiclation,,,,,,,,,,11034
+4624,9861,,2026-04-08 16:11:19.642509+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11035
+4672,9862,,2026-04-08 16:11:19.642517+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11036
+4688,9863,,2026-04-08 16:11:19.643658+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p,,C:\Windows\System32\services.exe,,11037
+4624,9864,,2026-04-08 16:11:19.913424+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11038
+4672,9865,,2026-04-08 16:11:19.913427+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11039
+4688,9866,,2026-04-08 16:11:19.914438+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UsoSvc,,C:\Windows\System32\services.exe,,11040
+4673,9867,,2026-04-08 16:11:19.974564+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11041
+4673,9868,,2026-04-08 16:11:19.988501+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11042
+4688,9869,,2026-04-08 16:11:20.017727+00:00,,,0x00000000000013c4,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,C:\Windows\System32\svchost.exe,,11043
+4624,9870,,2026-04-08 16:11:20.054411+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11044
+4672,9871,,2026-04-08 16:11:20.054415+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11045
+4688,9872,,2026-04-08 16:11:20.055307+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k whesvc -p -s whesvc,,C:\Windows\System32\services.exe,,11046
+4688,9873,,2026-04-08 16:11:20.623045+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc,,C:\Windows\System32\services.exe,,11047
+4688,9874,,2026-04-08 16:11:20.712942+00:00,,,0x0000000000000358,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\wbem\wmiprvse.exe -Embedding,,C:\Windows\System32\svchost.exe,,11048
+10016,867,,2026-04-08 16:11:21.340418+00:00,,,,,,,,System,,,,,,,,,,11049
+4624,9875,,2026-04-08 16:11:21.460880+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11050
+4672,9876,,2026-04-08 16:11:21.460884+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11051
+4688,9877,,2026-04-08 16:11:21.465965+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\SearchIndexer.exe /Embedding,,C:\Windows\System32\services.exe,,11052
+1,310,,2026-04-08 16:11:21.504904+00:00,,,,,,,,Appiclation,,,,,,,,,,11053
+4673,9878,,2026-04-08 16:11:21.521233+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11054
+4673,9879,,2026-04-08 16:11:21.738026+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11055
+1003,311,,2026-04-08 16:11:22.020134+00:00,,,,,,,,Appiclation,,,,,,,,,,11056
+4799,9880,,2026-04-08 16:11:22.021286+00:00,,,,,,,,Security,C:\Windows\System32\SearchIndexer.exe,,,NORMALVM$,Administrators,,,,,11057
+4688,9881,,2026-04-08 16:11:22.078918+00:00,,,0x0000000000001028,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe1_ Global\UsGthrCtrlFltPipeMssGthrPipe1 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",,C:\Windows\System32\SearchIndexer.exe,,11058
+4688,9882,,2026-04-08 16:11:22.132566+00:00,,,0x0000000000001028,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\System32\SearchFilterHost.exe"" 904 2468 2464 888 {0E5DCEC5-7795-4E38-9621-94DFD9F9A421}",,C:\Windows\System32\SearchIndexer.exe,,11059
+15,312,,2026-04-08 16:11:23.517569+00:00,,,,,,,,Appiclation,,,,,,,,,,11060
+4673,9883,,2026-04-08 16:11:48.992304+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,11061
+4688,9884,,2026-04-08 16:11:48.994732+00:00,,,0x0000000000000358,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,C:\Windows\System32\svchost.exe,,11062
+16384,313,,2026-04-08 16:11:49.617460+00:00,,,,,,,,Appiclation,,,,,,,,,,11063
+4688,9885,,2026-04-08 16:12:14.904078+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\wermgr.exe"" -upload",,C:\Windows\System32\svchost.exe,,11064
+4688,9886,,2026-04-08 16:12:15.930506+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,11065
+4688,9887,,2026-04-08 16:13:17.521711+00:00,,,0x0000000000000a88,,,,,Security,,,,NORMALVM$,-,wmiadap.exe /F /T /R,,C:\Windows\System32\svchost.exe,,11066
+4688,9888,,2026-04-08 16:13:20.363007+00:00,,,0x00000000000013c4,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,C:\Windows\System32\svchost.exe,,11067
+4624,9889,,2026-04-08 16:13:20.484159+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,11068
+4672,9890,,2026-04-08 16:13:20.484165+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,11069

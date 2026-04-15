@@ -1,0 +1,101 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+24,259,,2026-04-01 16:17:45.135061+00:00,,,,,,,,System,,,,,,,,,,0,0,No,Normal system log with no specific details provided.
+1,260,,2026-04-01 16:17:45.135176+00:00,,,,1.0,,,,System,,,,,,,\Device\HarddiskVolume3\Windows\System32\svchost.exe,,,1,0,No,"Normal system log with svchost.exe, a common system process."
+4616,359,,2026-04-01 16:17:45.135418+00:00,,,0x00000000000005f8,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\svchost.exe,,,2,0,No,Normal security log involving svchost.exe under LOCAL SERVICE account.
+35,261,,2026-04-01 16:17:45.136377+00:00,,,,,,,,System,,,,,,,,,,3,0,No,Normal system log with no specific details provided.
+24,262,,2026-04-01 16:17:45.136837+00:00,,,,,,,,System,,,,,,,,,,4,0,No,Normal system log with no specific details provided.
+1,263,,2026-04-01 16:17:45.138052+00:00,,,,1.0,,,,System,,,,,,,\Device\HarddiskVolume3\Windows\System32\svchost.exe,,,5,0,No,"Normal system log with svchost.exe, a common system process."
+4616,360,,2026-04-01 16:17:45.138172+00:00,,,0x00000000000005f8,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\svchost.exe,,,6,0,No,Normal security log involving svchost.exe under LOCAL SERVICE account.
+4624,361,,2026-04-01 16:17:45.205181+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,362,,2026-04-01 16:17:45.205185+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,8,0,No,Normal security log with SYSTEM account activity.
+24,264,,2026-04-01 16:17:45.210051+00:00,,,,,,,,System,,,,,,,,,,9,0,No,Normal system log with no specific details provided.
+1,265,,2026-04-01 16:17:45.210302+00:00,,,,1.0,,,,System,,,,,,,\Device\HarddiskVolume3\Windows\System32\svchost.exe,,,10,0,No,"Normal system log with svchost.exe, a common system process."
+4616,363,,2026-04-01 16:17:45.213703+00:00,,,0x00000000000005f8,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\svchost.exe,,,11,0,No,Normal security log involving svchost.exe under LOCAL SERVICE account.
+1008,14,,2026-04-01 16:17:45.517582+00:00,,,,Full Index Reset,,,,Appiclation,,,,,,,,,,12,3,Yes,Full Index Reset in application log may indicate potential issues or maintenance.
+1010,15,,2026-04-01 16:17:45.519804+00:00,,,,,,,,Appiclation,,,,,,,,,,13,0,No,Normal application log with no specific details provided.
+4624,364,,2026-04-01 16:17:45.852949+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,14,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,365,,2026-04-01 16:17:45.852955+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,15,0,No,Normal security log with SYSTEM account activity.
+1004,16,,2026-04-01 16:17:46.392076+00:00,,,,Full Index Reset,,,,Appiclation,,,,,,,,,,16,3,Yes,Full Index Reset in application log may indicate potential issues or maintenance.
+1005,17,,2026-04-01 16:17:46.481220+00:00,,,,,,,,Appiclation,,,,,,,,,,17,0,No,Normal application log with no specific details provided.
+1003,18,,2026-04-01 16:17:46.511967+00:00,,,,,,,,Appiclation,,,,,,,,,,18,0,No,Normal application log with no specific details provided.
+4799,366,,2026-04-01 16:17:46.514307+00:00,,,,,,,,Security,C:\Windows\System32\SearchIndexer.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,19,0,No,"Normal security log with SearchIndexer.exe, a system process, under WIN-2RR949GCCSV$ account."
+4624,367,,2026-04-01 16:17:46.810417+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,20,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,368,,2026-04-01 16:17:46.810421+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,21,0,No,Normal security log with SYSTEM account activity.
+3,266,,2026-04-01 16:17:46.919863+00:00,,,,,,,,System,,,,,,,,,,22,0,No,Normal system log with no specific details provided.
+15,267,,2026-04-01 16:17:48.196573+00:00,,,,,,,,System,,,,,,,,,,23,0,No,Normal system log with no specific details provided.
+4799,369,,2026-04-01 16:17:48.406427+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,24,0,No,"Normal security log with svchost.exe, a system process, under WIN-2RR949GCCSV$ account."
+5617,19,,2026-04-01 16:17:48.656155+00:00,,,,,,,,Appiclation,,,,,,,,,,25,0,No,Normal application log with no specific details provided.
+1282,268,,2026-04-01 16:17:51.115767+00:00,,,,,,,,System,,,,,,,,,,26,0,No,Normal system log with no specific details provided.
+4624,370,,2026-04-01 16:17:51.442734+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,27,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,371,,2026-04-01 16:17:51.442739+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,28,0,No,Normal security log with SYSTEM account activity.
+86,20,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 16:17:51.783461+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 16:17:51 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 786d1892-ef44-49fd-bd2a-169ee429af96
+",,Appiclation,,,,,,,,,,29,6,Yes,HTTP 404 error for a security authority lookup indicates potential configuration or network issues.
+1025,269,,2026-04-01 16:17:51.788244+00:00,,,,,,,,System,,,,,,,,,,30,0,No,Normal system log with no specific details provided.
+86,21,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 16:17:52.062466+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 16:17:51 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 24265d19-b314-48f5-ab25-28226e424174
+",,Appiclation,,,,,,,,,,31,6,Yes,Repeated HTTP 404 error for a security authority lookup indicates potential configuration or network issues.
+4,270,,2026-04-01 16:17:53.884270+00:00,,,,,,,,System,,,,,,,,,,32,0,No,Normal system log with no specific details provided.
+16,271,,2026-04-01 16:17:53.891588+00:00,,,,,,,,System,,,,,,,,,,33,0,No,Normal system log with no specific details provided.
+4624,372,,2026-04-01 16:17:54.357697+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,34,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,373,,2026-04-01 16:17:54.357702+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,35,0,No,Normal security log with SYSTEM account activity.
+7040,272,,2026-04-01 16:17:55.142153+00:00,,,,,,,,System,,,,,,,,,,36,0,No,Normal system log with no specific details provided.
+1500,273,,2026-04-01 16:17:55.195967+00:00,,,,,,,,System,,,,,,,,,,37,0,No,Normal system log with no specific details provided.
+4624,374,,2026-04-01 16:17:55.313711+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,38,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,375,,2026-04-01 16:17:55.313717+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,39,0,No,Normal security log with SYSTEM account activity.
+4798,376,,2026-04-01 16:17:55.577250+00:00,,,,,,,,Security,C:\Windows\System32\lsass.exe,,,WIN-2RR949GCCSV$,defaultuser0,,,,,40,0,No,"Normal security log with lsass.exe, a system process, under WIN-2RR949GCCSV$ account."
+4648,377,,2026-04-01 16:17:55.609381+00:00,,,0x0000000000000468,,,,,Security,,,127.0.0.1,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\svchost.exe,,,41,3,Yes,Local login attempt from 127.0.0.1 to defaultuser0 needs review.
+4624,378,,2026-04-01 16:17:55.609400+00:00,,,0x0000000000000468,,,,,Security,,Negotiate,127.0.0.1,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\svchost.exe,,WIN-2RR949GCCSV,42,3,Yes,Local login attempt from 127.0.0.1 to defaultuser0 needs review.
+4624,379,,2026-04-01 16:17:55.609411+00:00,,,0x0000000000000468,,,,,Security,,Negotiate,127.0.0.1,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\svchost.exe,,WIN-2RR949GCCSV,43,3,Yes,Local login attempt from 127.0.0.1 to defaultuser0 needs review.
+4672,380,,2026-04-01 16:17:55.609415+00:00,,,,,,,,Security,,,,defaultuser0,,,,,,44,0,No,Normal security log with defaultuser0 account activity.
+7001,274,,2026-04-01 16:17:55.655647+00:00,,,,,,,,System,,,,,,,,,,45,0,No,Normal system log with no specific details provided.
+6003,22,,2026-04-01 16:17:55.673452+00:00,,,,,,,,Appiclation,,,,,,,,,,46,0,No,Normal application log with no specific details provided.
+16,275,,2026-04-01 16:17:55.681190+00:00,,,,,,,,System,,,,,,,,,,47,0,No,Normal system log with no specific details provided.
+16,276,,2026-04-01 16:17:55.684858+00:00,,,,,,,,System,,,,,,,,,,48,0,No,Normal system log with no specific details provided.
+4799,381,,2026-04-01 16:17:55.690266+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,49,0,No,"Normal security log with svchost.exe, a system process, under WIN-2RR949GCCSV$ account."
+1501,277,,2026-04-01 16:17:56.182720+00:00,,,,,,,,System,,,,,,,,,,50,0,No,Normal system log with no specific details provided.
+5379,382,,2026-04-01 16:17:56.200569+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,51,0,No,Normal security log with defaultuser0 account activity.
+5379,383,,2026-04-01 16:17:56.200655+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,52,0,No,Normal security log with defaultuser0 account activity.
+6000,23,,2026-04-01 16:17:56.300859+00:00,,,,,,,,Appiclation,,,,,,,,,,53,0,No,Normal application log with no specific details provided.
+4624,384,,2026-04-01 16:17:56.510620+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,54,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."
+4672,385,,2026-04-01 16:17:56.510626+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,55,0,No,Normal security log with SYSTEM account activity.
+5061,386,,2026-04-01 16:17:57.305420+00:00,,,,,%%2480,,,Security,,,,defaultuser0,,,,,,56,0,No,Normal security log with defaultuser0 account activity.
+5061,387,,2026-04-01 16:17:57.306593+00:00,,,,,%%2480,,,Security,,,,defaultuser0,,,,,,57,0,No,Normal security log with defaultuser0 account activity.
+5061,388,,2026-04-01 16:17:57.307665+00:00,,,,,%%2480,,,Security,,,,defaultuser0,,,,,,58,0,No,Normal security log with defaultuser0 account activity.
+5058,389,,2026-04-01 16:17:57.313019+00:00,,,,,%%2459,,,Security,,,,defaultuser0,,,,,,59,0,No,Normal security log with defaultuser0 account activity.
+5061,390,,2026-04-01 16:17:57.313835+00:00,,,,,%%2481,,,Security,,,,defaultuser0,,,,,,60,0,No,Normal security log with defaultuser0 account activity.
+5058,391,,2026-04-01 16:17:57.344656+00:00,,,,,%%2458,,,Security,,,,defaultuser0,,,,,,61,0,No,Normal security log with defaultuser0 account activity.
+5061,392,,2026-04-01 16:17:57.344904+00:00,,,,,%%2480,,,Security,,,,defaultuser0,,,,,,62,0,No,Normal security log with defaultuser0 account activity.
+5059,393,,2026-04-01 16:17:57.345104+00:00,,,,,%%2464,,,Security,,,,defaultuser0,,,,,,63,0,No,Normal security log with defaultuser0 account activity.
+5059,394,,2026-04-01 16:17:57.346279+00:00,,,,,%%2464,,,Security,,,,defaultuser0,,,,,,64,0,No,Normal security log with defaultuser0 account activity.
+5059,395,,2026-04-01 16:17:57.348709+00:00,,,,,%%2464,,,Security,,,,defaultuser0,,,,,,65,0,No,Normal security log with defaultuser0 account activity.
+5061,396,,2026-04-01 16:17:57.690580+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,66,0,No,Normal security log with LOCAL SERVICE account activity.
+5061,397,,2026-04-01 16:17:57.695782+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,67,0,No,Normal security log with LOCAL SERVICE account activity.
+5061,398,,2026-04-01 16:17:57.696735+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,68,0,No,Normal security log with LOCAL SERVICE account activity.
+5058,399,,2026-04-01 16:17:57.706062+00:00,,,,,%%2459,,,Security,,,,LOCAL SERVICE,,,,,,69,0,No,Normal security log with LOCAL SERVICE account activity.
+5061,400,,2026-04-01 16:17:57.707687+00:00,,,,,%%2481,,,Security,,,,LOCAL SERVICE,,,,,,70,0,No,Normal security log with LOCAL SERVICE account activity.
+5058,401,,2026-04-01 16:17:57.722775+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,71,0,No,Normal security log with LOCAL SERVICE account activity.
+5061,402,,2026-04-01 16:17:57.722969+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,72,0,No,Normal security log with LOCAL SERVICE account activity.
+5059,403,,2026-04-01 16:17:57.723169+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,73,0,No,Normal security log with LOCAL SERVICE account activity.
+5059,404,,2026-04-01 16:17:57.723606+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,74,0,No,Normal security log with LOCAL SERVICE account activity.
+5059,405,,2026-04-01 16:17:57.726082+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,75,0,No,Normal security log with LOCAL SERVICE account activity.
+5379,406,,2026-04-01 16:17:58.360941+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,76,0,No,Normal security log with defaultuser0 account activity.
+5379,407,,2026-04-01 16:17:58.361200+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,77,0,No,Normal security log with defaultuser0 account activity.
+5379,408,,2026-04-01 16:17:58.395428+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,defaultuser0,,,,,,78,0,No,Normal security log with defaultuser0 account activity.
+4624,409,,2026-04-01 16:17:58.953020+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,79,0,No,"Normal security log with services.exe, a system process, under SYSTEM account."

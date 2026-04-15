@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID
+5379,12979,,2026-04-08 16:41:54.077747+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14350
+5379,12980,,2026-04-08 16:41:54.077917+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14351
+5379,12981,,2026-04-08 16:41:54.078049+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14352
+4673,12982,,2026-04-08 16:41:55.837622+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14353
+4688,12983,,2026-04-08 16:41:55.838449+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,14354
+4688,12984,,2026-04-08 16:41:56.690935+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly,,C:\Windows\System32\svchost.exe,,14355
+4688,12985,,2026-04-08 16:42:02.634047+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,C:\Windows\System32\svchost.exe,,14356
+5382,12986,,2026-04-08 16:42:03.296255+00:00,,,,,,,2026-04-08 16:15:14.088600+00:00,Security,,,,NORMALVM$,,,,,,14357
+4688,12987,,2026-04-08 16:42:03.433067+00:00,,,0x0000000000002028,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-2352865859-2334931103-2005901029-10016_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-2352865859-2334931103-2005901029-10016 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",,C:\Windows\System32\SearchIndexer.exe,,14358
+4688,12988,,2026-04-08 16:42:03.909851+00:00,,,0x0000000000002028,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\System32\SearchFilterHost.exe"" 900 2928 2932 884 {EEC97550-47A9-11CF-B952-00AA0051FE20}",,C:\Windows\System32\SearchIndexer.exe,,14359
+4688,12989,,2026-04-08 16:42:04.953804+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --wake --system",,C:\Windows\System32\svchost.exe,,14360
+4688,12990,,2026-04-08 16:42:05.239098+00:00,,,0x0000000000002bb0,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --crash-handler --system ""--database=C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\Crashpad"" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=148.0.7730.0 ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log"" ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl"" --initial-client-data=0x2c0,0x2c4,0x2c8,0x2bc,0x2cc,0xe1c4ac,0xe1c4b8,0xe1c4c4",,C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe,,14361
+4688,12991,,2026-04-08 16:42:05.303337+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --system --windows-service --service=update-internal",,C:\Windows\System32\services.exe,,14362
+4688,12992,,2026-04-08 16:42:05.323462+00:00,,,0x000000000000050c,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --crash-handler --system ""--database=C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\Crashpad"" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=148.0.7730.0 ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log"" ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl"" --initial-client-data=0x2c0,0x2c4,0x2c8,0x2bc,0x2cc,0xe1c4ac,0xe1c4b8,0xe1c4c4",,C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe,,14363
+4688,12993,,2026-04-08 16:42:05.409052+00:00,,,0x00000000000002e4,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --system --windows-service --service=update",,C:\Windows\System32\services.exe,,14364
+4688,12994,,2026-04-08 16:42:05.470078+00:00,,,0x00000000000006bc,,,,,Security,,,,NORMALVM$,-,"""C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe"" --crash-handler --system ""--database=C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\Crashpad"" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=148.0.7730.0 ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log"" ""--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl"" --initial-client-data=0x2c0,0x2c4,0x2c8,0x2bc,0x2cc,0xe1c4ac,0xe1c4b8,0xe1c4c4",,C:\Program Files (x86)\Google\GoogleUpdater\148.0.7730.0\updater.exe,,14365
+4798,12995,,2026-04-08 16:42:05.582216+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,14366
+4798,12996,,2026-04-08 16:42:05.583845+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,14367
+4798,12997,,2026-04-08 16:42:05.584160+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,14368
+4798,12998,,2026-04-08 16:42:05.584492+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,14369
+4673,12999,,2026-04-08 16:42:05.586128+00:00,,,0x00000000000002ec,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,14370
+4688,13000,,2026-04-08 16:42:07.506203+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,14371
+4673,13001,,2026-04-08 16:42:07.637363+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,14372
+4797,13002,,2026-04-08 16:42:07.638266+00:00,,,,,,,,Security,,,,pizza,Administrator,,,,,14373
+4688,13003,,2026-04-08 16:42:07.666378+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,C:\Windows\System32\svchost.exe,,14374
+4673,13004,,2026-04-08 16:42:07.674011+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,14375
+4797,13005,,2026-04-08 16:42:07.674063+00:00,,,,,,,,Security,,,,pizza,DefaultAccount,,,,,14376
+4673,13006,,2026-04-08 16:42:07.688643+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,14377
+4797,13007,,2026-04-08 16:42:07.688688+00:00,,,,,,,,Security,,,,pizza,Guest,,,,,14378
+4673,13008,,2026-04-08 16:42:07.691069+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,14379
+4673,13009,,2026-04-08 16:42:07.701492+00:00,,,0x00000000000002ec,,,,,Security,,,,pizza,,,C:\Windows\System32\lsass.exe,,,14380
+4797,13010,,2026-04-08 16:42:07.701527+00:00,,,,,,,,Security,,,,pizza,WDAGUtilityAccount,,,,,14381
+4798,13011,,2026-04-08 16:42:07.818716+00:00,,,,,,,,Security,C:\Windows\explorer.exe,,,pizza,pizza,,,,,14382
+4688,13012,,2026-04-08 16:42:12.011255+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,14383
+5379,13013,,2026-04-08 16:42:13.404522+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14384
+5379,13014,,2026-04-08 16:42:13.406206+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14385
+5379,13015,,2026-04-08 16:42:13.406258+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14386
+5379,13016,,2026-04-08 16:42:13.448820+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14387
+5379,13017,,2026-04-08 16:42:13.449190+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14388
+5379,13018,,2026-04-08 16:42:13.504778+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14389
+5379,13019,,2026-04-08 16:42:13.504965+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14390
+5379,13020,,2026-04-08 16:42:13.505125+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14391
+4688,13021,,2026-04-08 16:42:33.565390+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,\\?\C:\Windows\System32\SecurityHealth\10.0.29510.1001-0\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,C:\Windows\System32\svchost.exe,,14392
+4673,13022,,2026-04-08 16:42:33.674995+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14393
+4688,13023,,2026-04-08 16:42:33.675823+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,14394
+4688,13024,,2026-04-08 16:42:33.850178+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,\\?\C:\Windows\System32\SecurityHealth\10.0.29510.1001-0\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,C:\Windows\System32\svchost.exe,,14395
+4688,13025,,2026-04-08 16:42:34.692080+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,14396
+4688,13026,,2026-04-08 16:42:42.423889+00:00,,,0x0000000000000c9c,,,,,Security,,,,pizza,-,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --metrics-shmem-handle=8740,i,17468623543793071480,5000589389551190017,524288 --field-trial-handle=2248,i,6510312676407320736,16050714534230523822,262144 --variations-seed-version=20260408-010034.038000 --pseudonymization-salt-handle=2252,i,17562371738934199719,6213885834508967682,4 --trace-process-track-uuid=3190709083764223790 --mojo-platform-channel-handle=4248 /prefetch:14",,C:\Program Files\Google\Chrome\Application\chrome.exe,,14397
+4688,13027,,2026-04-08 16:42:42.473255+00:00,,,0x0000000000000c9c,,,,,Security,,,,pizza,-,"""C:\Program Files\Google\Chrome\Application\chrome.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --metrics-shmem-handle=3536,i,10798315506021991281,9262308254907720972,524288 --field-trial-handle=2248,i,6510312676407320736,16050714534230523822,262144 --variations-seed-version=20260408-010034.038000 --pseudonymization-salt-handle=2252,i,17562371738934199719,6213885834508967682,4 --trace-process-track-uuid=3190709084701265639 --mojo-platform-channel-handle=4868 /prefetch:14",,C:\Program Files\Google\Chrome\Application\chrome.exe,,14398
+4688,13028,,2026-04-08 16:43:01.605280+00:00,,,0x0000000000000494,,,,,Security,,,,NORMALVM$,-,taskhostw.exe,,C:\Windows\System32\svchost.exe,,14399
+5379,13029,,2026-04-08 16:44:02.941101+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14400
+5379,13030,,2026-04-08 16:44:02.942213+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14401
+5379,13031,,2026-04-08 16:44:02.942259+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14402
+5379,13032,,2026-04-08 16:44:02.945589+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14403
+5379,13033,,2026-04-08 16:44:02.945906+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14404
+5379,13034,,2026-04-08 16:44:02.962805+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14405
+5379,13035,,2026-04-08 16:44:02.963011+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14406
+5379,13036,,2026-04-08 16:44:02.963163+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14407
+4688,13037,,2026-04-08 16:44:07.200586+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.28.219.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe"" -Embedding",,C:\Windows\System32\svchost.exe,,14408
+4673,13038,,2026-04-08 16:44:07.210691+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14409
+4673,13039,,2026-04-08 16:45:40.295704+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14410
+4688,13040,,2026-04-08 16:45:40.298128+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.RulesEngine.AppXgphnekvm0vv49drvfehh4b6kyf6ckafp.mca",,C:\Windows\System32\svchost.exe,,14411
+4673,13041,,2026-04-08 16:45:40.309895+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14412
+4688,13042,,2026-04-08 16:45:40.315973+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,C:\Windows\System32\svchost.exe,,14413
+4688,13043,,2026-04-08 16:45:40.564161+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,14414
+4673,13044,,2026-04-08 16:45:41.025608+00:00,,,0x0000000000000364,,,,,Security,,,,pizza,,,C:\Windows\System32\svchost.exe,,,14415
+4688,13045,,2026-04-08 16:45:41.027067+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,C:\Windows\System32\svchost.exe,,14416
+4688,13046,,2026-04-08 16:45:41.096344+00:00,,,0x0000000000000364,,,,,Security,,,,NORMALVM$,pizza,C:\Windows\System32\RuntimeBroker.exe -Embedding,,C:\Windows\System32\svchost.exe,,14417
+5379,13047,,2026-04-08 16:45:43.447441+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14418
+5379,13048,,2026-04-08 16:45:43.448566+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14419
+5379,13049,,2026-04-08 16:45:43.448608+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14420
+5379,13050,,2026-04-08 16:45:43.452791+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14421
+5379,13051,,2026-04-08 16:45:43.453154+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14422
+5379,13052,,2026-04-08 16:45:43.473730+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14423
+5379,13053,,2026-04-08 16:45:43.473927+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14424
+5379,13054,,2026-04-08 16:45:43.474085+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14425
+5379,13055,,2026-04-08 16:45:44.509974+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14426
+5379,13056,,2026-04-08 16:45:44.510794+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14427
+5379,13057,,2026-04-08 16:45:44.510834+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14428
+5379,13058,,2026-04-08 16:45:44.514811+00:00,,,,,,,2026-04-08 16:15:10.426329+00:00,Security,,,,pizza,,,,,,14429
