@@ -6,7 +6,7 @@ import json
 
 client = OpenAI()
 
-chunk_folder = r"C:\Users\tcsim\PycharmProjects\Capstone-LLM-Project-\Logs_Normal\test1"
+chunk_folder = r"C:\Users\tcsim\PycharmProjects\Capstone-LLM-Project-\Logs_Normal\D_Chunked_normal"
 
 chunk_files = glob.glob(os.path.join(chunk_folder, "*.csv"))
 
@@ -39,28 +39,30 @@ for file in chunk_files:
     )
 
     prompt = f"""
-You are a SOC analyst reviewing Windows logs.
+You are a Wazuh System information event manager.
 Analyze EACH input log and return exactly one result for each RowID.
 
 TASKS:
 - Assign a Suspicion_Score from 0 to 15
 - Assign Suspicious as "Yes" or "No"
-- Write a short Reason based only on the provided log data
+- Write a Human readable summary for why the log was suspicious.
 
 RULES:
-- The first 10 rows are context and do not need to be scored unless this is the first chunk
+- The first 10 rows are context from the previous chunk
 - You MUST return exactly one result for each input RowID
 - Do NOT skip any RowID
 - Do NOT guess, assume, or infer missing details
 - Logs are chronological
-- Keep each Reason short, maximum 8 words
-
+- Keep each summary short, maximum 30 words
+- Provide a reason for the Suspicion_Score based only on the log data. 
+-If the log is normal, explain why it is normal activity. 
+-It is acceptable and expected that no suspicious activity may be present.
 IMPORTANT:
-0–2: Normal system activity
-3–5: Low-risk events
-6–8: Needs review
-9–11: Suspicious activity
-12–15: Highly likely malicious activity
+0–2: Normal system activity 
+3–5: Low risk events
+6–8: medium risk Needs review
+9–11:  High risk Suspicious activity
+12–15: Critical risk likely malicious activity
 
 Return ONLY valid JSON. No markdown. No extra text.
 
@@ -70,8 +72,7 @@ OUTPUT FORMAT:
     {{
       "RowID": 0,
       "Suspicion_Score": 0,
-      "Suspicious": "No",
-      "Reason": ""
+      "summary": ""
     }}
   ]
 }}
