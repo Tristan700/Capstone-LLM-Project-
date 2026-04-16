@@ -1,0 +1,101 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4624,698,,2026-04-01 16:31:56.948153+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,560,,
+4672,699,,2026-04-01 16:31:56.948158+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,561,,
+4624,700,,2026-04-01 16:31:56.955284+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,562,,
+4672,701,,2026-04-01 16:31:56.955290+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,563,,
+4624,702,,2026-04-01 16:31:56.962509+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,564,,
+4672,703,,2026-04-01 16:31:56.962515+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,565,,
+4624,704,,2026-04-01 16:31:57.003202+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,566,,
+4672,705,,2026-04-01 16:31:57.003208+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,567,,
+4624,706,,2026-04-01 16:31:57.225220+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,568,,
+4672,707,,2026-04-01 16:31:57.225225+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,569,,
+4624,708,,2026-04-01 16:31:57.358488+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,570,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,709,,2026-04-01 16:31:57.358492+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,571,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4672,711,,2026-04-01 16:31:57.358578+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,572,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4624,710,,2026-04-01 16:31:57.358578+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,573,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4799,712,,2026-04-01 16:31:57.409208+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,574,0.0,"Normal system activity; EventID 4799, svchost.exe interacting with Administrators group."
+5615,84,,2026-04-01 16:31:57.459808+00:00,,,,,,,,Appiclation,,,,,,,,,,575,0.0,Normal system activity; EventID 5615 from Application source with no specific details.
+6000,83,,2026-04-01 16:31:58.153456+00:00,,,,,,,,Appiclation,,,,,,,,,,576,0.0,Normal system activity; EventID 6000 from Application source with no specific details.
+7026,411,,2026-04-01 16:31:58.666424+00:00,,,,,,,,System,,,,,,,,,,577,0.0,Normal system activity; EventID 7026 from System source with no specific details.
+18,412,,2026-04-01 16:31:58.668571+00:00,,,,,,,,System,,,,,,,,,,578,0.0,Normal system activity; EventID 18 from System source with no specific details.
+4624,713,,2026-04-01 16:31:58.966042+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,579,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,714,,2026-04-01 16:31:58.966047+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,580,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+5058,715,,2026-04-01 16:32:00.035280+00:00,,,,,%%2458,,,Security,,,,defaultuser0,,,,,,581,3.0,"Low risk; EventID 5058, operation code %%2458, involving defaultuser0, needs review."
+5061,716,,2026-04-01 16:32:00.040119+00:00,,,,,%%2480,,,Security,,,,defaultuser0,,,,,,582,3.0,"Low risk; EventID 5061, operation code %%2480, involving defaultuser0, needs review."
+5059,717,,2026-04-01 16:32:00.040899+00:00,,,,,%%2464,,,Security,,,,defaultuser0,,,,,,583,3.0,"Low risk; EventID 5059, operation code %%2464, involving defaultuser0, needs review."
+5058,718,,2026-04-01 16:32:00.612581+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,584,3.0,"Low risk; EventID 5058, operation code %%2458, involving LOCAL SERVICE, needs review."
+5061,719,,2026-04-01 16:32:00.616514+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,585,3.0,"Low risk; EventID 5061, operation code %%2480, involving LOCAL SERVICE, needs review."
+5059,720,,2026-04-01 16:32:00.617168+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,586,3.0,"Low risk; EventID 5059, operation code %%2464, involving LOCAL SERVICE, needs review."
+4624,721,,2026-04-01 16:32:00.799133+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,587,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,722,,2026-04-01 16:32:00.799141+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,588,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4624,723,,2026-04-01 16:32:01.154579+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,589,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,724,,2026-04-01 16:32:01.154583+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,590,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4624,725,,2026-04-01 16:32:02.447636+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,591,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,726,,2026-04-01 16:32:02.447641+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,592,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+5024,727,,2026-04-01 16:32:02.702208+00:00,,,,,,,,Security,,,,,,,,,,593,0.0,Normal system activity; EventID 5024 from Security source with no specific details.
+4624,728,,2026-04-01 16:32:03.849451+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,594,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,729,,2026-04-01 16:32:03.849455+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,595,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+0,85,,2026-04-01 16:32:04.768066+00:00,,,,,,,,Appiclation,,,,,,,,,,596,0.0,Normal system activity; EventID 0 from Application source with no specific details.
+4624,730,,2026-04-01 16:32:05.925800+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,597,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,731,,2026-04-01 16:32:05.925808+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,598,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4624,732,,2026-04-01 16:32:07.998075+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,599,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,733,,2026-04-01 16:32:07.998079+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,600,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+1003,86,,2026-04-01 16:32:08.278051+00:00,,,,,,,,Appiclation,,,,,,,,,,601,0.0,Normal system activity; EventID 1003 from Application source with no specific details.
+4799,734,,2026-04-01 16:32:08.288675+00:00,,,,,,,,Security,C:\Windows\System32\SearchIndexer.exe,,,NORMALVM$,Administrators,,,,,602,0.0,"Normal system activity; EventID 4799, SearchIndexer.exe interacting with Administrators group."
+4624,735,,2026-04-01 16:32:10.023546+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,603,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,736,,2026-04-01 16:32:10.023552+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,604,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+1001,87,,2026-04-01 16:32:18.496347+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,605,0.0,"Normal system activity; EventID 1001, crashpad_log from Application source."
+1001,88,,2026-04-01 16:32:18.878799+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,606,0.0,"Normal system activity; EventID 1001, crashpad_log from Application source."
+1282,413,,2026-04-01 16:32:19.337339+00:00,,,,,,,,System,,,,,,,,,,607,0.0,Normal system activity; EventID 1282 from System source with no specific details.
+4624,737,,2026-04-01 16:32:20.701244+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,608,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,738,,2026-04-01 16:32:20.701273+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,609,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+86,89,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 16:32:21.294371+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 16:32:21 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: ba0d4f41-5b70-44d7-9bdc-77f490ad1528
+",,Appiclation,,,,,,,,,,610,5.0,"Low risk; EventID 86, HTTP 404 error for GetCACaps, indicating a missing authority, needs review."
+1025,414,,2026-04-01 16:32:21.301315+00:00,,,,,,,,System,,,,,,,,,,611,0.0,Normal system activity; EventID 1025 from System source with no specific details.
+86,90,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 16:32:21.595459+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 16:32:21 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 83facaf2-920b-4cff-833a-b5bc1a36714c
+",,Appiclation,,,,,,,,,,612,5.0,"Low risk; EventID 86, HTTP 404 error for GetCACaps, indicating a missing authority, needs review."
+1041,415,,2026-04-01 16:32:24.180843+00:00,,,,,,,,System,,,,,,,,,,613,0.0,Normal system activity; EventID 1041 from System source with no specific details.
+1038,416,,2026-04-01 16:32:24.180914+00:00,,,,,,,,System,,,,,,,,,,614,0.0,Normal system activity; EventID 1038 from System source with no specific details.
+4624,739,,2026-04-01 16:32:46.589186+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,615,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,740,,2026-04-01 16:32:46.589193+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,616,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+4799,741,,2026-04-01 16:32:57.526382+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,617,0.0,"Normal system activity; EventID 4799, svchost.exe interacting with Administrators group."
+4097,91,,2026-04-01 16:32:58.001629+00:00,,,,,,,,Appiclation,,,,,,,,,,618,0.0,Normal system activity; EventID 4097 from Application source with no specific details.
+4624,742,,2026-04-01 16:32:58.381880+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,619,0.0,Normal system activity; repeated EventID 4624 with SYSTEM login from NORMALVM$.
+4672,743,,2026-04-01 16:32:58.381884+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,620,0.0,"Normal system activity; repeated EventID 4672, indicating special privileges assigned to SYSTEM."
+5617,92,,2026-04-01 16:32:58.423372+00:00,,,,,,,,Appiclation,,,,,,,,,,621,0.0,Normal system activity; EventID 5617 from Application source with no specific details.
+5379,744,,2026-04-01 16:32:59.499372+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,622,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,745,,2026-04-01 16:32:59.593454+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,623,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,746,,2026-04-01 16:32:59.594002+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,624,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,747,,2026-04-01 16:32:59.594032+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,625,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,748,,2026-04-01 16:32:59.594086+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,626,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,749,,2026-04-01 16:32:59.594160+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,NORMALVM$,,,,,,627,0.0,"Normal system activity; EventID 5379, involving NORMALVM$ with no specific details."
+5379,750,,2026-04-01 16:32:59.648045+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,628,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,751,,2026-04-01 16:32:59.648579+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,629,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,752,,2026-04-01 16:32:59.648634+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,630,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,753,,2026-04-01 16:32:59.650192+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,631,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,754,,2026-04-01 16:32:59.650473+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,632,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,755,,2026-04-01 16:32:59.650637+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,633,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+4097,93,,2026-04-01 16:33:01.054394+00:00,,,,,,,,Appiclation,,,,,,,,,,634,0.0,Normal system activity; EventID 4097 from Application source with no specific details.
+4097,94,,2026-04-01 16:33:01.780930+00:00,,,,,,,,Appiclation,,,,,,,,,,635,0.0,Normal system activity; EventID 4097 from Application source with no specific details.
+5379,756,,2026-04-01 16:33:04.600760+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,636,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,757,,2026-04-01 16:33:04.814373+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,637,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,758,,2026-04-01 16:33:04.938860+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,638,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."
+5379,759,,2026-04-01 16:33:04.939203+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,639,0.0,"Normal system activity; EventID 5379, involving defaultuser0 with no specific details."

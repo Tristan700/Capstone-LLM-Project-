@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+10010,425,,2026-04-01 16:49:25.569931+00:00,,,,,,,,System,,,,,,,,,,1260,0,No,"Log lacks details, typical of a placeholder or system test entry."
+4647,1337,,2026-04-01 16:49:29.064028+00:00,,,,,,,,Security,,,,,defaultuser0,,,,,1261,0,No,"User logout event for 'defaultuser0', normal activity."
+6000,130,,2026-04-01 16:49:30.842255+00:00,,,,,,,,Appiclation,,,,,,,,,,1262,0,No,Generic application event with no specific details provided.
+6000,131,,2026-04-01 16:49:30.890772+00:00,,,,,,,,Appiclation,,,,,,,,,,1263,0,No,Generic application event with no specific details provided.
+7002,426,,2026-04-01 16:49:30.894333+00:00,,,,,,,,System,,,,,,,,,,1264,0,No,"System event with no specific details, likely routine."
+4624,1338,,2026-04-01 16:49:30.927332+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,1265,2,No,"Normal login event from 'NORMALVM$' to 'SYSTEM', using 'services.exe'."
+4672,1339,,2026-04-01 16:49:30.927338+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,1266,0,No,"Special privileges assigned to 'SYSTEM', typical for system operations."
+4648,1340,,2026-04-01 16:49:31.221647+00:00,,,0x0000000000001418,,,,,Security,,,-,NORMALVM$,UMFD-2,,C:\Windows\System32\winlogon.exe,,,1267,2,No,Attempted login from 'NORMALVM$' to 'UMFD-2' using 'winlogon.exe'.
+4624,1341,,2026-04-01 16:49:31.221722+00:00,,,0x0000000000001418,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-2,,C:\Windows\System32\winlogon.exe,,-,1268,2,No,Successful login from 'NORMALVM$' to 'UMFD-2' using 'winlogon.exe'.
+4648,1342,,2026-04-01 16:49:31.320541+00:00,,,0x0000000000001418,,,,,Security,,,-,NORMALVM$,DWM-2,,C:\Windows\System32\winlogon.exe,,,1269,2,No,Attempted login from 'NORMALVM$' to 'DWM-2' using 'winlogon.exe'.
+4624,1343,,2026-04-01 16:49:31.320557+00:00,,,0x0000000000001418,,,,,Security,,Negotiate,-,NORMALVM$,DWM-2,,C:\Windows\System32\winlogon.exe,,-,1270,2,No,Successful login from 'NORMALVM$' to 'DWM-2' using 'winlogon.exe'.
+4624,1344,,2026-04-01 16:49:31.320564+00:00,,,0x0000000000001418,,,,,Security,,Negotiate,-,NORMALVM$,DWM-2,,C:\Windows\System32\winlogon.exe,,-,1271,2,No,Successful login from 'NORMALVM$' to 'DWM-2' using 'winlogon.exe'.
+4672,1345,,2026-04-01 16:49:31.320568+00:00,,,,,,,,Security,,,,DWM-2,,,,,,1272,0,No,"Special privileges assigned to 'DWM-2', typical for system operations."
+4672,1346,,2026-04-01 16:49:31.320568+00:00,,,,,,,,Security,,,,DWM-2,,,,,,1273,0,No,"Special privileges assigned to 'DWM-2', typical for system operations."
+4634,1347,,2026-04-01 16:49:31.390390+00:00,,,,,,,,Security,,,,,UMFD-1,,,,,1274,0,No,"User logout event for 'UMFD-1', normal activity."
+4738,1348,,2026-04-01 16:49:32.069588+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,1275,0,No,"User account 'pizza' modified, no additional suspicious details."
+4648,1349,,2026-04-01 16:49:32.073738+00:00,,,0x000000000000050c,,,,,Security,,,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,,1276,12,Yes,Suspicious login attempt to 'pizzahuthacker@gmail.com' from localhost.
+4624,1350,,2026-04-01 16:49:32.073757+00:00,,,0x000000000000050c,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,1277,12,Yes,Suspicious login to 'pizzahuthacker@gmail.com' from localhost.
+4624,1351,,2026-04-01 16:49:32.073767+00:00,,,0x000000000000050c,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,1278,12,Yes,Repeated suspicious login to 'pizzahuthacker@gmail.com' from localhost.
+4672,1352,,2026-04-01 16:49:32.073771+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,1279,12,Yes,Special privileges assigned to suspicious account 'pizzahuthacker@gmail.com'.
+7001,427,,2026-04-01 16:49:32.091734+00:00,,,,,,,,System,,,,,,,,,,1280,0,No,"System event with no specific details, likely routine."
+4738,1353,,2026-04-01 16:49:32.107496+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,1281,0,No,"User account 'pizza' modified, no additional suspicious details."
+4648,1354,,2026-04-01 16:49:32.115820+00:00,,,0x00000000000002ec,,,,,Security,,,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,,1282,12,Yes,Suspicious login attempt to 'pizzahuthacker@gmail.com' from 'lsass.exe'.
+4624,1355,,2026-04-01 16:49:32.115837+00:00,,,0x00000000000002ec,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,1283,12,Yes,Suspicious login to 'pizzahuthacker@gmail.com' from 'lsass.exe'.
+4624,1356,,2026-04-01 16:49:32.115845+00:00,,,0x00000000000002ec,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,1284,12,Yes,Repeated suspicious login to 'pizzahuthacker@gmail.com' from 'lsass.exe'.
+4672,1357,,2026-04-01 16:49:32.115847+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,1285,12,Yes,Special privileges assigned to suspicious account 'pizzahuthacker@gmail.com'.
+4634,1358,,2026-04-01 16:49:32.118626+00:00,,,,,,,,Security,,,,,pizza,,,,,1286,0,No,"User logout event for 'pizza', normal activity."
+4634,1359,,2026-04-01 16:49:32.129215+00:00,,,,,,,,Security,,,,,pizza,,,,,1287,0,No,"User logout event for 'pizza', normal activity."
+6003,132,,2026-04-01 16:49:32.165447+00:00,,,,,,,,Appiclation,,,,,,,,,,1288,0,No,Generic application event with no specific details provided.
+5379,1360,,2026-04-01 16:49:32.248617+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1289,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1361,,2026-04-01 16:49:32.250359+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1290,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1362,,2026-04-01 16:49:32.250425+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1291,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1363,,2026-04-01 16:49:32.266747+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1292,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1364,,2026-04-01 16:49:32.287100+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1293,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1365,,2026-04-01 16:49:32.288179+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1294,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1366,,2026-04-01 16:49:32.289314+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1295,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1367,,2026-04-01 16:49:32.290615+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1296,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1368,,2026-04-01 16:49:32.294743+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1297,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1369,,2026-04-01 16:49:32.317375+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1298,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1370,,2026-04-01 16:49:32.693171+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1299,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1371,,2026-04-01 16:49:32.693628+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1300,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1372,,2026-04-01 16:49:32.694174+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1301,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1373,,2026-04-01 16:49:32.694601+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1302,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1374,,2026-04-01 16:49:32.695066+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1303,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1375,,2026-04-01 16:49:32.695290+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1304,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1376,,2026-04-01 16:49:32.706425+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1305,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1377,,2026-04-01 16:49:32.706957+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1306,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1378,,2026-04-01 16:49:32.707380+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1307,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1379,,2026-04-01 16:49:32.707811+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1308,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1380,,2026-04-01 16:49:32.707970+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1309,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1381,,2026-04-01 16:49:32.708242+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1310,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1382,,2026-04-01 16:49:32.708603+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1311,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1383,,2026-04-01 16:49:32.708704+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1312,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1384,,2026-04-01 16:49:32.708822+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1313,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1385,,2026-04-01 16:49:32.709576+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1314,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1386,,2026-04-01 16:49:32.719114+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1315,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1387,,2026-04-01 16:49:32.719547+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1316,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1388,,2026-04-01 16:49:32.719748+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1317,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1389,,2026-04-01 16:49:32.720196+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1318,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1390,,2026-04-01 16:49:32.720387+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1319,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1391,,2026-04-01 16:49:32.720787+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1320,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1392,,2026-04-01 16:49:32.721001+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1321,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1393,,2026-04-01 16:49:32.721378+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1322,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1394,,2026-04-01 16:49:32.721554+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1323,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1395,,2026-04-01 16:49:32.721928+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1324,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1396,,2026-04-01 16:49:32.722429+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1325,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1397,,2026-04-01 16:49:32.722816+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1326,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1398,,2026-04-01 16:49:32.723166+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1327,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1399,,2026-04-01 16:49:32.741585+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1328,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1400,,2026-04-01 16:49:32.742039+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1329,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1401,,2026-04-01 16:49:32.742237+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1330,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1402,,2026-04-01 16:49:32.742624+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1331,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1403,,2026-04-01 16:49:32.742815+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1332,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1404,,2026-04-01 16:49:32.743196+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1333,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1405,,2026-04-01 16:49:32.743319+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1334,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1406,,2026-04-01 16:49:32.751896+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1335,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1407,,2026-04-01 16:49:32.752407+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1336,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1408,,2026-04-01 16:49:32.752518+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1337,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1409,,2026-04-01 16:49:32.757973+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1338,0,No,"Credential validation event for 'pizza', normal system activity."
+5379,1410,,2026-04-01 16:49:32.768721+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1339,0,No,"Credential validation event for 'pizza', normal system activity."

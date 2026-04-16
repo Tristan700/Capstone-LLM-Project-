@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,791,,2026-04-01 16:43:51.629562+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,700,0,Normal system activity; no specific details provided.
+5379,792,,2026-04-01 16:43:51.631111+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,701,0,Normal system activity; no specific details provided.
+5379,793,,2026-04-01 16:43:51.631338+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,702,0,Normal system activity; no specific details provided.
+5379,794,,2026-04-01 16:43:51.631382+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,703,0,Normal system activity; no specific details provided.
+5379,795,,2026-04-01 16:43:51.632219+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,704,0,Normal system activity; no specific details provided.
+5379,796,,2026-04-01 16:43:51.632265+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,705,0,Normal system activity; no specific details provided.
+5379,797,,2026-04-01 16:43:51.632767+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,706,0,Normal system activity; no specific details provided.
+5379,798,,2026-04-01 16:43:52.555796+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,707,0,Normal system activity; no specific details provided.
+5379,799,,2026-04-01 16:43:52.561436+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,708,0,Normal system activity; no specific details provided.
+5379,800,,2026-04-01 16:43:52.573946+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,709,0,Normal system activity; no specific details provided.
+5379,801,,2026-04-01 16:43:52.574001+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,710,0,Normal system activity; no specific details provided.
+16394,121,,2026-04-01 16:43:55.442039+00:00,,,,,,,,Appiclation,,,,,,,,,,711,0,Normal system activity; no specific details provided.
+0,122,,2026-04-01 16:44:02.375448+00:00,,,,,,,,Appiclation,,,,,,,,,,712,0,Normal system activity; no specific details provided.
+4624,802,,2026-04-01 16:44:02.905792+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,713,0,Normal system activity; services.exe is a standard Windows process.
+4672,803,,2026-04-01 16:44:02.905796+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,714,0,Normal system activity; no specific details provided.
+16384,123,,2026-04-01 16:44:25.803284+00:00,,,,,,,,Appiclation,,,,,,,,,,715,0,Normal system activity; no specific details provided.
+0,124,,2026-04-01 16:45:02.557985+00:00,,,,,,,,Appiclation,,,,,,,,,,716,0,Normal system activity; no specific details provided.
+0,125,,2026-04-01 16:46:02.399546+00:00,,,,,,,,Appiclation,,,,,,,,,,717,0,Normal system activity; no specific details provided.
+4624,804,,2026-04-01 16:46:55.962854+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,718,0,Normal system activity; services.exe is a standard Windows process.
+4672,805,,2026-04-01 16:46:55.962885+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,719,0,Normal system activity; no specific details provided.
+5379,806,,2026-04-01 16:46:56.414209+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,720,0,Normal system activity; no specific details provided.
+5379,807,,2026-04-01 16:46:56.414274+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,721,0,Normal system activity; no specific details provided.
+5379,808,,2026-04-01 16:46:56.414648+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,722,0,Normal system activity; no specific details provided.
+5379,809,,2026-04-01 16:46:56.693918+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,723,0,Normal system activity; no specific details provided.
+5379,810,,2026-04-01 16:46:56.694216+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,724,0,Normal system activity; no specific details provided.
+5379,811,,2026-04-01 16:46:56.698408+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,725,0,Normal system activity; no specific details provided.
+5379,812,,2026-04-01 16:46:56.698503+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,726,0,Normal system activity; no specific details provided.
+0,126,,2026-04-01 16:47:02.427088+00:00,,,,,,,,Appiclation,,,,,,,,,,727,0,Normal system activity; no specific details provided.
+4728,813,,2026-04-01 16:47:57.238430+00:00,,,,,,,,Security,,,,NORMALVM$,,,,,,728,0,Normal system activity; no specific details provided.
+4720,814,,2026-04-01 16:47:57.238894+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,729,0,Normal system activity; no specific details provided.
+4732,815,,2026-04-01 16:47:57.240011+00:00,,,,,,,,Security,,,,NORMALVM$,Users,,,,,730,0,Normal system activity; no specific details provided.
+4732,816,,2026-04-01 16:47:57.240194+00:00,,,,,,,,Security,,,,NORMALVM$,Administrators,,,,,731,0,Normal system activity; no specific details provided.
+4724,817,,2026-04-01 16:47:57.295542+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,732,0,Normal system activity; no specific details provided.
+4722,818,,2026-04-01 16:47:57.298208+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,733,0,Normal system activity; no specific details provided.
+4738,819,,2026-04-01 16:47:57.298225+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,734,0,Normal system activity; no specific details provided.
+4738,820,,2026-04-01 16:47:57.298326+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,735,0,Normal system activity; no specific details provided.
+5379,821,,2026-04-01 16:47:57.307333+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,736,0,Normal system activity; no specific details provided.
+5379,822,,2026-04-01 16:47:57.307381+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,737,0,Normal system activity; no specific details provided.
+5379,823,,2026-04-01 16:47:57.307411+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,738,0,Normal system activity; no specific details provided.
+5379,824,,2026-04-01 16:47:57.698593+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,739,0,Normal system activity; no specific details provided.
+5379,825,,2026-04-01 16:47:57.698643+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,740,0,Normal system activity; no specific details provided.
+5379,826,,2026-04-01 16:47:57.698683+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,741,0,Normal system activity; no specific details provided.
+5379,827,,2026-04-01 16:47:57.698711+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,742,0,Normal system activity; no specific details provided.
+5379,828,,2026-04-01 16:47:57.698744+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,743,0,Normal system activity; no specific details provided.
+5379,829,,2026-04-01 16:47:57.698772+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,744,0,Normal system activity; no specific details provided.
+5379,830,,2026-04-01 16:47:57.698803+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,745,0,Normal system activity; no specific details provided.
+5379,831,,2026-04-01 16:47:57.698832+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,746,0,Normal system activity; no specific details provided.
+5379,832,,2026-04-01 16:47:57.698975+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,747,0,Normal system activity; no specific details provided.
+5379,833,,2026-04-01 16:47:57.699106+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,748,0,Normal system activity; no specific details provided.
+5379,834,,2026-04-01 16:47:57.699163+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,749,0,Normal system activity; no specific details provided.
+5379,835,,2026-04-01 16:47:57.699200+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,750,0,Normal system activity; no specific details provided.
+5379,836,,2026-04-01 16:47:57.699226+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,751,0,Normal system activity; no specific details provided.
+5379,837,,2026-04-01 16:47:57.699253+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,752,0,Normal system activity; no specific details provided.
+5379,838,,2026-04-01 16:47:57.699427+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,753,0,Normal system activity; no specific details provided.
+5379,839,,2026-04-01 16:47:57.699490+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,754,0,Normal system activity; no specific details provided.
+5379,840,,2026-04-01 16:47:57.700230+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,755,0,Normal system activity; no specific details provided.
+5379,841,,2026-04-01 16:47:57.700266+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,756,0,Normal system activity; no specific details provided.
+5379,842,,2026-04-01 16:47:57.700603+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,757,0,Normal system activity; no specific details provided.
+5379,843,,2026-04-01 16:47:57.700745+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,758,0,Normal system activity; no specific details provided.
+5379,844,,2026-04-01 16:47:57.700790+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,759,0,Normal system activity; no specific details provided.
+5379,845,,2026-04-01 16:47:57.700821+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,760,0,Normal system activity; no specific details provided.
+5379,846,,2026-04-01 16:47:57.700846+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,761,0,Normal system activity; no specific details provided.
+5379,847,,2026-04-01 16:47:57.700871+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,762,0,Normal system activity; no specific details provided.
+5379,848,,2026-04-01 16:47:57.701605+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,763,0,Normal system activity; no specific details provided.
+5379,849,,2026-04-01 16:47:57.701645+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,764,0,Normal system activity; no specific details provided.
+5379,850,,2026-04-01 16:47:57.701670+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,765,0,Normal system activity; no specific details provided.
+5379,851,,2026-04-01 16:47:58.090908+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,766,0,Normal system activity; no specific details provided.
+5379,852,,2026-04-01 16:47:58.090961+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,767,0,Normal system activity; no specific details provided.
+4738,853,,2026-04-01 16:47:58.109707+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,768,0,Normal system activity; no specific details provided.
+4738,854,,2026-04-01 16:47:58.110195+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,769,0,Normal system activity; no specific details provided.
+5379,855,,2026-04-01 16:47:58.113953+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,770,0,Normal system activity; no specific details provided.
+5379,856,,2026-04-01 16:47:58.114002+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,771,0,Normal system activity; no specific details provided.
+4738,857,,2026-04-01 16:47:58.114298+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,772,0,Normal system activity; no specific details provided.
+4724,858,,2026-04-01 16:47:58.142963+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,773,0,Normal system activity; no specific details provided.
+4624,859,,2026-04-01 16:47:58.186954+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,774,0,Normal system activity; services.exe is a standard Windows process.
+4672,860,,2026-04-01 16:47:58.186960+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,775,0,Normal system activity; no specific details provided.
+5382,861,,2026-04-01 16:47:58.241911+00:00,,,,,,,2026-04-01 16:47:58.188095+00:00,Security,,,,NORMALVM$,,,,,,776,0,Normal system activity; no specific details provided.
+5382,862,,2026-04-01 16:47:58.247576+00:00,,,,,,,2026-04-01 16:47:58.188095+00:00,Security,,,,NORMALVM$,,,,,,777,0,Normal system activity; no specific details provided.
+4648,863,,2026-04-01 16:47:58.252420+00:00,,,0x00000000000002ec,,,,,Security,,,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,,778,12,High risk due to unusual email address in TargetUserName field.
+4624,864,,2026-04-01 16:47:58.252438+00:00,,,0x00000000000002ec,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,779,12,High risk due to unusual email address in TargetUserName field.

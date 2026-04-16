@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,752,,2026-04-01 16:32:59.648634+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,630,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,753,,2026-04-01 16:32:59.650192+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,631,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,754,,2026-04-01 16:32:59.650473+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,632,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,755,,2026-04-01 16:32:59.650637+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,633,0,Normal system activity; missing details and no indications of malicious behavior.
+4097,93,,2026-04-01 16:33:01.054394+00:00,,,,,,,,Appiclation,,,,,,,,,,634,0,Normal system activity; missing details and no indications of malicious behavior.
+4097,94,,2026-04-01 16:33:01.780930+00:00,,,,,,,,Appiclation,,,,,,,,,,635,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,756,,2026-04-01 16:33:04.600760+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,636,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,757,,2026-04-01 16:33:04.814373+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,637,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,758,,2026-04-01 16:33:04.938860+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,638,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,759,,2026-04-01 16:33:04.939203+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,639,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,760,,2026-04-01 16:33:05.083199+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,640,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,761,,2026-04-01 16:33:05.083288+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,641,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,762,,2026-04-01 16:33:05.083597+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,642,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,763,,2026-04-01 16:33:05.804806+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,643,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,764,,2026-04-01 16:33:05.835609+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,644,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,765,,2026-04-01 16:33:05.839756+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,645,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,766,,2026-04-01 16:33:05.839809+00:00,,,,,,,2026-04-01 16:32:58.383318+00:00,Security,,,,defaultuser0,,,,,,646,0,Normal system activity; missing details and no indications of malicious behavior.
+0,95,,2026-04-01 16:33:07.196976+00:00,,,,,,,,Appiclation,,,,,,,,,,647,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,767,,2026-04-01 16:33:58.680717+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,648,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,768,,2026-04-01 16:33:58.680725+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,649,0,Normal system activity; missing details and no indications of malicious behavior.
+0,96,,2026-04-01 16:33:58.830261+00:00,,,,,,,,Appiclation,,,,,,,,,,650,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,769,,2026-04-01 16:33:58.924475+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,651,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,770,,2026-04-01 16:33:58.924482+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,652,0,Normal system activity; missing details and no indications of malicious behavior.
+900,97,,2026-04-01 16:33:59.303370+00:00,,,,,,,,Appiclation,,,,,,,,,,653,0,Normal system activity; missing details and no indications of malicious behavior.
+16394,98,,2026-04-01 16:33:59.343018+00:00,,,,,,,,Appiclation,,,,,,,,,,654,0,Normal system activity; missing details and no indications of malicious behavior.
+1066,99,,2026-04-01 16:33:59.370682+00:00,,,,,,,,Appiclation,,,,,,,,,,655,0,Normal system activity; missing details and no indications of malicious behavior.
+1003,100,,2026-04-01 16:33:59.391781+00:00,,,,,,,,Appiclation,,,,,,,,,,656,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,771,,2026-04-01 16:33:59.426399+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,657,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,772,,2026-04-01 16:33:59.426405+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,658,0,Normal system activity; missing details and no indications of malicious behavior.
+902,101,,2026-04-01 16:33:59.517756+00:00,,,,,,,,Appiclation,,,,,,,,,,659,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,773,,2026-04-01 16:33:59.574909+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,660,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,774,,2026-04-01 16:33:59.574915+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,661,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,775,,2026-04-01 16:33:59.789568+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,662,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,776,,2026-04-01 16:33:59.789572+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,663,0,Normal system activity; missing details and no indications of malicious behavior.
+1,102,,2026-04-01 16:34:01.100508+00:00,,,,,,,,Appiclation,,,,,,,,,,664,0,Normal system activity; missing details and no indications of malicious behavior.
+0,103,,2026-04-01 16:34:02.523701+00:00,,,,,,,,Appiclation,,,,,,,,,,665,0,Normal system activity; missing details and no indications of malicious behavior.
+15,104,,2026-04-01 16:34:03.120291+00:00,,,,,,,,Appiclation,,,,,,,,,,666,0,Normal system activity; missing details and no indications of malicious behavior.
+16384,105,,2026-04-01 16:34:29.565136+00:00,,,,,,,,Appiclation,,,,,,,,,,667,0,Normal system activity; missing details and no indications of malicious behavior.
+903,106,,2026-04-01 16:34:29.569742+00:00,,,,,,,,Appiclation,,,,,,,,,,668,0,Normal system activity; missing details and no indications of malicious behavior.
+1001,107,,2026-04-01 16:34:54.868172+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,669,0,Normal system activity; missing details and no indications of malicious behavior.
+1001,108,,2026-04-01 16:34:54.889849+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,670,0,Normal system activity; missing details and no indications of malicious behavior.
+0,109,,2026-04-01 16:35:02.309685+00:00,,,,,,,,Appiclation,,,,,,,,,,671,0,Normal system activity; missing details and no indications of malicious behavior.
+0,110,,2026-04-01 16:36:02.320648+00:00,,,,,,,,Appiclation,,,,,,,,,,672,0,Normal system activity; missing details and no indications of malicious behavior.
+16394,111,,2026-04-01 16:36:03.841923+00:00,,,,,,,,Appiclation,,,,,,,,,,673,0,Normal system activity; missing details and no indications of malicious behavior.
+16384,112,,2026-04-01 16:36:33.940302+00:00,,,,,,,,Appiclation,,,,,,,,,,674,0,Normal system activity; missing details and no indications of malicious behavior.
+1801,417,,2026-04-01 16:36:57.719767+00:00,,,,,,,,System,,,,,,,,,,675,0,Normal system activity; missing details and no indications of malicious behavior.
+1796,418,,2026-04-01 16:36:57.723721+00:00,,,,,,,,System,,,,,,,,,,676,0,Normal system activity; missing details and no indications of malicious behavior.
+1796,419,,2026-04-01 16:36:57.723780+00:00,,,,,,,,System,,,,,,,,,,677,0,Normal system activity; missing details and no indications of malicious behavior.
+0,113,,2026-04-01 16:37:02.082256+00:00,,,,,,,,Appiclation,,,,,,,,,,678,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,777,,2026-04-01 16:37:06.064604+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,679,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,778,,2026-04-01 16:37:06.064610+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,680,0,Normal system activity; missing details and no indications of malicious behavior.
+1001,114,,2026-04-01 16:37:07.116201+00:00,,AppxDeploymentFailureBlue,,,,,,Appiclation,,,,,,,,,,681,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,779,,2026-04-01 16:37:07.470058+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,682,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,780,,2026-04-01 16:37:07.470064+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,683,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,781,,2026-04-01 16:37:07.736650+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,NORMALVM$,,,,,,684,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,782,,2026-04-01 16:37:07.736921+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,NORMALVM$,,,,,,685,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,783,,2026-04-01 16:37:07.736969+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,NORMALVM$,,,,,,686,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,784,,2026-04-01 16:37:07.745352+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,defaultuser0,,,,,,687,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,785,,2026-04-01 16:37:07.745550+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,defaultuser0,,,,,,688,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,786,,2026-04-01 16:37:07.745592+00:00,,,,,,,2026-04-01 16:37:07.471405+00:00,Security,,,,defaultuser0,,,,,,689,0,Normal system activity; missing details and no indications of malicious behavior.
+0,115,,2026-04-01 16:38:02.098381+00:00,,,,,,,,Appiclation,,,,,,,,,,690,0,Normal system activity; missing details and no indications of malicious behavior.
+0,116,,2026-04-01 16:39:02.094675+00:00,,,,,,,,Appiclation,,,,,,,,,,691,0,Normal system activity; missing details and no indications of malicious behavior.
+0,117,,2026-04-01 16:40:02.077047+00:00,,,,,,,,Appiclation,,,,,,,,,,692,0,Normal system activity; missing details and no indications of malicious behavior.
+0,118,,2026-04-01 16:41:02.162386+00:00,,,,,,,,Appiclation,,,,,,,,,,693,0,Normal system activity; missing details and no indications of malicious behavior.
+0,119,,2026-04-01 16:42:02.124294+00:00,,,,,,,,Appiclation,,,,,,,,,,694,0,Normal system activity; missing details and no indications of malicious behavior.
+0,120,,2026-04-01 16:43:02.424610+00:00,,,,,,,,Appiclation,,,,,,,,,,695,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,787,,2026-04-01 16:43:51.211134+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,696,0,Normal system activity; missing details and no indications of malicious behavior.
+4672,788,,2026-04-01 16:43:51.211140+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,697,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,789,,2026-04-01 16:43:51.629324+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,698,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,790,,2026-04-01 16:43:51.629509+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,699,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,791,,2026-04-01 16:43:51.629562+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,700,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,792,,2026-04-01 16:43:51.631111+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,701,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,793,,2026-04-01 16:43:51.631338+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,702,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,794,,2026-04-01 16:43:51.631382+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,703,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,795,,2026-04-01 16:43:51.632219+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,704,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,796,,2026-04-01 16:43:51.632265+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,705,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,797,,2026-04-01 16:43:51.632767+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,706,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,798,,2026-04-01 16:43:52.555796+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,707,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,799,,2026-04-01 16:43:52.561436+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,708,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,800,,2026-04-01 16:43:52.573946+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,defaultuser0,,,,,,709,0,Normal system activity; missing details and no indications of malicious behavior.

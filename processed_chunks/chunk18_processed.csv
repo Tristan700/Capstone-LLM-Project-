@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,1273,,2026-04-01 16:49:00.197927+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1190,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1274,,2026-04-01 16:49:00.198002+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1191,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1275,,2026-04-01 16:49:00.910418+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1192,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1276,,2026-04-01 16:49:00.911341+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1193,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1277,,2026-04-01 16:49:00.911388+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1194,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1278,,2026-04-01 16:49:00.949295+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1195,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1279,,2026-04-01 16:49:00.951839+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1196,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1280,,2026-04-01 16:49:02.222626+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1197,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1281,,2026-04-01 16:49:02.222771+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1198,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1282,,2026-04-01 16:49:02.222914+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1199,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1283,,2026-04-01 16:49:02.223000+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1200,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1284,,2026-04-01 16:49:02.223110+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1201,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1285,,2026-04-01 16:49:02.223234+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1202,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1286,,2026-04-01 16:49:02.223419+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1203,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1287,,2026-04-01 16:49:02.223511+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1204,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1288,,2026-04-01 16:49:02.223623+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1205,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1289,,2026-04-01 16:49:02.223719+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1206,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1290,,2026-04-01 16:49:02.223837+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1207,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1291,,2026-04-01 16:49:02.223919+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1208,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1292,,2026-04-01 16:49:02.224016+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1209,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1293,,2026-04-01 16:49:02.224094+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1210,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1294,,2026-04-01 16:49:02.224195+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1211,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1295,,2026-04-01 16:49:02.224457+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1212,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1296,,2026-04-01 16:49:02.240713+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1213,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1297,,2026-04-01 16:49:02.240917+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1214,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1298,,2026-04-01 16:49:02.241085+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1215,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1299,,2026-04-01 16:49:02.241175+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1216,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1300,,2026-04-01 16:49:02.241314+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1217,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1301,,2026-04-01 16:49:02.241392+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1218,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1302,,2026-04-01 16:49:02.241501+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1219,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1303,,2026-04-01 16:49:02.241579+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1220,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1304,,2026-04-01 16:49:02.241684+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1221,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1305,,2026-04-01 16:49:02.241764+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1222,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1306,,2026-04-01 16:49:02.241875+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1223,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1307,,2026-04-01 16:49:02.241947+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1224,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1308,,2026-04-01 16:49:02.257700+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1225,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1309,,2026-04-01 16:49:02.305033+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1226,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1310,,2026-04-01 16:49:02.305277+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1227,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1311,,2026-04-01 16:49:02.305428+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1228,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1312,,2026-04-01 16:49:02.305515+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1229,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1313,,2026-04-01 16:49:02.350197+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1230,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1314,,2026-04-01 16:49:02.350397+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1231,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1315,,2026-04-01 16:49:02.350531+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1232,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1316,,2026-04-01 16:49:02.350615+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1233,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1317,,2026-04-01 16:49:02.350740+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1234,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1318,,2026-04-01 16:49:02.350819+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1235,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1319,,2026-04-01 16:49:02.350920+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1236,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1320,,2026-04-01 16:49:02.350994+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1237,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1321,,2026-04-01 16:49:02.351093+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1238,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1322,,2026-04-01 16:49:02.351175+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,pizza,,,,,,1239,0,Normal activity; missing details and no indications of malicious behavior.
+0,129,,2026-04-01 16:49:06.101585+00:00,,,,,,,,Appiclation,,,,,,,,,,1240,0,Normal activity; missing details and no indications of malicious behavior.
+4624,1323,,2026-04-01 16:49:06.502426+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,1241,0,Normal activity; missing details and no indications of malicious behavior.
+4672,1324,,2026-04-01 16:49:06.502432+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,1242,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1325,,2026-04-01 16:49:11.157572+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1243,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1326,,2026-04-01 16:49:11.157648+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1244,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1327,,2026-04-01 16:49:11.158066+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1245,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1328,,2026-04-01 16:49:11.662779+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1246,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1329,,2026-04-01 16:49:11.663177+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1247,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1330,,2026-04-01 16:49:11.664848+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1248,0,Normal activity; missing details and no indications of malicious behavior.
+5379,1331,,2026-04-01 16:49:11.666294+00:00,,,,,,,2026-04-01 16:43:51.213001+00:00,Security,,,,NORMALVM$,,,,,,1249,0,Normal activity; missing details and no indications of malicious behavior.
+4725,1332,,2026-04-01 16:49:18.101238+00:00,,,,,,,,Security,,,,NORMALVM$,defaultuser0,,,,,1250,0,Normal activity; missing details and no indications of malicious behavior.
+4738,1333,,2026-04-01 16:49:18.101330+00:00,,,,,,,,Security,,,,NORMALVM$,defaultuser0,,,,,1251,0,Normal activity; missing details and no indications of malicious behavior.
+4733,1334,,2026-04-01 16:49:18.117737+00:00,,,,,,,,Security,,,,NORMALVM$,Administrators,,,,,1252,0,Normal activity; missing details and no indications of malicious behavior.
+4624,1335,,2026-04-01 16:49:19.178198+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,1253,0,Normal activity; missing details and no indications of malicious behavior.
+4672,1336,,2026-04-01 16:49:19.178202+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,1254,0,Normal activity; missing details and no indications of malicious behavior.
+7040,420,,2026-04-01 16:49:20.207304+00:00,,,,,,,,System,,,,,,,,,,1255,0,Normal activity; missing details and no indications of malicious behavior.
+7040,421,,2026-04-01 16:49:23.606167+00:00,,,,,,,,System,,,,,,,,,,1256,0,Normal activity; missing details and no indications of malicious behavior.
+7040,422,,2026-04-01 16:49:23.699169+00:00,,,,,,,,System,,,,,,,,,,1257,0,Normal activity; missing details and no indications of malicious behavior.
+101,423,,2026-04-01 16:49:24.562645+00:00,,,,,,,,System,,,,,,,,,,1258,0,Normal activity; missing details and no indications of malicious behavior.
+101,424,,2026-04-01 16:49:24.562746+00:00,,,,,,,,System,,,,,,,,,,1259,0,Normal activity; missing details and no indications of malicious behavior.
+10010,425,,2026-04-01 16:49:25.569931+00:00,,,,,,,,System,,,,,,,,,,1260,0,Normal activity; missing details and no indications of malicious behavior.
+4647,1337,,2026-04-01 16:49:29.064028+00:00,,,,,,,,Security,,,,,defaultuser0,,,,,1261,0,Normal activity; missing details and no indications of malicious behavior.
+6000,130,,2026-04-01 16:49:30.842255+00:00,,,,,,,,Appiclation,,,,,,,,,,1262,0,Normal activity; missing details and no indications of malicious behavior.
+6000,131,,2026-04-01 16:49:30.890772+00:00,,,,,,,,Appiclation,,,,,,,,,,1263,0,Normal activity; missing details and no indications of malicious behavior.
+7002,426,,2026-04-01 16:49:30.894333+00:00,,,,,,,,System,,,,,,,,,,1264,0,Normal activity; missing details and no indications of malicious behavior.
+4624,1338,,2026-04-01 16:49:30.927332+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,1265,0,Normal activity; missing details and no indications of malicious behavior.
+4672,1339,,2026-04-01 16:49:30.927338+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,1266,0,Normal activity; missing details and no indications of malicious behavior.
+4648,1340,,2026-04-01 16:49:31.221647+00:00,,,0x0000000000001418,,,,,Security,,,-,NORMALVM$,UMFD-2,,C:\Windows\System32\winlogon.exe,,,1267,0,Normal activity; missing details and no indications of malicious behavior.
+4624,1341,,2026-04-01 16:49:31.221722+00:00,,,0x0000000000001418,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-2,,C:\Windows\System32\winlogon.exe,,-,1268,0,Normal activity; missing details and no indications of malicious behavior.
+4648,1342,,2026-04-01 16:49:31.320541+00:00,,,0x0000000000001418,,,,,Security,,,-,NORMALVM$,DWM-2,,C:\Windows\System32\winlogon.exe,,,1269,0,Normal activity; missing details and no indications of malicious behavior.
