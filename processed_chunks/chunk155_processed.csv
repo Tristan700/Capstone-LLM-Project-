@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4673,9656,,2026-04-08 16:09:12.899050+00:00,,,0x00000000000001a4,,,,,Security,,,,DWM-1,,,C:\Windows\System32\dwm.exe,,,10780,0,No,Normal activity: dwm.exe is a standard Windows process.
+6,838,,2026-04-08 16:09:12.936495+00:00,,,,,,,,System,,,,,,,,,,10781,0,No,Normal system log with no specific details provided.
+6,839,,2026-04-08 16:09:12.943396+00:00,,,,,,,,System,,,,,,,,,,10782,0,No,Normal system log with no specific details provided.
+1,840,,2026-04-08 16:09:12.943403+00:00,,,,,,,,System,,,,,,,,,,10783,0,No,Normal system log with no specific details provided.
+6,841,,2026-04-08 16:09:12.943476+00:00,,,,,,,,System,,,,,,,,,,10784,0,No,Normal system log with no specific details provided.
+6,842,,2026-04-08 16:09:12.955439+00:00,,,,,,,,System,,,,,,,,,,10785,0,No,Normal system log with no specific details provided.
+6,843,,2026-04-08 16:09:12.964283+00:00,,,,,,,,System,,,,,,,,,,10786,0,No,Normal system log with no specific details provided.
+4688,9658,,2026-04-08 16:09:12.974604+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,,C:\Windows\System32\services.exe,,10787,0,No,Normal activity: svchost.exe running standard services.
+4688,9659,,2026-04-08 16:09:12.981346+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,,C:\Windows\System32\services.exe,,10788,0,No,Normal activity: svchost.exe running standard services.
+4624,9660,,2026-04-08 16:09:13.028748+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10789,0,No,Normal activity: Authentication event with standard parameters.
+4672,9661,,2026-04-08 16:09:13.028753+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10790,0,No,Normal system log with no specific details provided.
+4688,9662,,2026-04-08 16:09:13.030405+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,,C:\Windows\System32\services.exe,,10791,0,No,Normal activity: svchost.exe running standard services.
+4688,9663,,2026-04-08 16:09:13.037436+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceRedirectionGuard -p -s EventSystem,,C:\Windows\System32\services.exe,,10792,0,No,Normal activity: svchost.exe running standard services.
+4624,9664,,2026-04-08 16:09:13.044586+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10793,0,No,Normal activity: Authentication event with standard parameters.
+4672,9665,,2026-04-08 16:09:13.044592+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10794,0,No,Normal system log with no specific details provided.
+4688,9666,,2026-04-08 16:09:13.046066+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain,,C:\Windows\System32\services.exe,,10795,0,No,Normal activity: svchost.exe running standard services.
+4624,9667,,2026-04-08 16:09:13.051329+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10796,0,No,Normal activity: Authentication event with standard parameters.
+4672,9668,,2026-04-08 16:09:13.051332+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10797,0,No,Normal system log with no specific details provided.
+4688,9669,,2026-04-08 16:09:13.053967+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s Themes,,C:\Windows\System32\services.exe,,10798,0,No,Normal activity: svchost.exe running standard services.
+4624,9670,,2026-04-08 16:09:13.187809+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10799,0,No,Normal activity: Authentication event with standard parameters.
+4672,9671,,2026-04-08 16:09:13.187815+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10800,0,No,Normal system log with no specific details provided.
+4688,9672,,2026-04-08 16:09:13.189709+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s SENS,,C:\Windows\System32\services.exe,,10801,0,No,Normal activity: svchost.exe running standard services.
+4688,9673,,2026-04-08 16:09:13.238535+00:00,,,0x0000000000000004,,,,,Security,,,,NORMALVM$,-,,,,,10802,0,No,Normal system log with no specific details provided.
+4624,9674,,2026-04-08 16:09:13.371756+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10803,0,No,Normal activity: Authentication event with standard parameters.
+4672,9675,,2026-04-08 16:09:13.371761+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10804,0,No,Normal system log with no specific details provided.
+4688,9676,,2026-04-08 16:09:13.377794+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule,,C:\Windows\System32\services.exe,,10805,0,No,Normal activity: svchost.exe running standard services.
+5379,9677,,2026-04-08 16:09:13.413265+00:00,,,,,,,2026-04-08 16:09:11.638468+00:00,Security,,,,NORMALVM$,,,,,,10806,0,No,Normal system log with no specific details provided.
+4688,9678,,2026-04-08 16:09:13.428587+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp,,C:\Windows\System32\services.exe,,10807,0,No,Normal activity: svchost.exe running standard services.
+1101,9565,,2026-04-08 16:09:13.446709+00:00,,,,,,,,Security,,,,,,,,,,10808,0,No,Normal system log with no specific details provided.
+4624,9679,,2026-04-08 16:09:13.509037+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10809,0,No,Normal activity: Authentication event with standard parameters.
+4672,9680,,2026-04-08 16:09:13.509041+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10810,0,No,Normal system log with no specific details provided.
+4688,9681,,2026-04-08 16:09:13.510450+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder,,C:\Windows\System32\services.exe,,10811,0,No,Normal activity: svchost.exe running standard services.
+6008,796,,2026-04-08 16:09:13.599136+00:00,,,,,,,,System,,,,,,,,,,10812,0,No,Normal system log with no specific details provided.
+4688,9682,,2026-04-08 16:09:13.601692+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s FontCache,,C:\Windows\System32\services.exe,,10813,0,No,Normal activity: svchost.exe running standard services.
+6009,797,,2026-04-08 16:09:13.621090+00:00,,,,,,,,System,,,,,,,,,,10814,0,No,Normal system log with no specific details provided.
+6005,798,,2026-04-08 16:09:13.621145+00:00,,,,,,,,System,,,,,,,,,,10815,0,No,Normal system log with no specific details provided.
+6013,799,,2026-04-08 16:09:13.621677+00:00,,,,,,,,System,,,,,,,,,,10816,0,No,Normal system log with no specific details provided.
+4673,9683,,2026-04-08 16:09:13.742170+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10817,0,No,Normal activity: lsass.exe is a standard Windows process.
+50036,844,,2026-04-08 16:09:13.788944+00:00,,,,,,,,System,,,,,,,,,,10818,0,No,Normal system log with no specific details provided.
+50103,845,,2026-04-08 16:09:13.790045+00:00,,,,,,,,System,,,,,,,,,,10819,0,No,Normal system log with no specific details provided.
+50036,846,,2026-04-08 16:09:13.790462+00:00,,,,,,,,System,,,,,,,,,,10820,0,No,Normal system log with no specific details provided.
+4673,9684,,2026-04-08 16:09:13.824158+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10821,0,No,Normal activity: lsass.exe is a standard Windows process.
+51046,847,,2026-04-08 16:09:13.868111+00:00,,,,,,,,System,,,,,,,,,,10822,0,No,Normal system log with no specific details provided.
+4688,9685,,2026-04-08 16:09:13.964167+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p,,C:\Windows\System32\services.exe,,10823,0,No,Normal activity: svchost.exe running standard services.
+4688,9686,,2026-04-08 16:09:14.017160+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p,,C:\Windows\System32\services.exe,,10824,0,No,Normal activity: svchost.exe running standard services.
+4624,9687,,2026-04-08 16:09:14.153023+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10825,0,No,Normal activity: Authentication event with standard parameters.
+4672,9688,,2026-04-08 16:09:14.153028+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10826,0,No,Normal system log with no specific details provided.
+4688,9689,,2026-04-08 16:09:14.156006+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TextInputManagementService,,C:\Windows\System32\services.exe,,10827,0,No,Normal activity: svchost.exe running standard services.
+4688,9690,,2026-04-08 16:09:14.238276+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc,,C:\Windows\System32\services.exe,,10828,0,No,Normal activity: svchost.exe running standard services.
+4688,9691,,2026-04-08 16:09:14.271410+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc,,C:\Windows\System32\services.exe,,10829,0,No,Normal activity: svchost.exe running standard services.
+4688,9692,,2026-04-08 16:09:14.330175+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,taskhostw.exe ExploitGuardPolicy,,C:\Windows\System32\svchost.exe,,10830,0,No,Normal activity: taskhostw.exe running a standard task.
+4688,9693,,2026-04-08 16:09:14.385010+00:00,,,0x000000000000071c,,,,,Security,,,,NORMALVM$,-,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",,C:\Windows\System32\svchost.exe,,10831,0,No,Normal activity: dxgiadaptercache.exe is a standard process.
+4624,9694,,2026-04-08 16:09:14.396227+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10832,0,No,Normal activity: Authentication event with standard parameters.
+4672,9695,,2026-04-08 16:09:14.396231+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10833,0,No,Normal system log with no specific details provided.
+4688,9696,,2026-04-08 16:09:14.398375+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s ShellHWDetection,,C:\Windows\System32\services.exe,,10834,0,No,Normal activity: svchost.exe running standard services.
+4624,9697,,2026-04-08 16:09:14.457136+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10835,0,No,Normal activity: Authentication event with standard parameters.
+4672,9698,,2026-04-08 16:09:14.457140+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10836,0,No,Normal system log with no specific details provided.
+4688,9699,,2026-04-08 16:09:14.458656+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository,,C:\Windows\System32\services.exe,,10837,0,No,Normal activity: svchost.exe running standard services.
+112,848,,2026-04-08 16:09:14.541349+00:00,,,4.0,,,,,System,,,,,,,,,,10838,0,No,Normal system log with no specific details provided.
+112,849,,2026-04-08 16:09:14.541357+00:00,,,4.0,,,,,System,,,,,,,,,,10839,0,No,Normal system log with no specific details provided.
+112,850,,2026-04-08 16:09:14.541363+00:00,,,4.0,,,,,System,,,,,,,,,,10840,0,No,Normal system log with no specific details provided.
+112,851,,2026-04-08 16:09:14.541367+00:00,,,4.0,,,,,System,,,,,,,,,,10841,0,No,Normal system log with no specific details provided.
+112,852,,2026-04-08 16:09:14.541372+00:00,,,4.0,,,,,System,,,,,,,,,,10842,0,No,Normal system log with no specific details provided.
+112,853,,2026-04-08 16:09:14.541380+00:00,,,4.0,,,,,System,,,,,,,,,,10843,0,No,Normal system log with no specific details provided.
+112,854,,2026-04-08 16:09:14.541386+00:00,,,4.0,,,,,System,,,,,,,,,,10844,0,No,Normal system log with no specific details provided.
+112,855,,2026-04-08 16:09:14.541388+00:00,,,4.0,,,,,System,,,,,,,,,,10845,0,No,Normal system log with no specific details provided.
+112,856,,2026-04-08 16:09:14.541397+00:00,,,4.0,,,,,System,,,,,,,,,,10846,0,No,Normal system log with no specific details provided.
+112,857,,2026-04-08 16:09:14.541401+00:00,,,4.0,,,,,System,,,,,,,,,,10847,0,No,Normal system log with no specific details provided.
+112,858,,2026-04-08 16:09:14.541449+00:00,,,4.0,,,,,System,,,,,,,,,,10848,0,No,Normal system log with no specific details provided.
+112,859,,2026-04-08 16:09:14.541454+00:00,,,4.0,,,,,System,,,,,,,,,,10849,0,No,Normal system log with no specific details provided.
+112,860,,2026-04-08 16:09:14.541456+00:00,,,4.0,,,,,System,,,,,,,,,,10850,0,No,Normal system log with no specific details provided.
+4624,9700,,2026-04-08 16:09:14.542889+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,10851,0,No,Normal activity: Authentication event with standard parameters.
+4672,9701,,2026-04-08 16:09:14.542915+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,10852,0,No,Normal system log with no specific details provided.
+4688,9702,,2026-04-08 16:09:14.563143+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,-,C:\WINDOWS\System32\spoolsv.exe,,C:\Windows\System32\services.exe,,10853,0,No,Normal activity: spoolsv.exe is a standard Windows print spooler service.
+4688,9703,,2026-04-08 16:09:14.670410+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,LOCAL SERVICE,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p,,C:\Windows\System32\services.exe,,10854,0,No,Normal activity: svchost.exe running standard services.
+4688,9704,,2026-04-08 16:09:14.800966+00:00,,,0x00000000000002e8,,,,,Security,,,,NORMALVM$,NORMALVM$,C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation,,C:\Windows\System32\services.exe,,10855,0,No,Normal activity: svchost.exe running standard services.
+5033,9705,,2026-04-08 16:09:14.814581+00:00,,,,,,,,Security,,,,,,,,,,10856,0,No,Normal system log with no specific details provided.
+4673,9706,,2026-04-08 16:09:14.814646+00:00,,,0x00000000000002f0,,,,,Security,,,,NORMALVM$,,,C:\Windows\System32\lsass.exe,,,10857,0,No,Normal activity: lsass.exe is a standard Windows process.
+4674,9707,,2026-04-08 16:09:15.072298+00:00,,,0x00000000000002f0,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\lsass.exe,,,10858,0,No,Normal activity: lsass.exe handling standard operations.
+4674,9708,,2026-04-08 16:09:15.072771+00:00,,,0x00000000000002f0,,,,,Security,,,,LOCAL SERVICE,,,C:\Windows\System32\lsass.exe,,,10859,0,No,Normal activity: lsass.exe handling standard operations.
