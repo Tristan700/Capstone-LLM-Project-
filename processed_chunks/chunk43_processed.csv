@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4624,2941,,2026-04-01 17:17:42.750345+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2940,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2942,,2026-04-01 17:17:42.750349+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2941,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2943,,2026-04-01 17:17:42.762253+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2942,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2944,,2026-04-01 17:17:42.762257+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2943,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2945,,2026-04-01 17:17:42.852840+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2944,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2946,,2026-04-01 17:17:42.852844+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2945,0,No,Normal system activity; SYSTEM user granted special privileges.
+1101,2892,,2026-04-01 17:17:42.921230+00:00,,,,,,,,Security,,,,,,,,,,2946,0,No,Normal system activity; no specific details provided.
+4624,2947,,2026-04-01 17:17:43.024889+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2947,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2948,,2026-04-01 17:17:43.025087+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2948,0,No,Normal system activity; SYSTEM user granted special privileges.
+6008,448,,2026-04-01 17:17:43.033661+00:00,,,,,,,,System,,,,,,,,,,2949,0,No,Normal system activity; no specific details provided.
+6009,449,,2026-04-01 17:17:43.090727+00:00,,,,,,,,System,,,,,,,,,,2950,0,No,Normal system activity; no specific details provided.
+6005,450,,2026-04-01 17:17:43.091053+00:00,,,,,,,,System,,,,,,,,,,2951,0,No,Normal system activity; no specific details provided.
+6013,451,,2026-04-01 17:17:43.091644+00:00,,,,,,,,System,,,,,,,,,,2952,0,No,Normal system activity; no specific details provided.
+4799,2949,,2026-04-01 17:17:43.166128+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,2953,0,No,Normal system activity; svchost.exe is a standard Windows process.
+4624,2950,,2026-04-01 17:17:43.659348+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2954,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2951,,2026-04-01 17:17:43.659355+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2955,0,No,Normal system activity; SYSTEM user granted special privileges.
+4798,2952,,2026-04-01 17:17:44.080647+00:00,,,,,,,,Security,C:\Windows\System32\LogonUI.exe,,,NORMALVM$,pizza,,,,,2956,0,No,Normal system activity; LogonUI.exe is a standard Windows process.
+50036,485,,2026-04-01 17:17:44.158909+00:00,,,,,,,,System,,,,,,,,,,2957,0,No,Normal system activity; no specific details provided.
+50103,486,,2026-04-01 17:17:44.159544+00:00,,,,,,,,System,,,,,,,,,,2958,0,No,Normal system activity; no specific details provided.
+50036,487,,2026-04-01 17:17:44.159630+00:00,,,,,,,,System,,,,,,,,,,2959,0,No,Normal system activity; no specific details provided.
+4624,2953,,2026-04-01 17:17:44.316893+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2960,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2954,,2026-04-01 17:17:44.316896+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2961,0,No,Normal system activity; SYSTEM user granted special privileges.
+51046,488,,2026-04-01 17:17:44.364109+00:00,,,,,,,,System,,,,,,,,,,2962,0,No,Normal system activity; no specific details provided.
+4624,2955,,2026-04-01 17:17:44.697006+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2963,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2956,,2026-04-01 17:17:44.697010+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2964,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2957,,2026-04-01 17:17:45.754671+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2965,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2958,,2026-04-01 17:17:45.754679+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2966,0,No,Normal system activity; SYSTEM user granted special privileges.
+112,489,,2026-04-01 17:17:45.890150+00:00,,,4.0,,,,,System,,,,,,,,,,2967,0,No,Normal system activity; no specific details provided.
+112,490,,2026-04-01 17:17:45.890158+00:00,,,4.0,,,,,System,,,,,,,,,,2968,0,No,Normal system activity; no specific details provided.
+112,491,,2026-04-01 17:17:45.890173+00:00,,,4.0,,,,,System,,,,,,,,,,2969,0,No,Normal system activity; no specific details provided.
+112,492,,2026-04-01 17:17:45.890175+00:00,,,4.0,,,,,System,,,,,,,,,,2970,0,No,Normal system activity; no specific details provided.
+112,493,,2026-04-01 17:17:45.890182+00:00,,,4.0,,,,,System,,,,,,,,,,2971,0,No,Normal system activity; no specific details provided.
+112,494,,2026-04-01 17:17:45.890190+00:00,,,4.0,,,,,System,,,,,,,,,,2972,0,No,Normal system activity; no specific details provided.
+112,495,,2026-04-01 17:17:45.890194+00:00,,,4.0,,,,,System,,,,,,,,,,2973,0,No,Normal system activity; no specific details provided.
+112,496,,2026-04-01 17:17:45.890198+00:00,,,4.0,,,,,System,,,,,,,,,,2974,0,No,Normal system activity; no specific details provided.
+112,497,,2026-04-01 17:17:45.890203+00:00,,,4.0,,,,,System,,,,,,,,,,2975,0,No,Normal system activity; no specific details provided.
+112,498,,2026-04-01 17:17:45.890211+00:00,,,4.0,,,,,System,,,,,,,,,,2976,0,No,Normal system activity; no specific details provided.
+112,499,,2026-04-01 17:17:45.890215+00:00,,,4.0,,,,,System,,,,,,,,,,2977,0,No,Normal system activity; no specific details provided.
+112,500,,2026-04-01 17:17:45.890219+00:00,,,4.0,,,,,System,,,,,,,,,,2978,0,No,Normal system activity; no specific details provided.
+112,501,,2026-04-01 17:17:45.890223+00:00,,,4.0,,,,,System,,,,,,,,,,2979,0,No,Normal system activity; no specific details provided.
+4624,2959,,2026-04-01 17:17:45.929478+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2980,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2960,,2026-04-01 17:17:45.929483+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2981,0,No,Normal system activity; SYSTEM user granted special privileges.
+5033,2961,,2026-04-01 17:17:46.816706+00:00,,,,,,,,Security,,,,,,,,,,2982,0,No,Normal system activity; no specific details provided.
+4624,2962,,2026-04-01 17:17:47.602295+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2983,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2963,,2026-04-01 17:17:47.602301+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2984,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2964,,2026-04-01 17:17:47.697927+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2985,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2965,,2026-04-01 17:17:47.697931+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2986,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2966,,2026-04-01 17:17:47.704683+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2987,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2967,,2026-04-01 17:17:47.704687+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2988,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2968,,2026-04-01 17:17:47.735317+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2989,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2969,,2026-04-01 17:17:47.735323+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2990,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2970,,2026-04-01 17:17:47.807041+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2991,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2971,,2026-04-01 17:17:47.807045+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2992,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2972,,2026-04-01 17:17:47.816721+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2993,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2973,,2026-04-01 17:17:47.816727+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2994,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2974,,2026-04-01 17:17:47.820045+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2995,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2975,,2026-04-01 17:17:47.820051+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2996,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2976,,2026-04-01 17:17:47.828836+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2997,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2977,,2026-04-01 17:17:47.828840+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2998,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2978,,2026-04-01 17:17:47.835705+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2999,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2979,,2026-04-01 17:17:47.835711+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3000,0,No,Normal system activity; SYSTEM user granted special privileges.
+4624,2980,,2026-04-01 17:17:47.921877+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3001,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2981,,2026-04-01 17:17:47.921881+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3002,0,No,Normal system activity; SYSTEM user granted special privileges.
+5615,151,,2026-04-01 17:17:48.143843+00:00,,,,,,,,Appiclation,,,,,,,,,,3003,0,No,Normal system activity; no specific details provided.
+7026,502,,2026-04-01 17:17:48.185780+00:00,,,,,,,,System,,,,,,,,,,3004,0,No,Normal system activity; no specific details provided.
+18,503,,2026-04-01 17:17:48.188131+00:00,,,,,,,,System,,,,,,,,,,3005,0,No,Normal system activity; no specific details provided.
+5024,2982,,2026-04-01 17:17:49.664537+00:00,,,,,,,,Security,,,,,,,,,,3006,0,No,Normal system activity; no specific details provided.
+5058,2983,,2026-04-01 17:17:50.881762+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,3007,0,No,Normal system activity; LOCAL SERVICE user involved in standard operation.
+5061,2984,,2026-04-01 17:17:50.882305+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,3008,0,No,Normal system activity; LOCAL SERVICE user involved in standard operation.
+5059,2985,,2026-04-01 17:17:50.882397+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,3009,0,No,Normal system activity; LOCAL SERVICE user involved in standard operation.
+5059,2986,,2026-04-01 17:17:50.941448+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,3010,0,No,Normal system activity; LOCAL SERVICE user involved in standard operation.
+4624,2987,,2026-04-01 17:17:50.961094+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3011,0,No,Normal system activity; services.exe is a standard Windows process.
+4672,2988,,2026-04-01 17:17:50.961098+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3012,0,No,Normal system activity; SYSTEM user granted special privileges.
+4738,2989,,2026-04-01 17:17:50.978443+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,3013,0,No,Normal system activity; no specific details provided.
+4648,2990,,2026-04-01 17:17:50.985662+00:00,,,0x00000000000005b8,,,,,Security,,,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,,3014,12,Yes,High risk due to unusual email address 'pizzahuthacker@gmail.com' used in system process.
+4624,2991,,2026-04-01 17:17:50.985683+00:00,,,0x00000000000005b8,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,3015,12,Yes,High risk due to unusual email address 'pizzahuthacker@gmail.com' used in system process.
+4624,2992,,2026-04-01 17:17:50.985693+00:00,,,0x00000000000005b8,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,3016,12,Yes,High risk due to unusual email address 'pizzahuthacker@gmail.com' used in system process.
+4672,2993,,2026-04-01 17:17:50.985697+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,3017,12,Yes,High risk due to unusual email address 'pizzahuthacker@gmail.com' used in system process.
+7001,504,,2026-04-01 17:17:51.015635+00:00,,,,,,,,System,,,,,,,,,,3018,0,No,Normal system activity; no specific details provided.
+5059,2994,,2026-04-01 17:17:51.027679+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,3019,0,No,Normal system activity; LOCAL SERVICE user involved in standard operation.

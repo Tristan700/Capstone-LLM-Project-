@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+172,460,,2026-04-01 17:17:39.192188+00:00,,,,6.0,,,,System,,,,,,,,,,2870,6,Yes,Reason code 6.0 without further details suggests a medium risk that needs review.
+55,461,,2026-04-01 17:17:39.403511+00:00,,,,,,,,System,,,,,,,,,,2871,0,No,Normal system activity with no specific reason or error provided.
+32,462,,2026-04-01 17:17:39.681103+00:00,,,,,,,,System,,,,,,,,,,2872,0,No,Normal system activity with no specific reason or error provided.
+4688,2897,,2026-04-01 17:17:40.011488+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2873,0,No,Normal process creation from a standard system process (smss.exe).
+98,463,,2026-04-01 17:17:40.191269+00:00,,,,,,,,System,,,,,,,,,,2874,0,No,Normal system activity with no specific reason or error provided.
+24,464,,2026-04-01 17:17:40.282434+00:00,,,,,,,,System,,,,,,,,,,2875,0,No,Normal system activity with no specific reason or error provided.
+4688,2898,,2026-04-01 17:17:40.320972+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2876,0,No,Normal process creation from a standard system process (smss.exe).
+4688,2899,,2026-04-01 17:17:40.411430+00:00,,,0x0000000000000200,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2877,0,No,Normal process creation from a standard system process (smss.exe).
+4688,2900,,2026-04-01 17:17:40.504499+00:00,,,0x0000000000000174,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2878,0,No,Normal process creation from a standard system process (smss.exe).
+4688,2901,,2026-04-01 17:17:40.508884+00:00,,,0x0000000000000200,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2879,0,No,Normal process creation from a standard system process (smss.exe).
+4688,2902,,2026-04-01 17:17:40.522341+00:00,,,0x000000000000025c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2880,0,No,Normal process creation from a standard system process (smss.exe).
+4688,2903,,2026-04-01 17:17:40.544018+00:00,,,0x000000000000025c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,2881,0,No,Normal process creation from a standard system process (smss.exe).
+19,465,,2026-04-01 17:17:40.588276+00:00,,,,,,,,System,,,,,,,,,,2882,0,No,Normal system activity with no specific reason or error provided.
+25,466,,2026-04-01 17:17:40.588295+00:00,,,,,,,,System,,,,,,,,,,2883,0,No,Normal system activity with no specific reason or error provided.
+23,467,,2026-04-01 17:17:40.588879+00:00,,,,,,,,System,,,,,,,,,,2884,0,No,Normal system activity with no specific reason or error provided.
+4688,2904,,2026-04-01 17:17:40.665174+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,2885,0,No,Normal process creation from a standard system process (wininit.exe).
+14,468,,2026-04-01 17:17:40.717939+00:00,,,,,,,,System,,,,,,,,,,2886,0,No,Normal system activity with no specific reason or error provided.
+12,469,,2026-04-01 17:17:40.720018+00:00,,,,,,,,System,,,,,,,,,,2887,0,No,Normal system activity with no specific reason or error provided.
+4688,2905,,2026-04-01 17:17:40.723438+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,2888,0,No,Normal process creation from a standard system process (wininit.exe).
+6156,470,,2026-04-01 17:17:40.791609+00:00,,,,,,,,System,,,,,,,,,,2889,0,No,Normal system activity with no specific reason or error provided.
+6417,2906,,2026-04-01 17:17:40.809109+00:00,,,0x00000000000002e4,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,2890,0,No,Normal process creation from a standard system process (lsass.exe).
+4608,2907,,2026-04-01 17:17:40.812527+00:00,,,,,,,,Security,,,,,,,,,,2891,0,No,Normal system activity with no specific reason or error provided.
+4624,2908,,2026-04-01 17:17:40.818050+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,2892,0,No,Normal system activity with no specific reason or error provided.
+4902,2909,,2026-04-01 17:17:40.988558+00:00,,,,,,,,Security,,,,,,,,,,2893,0,No,Normal system activity with no specific reason or error provided.
+16962,471,,2026-04-01 17:17:40.994728+00:00,,,,,,,,System,,,,,,,,,,2894,0,No,Normal system activity with no specific reason or error provided.
+16977,472,,2026-04-01 17:17:41.006733+00:00,,,,,,,,System,,,,,,,,,,2895,0,No,Normal system activity with no specific reason or error provided.
+16983,473,,2026-04-01 17:17:41.006735+00:00,,,,,,,,System,,,,,,,,,,2896,0,No,Normal system activity with no specific reason or error provided.
+4648,2910,,2026-04-01 17:17:41.082312+00:00,,,0x0000000000000264,,,,,Security,,,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,,2897,0,No,Normal process creation from a standard system process (wininit.exe).
+4624,2911,,2026-04-01 17:17:41.082338+00:00,,,0x0000000000000264,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,-,2898,0,No,Normal process creation from a standard system process (wininit.exe).
+4648,2912,,2026-04-01 17:17:41.082682+00:00,,,0x000000000000029c,,,,,Security,,,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,,2899,0,No,Normal process creation from a standard system process (winlogon.exe).
+4624,2913,,2026-04-01 17:17:41.082693+00:00,,,0x000000000000029c,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,-,2900,0,No,Normal process creation from a standard system process (winlogon.exe).
+4624,2914,,2026-04-01 17:17:41.101875+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2901,0,No,Normal process creation from a standard system process (services.exe).
+4672,2915,,2026-04-01 17:17:41.101883+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2902,0,No,Normal system activity with no specific reason or error provided.
+4624,2916,,2026-04-01 17:17:41.327955+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,NETWORK SERVICE,,C:\Windows\System32\services.exe,,-,2903,0,No,Normal process creation from a standard system process (services.exe).
+4672,2917,,2026-04-01 17:17:41.328070+00:00,,,,,,,,Security,,,,NETWORK SERVICE,,,,,,2904,0,No,Normal system activity with no specific reason or error provided.
+4624,2918,,2026-04-01 17:17:41.412100+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2905,0,No,Normal process creation from a standard system process (services.exe).
+4672,2919,,2026-04-01 17:17:41.412106+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2906,0,No,Normal system activity with no specific reason or error provided.
+4648,2920,,2026-04-01 17:17:41.513889+00:00,,,0x000000000000029c,,,,,Security,,,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,,2907,0,No,Normal process creation from a standard system process (winlogon.exe).
+4624,2921,,2026-04-01 17:17:41.513901+00:00,,,0x000000000000029c,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,2908,0,No,Normal process creation from a standard system process (winlogon.exe).
+4624,2922,,2026-04-01 17:17:41.513906+00:00,,,0x000000000000029c,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,2909,0,No,Normal process creation from a standard system process (winlogon.exe).
+4672,2923,,2026-04-01 17:17:41.513910+00:00,,,,,,,,Security,,,,DWM-1,,,,,,2910,0,No,Normal system activity with no specific reason or error provided.
+4672,2924,,2026-04-01 17:17:41.513912+00:00,,,,,,,,Security,,,,DWM-1,,,,,,2911,0,No,Normal system activity with no specific reason or error provided.
+4624,2925,,2026-04-01 17:17:41.726959+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2912,0,No,Normal process creation from a standard system process (services.exe).
+4672,2926,,2026-04-01 17:17:41.726965+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2913,0,No,Normal system activity with no specific reason or error provided.
+4624,2927,,2026-04-01 17:17:41.735128+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2914,0,No,Normal process creation from a standard system process (services.exe).
+4672,2928,,2026-04-01 17:17:41.735134+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2915,0,No,Normal system activity with no specific reason or error provided.
+4624,2929,,2026-04-01 17:17:41.765322+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,LOCAL SERVICE,,C:\Windows\System32\services.exe,,-,2916,0,No,Normal process creation from a standard system process (services.exe).
+4672,2930,,2026-04-01 17:17:41.765324+00:00,,,,,,,,Security,,,,LOCAL SERVICE,,,,,,2917,0,No,Normal system activity with no specific reason or error provided.
+4624,2931,,2026-04-01 17:17:41.841179+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2918,0,No,Normal process creation from a standard system process (services.exe).
+4672,2932,,2026-04-01 17:17:41.841185+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2919,0,No,Normal system activity with no specific reason or error provided.
+4624,2933,,2026-04-01 17:17:42.183554+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2920,0,No,Normal process creation from a standard system process (services.exe).
+4672,2934,,2026-04-01 17:17:42.183561+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2921,0,No,Normal system activity with no specific reason or error provided.
+4624,2935,,2026-04-01 17:17:42.190184+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2922,0,No,Normal process creation from a standard system process (services.exe).
+4672,2936,,2026-04-01 17:17:42.190187+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2923,0,No,Normal system activity with no specific reason or error provided.
+6,474,,2026-04-01 17:17:42.225492+00:00,,,,,,,,System,,,,,,,,,,2924,0,No,Normal system activity with no specific reason or error provided.
+4624,2937,,2026-04-01 17:17:42.358065+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2925,0,No,Normal process creation from a standard system process (services.exe).
+4672,2938,,2026-04-01 17:17:42.358070+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2926,0,No,Normal system activity with no specific reason or error provided.
+1531,150,,2026-04-01 17:17:42.359589+00:00,,,,,,,,Appiclation,,,,,,,,,,2927,0,No,Normal application activity with no specific reason or error provided.
+4624,2939,,2026-04-01 17:17:42.418308+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2928,0,No,Normal process creation from a standard system process (services.exe).
+4672,2940,,2026-04-01 17:17:42.418312+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2929,0,No,Normal system activity with no specific reason or error provided.
+6,475,,2026-04-01 17:17:42.426247+00:00,,,,,,,,System,,,,,,,,,,2930,0,No,Normal system activity with no specific reason or error provided.
+6,476,,2026-04-01 17:17:42.452627+00:00,,,,,,,,System,,,,,,,,,,2931,0,No,Normal system activity with no specific reason or error provided.
+6,477,,2026-04-01 17:17:42.464659+00:00,,,,,,,,System,,,,,,,,,,2932,0,No,Normal system activity with no specific reason or error provided.
+6,478,,2026-04-01 17:17:42.491241+00:00,,,,,,,,System,,,,,,,,,,2933,0,No,Normal system activity with no specific reason or error provided.
+1,479,,2026-04-01 17:17:42.491247+00:00,,,,,,,,System,,,,,,,,,,2934,0,No,Normal system activity with no specific reason or error provided.
+6,480,,2026-04-01 17:17:42.491556+00:00,,,,,,,,System,,,,,,,,,,2935,0,No,Normal system activity with no specific reason or error provided.
+6,481,,2026-04-01 17:17:42.498066+00:00,,,,,,,,System,,,,,,,,,,2936,0,No,Normal system activity with no specific reason or error provided.
+6,482,,2026-04-01 17:17:42.581861+00:00,,,,,,,,System,,,,,,,,,,2937,0,No,Normal system activity with no specific reason or error provided.
+6,483,,2026-04-01 17:17:42.649258+00:00,,,,,,,,System,,,,,,,,,,2938,0,No,Normal system activity with no specific reason or error provided.
+6,484,,2026-04-01 17:17:42.664972+00:00,,,,,,,,System,,,,,,,,,,2939,0,No,Normal system activity with no specific reason or error provided.
+4624,2941,,2026-04-01 17:17:42.750345+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2940,0,No,Normal process creation from a standard system process (services.exe).
+4672,2942,,2026-04-01 17:17:42.750349+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2941,0,No,Normal system activity with no specific reason or error provided.
+4624,2943,,2026-04-01 17:17:42.762253+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2942,0,No,Normal process creation from a standard system process (services.exe).
+4672,2944,,2026-04-01 17:17:42.762257+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2943,0,No,Normal system activity with no specific reason or error provided.
+4624,2945,,2026-04-01 17:17:42.852840+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2944,0,No,Normal process creation from a standard system process (services.exe).
+4672,2946,,2026-04-01 17:17:42.852844+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2945,0,No,Normal system activity with no specific reason or error provided.
+1101,2892,,2026-04-01 17:17:42.921230+00:00,,,,,,,,Security,,,,,,,,,,2946,0,No,Normal system activity with no specific reason or error provided.
+4624,2947,,2026-04-01 17:17:43.024889+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,2947,0,No,Normal process creation from a standard system process (services.exe).
+4672,2948,,2026-04-01 17:17:43.025087+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,2948,0,No,Normal system activity with no specific reason or error provided.
+6008,448,,2026-04-01 17:17:43.033661+00:00,,,,,,,,System,,,,,,,,,,2949,0,No,Normal system activity with no specific reason or error provided.

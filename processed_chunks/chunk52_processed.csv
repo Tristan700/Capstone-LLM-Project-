@@ -1,0 +1,101 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4624,3519,,2026-04-01 17:19:14.147680+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3570,0,No,Normal system activity; SYSTEM account authenticated via Negotiate on services.exe.
+4672,3520,,2026-04-01 17:19:14.147682+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3571,0,No,Normal system activity; SYSTEM account granted special privileges.
+7040,511,,2026-04-01 17:19:14.291241+00:00,,,,,,,,System,,,,,,,,,,3572,0,No,Normal system log with no specific details provided.
+2562,172,,2026-04-01 17:19:14.879072+00:00,,,,,,,,Appiclation,,,,,,,,,,3573,0,No,Normal application log with no specific details provided.
+86,173,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 17:19:16.109520+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 17:19:15 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: e100848d-4667-46bb-b011-31dedb18a198
+",,Appiclation,,,,,,,,,,3574,2,No,HTTP 404 error for GetCACaps; likely a misconfiguration or wrong URL.
+1025,512,,2026-04-01 17:19:16.117834+00:00,,,,,,,,System,,,,,,,,,,3575,0,No,Normal system log with no specific details provided.
+4799,3521,,2026-04-01 17:19:18.678535+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3576,6,Yes,User 'pizza' accessing Administrators group via taskhostw.exe; needs review.
+4799,3522,,2026-04-01 17:19:18.706024+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,3577,6,Yes,User 'NORMALVM$' accessing Administrators group via svchost.exe; needs review.
+4799,3523,,2026-04-01 17:19:19.538786+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3578,6,Yes,Repeated access by 'pizza' to Administrators group via taskhostw.exe; review needed.
+4799,3524,,2026-04-01 17:19:21.000378+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3579,6,Yes,Repeated access by 'pizza' to Administrators group via taskhostw.exe; review needed.
+86,174,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 17:19:32.237917+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 17:19:26 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 6514e2b6-cf9f-4f76-828c-e9f5cd1aac4f
+",,Appiclation,,,,,,,,,,3580,2,No,HTTP 404 error for GetCACaps; likely a misconfiguration or wrong URL.
+5379,3525,,2026-04-01 17:19:32.493801+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3581,0,No,Normal security log with no specific details provided.
+5379,3526,,2026-04-01 17:19:32.494589+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3582,0,No,Normal security log with no specific details provided.
+5379,3527,,2026-04-01 17:19:32.494629+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3583,0,No,Normal security log with no specific details provided.
+5379,3528,,2026-04-01 17:19:32.505758+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3584,0,No,Normal security log with no specific details provided.
+5379,3529,,2026-04-01 17:19:32.507061+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3585,0,No,Normal security log with no specific details provided.
+5379,3530,,2026-04-01 17:19:32.789206+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3586,0,No,Normal security log with no specific details provided.
+5379,3531,,2026-04-01 17:19:32.789396+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3587,0,No,Normal security log with no specific details provided.
+5379,3532,,2026-04-01 17:19:32.789589+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3588,0,No,Normal security log with no specific details provided.
+5379,3533,,2026-04-01 17:19:32.789675+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3589,0,No,Normal security log with no specific details provided.
+5379,3534,,2026-04-01 17:19:32.790020+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3590,0,No,Normal security log with no specific details provided.
+5379,3535,,2026-04-01 17:19:32.790136+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3591,0,No,Normal security log with no specific details provided.
+5379,3536,,2026-04-01 17:19:32.790316+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3592,0,No,Normal security log with no specific details provided.
+5379,3537,,2026-04-01 17:19:32.790419+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3593,0,No,Normal security log with no specific details provided.
+5379,3538,,2026-04-01 17:19:32.790640+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3594,0,No,Normal security log with no specific details provided.
+5379,3539,,2026-04-01 17:19:32.790733+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3595,0,No,Normal security log with no specific details provided.
+5379,3540,,2026-04-01 17:19:32.790855+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3596,0,No,Normal security log with no specific details provided.
+5379,3541,,2026-04-01 17:19:32.790964+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3597,0,No,Normal security log with no specific details provided.
+5379,3542,,2026-04-01 17:19:32.791077+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3598,0,No,Normal security log with no specific details provided.
+5379,3543,,2026-04-01 17:19:32.791147+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3599,0,No,Normal security log with no specific details provided.
+5379,3544,,2026-04-01 17:19:32.791250+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3600,0,No,Normal security log with no specific details provided.
+5379,3545,,2026-04-01 17:19:32.791533+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3601,0,No,Normal security log with no specific details provided.
+5379,3546,,2026-04-01 17:19:32.796139+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3602,0,No,Normal security log with no specific details provided.
+5379,3547,,2026-04-01 17:19:32.796412+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3603,0,No,Normal security log with no specific details provided.
+5379,3548,,2026-04-01 17:19:32.796604+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3604,0,No,Normal security log with no specific details provided.
+5379,3549,,2026-04-01 17:19:32.796740+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3605,0,No,Normal security log with no specific details provided.
+5379,3550,,2026-04-01 17:19:32.796957+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3606,0,No,Normal security log with no specific details provided.
+5379,3551,,2026-04-01 17:19:32.797087+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3607,0,No,Normal security log with no specific details provided.
+5379,3552,,2026-04-01 17:19:32.797216+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3608,0,No,Normal security log with no specific details provided.
+5379,3553,,2026-04-01 17:19:32.797338+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3609,0,No,Normal security log with no specific details provided.
+5379,3554,,2026-04-01 17:19:32.797485+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3610,0,No,Normal security log with no specific details provided.
+5379,3555,,2026-04-01 17:19:32.797594+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3611,0,No,Normal security log with no specific details provided.
+5379,3556,,2026-04-01 17:19:32.797716+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3612,0,No,Normal security log with no specific details provided.
+5379,3557,,2026-04-01 17:19:32.797821+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3613,0,No,Normal security log with no specific details provided.
+5379,3558,,2026-04-01 17:19:32.797947+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3614,0,No,Normal security log with no specific details provided.
+5379,3559,,2026-04-01 17:19:32.803381+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3615,0,No,Normal security log with no specific details provided.
+5379,3560,,2026-04-01 17:19:32.803520+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3616,0,No,Normal security log with no specific details provided.
+5379,3561,,2026-04-01 17:19:32.803650+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3617,0,No,Normal security log with no specific details provided.
+5379,3562,,2026-04-01 17:19:32.803740+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3618,0,No,Normal security log with no specific details provided.
+5379,3563,,2026-04-01 17:19:32.803856+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3619,0,No,Normal security log with no specific details provided.
+5379,3564,,2026-04-01 17:19:32.803932+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3620,0,No,Normal security log with no specific details provided.
+5379,3565,,2026-04-01 17:19:32.805626+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3621,0,No,Normal security log with no specific details provided.
+5379,3566,,2026-04-01 17:19:32.805750+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3622,0,No,Normal security log with no specific details provided.
+5379,3567,,2026-04-01 17:19:32.805874+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3623,0,No,Normal security log with no specific details provided.
+5379,3568,,2026-04-01 17:19:32.805950+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3624,0,No,Normal security log with no specific details provided.
+5379,3569,,2026-04-01 17:19:32.806139+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3625,0,No,Normal security log with no specific details provided.
+5379,3570,,2026-04-01 17:19:32.806252+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3626,0,No,Normal security log with no specific details provided.
+5379,3571,,2026-04-01 17:19:32.806376+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3627,0,No,Normal security log with no specific details provided.
+5379,3572,,2026-04-01 17:19:32.812397+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3628,0,No,Normal security log with no specific details provided.
+5379,3573,,2026-04-01 17:19:32.812761+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3629,0,No,Normal security log with no specific details provided.
+5379,3574,,2026-04-01 17:19:32.887877+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3630,0,No,Normal security log with no specific details provided.
+5379,3575,,2026-04-01 17:19:32.888054+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3631,0,No,Normal security log with no specific details provided.
+5379,3576,,2026-04-01 17:19:32.888504+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3632,0,No,Normal security log with no specific details provided.
+5379,3577,,2026-04-01 17:19:32.888643+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3633,0,No,Normal security log with no specific details provided.
+5379,3578,,2026-04-01 17:19:32.888969+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3634,0,No,Normal security log with no specific details provided.
+5379,3579,,2026-04-01 17:19:32.889151+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3635,0,No,Normal security log with no specific details provided.
+5379,3580,,2026-04-01 17:19:32.889990+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3636,0,No,Normal security log with no specific details provided.
+5379,3581,,2026-04-01 17:19:32.890158+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3637,0,No,Normal security log with no specific details provided.
+5379,3582,,2026-04-01 17:19:32.890276+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3638,0,No,Normal security log with no specific details provided.
+5379,3583,,2026-04-01 17:19:32.890371+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3639,0,No,Normal security log with no specific details provided.
+5379,3584,,2026-04-01 17:19:32.890484+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3640,0,No,Normal security log with no specific details provided.
+5379,3585,,2026-04-01 17:19:32.890562+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3641,0,No,Normal security log with no specific details provided.
+5379,3586,,2026-04-01 17:19:32.890753+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3642,0,No,Normal security log with no specific details provided.
+5379,3587,,2026-04-01 17:19:32.890902+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3643,0,No,Normal security log with no specific details provided.
+4624,3588,,2026-04-01 17:19:43.989424+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3644,0,No,Normal system activity; SYSTEM account authenticated via Negotiate on services.exe.
+4672,3589,,2026-04-01 17:19:43.989428+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3645,0,No,Normal system activity; SYSTEM account granted special privileges.
+4624,3590,,2026-04-01 17:19:59.758812+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3646,0,No,Normal system activity; SYSTEM account authenticated via Negotiate on services.exe.
+4672,3591,,2026-04-01 17:19:59.758818+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3647,0,No,Normal system activity; SYSTEM account granted special privileges.
+0,175,,2026-04-01 17:20:00.130701+00:00,,,,,,,,Appiclation,,,,,,,,,,3648,0,No,Normal application log with no specific details provided.
+4624,3592,,2026-04-01 17:20:00.214006+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3649,0,No,Normal system activity; SYSTEM account authenticated via Negotiate on services.exe.

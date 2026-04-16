@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,5237,,2026-04-01 17:23:44.453403+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5320,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5238,,2026-04-01 17:23:44.453506+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5321,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5239,,2026-04-01 17:23:44.453577+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5322,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5240,,2026-04-01 17:23:44.453722+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5323,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5241,,2026-04-01 17:23:44.453806+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5324,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5242,,2026-04-01 17:23:44.453993+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5325,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5243,,2026-04-01 17:23:44.454082+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5326,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5244,,2026-04-01 17:23:44.454187+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5327,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5245,,2026-04-01 17:23:44.454269+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5328,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5246,,2026-04-01 17:23:44.501019+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5329,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5247,,2026-04-01 17:23:44.501089+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5330,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5248,,2026-04-01 17:23:44.501408+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5331,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5249,,2026-04-01 17:23:44.766024+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5332,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5250,,2026-04-01 17:23:44.772457+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5333,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5251,,2026-04-01 17:23:44.789606+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5334,0,Normal system activity; missing details and no indications of malicious behavior.
+5379,5252,,2026-04-01 17:23:44.789654+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,5335,0,Normal system activity; missing details and no indications of malicious behavior.
+16394,186,,2026-04-01 17:23:45.150333+00:00,,,,,,,,Appiclation,,,,,,,,,,5336,0,Normal system activity; missing details and no indications of malicious behavior.
+1034,187,,2026-04-01 17:23:45.371904+00:00,,,,,,,,Appiclation,,,,,,,,,,5337,0,Normal system activity; missing details and no indications of malicious behavior.
+1034,188,,2026-04-01 17:23:45.374750+00:00,,,,,,,,Appiclation,,,,,,,,,,5338,0,Normal system activity; missing details and no indications of malicious behavior.
+44,529,,2026-04-01 17:23:55.119383+00:00,,,,,,,,System,,,,,,,,,,5339,0,Normal system activity; missing details and no indications of malicious behavior.
+44,530,,2026-04-01 17:23:55.119383+00:00,,,,,,,,System,,,,,,,,,,5340,0,Normal system activity; missing details and no indications of malicious behavior.
+44,532,,2026-04-01 17:23:55.119385+00:00,,,,,,,,System,,,,,,,,,,5341,0,Normal system activity; missing details and no indications of malicious behavior.
+44,531,,2026-04-01 17:23:55.119385+00:00,,,,,,,,System,,,,,,,,,,5342,0,Normal system activity; missing details and no indications of malicious behavior.
+16384,189,,2026-04-01 17:24:15.445995+00:00,,,,,,,,Appiclation,,,,,,,,,,5343,0,Normal system activity; missing details and no indications of malicious behavior.
+44,534,,2026-04-01 17:25:24.597933+00:00,,,,,,,,System,,,,,,,,,,5344,0,Normal system activity; missing details and no indications of malicious behavior.
+44,533,,2026-04-01 17:25:24.597933+00:00,,,,,,,,System,,,,,,,,,,5345,0,Normal system activity; missing details and no indications of malicious behavior.
+44,535,,2026-04-01 17:25:24.597935+00:00,,,,,,,,System,,,,,,,,,,5346,0,Normal system activity; missing details and no indications of malicious behavior.
+44,536,,2026-04-01 17:25:24.597935+00:00,,,,,,,,System,,,,,,,,,,5347,0,Normal system activity; missing details and no indications of malicious behavior.
+44,538,,2026-04-01 17:25:24.598104+00:00,,,,,,,,System,,,,,,,,,,5348,0,Normal system activity; missing details and no indications of malicious behavior.
+44,539,,2026-04-01 17:25:24.598104+00:00,,,,,,,,System,,,,,,,,,,5349,0,Normal system activity; missing details and no indications of malicious behavior.
+44,537,,2026-04-01 17:25:24.598104+00:00,,,,,,,,System,,,,,,,,,,5350,0,Normal system activity; missing details and no indications of malicious behavior.
+44,540,,2026-04-01 17:25:28.592781+00:00,,,,,,,,System,,,,,,,,,,5351,0,Normal system activity; missing details and no indications of malicious behavior.
+44,541,,2026-04-01 17:25:28.592781+00:00,,,,,,,,System,,,,,,,,,,5352,0,Normal system activity; missing details and no indications of malicious behavior.
+44,542,,2026-04-01 17:25:28.592781+00:00,,,,,,,,System,,,,,,,,,,5353,0,Normal system activity; missing details and no indications of malicious behavior.
+44,543,,2026-04-01 17:25:28.592781+00:00,,,,,,,,System,,,,,,,,,,5354,0,Normal system activity; missing details and no indications of malicious behavior.
+44,544,,2026-04-01 17:25:35.932596+00:00,,,,,,,,System,,,,,,,,,,5355,0,Normal system activity; missing details and no indications of malicious behavior.
+44,545,,2026-04-01 17:25:35.932598+00:00,,,,,,,,System,,,,,,,,,,5356,0,Normal system activity; missing details and no indications of malicious behavior.
+44,546,,2026-04-01 17:25:35.932598+00:00,,,,,,,,System,,,,,,,,,,5357,0,Normal system activity; missing details and no indications of malicious behavior.
+44,547,,2026-04-01 17:25:35.932598+00:00,,,,,,,,System,,,,,,,,,,5358,0,Normal system activity; missing details and no indications of malicious behavior.
+16,548,,2026-04-01 17:25:46.648872+00:00,,,,,,,,System,,,,,,,,,,5359,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,190,,2026-04-01 17:25:46.774721+00:00,,,,,,,,Appiclation,,,,,,,,,,5360,0,Normal system activity; missing details and no indications of malicious behavior.
+44,549,,2026-04-01 17:25:52.573051+00:00,,,,,,,,System,,,,,,,,,,5361,0,Normal system activity; missing details and no indications of malicious behavior.
+44,550,,2026-04-01 17:25:52.573051+00:00,,,,,,,,System,,,,,,,,,,5362,0,Normal system activity; missing details and no indications of malicious behavior.
+44,551,,2026-04-01 17:25:52.573051+00:00,,,,,,,,System,,,,,,,,,,5363,0,Normal system activity; missing details and no indications of malicious behavior.
+16,552,,2026-04-01 17:25:53.682283+00:00,,,,,,,,System,,,,,,,,,,5364,0,Normal system activity; missing details and no indications of malicious behavior.
+44,553,,2026-04-01 17:25:54.627562+00:00,,,,,,,,System,,,,,,,,,,5365,0,Normal system activity; missing details and no indications of malicious behavior.
+44,554,,2026-04-01 17:25:54.627563+00:00,,,,,,,,System,,,,,,,,,,5366,0,Normal system activity; missing details and no indications of malicious behavior.
+44,555,,2026-04-01 17:25:54.627563+00:00,,,,,,,,System,,,,,,,,,,5367,0,Normal system activity; missing details and no indications of malicious behavior.
+16,556,,2026-04-01 17:26:21.764887+00:00,,,,,,,,System,,,,,,,,,,5368,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,191,,2026-04-01 17:26:21.812149+00:00,,,,,,,,Appiclation,,,,,,,,,,5369,0,Normal system activity; missing details and no indications of malicious behavior.
+43,557,,2026-04-01 17:26:25.350702+00:00,,,,,,,,System,,,,,,,,,,5370,0,Normal system activity; missing details and no indications of malicious behavior.
+16,558,,2026-04-01 17:26:26.039972+00:00,,,,,,,,System,,,,,,,,,,5371,0,Normal system activity; missing details and no indications of malicious behavior.
+16,559,,2026-04-01 17:26:29.739365+00:00,,,,,,,,System,,,,,,,,,,5372,0,Normal system activity; missing details and no indications of malicious behavior.
+20,560,,2026-04-01 17:26:33.581482+00:00,,,,,,,,System,,,,,,,,,,5373,0,Normal system activity; missing details and no indications of malicious behavior.
+43,561,,2026-04-01 17:26:33.601290+00:00,,,,,,,,System,,,,,,,,,,5374,0,Normal system activity; missing details and no indications of malicious behavior.
+16,562,,2026-04-01 17:26:33.873764+00:00,,,,,,,,System,,,,,,,,,,5375,0,Normal system activity; missing details and no indications of malicious behavior.
+16,563,,2026-04-01 17:26:36.839029+00:00,,,,,,,,System,,,,,,,,,,5376,0,Normal system activity; missing details and no indications of malicious behavior.
+19,564,,2026-04-01 17:26:37.308903+00:00,,,,,,,,System,,,,,,,,,,5377,0,Normal system activity; missing details and no indications of malicious behavior.
+20,565,,2026-04-01 17:26:37.336992+00:00,,,,,,,,System,,,,,,,,,,5378,0,Normal system activity; missing details and no indications of malicious behavior.
+43,566,,2026-04-01 17:26:37.394026+00:00,,,,,,,,System,,,,,,,,,,5379,0,Normal system activity; missing details and no indications of malicious behavior.
+19,567,,2026-04-01 17:26:37.594440+00:00,,,,,,,,System,,,,,,,,,,5380,0,Normal system activity; missing details and no indications of malicious behavior.
+43,568,,2026-04-01 17:26:37.761837+00:00,,,,,,,,System,,,,,,,,,,5381,0,Normal system activity; missing details and no indications of malicious behavior.
+16,569,,2026-04-01 17:26:37.861750+00:00,,,,,,,,System,,,,,,,,,,5382,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,192,,2026-04-01 17:26:38.066153+00:00,,,,,,,,Appiclation,,,,,,,,,,5383,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,193,,2026-04-01 17:26:38.066502+00:00,,,,,,,,Appiclation,,,,,,,,,,5384,0,Normal system activity; missing details and no indications of malicious behavior.
+19,570,,2026-04-01 17:26:39.094185+00:00,,,,,,,,System,,,,,,,,,,5385,0,Normal system activity; missing details and no indications of malicious behavior.
+19,571,,2026-04-01 17:26:39.633551+00:00,,,,,,,,System,,,,,,,,,,5386,0,Normal system activity; missing details and no indications of malicious behavior.
+43,572,,2026-04-01 17:26:39.660748+00:00,,,,,,,,System,,,,,,,,,,5387,0,Normal system activity; missing details and no indications of malicious behavior.
+20,573,,2026-04-01 17:26:39.931782+00:00,,,,,,,,System,,,,,,,,,,5388,0,Normal system activity; missing details and no indications of malicious behavior.
+43,574,,2026-04-01 17:26:40.261639+00:00,,,,,,,,System,,,,,,,,,,5389,0,Normal system activity; missing details and no indications of malicious behavior.
+19,575,,2026-04-01 17:26:40.714006+00:00,,,,,,,,System,,,,,,,,,,5390,0,Normal system activity; missing details and no indications of malicious behavior.
+43,576,,2026-04-01 17:26:40.727861+00:00,,,,,,,,System,,,,,,,,,,5391,0,Normal system activity; missing details and no indications of malicious behavior.
+16,577,,2026-04-01 17:26:41.254923+00:00,,,,,,,,System,,,,,,,,,,5392,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,194,,2026-04-01 17:26:41.866581+00:00,,,,,,,,Appiclation,,,,,,,,,,5393,0,Normal system activity; missing details and no indications of malicious behavior.
+2562,195,,2026-04-01 17:26:41.866838+00:00,,,,,,,,Appiclation,,,,,,,,,,5394,0,Normal system activity; missing details and no indications of malicious behavior.
+4624,5253,,2026-04-01 17:26:41.909122+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5395,3,Authentication event with SYSTEM privileges; needs review for potential elevation of privilege.
+4672,5254,,2026-04-01 17:26:41.909130+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5396,3,Special privileges assigned to new logon; review needed for potential security implications.
+19,578,,2026-04-01 17:26:42.672884+00:00,,,,,,,,System,,,,,,,,,,5397,0,Normal system activity; missing details and no indications of malicious behavior.
+1001,196,,2026-04-01 17:26:43.095562+00:00,,StoreAgentInstallFailure1,,,,,,Appiclation,,,,,,,,,,5398,3,Store application installation failure; review for potential issues with application integrity or source.
+1001,197,,2026-04-01 17:26:43.105833+00:00,,StoreAgentInstallFailure1,,,,,,Appiclation,,,,,,,,,,5399,3,Repeated store application installation failure; potential issue with application source or integrity.

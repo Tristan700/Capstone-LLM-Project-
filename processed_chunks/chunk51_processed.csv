@@ -1,0 +1,91 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+1001,170,,2026-04-01 17:18:46.482775+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,3500,0,No,"Log indicates a crashpad_log event from an application, typical for system operations."
+1282,510,,2026-04-01 17:18:58.077324+00:00,,,,,,,,System,,,,,,,,,,3501,0,No,"Generic system log with no specific details provided, normal system behavior."
+1001,171,,2026-04-01 17:18:58.583103+00:00,,crashpad_log,,,,,,Appiclation,,,,,,,,,,3502,0,No,"Another crashpad_log event similar to RowID 3500, normal for application operations."
+4624,3452,,2026-04-01 17:19:05.195526+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3503,0,No,"Standard system login event, authenticated using Negotiate, typical system behavior."
+4672,3453,,2026-04-01 17:19:05.195530+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3504,0,No,"System event related to a privileged account, normal for administrative operations."
+5379,3454,,2026-04-01 17:19:08.001165+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3505,0,No,"Security log from user 'pizza', no suspicious activity indicated."
+5379,3455,,2026-04-01 17:19:08.002354+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3506,0,No,"Repeated security log from user 'pizza', consistent with previous normal activity."
+5379,3456,,2026-04-01 17:19:08.002396+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3507,0,No,"Continuation of security logs from user 'pizza', no anomalies detected."
+5379,3457,,2026-04-01 17:19:08.080887+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3508,0,No,Ongoing normal security logging activity from user 'pizza'.
+5379,3458,,2026-04-01 17:19:08.082729+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3509,0,No,"Consistent security log entries from user 'pizza', typical behavior."
+5379,3459,,2026-04-01 17:19:08.354824+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3510,0,No,"Security log from user 'pizza', continues to show normal activity."
+5379,3460,,2026-04-01 17:19:08.354996+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3511,0,No,"Routine security log entry from user 'pizza', no irregularities."
+5379,3461,,2026-04-01 17:19:08.355152+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3512,0,No,"Security log for user 'pizza' shows consistent, expected entries."
+5379,3462,,2026-04-01 17:19:08.355236+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3513,0,No,Continued normal security logging from user 'pizza'.
+5379,3463,,2026-04-01 17:19:08.355362+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3514,0,No,"Ongoing security log entries from user 'pizza', no suspicious activity."
+5379,3464,,2026-04-01 17:19:08.355440+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3515,0,No,Security logs from user 'pizza' remain consistent and normal.
+5379,3465,,2026-04-01 17:19:08.355562+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3516,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3466,,2026-04-01 17:19:08.355724+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3517,0,No,"Security log entry from user 'pizza', continues normal pattern."
+5379,3467,,2026-04-01 17:19:08.355927+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3518,0,No,"Consistent security log entries from user 'pizza', no anomalies."
+5379,3468,,2026-04-01 17:19:08.356026+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3519,0,No,"Ongoing security logs from user 'pizza', typical system behavior."
+5379,3469,,2026-04-01 17:19:08.356142+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3520,0,No,Continued normal security logging from user 'pizza'.
+5379,3470,,2026-04-01 17:19:08.356215+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3521,0,No,"Routine security log entries from user 'pizza', consistent with normal activity."
+5379,3471,,2026-04-01 17:19:08.356331+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3522,0,No,Security logs from user 'pizza' show no deviation from expected behavior.
+5379,3472,,2026-04-01 17:19:08.356403+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3523,0,No,"Consistent security logging from user 'pizza', no suspicious activity."
+5379,3473,,2026-04-01 17:19:08.356522+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3524,0,No,Ongoing normal security logs from user 'pizza'.
+5379,3474,,2026-04-01 17:19:08.356810+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3525,0,No,Security log entries from user 'pizza' continue to be normal.
+5379,3475,,2026-04-01 17:19:08.362293+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3526,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3476,,2026-04-01 17:19:08.362440+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3527,0,No,"Security log entry from user 'pizza', continues normal pattern."
+5379,3477,,2026-04-01 17:19:08.362560+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3528,0,No,"Consistent security log entries from user 'pizza', no anomalies."
+5379,3478,,2026-04-01 17:19:08.362654+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3529,0,No,"Ongoing security logs from user 'pizza', typical system behavior."
+5379,3479,,2026-04-01 17:19:08.362761+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3530,0,No,Continued normal security logging from user 'pizza'.
+5379,3480,,2026-04-01 17:19:08.362846+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3531,0,No,"Routine security log entries from user 'pizza', consistent with normal activity."
+5379,3481,,2026-04-01 17:19:08.362940+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3532,0,No,Security logs from user 'pizza' show no deviation from expected behavior.
+5379,3482,,2026-04-01 17:19:08.363026+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3533,0,No,"Consistent security logging from user 'pizza', no suspicious activity."
+5379,3483,,2026-04-01 17:19:08.363119+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3534,0,No,Ongoing normal security logs from user 'pizza'.
+5379,3484,,2026-04-01 17:19:08.363205+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3535,0,No,Security log entries from user 'pizza' continue to be normal.
+5379,3485,,2026-04-01 17:19:08.363295+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3536,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3486,,2026-04-01 17:19:08.363377+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3537,0,No,"Security log entry from user 'pizza', continues normal pattern."
+5379,3487,,2026-04-01 17:19:08.363482+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3538,0,No,"Consistent security log entries from user 'pizza', no anomalies."
+5379,3488,,2026-04-01 17:19:08.368885+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3539,0,No,"Ongoing security logs from user 'pizza', typical system behavior."
+5379,3489,,2026-04-01 17:19:08.369026+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3540,0,No,Continued normal security logging from user 'pizza'.
+5379,3490,,2026-04-01 17:19:08.369156+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3541,0,No,"Routine security log entries from user 'pizza', consistent with normal activity."
+5379,3491,,2026-04-01 17:19:08.369236+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3542,0,No,Security logs from user 'pizza' show no deviation from expected behavior.
+5379,3492,,2026-04-01 17:19:08.369343+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3543,0,No,"Consistent security logging from user 'pizza', no suspicious activity."
+5379,3493,,2026-04-01 17:19:08.369415+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3544,0,No,Ongoing normal security logs from user 'pizza'.
+5379,3494,,2026-04-01 17:19:08.369556+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3545,0,No,Security log entries from user 'pizza' continue to be normal.
+5379,3495,,2026-04-01 17:19:08.369650+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3546,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3496,,2026-04-01 17:19:08.369747+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3547,0,No,"Security log entry from user 'pizza', continues normal pattern."
+5379,3497,,2026-04-01 17:19:08.369841+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3548,0,No,"Consistent security log entries from user 'pizza', no anomalies."
+5379,3498,,2026-04-01 17:19:08.369957+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3549,0,No,"Ongoing security logs from user 'pizza', typical system behavior."
+5379,3499,,2026-04-01 17:19:08.370117+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3550,0,No,Continued normal security logging from user 'pizza'.
+5379,3500,,2026-04-01 17:19:08.370256+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3551,0,No,"Routine security log entries from user 'pizza', consistent with normal activity."
+5379,3501,,2026-04-01 17:19:08.420654+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3552,0,No,Security logs from user 'pizza' show no deviation from expected behavior.
+5379,3502,,2026-04-01 17:19:08.426027+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3553,0,No,"Consistent security logging from user 'pizza', no suspicious activity."
+5379,3503,,2026-04-01 17:19:08.484760+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3554,0,No,Ongoing normal security logs from user 'pizza'.
+5379,3504,,2026-04-01 17:19:08.484945+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3555,0,No,Security log entries from user 'pizza' continue to be normal.
+5379,3505,,2026-04-01 17:19:08.485086+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3556,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3506,,2026-04-01 17:19:08.485176+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3557,0,No,"Security log entry from user 'pizza', continues normal pattern."
+5379,3507,,2026-04-01 17:19:08.485287+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3558,0,No,"Consistent security log entries from user 'pizza', no anomalies."
+5379,3508,,2026-04-01 17:19:08.485365+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3559,0,No,"Ongoing security logs from user 'pizza', typical system behavior."
+5379,3509,,2026-04-01 17:19:08.485464+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3560,0,No,Continued normal security logging from user 'pizza'.
+5379,3510,,2026-04-01 17:19:08.485590+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3561,0,No,"Routine security log entries from user 'pizza', consistent with normal activity."
+5379,3511,,2026-04-01 17:19:08.485706+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3562,0,No,Security logs from user 'pizza' show no deviation from expected behavior.
+5379,3512,,2026-04-01 17:19:08.485788+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3563,0,No,"Consistent security logging from user 'pizza', no suspicious activity."
+5379,3513,,2026-04-01 17:19:08.485889+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3564,0,No,Ongoing normal security logs from user 'pizza'.
+5379,3514,,2026-04-01 17:19:08.485966+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3565,0,No,Security log entries from user 'pizza' continue to be normal.
+5379,3515,,2026-04-01 17:19:08.486073+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3566,0,No,"Routine security logging from user 'pizza', consistent with previous logs."
+5379,3516,,2026-04-01 17:19:08.486155+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3567,0,No,"Security log entry from user 'pizza', continues normal pattern."
+4624,3517,,2026-04-01 17:19:13.996000+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3568,0,No,"Standard system login event, authenticated using Negotiate, typical system behavior."
+4672,3518,,2026-04-01 17:19:13.996006+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3569,0,No,"System event related to a privileged account, normal for administrative operations."
+4624,3519,,2026-04-01 17:19:14.147680+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3570,0,No,"Standard system login event, authenticated using Negotiate, typical system behavior."
+4672,3520,,2026-04-01 17:19:14.147682+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3571,0,No,"System event related to a privileged account, normal for administrative operations."
+7040,511,,2026-04-01 17:19:14.291241+00:00,,,,,,,,System,,,,,,,,,,3572,0,No,"Generic system log with no specific details provided, normal system behavior."
+2562,172,,2026-04-01 17:19:14.879072+00:00,,,,,,,,Appiclation,,,,,,,,,,3573,0,No,"Log indicates an application event, typical for system operations."
+86,173,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 17:19:16.109520+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 17:19:15 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: e100848d-4667-46bb-b011-31dedb18a198
+",,Appiclation,,,,,,,,,,3574,3,Yes,"Error 404 for a security authority lookup, could indicate misconfiguration or suspicious activity."
+1025,512,,2026-04-01 17:19:16.117834+00:00,,,,,,,,System,,,,,,,,,,3575,0,No,"Generic system log with no specific details provided, normal system behavior."
+4799,3521,,2026-04-01 17:19:18.678535+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3576,6,Yes,"User 'pizza' attempting to access 'Administrators' group, needs review for potential privilege escalation."
+4799,3522,,2026-04-01 17:19:18.706024+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,3577,6,Yes,"User 'NORMALVM$' attempting to access 'Administrators' group, needs review for potential privilege escalation."
+4799,3523,,2026-04-01 17:19:19.538786+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3578,6,Yes,"User 'pizza' attempting to access 'Administrators' group again, consistent with potential privilege escalation."
+4799,3524,,2026-04-01 17:19:21.000378+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3579,6,Yes,"Repeated attempts by 'pizza' to access 'Administrators' group, suspicious repeated behavior."

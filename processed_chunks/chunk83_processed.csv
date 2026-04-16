@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,5565,,2026-04-01 17:27:38.544733+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5740,0,Normal system activity; missing details and no suspicious indicators.
+5379,5566,,2026-04-01 17:27:38.544888+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5741,0,Normal system activity; missing details and no suspicious indicators.
+5379,5567,,2026-04-01 17:27:38.546261+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5742,0,Normal system activity; missing details and no suspicious indicators.
+5379,5568,,2026-04-01 17:27:38.546648+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5743,0,Normal system activity; missing details and no suspicious indicators.
+5379,5569,,2026-04-01 17:27:38.582846+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5744,0,Normal system activity; missing details and no suspicious indicators.
+5379,5570,,2026-04-01 17:27:38.583019+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5745,0,Normal system activity; missing details and no suspicious indicators.
+5379,5571,,2026-04-01 17:27:38.583155+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5746,0,Normal system activity; missing details and no suspicious indicators.
+5379,5572,,2026-04-01 17:27:38.583344+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5747,0,Normal system activity; missing details and no suspicious indicators.
+5379,5573,,2026-04-01 17:27:38.583502+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5748,0,Normal system activity; missing details and no suspicious indicators.
+5379,5574,,2026-04-01 17:27:38.583593+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5749,0,Normal system activity; missing details and no suspicious indicators.
+5379,5575,,2026-04-01 17:27:38.583694+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5750,0,Normal system activity; missing details and no suspicious indicators.
+5379,5576,,2026-04-01 17:27:38.583771+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5751,0,Normal system activity; missing details and no suspicious indicators.
+5379,5577,,2026-04-01 17:27:38.583864+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5752,0,Normal system activity; missing details and no suspicious indicators.
+5379,5578,,2026-04-01 17:27:38.583933+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5753,0,Normal system activity; missing details and no suspicious indicators.
+5379,5579,,2026-04-01 17:27:38.584026+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5754,0,Normal system activity; missing details and no suspicious indicators.
+5379,5580,,2026-04-01 17:27:38.584095+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5755,0,Normal system activity; missing details and no suspicious indicators.
+5379,5581,,2026-04-01 17:27:38.584192+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5756,0,Normal system activity; missing details and no suspicious indicators.
+5379,5582,,2026-04-01 17:27:38.584332+00:00,,,,,,,2026-04-01 17:27:10.895744+00:00,Security,,,,pizza,,,,,,5757,0,Normal system activity; missing details and no suspicious indicators.
+4624,5583,,2026-04-01 17:27:52.488941+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5758,0,Normal system activity; missing details and no suspicious indicators.
+4672,5584,,2026-04-01 17:27:52.488947+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5759,0,Normal system activity; missing details and no suspicious indicators.
+4624,5585,,2026-04-01 17:27:52.491402+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5760,0,Normal system activity; missing details and no suspicious indicators.
+4672,5586,,2026-04-01 17:27:52.491404+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5761,0,Normal system activity; missing details and no suspicious indicators.
+4624,5587,,2026-04-01 17:27:52.491919+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5762,0,Normal system activity; missing details and no suspicious indicators.
+4672,5588,,2026-04-01 17:27:52.491922+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5763,0,Normal system activity; missing details and no suspicious indicators.
+4624,5589,,2026-04-01 17:27:52.497370+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5764,0,Normal system activity; missing details and no suspicious indicators.
+4672,5590,,2026-04-01 17:27:52.497374+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5765,0,Normal system activity; missing details and no suspicious indicators.
+4624,5591,,2026-04-01 17:27:52.502176+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5766,0,Normal system activity; missing details and no suspicious indicators.
+4672,5592,,2026-04-01 17:27:52.502182+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5767,0,Normal system activity; missing details and no suspicious indicators.
+4624,5593,,2026-04-01 17:27:52.507288+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5768,0,Normal system activity; missing details and no suspicious indicators.
+4672,5594,,2026-04-01 17:27:52.507292+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5769,0,Normal system activity; missing details and no suspicious indicators.
+4624,5595,,2026-04-01 17:27:52.591837+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5770,0,Normal system activity; missing details and no suspicious indicators.
+4672,5596,,2026-04-01 17:27:52.591841+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5771,0,Normal system activity; missing details and no suspicious indicators.
+4799,5597,,2026-04-01 17:27:54.877350+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,5772,0,Normal system activity; missing details and no suspicious indicators.
+4624,5598,,2026-04-01 17:28:02.362797+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5773,0,Normal system activity; missing details and no suspicious indicators.
+4672,5599,,2026-04-01 17:28:02.362801+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5774,0,Normal system activity; missing details and no suspicious indicators.
+4624,5600,,2026-04-01 17:28:02.397305+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5775,0,Normal system activity; missing details and no suspicious indicators.
+4672,5601,,2026-04-01 17:28:02.397312+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5776,0,Normal system activity; missing details and no suspicious indicators.
+4624,5602,,2026-04-01 17:28:02.699753+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5777,0,Normal system activity; missing details and no suspicious indicators.
+4672,5603,,2026-04-01 17:28:02.699759+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5778,0,Normal system activity; missing details and no suspicious indicators.
+4624,5604,,2026-04-01 17:28:12.299534+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5779,0,Normal system activity; missing details and no suspicious indicators.
+4672,5605,,2026-04-01 17:28:12.299538+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5780,0,Normal system activity; missing details and no suspicious indicators.
+4624,5606,,2026-04-01 17:28:12.394575+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5781,0,Normal system activity; missing details and no suspicious indicators.
+4672,5607,,2026-04-01 17:28:12.394581+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5782,0,Normal system activity; missing details and no suspicious indicators.
+4799,5608,,2026-04-01 17:28:12.405142+00:00,,,,,,,,Security,C:\Windows\System32\VSSVC.exe,,,NORMALVM$,Administrators,,,,,5783,0,Normal system activity; missing details and no suspicious indicators.
+4799,5609,,2026-04-01 17:28:12.530018+00:00,,,,,,,,Security,C:\Windows\System32\VSSVC.exe,,,NORMALVM$,Administrators,,,,,5784,0,Normal system activity; missing details and no suspicious indicators.
+4799,5610,,2026-04-01 17:28:12.680294+00:00,,,,,,,,Security,C:\Windows\System32\VSSVC.exe,,,NORMALVM$,Administrators,,,,,5785,0,Normal system activity; missing details and no suspicious indicators.
+4799,5611,,2026-04-01 17:28:12.732864+00:00,,,,,,,,Security,C:\Windows\System32\VSSVC.exe,,,NORMALVM$,Administrators,,,,,5786,0,Normal system activity; missing details and no suspicious indicators.
+4799,5612,,2026-04-01 17:28:14.020733+00:00,,,,,,,,Security,C:\Windows\System32\RuntimeBroker.exe,,,pizza,Administrators,,,,,5787,0,Normal system activity; missing details and no suspicious indicators.
+4799,5613,,2026-04-01 17:28:14.021835+00:00,,,,,,,,Security,C:\Windows\System32\RuntimeBroker.exe,,,pizza,Administrators,,,,,5788,0,Normal system activity; missing details and no suspicious indicators.
+4799,5614,,2026-04-01 17:28:14.096992+00:00,,,,,,,,Security,C:\Windows\System32\RuntimeBroker.exe,,,pizza,Administrators,,,,,5789,0,Normal system activity; missing details and no suspicious indicators.
+4799,5615,,2026-04-01 17:28:14.098097+00:00,,,,,,,,Security,C:\Windows\System32\RuntimeBroker.exe,,,pizza,Administrators,,,,,5790,0,Normal system activity; missing details and no suspicious indicators.
+5382,5616,,2026-04-01 17:28:43.259892+00:00,,,,,,,2026-04-01 17:17:44.319941+00:00,Security,,,,NORMALVM$,,,,,,5791,0,Normal system activity; missing details and no suspicious indicators.
+4798,5617,,2026-04-01 17:28:43.483175+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,5792,0,Normal system activity; missing details and no suspicious indicators.
+4798,5618,,2026-04-01 17:28:43.484644+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,5793,0,Normal system activity; missing details and no suspicious indicators.
+4798,5619,,2026-04-01 17:28:43.484928+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,5794,0,Normal system activity; missing details and no suspicious indicators.
+4798,5620,,2026-04-01 17:28:43.485249+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,5795,0,Normal system activity; missing details and no suspicious indicators.
+4798,5621,,2026-04-01 17:28:43.486467+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,5796,0,Normal system activity; missing details and no suspicious indicators.
+4798,5622,,2026-04-01 17:28:43.487223+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,5797,0,Normal system activity; missing details and no suspicious indicators.
+4798,5623,,2026-04-01 17:28:43.487507+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,5798,0,Normal system activity; missing details and no suspicious indicators.
+4798,5624,,2026-04-01 17:28:43.487787+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,5799,0,Normal system activity; missing details and no suspicious indicators.
+5382,5625,,2026-04-01 17:28:43.622757+00:00,,,,,,,2026-04-01 17:17:44.319941+00:00,Security,,,,NORMALVM$,,,,,,5800,0,Normal system activity; missing details and no suspicious indicators.
+4624,5626,,2026-04-01 17:28:43.897938+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5801,0,Normal system activity; missing details and no suspicious indicators.
+4672,5627,,2026-04-01 17:28:43.897942+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5802,0,Normal system activity; missing details and no suspicious indicators.
+4798,5628,,2026-04-01 17:29:10.495178+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,5803,0,Normal system activity; missing details and no suspicious indicators.
+4798,5629,,2026-04-01 17:29:10.495506+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,5804,0,Normal system activity; missing details and no suspicious indicators.
+4798,5630,,2026-04-01 17:29:10.500828+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,5805,0,Normal system activity; missing details and no suspicious indicators.
+4798,5631,,2026-04-01 17:29:10.510111+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,5806,0,Normal system activity; missing details and no suspicious indicators.
+4624,5632,,2026-04-01 17:30:49.110336+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5807,0,Normal system activity; missing details and no suspicious indicators.
+4672,5633,,2026-04-01 17:30:49.110342+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5808,0,Normal system activity; missing details and no suspicious indicators.
+8224,204,,2026-04-01 17:31:12.488871+00:00,,,,,,,,Appiclation,,,,,,,,,,5809,0,Normal system activity; missing details and no suspicious indicators.
+4624,5634,,2026-04-01 17:32:44.620813+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5810,0,Normal system activity; missing details and no suspicious indicators.
+4672,5635,,2026-04-01 17:32:44.620821+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5811,0,Normal system activity; missing details and no suspicious indicators.
+4624,5636,,2026-04-01 17:32:52.539206+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5812,0,Normal system activity; missing details and no suspicious indicators.
+4672,5637,,2026-04-01 17:32:52.539211+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5813,0,Normal system activity; missing details and no suspicious indicators.
+4624,5638,,2026-04-01 17:32:53.256981+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,5814,0,Normal system activity; missing details and no suspicious indicators.
+4672,5639,,2026-04-01 17:32:53.256987+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,5815,0,Normal system activity; missing details and no suspicious indicators.
+4798,5640,,2026-04-01 17:32:55.039474+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrator,,,,,5816,0,Normal system activity; missing details and no suspicious indicators.
+4798,5641,,2026-04-01 17:32:55.040909+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,DefaultAccount,,,,,5817,0,Normal system activity; missing details and no suspicious indicators.
+4798,5642,,2026-04-01 17:32:55.041315+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Guest,,,,,5818,0,Normal system activity; missing details and no suspicious indicators.
+4798,5643,,2026-04-01 17:32:55.041794+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,pizza,,,,,5819,0,Normal system activity; missing details and no suspicious indicators.

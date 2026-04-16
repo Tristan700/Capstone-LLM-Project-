@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+5379,3323,,2026-04-01 17:18:16.860579+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3360,0,No,Normal process creation event with no suspicious indicators.
+4799,3324,,2026-04-01 17:18:18.543732+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,3361,3,No,"svchost.exe adding a user to Administrators group, low risk but unusual."
+4799,3325,,2026-04-01 17:18:19.260649+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3362,3,No,"taskhostw.exe adding a user to Administrators group, low risk but unusual."
+5611,161,,2026-04-01 17:18:20.942625+00:00,,,,,,,,Appiclation,,,,,,,,,,3363,0,No,Generic application event with no specific details provided.
+5617,162,,2026-04-01 17:18:23.226330+00:00,,,,,,,,Appiclation,,,,,,,,,,3364,0,No,Generic application event with no specific details provided.
+4799,3326,,2026-04-01 17:18:24.039352+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,pizza,Administrators,,,,,3365,3,No,"svchost.exe adding a user to Administrators group, low risk but unusual."
+1,163,,2026-04-01 17:18:24.812721+00:00,S-1-5-21-2352865859-2334931103-2005901029-1000,,,,,,,Appiclation,,,,,,,,,,3366,0,No,Generic application event with no specific details provided.
+1,164,,2026-04-01 17:18:24.998314+00:00,S-1-5-21-2352865859-2334931103-2005901029-1000,,,,,,,Appiclation,,,,,,,,,,3367,0,No,Generic application event with no specific details provided.
+8230,165,,2026-04-01 17:18:31.228558+00:00,,,,,,,,Appiclation,,,,,,,,,,3368,0,No,Generic application event with no specific details provided.
+5379,3327,,2026-04-01 17:18:32.758942+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3369,0,No,Normal process creation event with no suspicious indicators.
+5379,3328,,2026-04-01 17:18:32.760105+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3370,0,No,Normal process creation event with no suspicious indicators.
+5379,3329,,2026-04-01 17:18:32.760155+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3371,0,No,Normal process creation event with no suspicious indicators.
+5379,3330,,2026-04-01 17:18:32.784426+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3372,0,No,Normal process creation event with no suspicious indicators.
+5379,3331,,2026-04-01 17:18:32.785955+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3373,0,No,Normal process creation event with no suspicious indicators.
+5379,3332,,2026-04-01 17:18:33.063848+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3374,0,No,Normal process creation event with no suspicious indicators.
+5379,3333,,2026-04-01 17:18:33.064959+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3375,0,No,Normal process creation event with no suspicious indicators.
+5379,3334,,2026-04-01 17:18:33.065264+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3376,0,No,Normal process creation event with no suspicious indicators.
+5379,3335,,2026-04-01 17:18:33.065445+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3377,0,No,Normal process creation event with no suspicious indicators.
+5379,3336,,2026-04-01 17:18:33.065641+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3378,0,No,Normal process creation event with no suspicious indicators.
+5379,3337,,2026-04-01 17:18:33.065783+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3379,0,No,Normal process creation event with no suspicious indicators.
+5379,3338,,2026-04-01 17:18:33.065973+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3380,0,No,Normal process creation event with no suspicious indicators.
+5379,3339,,2026-04-01 17:18:33.066217+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3381,0,No,Normal process creation event with no suspicious indicators.
+5379,3340,,2026-04-01 17:18:33.066448+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3382,0,No,Normal process creation event with no suspicious indicators.
+5379,3341,,2026-04-01 17:18:33.066597+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3383,0,No,Normal process creation event with no suspicious indicators.
+5379,3342,,2026-04-01 17:18:33.066784+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3384,0,No,Normal process creation event with no suspicious indicators.
+5379,3343,,2026-04-01 17:18:33.066881+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3385,0,No,Normal process creation event with no suspicious indicators.
+5379,3344,,2026-04-01 17:18:33.066996+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3386,0,No,Normal process creation event with no suspicious indicators.
+5379,3345,,2026-04-01 17:18:33.067087+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3387,0,No,Normal process creation event with no suspicious indicators.
+5379,3346,,2026-04-01 17:18:33.067192+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3388,0,No,Normal process creation event with no suspicious indicators.
+5379,3347,,2026-04-01 17:18:33.067467+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3389,0,No,Normal process creation event with no suspicious indicators.
+5379,3348,,2026-04-01 17:18:33.076641+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3390,0,No,Normal process creation event with no suspicious indicators.
+5379,3349,,2026-04-01 17:18:33.076872+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3391,0,No,Normal process creation event with no suspicious indicators.
+5379,3350,,2026-04-01 17:18:33.077065+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3392,0,No,Normal process creation event with no suspicious indicators.
+5379,3351,,2026-04-01 17:18:33.077318+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3393,0,No,Normal process creation event with no suspicious indicators.
+5379,3352,,2026-04-01 17:18:33.077509+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3394,0,No,Normal process creation event with no suspicious indicators.
+5379,3353,,2026-04-01 17:18:33.077625+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3395,0,No,Normal process creation event with no suspicious indicators.
+5379,3354,,2026-04-01 17:18:33.077738+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3396,0,No,Normal process creation event with no suspicious indicators.
+5379,3355,,2026-04-01 17:18:33.077847+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3397,0,No,Normal process creation event with no suspicious indicators.
+5379,3356,,2026-04-01 17:18:33.077942+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3398,0,No,Normal process creation event with no suspicious indicators.
+5379,3357,,2026-04-01 17:18:33.078026+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3399,0,No,Normal process creation event with no suspicious indicators.
+5379,3358,,2026-04-01 17:18:33.078121+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3400,0,No,Normal process creation event with no suspicious indicators.
+5379,3359,,2026-04-01 17:18:33.078205+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3401,0,No,Normal process creation event with no suspicious indicators.
+5379,3360,,2026-04-01 17:18:33.078327+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3402,0,No,Normal process creation event with no suspicious indicators.
+5379,3361,,2026-04-01 17:18:33.083103+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3403,0,No,Normal process creation event with no suspicious indicators.
+5379,3362,,2026-04-01 17:18:33.083269+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3404,0,No,Normal process creation event with no suspicious indicators.
+5379,3363,,2026-04-01 17:18:33.083467+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3405,0,No,Normal process creation event with no suspicious indicators.
+5379,3364,,2026-04-01 17:18:33.083569+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3406,0,No,Normal process creation event with no suspicious indicators.
+5379,3365,,2026-04-01 17:18:33.083771+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3407,0,No,Normal process creation event with no suspicious indicators.
+5379,3366,,2026-04-01 17:18:33.083929+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3408,0,No,Normal process creation event with no suspicious indicators.
+5379,3367,,2026-04-01 17:18:33.084087+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3409,0,No,Normal process creation event with no suspicious indicators.
+5379,3368,,2026-04-01 17:18:33.084309+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3410,0,No,Normal process creation event with no suspicious indicators.
+5379,3369,,2026-04-01 17:18:33.084486+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3411,0,No,Normal process creation event with no suspicious indicators.
+5379,3370,,2026-04-01 17:18:33.084616+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3412,0,No,Normal process creation event with no suspicious indicators.
+5379,3371,,2026-04-01 17:18:33.084764+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3413,0,No,Normal process creation event with no suspicious indicators.
+5379,3372,,2026-04-01 17:18:33.084883+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3414,0,No,Normal process creation event with no suspicious indicators.
+5379,3373,,2026-04-01 17:18:33.085024+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3415,0,No,Normal process creation event with no suspicious indicators.
+5379,3374,,2026-04-01 17:18:33.085876+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3416,0,No,Normal process creation event with no suspicious indicators.
+5379,3375,,2026-04-01 17:18:33.086168+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3417,0,No,Normal process creation event with no suspicious indicators.
+5379,3376,,2026-04-01 17:18:33.113630+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3418,0,No,Normal process creation event with no suspicious indicators.
+5379,3377,,2026-04-01 17:18:33.113901+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3419,0,No,Normal process creation event with no suspicious indicators.
+5379,3378,,2026-04-01 17:18:33.114170+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3420,0,No,Normal process creation event with no suspicious indicators.
+5379,3379,,2026-04-01 17:18:33.114338+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3421,0,No,Normal process creation event with no suspicious indicators.
+5379,3380,,2026-04-01 17:18:33.114506+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3422,0,No,Normal process creation event with no suspicious indicators.
+5379,3381,,2026-04-01 17:18:33.114643+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3423,0,No,Normal process creation event with no suspicious indicators.
+5379,3382,,2026-04-01 17:18:33.114758+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3424,0,No,Normal process creation event with no suspicious indicators.
+5379,3383,,2026-04-01 17:18:33.114893+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3425,0,No,Normal process creation event with no suspicious indicators.
+5379,3384,,2026-04-01 17:18:33.115032+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3426,0,No,Normal process creation event with no suspicious indicators.
+5379,3385,,2026-04-01 17:18:33.115122+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3427,0,No,Normal process creation event with no suspicious indicators.
+5379,3386,,2026-04-01 17:18:33.115231+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3428,0,No,Normal process creation event with no suspicious indicators.
+5379,3387,,2026-04-01 17:18:33.115311+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3429,0,No,Normal process creation event with no suspicious indicators.
+5379,3388,,2026-04-01 17:18:33.115427+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3430,0,No,Normal process creation event with no suspicious indicators.
+5379,3389,,2026-04-01 17:18:33.115513+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,pizza,,,,,,3431,0,No,Normal process creation event with no suspicious indicators.
+1003,166,,2026-04-01 17:18:33.595781+00:00,,,,,,,,Appiclation,,,,,,,,,,3432,0,No,Generic application event with no specific details provided.
+1003,167,,2026-04-01 17:18:33.617966+00:00,,,,,,,,Appiclation,,,,,,,,,,3433,0,No,Generic application event with no specific details provided.
+1003,168,,2026-04-01 17:18:33.647331+00:00,,,,,,,,Appiclation,,,,,,,,,,3434,0,No,Generic application event with no specific details provided.
+8198,169,,2026-04-01 17:18:33.663181+00:00,,,,,,,,Appiclation,,,,,,,,,,3435,0,No,Generic application event with no specific details provided.
+4799,3390,,2026-04-01 17:18:33.850258+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,pizza,Administrators,,,,,3436,3,No,"taskhostw.exe adding a user to Administrators group, low risk but unusual."
+4624,3391,,2026-04-01 17:18:34.199364+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,3437,3,No,"User login via services.exe using Negotiate, low risk but needs review."
+4672,3392,,2026-04-01 17:18:34.199383+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,3438,0,No,"SYSTEM account granted special privileges, typical for system operations."
+5379,3393,,2026-04-01 17:18:37.919083+00:00,,,,,,,2026-04-01 17:17:51.206451+00:00,Security,,,,NORMALVM$,,,,,,3439,0,No,Normal process creation event with no suspicious indicators.
