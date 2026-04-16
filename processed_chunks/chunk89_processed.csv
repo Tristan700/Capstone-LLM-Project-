@@ -1,0 +1,101 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+7026,669,,2026-04-01 18:09:16.421251+00:00,,,,,,,,System,,,,,,,,,,6160,0,Normal system log with no specific details provided.
+18,670,,2026-04-01 18:09:16.431797+00:00,,,,,,,,System,,,,,,,,,,6161,0,Normal system log with no specific details provided.
+4624,5916,,2026-04-01 18:09:17.219034+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6162,0,Normal system log with typical process execution.
+4672,5917,,2026-04-01 18:09:17.219040+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6163,0,Normal system log with no specific details provided.
+4798,5918,,2026-04-01 18:09:18.569309+00:00,,,,,,,,Security,C:\Windows\System32\LogonUI.exe,,,NORMALVM$,pizza,,,,,6164,0,Normal system log with typical process execution.
+4624,5919,,2026-04-01 18:09:19.617012+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6165,0,Normal system log with typical process execution.
+4672,5920,,2026-04-01 18:09:19.617018+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6166,0,Normal system log with no specific details provided.
+5024,5921,,2026-04-01 18:09:21.493200+00:00,,,,,,,,Security,,,,,,,,,,6167,0,Normal system log with no specific details provided.
+4624,5922,,2026-04-01 18:09:22.518272+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6168,0,Normal system log with typical process execution.
+4672,5923,,2026-04-01 18:09:22.518280+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6169,0,Normal system log with no specific details provided.
+4624,5924,,2026-04-01 18:09:22.587011+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6170,0,Normal system log with typical process execution.
+4672,5925,,2026-04-01 18:09:22.587015+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6171,0,Normal system log with no specific details provided.
+900,207,,2026-04-01 18:09:25.801413+00:00,,,,,,,,Appiclation,,,,,,,,,,6172,0,Normal application log with no specific details provided.
+16394,208,,2026-04-01 18:09:25.869919+00:00,,,,,,,,Appiclation,,,,,,,,,,6173,0,Normal application log with no specific details provided.
+1066,209,,2026-04-01 18:09:25.949215+00:00,,,,,,,,Appiclation,,,,,,,,,,6174,0,Normal application log with no specific details provided.
+1003,210,,2026-04-01 18:09:25.984123+00:00,,,,,,,,Appiclation,,,,,,,,,,6175,0,Normal application log with no specific details provided.
+902,211,,2026-04-01 18:09:26.043873+00:00,,,,,,,,Appiclation,,,,,,,,,,6176,0,Normal application log with no specific details provided.
+4624,5926,,2026-04-01 18:09:26.660542+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6177,0,Normal system log with typical process execution.
+4672,5927,,2026-04-01 18:09:26.660547+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6178,0,Normal system log with no specific details provided.
+1003,212,,2026-04-01 18:09:27.340816+00:00,,,,,,,,Appiclation,,,,,,,,,,6179,0,Normal application log with no specific details provided.
+8198,213,,2026-04-01 18:09:27.354895+00:00,,,,,,,,Appiclation,,,,,,,,,,6180,0,Normal application log with no specific details provided.
+1041,671,,2026-04-01 18:09:27.444397+00:00,,,,,,,,System,,,,,,,,,,6181,0,Normal system log with no specific details provided.
+1038,672,,2026-04-01 18:09:27.444462+00:00,,,,,,,,System,,,,,,,,,,6182,0,Normal system log with no specific details provided.
+1282,673,,2026-04-01 18:09:32.133284+00:00,,,,,,,,System,,,,,,,,,,6183,0,Normal system log with no specific details provided.
+86,214,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 18:09:32.588472+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 18:09:32 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: fd013bd1-04f6-44a6-8c46-913f7620c604
+",,Appiclation,,,,,,,,,,6184,3,Error 404 indicates a failed attempt to access a non-existent online resource.
+1025,674,,2026-04-01 18:09:32.593077+00:00,,,,,,,,System,,,,,,,,,,6185,0,Normal system log with no specific details provided.
+86,215,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 18:09:32.802769+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 18:09:32 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 672ea153-250f-432f-859a-7032f43e2891
+",,Appiclation,,,,,,,,,,6186,3,Error 404 indicates a failed attempt to access a non-existent online resource.
+16384,216,,2026-04-01 18:09:57.379700+00:00,,,,,,,,Appiclation,,,,,,,,,,6187,0,Normal application log with no specific details provided.
+903,217,,2026-04-01 18:09:57.607220+00:00,,,,,,,,Appiclation,,,,,,,,,,6188,0,Normal application log with no specific details provided.
+4624,5928,,2026-04-01 18:10:01.067549+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6189,0,Normal system log with typical process execution.
+4672,5929,,2026-04-01 18:10:01.067560+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6190,0,Normal system log with no specific details provided.
+4799,5930,,2026-04-01 18:10:16.045610+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,6191,0,Normal system log with typical process execution.
+5611,218,,2026-04-01 18:10:16.101835+00:00,,,,,,,,Appiclation,,,,,,,,,,6192,0,Normal application log with no specific details provided.
+5617,219,,2026-04-01 18:10:16.751444+00:00,,,,,,,,Appiclation,,,,,,,,,,6193,0,Normal application log with no specific details provided.
+4624,5931,,2026-04-01 18:11:16.278439+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6194,0,Normal system log with typical process execution.
+4672,5932,,2026-04-01 18:11:16.278448+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6195,0,Normal system log with no specific details provided.
+4799,5933,,2026-04-01 18:11:21.005144+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,6196,0,Normal system log with typical process execution.
+5058,5934,,2026-04-01 18:11:21.202309+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,6197,0,Normal system log with no specific details provided.
+5061,5935,,2026-04-01 18:11:21.202974+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,6198,0,Normal system log with no specific details provided.
+5059,5936,,2026-04-01 18:11:21.203520+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6199,0,Normal system log with no specific details provided.
+4624,5937,,2026-04-01 18:11:21.860460+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6200,0,Normal system log with typical process execution.
+4672,5938,,2026-04-01 18:11:21.860464+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6201,0,Normal system log with no specific details provided.
+0,220,,2026-04-01 18:11:22.457342+00:00,,,,,,,,Appiclation,,,,,,,,,,6202,0,Normal application log with no specific details provided.
+4624,5939,,2026-04-01 18:11:22.539068+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6203,0,Normal system log with typical process execution.
+4672,5940,,2026-04-01 18:11:22.539074+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6204,0,Normal system log with no specific details provided.
+900,221,,2026-04-01 18:11:22.954361+00:00,,,,,,,,Appiclation,,,,,,,,,,6205,0,Normal application log with no specific details provided.
+16394,222,,2026-04-01 18:11:23.031101+00:00,,,,,,,,Appiclation,,,,,,,,,,6206,0,Normal application log with no specific details provided.
+4624,5941,,2026-04-01 18:11:23.081097+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6207,0,Normal system log with typical process execution.
+4672,5942,,2026-04-01 18:11:23.081102+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6208,0,Normal system log with no specific details provided.
+4624,5943,,2026-04-01 18:11:23.461227+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6209,0,Normal system log with typical process execution.
+4672,5944,,2026-04-01 18:11:23.461235+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6210,0,Normal system log with no specific details provided.
+4624,5945,,2026-04-01 18:11:23.629440+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6211,0,Normal system log with typical process execution.
+4672,5946,,2026-04-01 18:11:23.629448+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6212,0,Normal system log with no specific details provided.
+10016,675,,2026-04-01 18:11:24.873846+00:00,,,,,,,,System,,,,,,,,,,6213,0,Normal system log with no specific details provided.
+4624,5947,,2026-04-01 18:11:24.876043+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6214,0,Normal system log with typical process execution.
+4672,5948,,2026-04-01 18:11:24.876049+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6215,0,Normal system log with no specific details provided.
+1,223,,2026-04-01 18:11:25.178272+00:00,,,,,,,,Appiclation,,,,,,,,,,6216,0,Normal application log with no specific details provided.
+4624,5949,,2026-04-01 18:11:25.431589+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6217,0,Normal system log with typical process execution.
+4672,5950,,2026-04-01 18:11:25.431593+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6218,0,Normal system log with no specific details provided.
+4624,5951,,2026-04-01 18:11:26.214418+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6219,0,Normal system log with typical process execution.
+4672,5952,,2026-04-01 18:11:26.214424+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6220,0,Normal system log with no specific details provided.
+1003,224,,2026-04-01 18:11:26.539467+00:00,,,,,,,,Appiclation,,,,,,,,,,6221,0,Normal application log with no specific details provided.
+4799,5953,,2026-04-01 18:11:26.541592+00:00,,,,,,,,Security,C:\Windows\System32\SearchIndexer.exe,,,NORMALVM$,Administrators,,,,,6222,0,Normal system log with typical process execution.
+15,225,,2026-04-01 18:11:27.217386+00:00,,,,,,,,Appiclation,,,,,,,,,,6223,0,Normal application log with no specific details provided.
+5379,5954,,2026-04-01 18:11:28.152363+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6224,0,Normal system log with no specific details provided.
+5379,5955,,2026-04-01 18:11:28.152842+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6225,0,Normal system log with no specific details provided.
+5379,5956,,2026-04-01 18:11:28.152914+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6226,0,Normal system log with no specific details provided.
+5379,5957,,2026-04-01 18:11:29.270395+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6227,0,Normal system log with no specific details provided.
+4798,5958,,2026-04-01 18:11:29.328585+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6228,0,Normal system log with typical process execution.
+4798,5959,,2026-04-01 18:11:29.329531+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6229,0,Normal system log with typical process execution.
+4798,5960,,2026-04-01 18:11:29.329821+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6230,0,Normal system log with typical process execution.
+4798,5961,,2026-04-01 18:11:29.330200+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6231,0,Normal system log with typical process execution.
+4798,5962,,2026-04-01 18:11:29.331890+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6232,0,Normal system log with typical process execution.
+4798,5963,,2026-04-01 18:11:29.332182+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6233,0,Normal system log with typical process execution.
+4798,5964,,2026-04-01 18:11:29.332445+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6234,0,Normal system log with typical process execution.
+4798,5965,,2026-04-01 18:11:29.332722+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6235,0,Normal system log with typical process execution.
+4624,5966,,2026-04-01 18:11:29.337488+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6236,0,Normal system log with typical process execution.
+4672,5967,,2026-04-01 18:11:29.337492+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6237,0,Normal system log with no specific details provided.
+5379,5968,,2026-04-01 18:11:29.556896+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6238,0,Normal system log with no specific details provided.
+5379,5969,,2026-04-01 18:11:29.580713+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6239,0,Normal system log with no specific details provided.

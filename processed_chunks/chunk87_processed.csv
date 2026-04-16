@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+98,630,,2026-04-01 18:09:08.109402+00:00,,,,,,,,System,,,,,,,,,,6020,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+24,631,,2026-04-01 18:09:08.356510+00:00,,,,,,,,System,,,,,,,,,,6021,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4688,5822,,2026-04-01 18:09:08.397209+00:00,,,0x0000000000000188,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6022,0,No,Process creation by smss.exe is a normal part of Windows operations.
+4688,5823,,2026-04-01 18:09:08.519550+00:00,,,0x0000000000000200,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6023,0,No,Process creation by smss.exe is a normal part of Windows operations.
+4688,5824,,2026-04-01 18:09:08.648693+00:00,,,0x0000000000000188,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6024,0,No,Process creation by smss.exe is a normal part of Windows operations.
+4688,5825,,2026-04-01 18:09:08.652809+00:00,,,0x0000000000000200,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6025,0,No,Process creation by smss.exe is a normal part of Windows operations.
+4688,5826,,2026-04-01 18:09:08.663967+00:00,,,0x0000000000000258,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6026,0,No,Process creation by smss.exe is a normal part of Windows operations.
+4688,5827,,2026-04-01 18:09:08.689308+00:00,,,0x0000000000000258,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,6027,0,No,Process creation by smss.exe is a normal part of Windows operations.
+19,632,,2026-04-01 18:09:08.755114+00:00,,,,,,,,System,,,,,,,,,,6028,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+25,633,,2026-04-01 18:09:08.755142+00:00,,,,,,,,System,,,,,,,,,,6029,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+23,634,,2026-04-01 18:09:08.756359+00:00,,,,,,,,System,,,,,,,,,,6030,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4688,5828,,2026-04-01 18:09:08.851265+00:00,,,0x0000000000000260,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,6031,0,No,Process creation by wininit.exe is a normal part of Windows operations.
+14,635,,2026-04-01 18:09:08.923510+00:00,,,,,,,,System,,,,,,,,,,6032,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+12,636,,2026-04-01 18:09:08.926786+00:00,,,,,,,,System,,,,,,,,,,6033,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4688,5829,,2026-04-01 18:09:08.931372+00:00,,,0x0000000000000260,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,6034,0,No,Process creation by wininit.exe is a normal part of Windows operations.
+6156,637,,2026-04-01 18:09:09.060200+00:00,,,,,,,,System,,,,,,,,,,6035,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6417,5830,,2026-04-01 18:09:09.091024+00:00,,,0x00000000000002e8,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,6036,0,No,Process creation by lsass.exe is a normal part of Windows operations.
+4608,5831,,2026-04-01 18:09:09.096796+00:00,,,,,,,,Security,,,,,,,,,,6037,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4624,5832,,2026-04-01 18:09:09.107574+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,6038,0,No,Log indicates a normal system login by SYSTEM account.
+4902,5833,,2026-04-01 18:09:09.399136+00:00,,,,,,,,Security,,,,,,,,,,6039,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+16962,638,,2026-04-01 18:09:09.406574+00:00,,,,,,,,System,,,,,,,,,,6040,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+16977,639,,2026-04-01 18:09:09.423288+00:00,,,,,,,,System,,,,,,,,,,6041,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+16983,640,,2026-04-01 18:09:09.423292+00:00,,,,,,,,System,,,,,,,,,,6042,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4648,5834,,2026-04-01 18:09:09.502016+00:00,,,0x0000000000000260,,,,,Security,,,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,,6043,0,No,Process creation by wininit.exe for UMFD-0 is normal in Windows.
+4624,5835,,2026-04-01 18:09:09.502037+00:00,,,0x0000000000000260,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,-,6044,0,No,Process creation by wininit.exe for UMFD-0 is normal in Windows.
+4648,5836,,2026-04-01 18:09:09.504009+00:00,,,0x0000000000000298,,,,,Security,,,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,,6045,0,No,Process creation by winlogon.exe for UMFD-1 is normal in Windows.
+4624,5837,,2026-04-01 18:09:09.504023+00:00,,,0x0000000000000298,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,-,6046,0,No,Process creation by winlogon.exe for UMFD-1 is normal in Windows.
+4624,5838,,2026-04-01 18:09:09.525976+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6047,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5839,,2026-04-01 18:09:09.525980+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6048,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5840,,2026-04-01 18:09:09.869740+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,NETWORK SERVICE,,C:\Windows\System32\services.exe,,-,6049,0,No,Process creation by services.exe for NETWORK SERVICE is normal in Windows.
+4672,5841,,2026-04-01 18:09:09.869743+00:00,,,,,,,,Security,,,,NETWORK SERVICE,,,,,,6050,0,No,Log indicates a normal system login by NETWORK SERVICE account.
+4624,5842,,2026-04-01 18:09:10.032185+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6051,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5843,,2026-04-01 18:09:10.032190+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6052,0,No,Log indicates a normal system login by SYSTEM account.
+4648,5844,,2026-04-01 18:09:10.208149+00:00,,,0x0000000000000298,,,,,Security,,,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,,6053,0,No,Process creation by winlogon.exe for DWM-1 is normal in Windows.
+4624,5845,,2026-04-01 18:09:10.208179+00:00,,,0x0000000000000298,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,6054,0,No,Process creation by winlogon.exe for DWM-1 is normal in Windows.
+4624,5846,,2026-04-01 18:09:10.208189+00:00,,,0x0000000000000298,,,,,Security,,Negotiate,-,NORMALVM$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,6055,0,No,Process creation by winlogon.exe for DWM-1 is normal in Windows.
+4672,5847,,2026-04-01 18:09:10.208193+00:00,,,,,,,,Security,,,,DWM-1,,,,,,6056,0,No,Log indicates a normal system login by DWM-1 account.
+4672,5848,,2026-04-01 18:09:10.208195+00:00,,,,,,,,Security,,,,DWM-1,,,,,,6057,0,No,Log indicates a normal system login by DWM-1 account.
+4624,5849,,2026-04-01 18:09:10.499071+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6058,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5850,,2026-04-01 18:09:10.499077+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6059,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5851,,2026-04-01 18:09:10.508080+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6060,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5852,,2026-04-01 18:09:10.508083+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6061,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5853,,2026-04-01 18:09:10.563929+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,LOCAL SERVICE,,C:\Windows\System32\services.exe,,-,6062,0,No,Process creation by services.exe for LOCAL SERVICE is normal in Windows.
+4672,5854,,2026-04-01 18:09:10.563934+00:00,,,,,,,,Security,,,,LOCAL SERVICE,,,,,,6063,0,No,Log indicates a normal system login by LOCAL SERVICE account.
+4624,5855,,2026-04-01 18:09:10.631927+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6064,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5856,,2026-04-01 18:09:10.631933+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6065,0,No,Log indicates a normal system login by SYSTEM account.
+6,641,,2026-04-01 18:09:11.005453+00:00,,,,,,,,System,,,,,,,,,,6066,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4624,5857,,2026-04-01 18:09:11.142696+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6067,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5858,,2026-04-01 18:09:11.142704+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6068,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5859,,2026-04-01 18:09:11.147163+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6069,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5860,,2026-04-01 18:09:11.147169+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6070,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5861,,2026-04-01 18:09:11.227911+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6071,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5862,,2026-04-01 18:09:11.227919+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6072,0,No,Log indicates a normal system login by SYSTEM account.
+5379,5863,,2026-04-01 18:09:11.276434+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6073,0,No,Credential validation event with no suspicious indicators.
+5379,5864,,2026-04-01 18:09:11.277046+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6074,0,No,Credential validation event with no suspicious indicators.
+5379,5865,,2026-04-01 18:09:11.277102+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6075,0,No,Credential validation event with no suspicious indicators.
+5379,5866,,2026-04-01 18:09:11.388216+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6076,0,No,Credential validation event with no suspicious indicators.
+5379,5867,,2026-04-01 18:09:11.388468+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6077,0,No,Credential validation event with no suspicious indicators.
+5379,5868,,2026-04-01 18:09:11.388515+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6078,0,No,Credential validation event with no suspicious indicators.
+4624,5869,,2026-04-01 18:09:11.454264+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6079,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5870,,2026-04-01 18:09:11.454268+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6080,0,No,Log indicates a normal system login by SYSTEM account.
+1531,205,,2026-04-01 18:09:11.456764+00:00,,,,,,,,Appiclation,,,,,,,,,,6081,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4624,5871,,2026-04-01 18:09:11.480209+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6082,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5872,,2026-04-01 18:09:11.480215+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6083,0,No,Log indicates a normal system login by SYSTEM account.
+6,642,,2026-04-01 18:09:11.495928+00:00,,,,,,,,System,,,,,,,,,,6084,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,643,,2026-04-01 18:09:11.529503+00:00,,,,,,,,System,,,,,,,,,,6085,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,644,,2026-04-01 18:09:11.539293+00:00,,,,,,,,System,,,,,,,,,,6086,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,645,,2026-04-01 18:09:11.669022+00:00,,,,,,,,System,,,,,,,,,,6087,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+1,646,,2026-04-01 18:09:11.669256+00:00,,,,,,,,System,,,,,,,,,,6088,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,647,,2026-04-01 18:09:11.669394+00:00,,,,,,,,System,,,,,,,,,,6089,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,648,,2026-04-01 18:09:11.683615+00:00,,,,,,,,System,,,,,,,,,,6090,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,649,,2026-04-01 18:09:11.724548+00:00,,,,,,,,System,,,,,,,,,,6091,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,650,,2026-04-01 18:09:11.743134+00:00,,,,,,,,System,,,,,,,,,,6092,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+6,651,,2026-04-01 18:09:11.751541+00:00,,,,,,,,System,,,,,,,,,,6093,0,No,"Log lacks details, typical of a placeholder or system heartbeat."
+4624,5873,,2026-04-01 18:09:12.152630+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6094,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5874,,2026-04-01 18:09:12.152636+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6095,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5875,,2026-04-01 18:09:12.180225+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6096,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5876,,2026-04-01 18:09:12.180227+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6097,0,No,Log indicates a normal system login by SYSTEM account.
+4624,5877,,2026-04-01 18:09:12.193167+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6098,0,No,Process creation by services.exe for SYSTEM is normal in Windows.
+4672,5878,,2026-04-01 18:09:12.193169+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6099,0,No,Log indicates a normal system login by SYSTEM account.

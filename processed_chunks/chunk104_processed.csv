@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4624,343,,2026-04-01 19:18:20.017288+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7210,,,
+4672,344,,2026-04-01 19:18:20.017292+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7211,,,
+4624,345,,2026-04-01 19:18:20.043810+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7212,,,
+4672,346,,2026-04-01 19:18:20.043818+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7213,,,
+4624,347,,2026-04-01 19:18:20.045885+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7214,,,
+4672,348,,2026-04-01 19:18:20.045891+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7215,,,
+4624,349,,2026-04-01 19:18:20.049662+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7216,,,
+4672,350,,2026-04-01 19:18:20.049667+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7217,,,
+4624,351,,2026-04-01 19:18:20.095737+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7218,,,
+4672,352,,2026-04-01 19:18:20.095741+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7219,,,
+4624,353,,2026-04-01 19:18:20.315178+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7220,0.0,No,"Normal system activity with SYSTEM user and services.exe, typical for system operations."
+4672,354,,2026-04-01 19:18:20.315184+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7221,0.0,No,"Normal system activity with SYSTEM user, no specific operations indicated."
+5615,13,,2026-04-01 19:18:20.414312+00:00,,,,,,,,Appiclation,,,,,,,,,,7222,0.0,No,Generic application event with no specific details provided.
+7026,253,,2026-04-01 19:18:20.450785+00:00,,,,,,,,System,,,,,,,,,,7223,0.0,No,Generic system event with no specific details provided.
+18,254,,2026-04-01 19:18:20.452509+00:00,,,,,,,,System,,,,,,,,,,7224,0.0,No,Generic system event with no specific details provided.
+5024,355,,2026-04-01 19:18:21.561762+00:00,,,,,,,,Security,,,,,,,,,,7225,0.0,No,Generic security event with no specific details provided.
+4624,356,,2026-04-01 19:18:22.408123+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7226,0.0,No,"Normal system activity with SYSTEM user and services.exe, typical for system operations."
+4672,357,,2026-04-01 19:18:22.408127+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7227,0.0,No,"Normal system activity with SYSTEM user, no specific operations indicated."
+4907,358,,2026-04-01 19:18:22.540434+00:00,,,0x000000000000052c,,,,,Security,,,,WIN-2RR949GCCSV$,,,C:\Windows\System32\oobe\msoobe.exe,,,7228,0.0,No,"Normal system activity with msoobe.exe, typical for Windows OOBE operations."
+137,255,,2026-04-01 19:18:22.811069+00:00,,,,,,,,System,,,,,,,,,,7229,0.0,No,Generic system event with no specific details provided.
+37,256,,2026-04-01 19:18:23.098160+00:00,,,,,,,,System,,,,,,,,,,7230,0.0,No,Generic system event with no specific details provided.
+24,257,,2026-04-01 19:18:23.130602+00:00,,,,,,,,System,,,,,,,,,,7231,0.0,No,Generic system event with no specific details provided.
+1,258,,2026-04-01 19:18:23.130705+00:00,,,,3.0,,,,System,,,,,,,\Device\HarddiskVolume3\Windows\System32\oobe\msoobe.exe,,,7232,3.0,Yes,"Reason code 3.0 provided but no further details, indicating a potential issue needing review."
+12,689,,2026-04-08 15:32:38.646688+00:00,,,,,,,,System,,,,,,,,,,7233,0.0,No,Generic system event with no specific details provided.
+25,690,,2026-04-08 15:32:38.646690+00:00,,,,,,,,System,,,,,,,,,,7234,0.0,No,Generic system event with no specific details provided.
+153,691,,2026-04-08 15:32:38.646845+00:00,,,,,,,,System,,,,,,,,,,7235,0.0,No,Generic system event with no specific details provided.
+20,692,,2026-04-08 15:32:38.647154+00:00,,,,,,,,System,,,,,,,,,,7236,0.0,No,Generic system event with no specific details provided.
+247,693,,2026-04-08 15:32:38.647163+00:00,,,,,,,,System,,,,,,,,,,7237,0.0,No,Generic system event with no specific details provided.
+238,694,,2026-04-08 15:32:38.647293+00:00,,,,,,,,System,,,,,,,,,,7238,0.0,No,Generic system event with no specific details provided.
+25,695,,2026-04-08 15:32:38.647293+00:00,,,,,,,,System,,,,,,,,,,7239,0.0,No,Generic system event with no specific details provided.
+27,696,,2026-04-08 15:32:38.647293+00:00,,,,,,,,System,,,,,,,,,,7240,0.0,No,Generic system event with no specific details provided.
+18,697,,2026-04-08 15:32:38.647299+00:00,,,,,,,,System,,,,,,,,,,7241,0.0,No,Generic system event with no specific details provided.
+32,698,,2026-04-08 15:32:38.647316+00:00,,,,,,,,System,,,,,,,,,,7242,0.0,No,Generic system event with no specific details provided.
+20,699,,2026-04-08 15:32:38.649982+00:00,,,,,,,,System,,,,,,,,,,7243,0.0,No,Generic system event with no specific details provided.
+16,700,,2026-04-08 15:32:38.684671+00:00,,,,,,,,System,,,,,,,,,,7244,0.0,No,Generic system event with no specific details provided.
+3,701,,2026-04-08 15:32:40.385571+00:00,,,,,,,,System,,,,,,,,,,7245,0.0,No,Generic system event with no specific details provided.
+6,702,,2026-04-08 15:32:42.395830+00:00,,,,,,,,System,,,,,,,,,,7246,0.0,No,Generic system event with no specific details provided.
+6,703,,2026-04-08 15:32:42.396473+00:00,,,,,,,,System,,,,,,,,,,7247,0.0,No,Generic system event with no specific details provided.
+6,704,,2026-04-08 15:32:42.397375+00:00,,,,,,,,System,,,,,,,,,,7248,0.0,No,Generic system event with no specific details provided.
+98,705,,2026-04-08 15:32:42.806618+00:00,,,,,,,,System,,,,,,,,,,7249,0.0,No,Generic system event with no specific details provided.
+6,706,,2026-04-08 15:32:42.894083+00:00,,,,,,,,System,,,,,,,,,,7250,0.0,No,Generic system event with no specific details provided.
+6,707,,2026-04-08 15:32:42.899183+00:00,,,,,,,,System,,,,,,,,,,7251,0.0,No,Generic system event with no specific details provided.
+6,708,,2026-04-08 15:32:43.026922+00:00,,,,,,,,System,,,,,,,,,,7252,0.0,No,Generic system event with no specific details provided.
+41,709,,2026-04-08 15:32:43.064974+00:00,,,,,,,,System,,,,,,,,,,7253,0.0,No,Generic system event with no specific details provided.
+4688,6311,,2026-04-08 15:32:43.071108+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7254,0.0,No,Generic security event with no specific details provided.
+4696,6312,,2026-04-08 15:32:43.071301+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7255,0.0,No,Generic security event with no specific details provided.
+4826,6313,,2026-04-08 15:32:43.071304+00:00,,,,,,,,Security,,,,-,,,,,,7256,0.0,No,Generic security event with no specific details provided.
+4688,6314,,2026-04-08 15:32:43.071306+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7257,0.0,No,Generic security event with no specific details provided.
+172,710,,2026-04-08 15:32:43.072535+00:00,,,,6.0,,,,System,,,,,,,,,,7258,6.0,Yes,"Reason code 6.0 provided but no further details, indicating a potential issue needing review."
+55,711,,2026-04-08 15:32:43.294523+00:00,,,,,,,,System,,,,,,,,,,7259,0.0,No,Generic system event with no specific details provided.
+32,712,,2026-04-08 15:32:43.559895+00:00,,,,,,,,System,,,,,,,,,,7260,0.0,No,Generic system event with no specific details provided.
+4688,6315,,2026-04-08 15:32:43.973572+00:00,,,0x0000000000000178,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7261,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+98,713,,2026-04-08 15:32:44.145329+00:00,,,,,,,,System,,,,,,,,,,7262,0.0,No,Generic system event with no specific details provided.
+24,714,,2026-04-08 15:32:44.334846+00:00,,,,,,,,System,,,,,,,,,,7263,0.0,No,Generic system event with no specific details provided.
+4688,6316,,2026-04-08 15:32:44.388412+00:00,,,0x0000000000000178,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7264,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+4688,6317,,2026-04-08 15:32:44.507792+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7265,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+4688,6318,,2026-04-08 15:32:44.620785+00:00,,,0x0000000000000178,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7266,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+4688,6319,,2026-04-08 15:32:44.625607+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7267,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+4688,6320,,2026-04-08 15:32:44.636120+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7268,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+4688,6321,,2026-04-08 15:32:44.659813+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7269,0.0,No,"Security event with smss.exe as parent, typical for system startup processes."
+19,715,,2026-04-08 15:32:44.717136+00:00,,,,,,,,System,,,,,,,,,,7270,0.0,No,Generic system event with no specific details provided.
+25,716,,2026-04-08 15:32:44.717159+00:00,,,,,,,,System,,,,,,,,,,7271,0.0,No,Generic system event with no specific details provided.
+23,717,,2026-04-08 15:32:44.717737+00:00,,,,,,,,System,,,,,,,,,,7272,0.0,No,Generic system event with no specific details provided.
+4688,6322,,2026-04-08 15:32:44.811974+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,7273,0.0,No,"Security event with wininit.exe as parent, typical for system startup processes."
+14,718,,2026-04-08 15:32:44.855787+00:00,,,,,,,,System,,,,,,,,,,7274,0.0,No,Generic system event with no specific details provided.
+12,719,,2026-04-08 15:32:44.858315+00:00,,,,,,,,System,,,,,,,,,,7275,0.0,No,Generic system event with no specific details provided.
+4688,6323,,2026-04-08 15:32:44.861706+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,7276,0.0,No,"Security event with wininit.exe as parent, typical for system startup processes."
+6156,720,,2026-04-08 15:32:44.946751+00:00,,,,,,,,System,,,,,,,,,,7277,0.0,No,Generic system event with no specific details provided.
+6417,6324,,2026-04-08 15:32:44.966764+00:00,,,0x00000000000002ec,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,7278,0.0,No,"Security event with lsass.exe involved, typical for system authentication processes."
+4608,6325,,2026-04-08 15:32:44.970537+00:00,,,,,,,,Security,,,,,,,,,,7279,0.0,No,Generic security event with no specific details provided.
+4624,6326,,2026-04-08 15:32:44.978630+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,7280,0.0,No,"Normal system activity with SYSTEM user, typical for system operations."
+4902,6327,,2026-04-08 15:32:45.238605+00:00,,,,,,,,Security,,,,,,,,,,7281,0.0,No,Generic security event with no specific details provided.
+16962,721,,2026-04-08 15:32:45.246347+00:00,,,,,,,,System,,,,,,,,,,7282,0.0,No,Generic system event with no specific details provided.
+16977,722,,2026-04-08 15:32:45.263409+00:00,,,,,,,,System,,,,,,,,,,7283,0.0,No,Generic system event with no specific details provided.
+16983,723,,2026-04-08 15:32:45.263412+00:00,,,,,,,,System,,,,,,,,,,7284,0.0,No,Generic system event with no specific details provided.
+4648,6328,,2026-04-08 15:32:45.419052+00:00,,,0x000000000000026c,,,,,Security,,,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,,7285,0.0,No,"Security event with wininit.exe involved, typical for system authentication processes."
+4624,6329,,2026-04-08 15:32:45.419113+00:00,,,0x000000000000026c,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-0,,C:\Windows\System32\wininit.exe,,-,7286,0.0,No,"Normal system activity with SYSTEM user and wininit.exe, typical for system operations."
+4648,6330,,2026-04-08 15:32:45.420633+00:00,,,0x00000000000002a4,,,,,Security,,,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,,7287,0.0,No,"Security event with winlogon.exe involved, typical for user session management."
+4624,6331,,2026-04-08 15:32:45.420645+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,NORMALVM$,UMFD-1,,C:\Windows\System32\winlogon.exe,,-,7288,0.0,No,"Normal system activity with SYSTEM user and winlogon.exe, typical for system operations."
+4624,6332,,2026-04-08 15:32:45.493950+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7289,0.0,No,"Normal system activity with SYSTEM user and services.exe, typical for system operations."

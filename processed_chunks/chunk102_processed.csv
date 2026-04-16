@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4735,239,,2026-04-01 19:18:17.601500+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrators,,,,,7070,0,No,Normal system activity; no specific suspicious indicators.
+4781,240,,2026-04-01 19:18:17.601610+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7071,0,No,Normal system activity; no specific suspicious indicators.
+4735,241,,2026-04-01 19:18:17.601618+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrators,,,,,7072,0,No,Normal system activity; no specific suspicious indicators.
+4735,242,,2026-04-01 19:18:17.601875+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Users,,,,,7073,0,No,Normal system activity; no specific suspicious indicators.
+4781,243,,2026-04-01 19:18:17.601982+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7074,0,No,Normal system activity; no specific suspicious indicators.
+4735,244,,2026-04-01 19:18:17.601995+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Users,,,,,7075,0,No,Normal system activity; no specific suspicious indicators.
+4735,245,,2026-04-01 19:18:17.602146+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guests,,,,,7076,0,No,Normal system activity; no specific suspicious indicators.
+4781,246,,2026-04-01 19:18:17.602234+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7077,0,No,Normal system activity; no specific suspicious indicators.
+4735,247,,2026-04-01 19:18:17.602240+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guests,,,,,7078,0,No,Normal system activity; no specific suspicious indicators.
+4735,248,,2026-04-01 19:18:17.602375+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Performance Monitor Users,,,,,7079,0,No,Normal system activity; no specific suspicious indicators.
+4781,249,,2026-04-01 19:18:17.602476+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7080,0,No,Normal system activity; no specific suspicious indicators.
+4735,250,,2026-04-01 19:18:17.602486+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Performance Monitor Users,,,,,7081,0,No,Normal system activity; no specific suspicious indicators.
+4735,251,,2026-04-01 19:18:17.602661+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Performance Log Users,,,,,7082,0,No,Normal system activity; no specific suspicious indicators.
+4781,252,,2026-04-01 19:18:17.602770+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7083,0,No,Normal system activity; no specific suspicious indicators.
+4735,253,,2026-04-01 19:18:17.602777+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Performance Log Users,,,,,7084,0,No,Normal system activity; no specific suspicious indicators.
+4735,254,,2026-04-01 19:18:17.602928+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Distributed COM Users,,,,,7085,0,No,Normal system activity; no specific suspicious indicators.
+4781,255,,2026-04-01 19:18:17.603025+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7086,0,No,Normal system activity; no specific suspicious indicators.
+4735,256,,2026-04-01 19:18:17.603029+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Distributed COM Users,,,,,7087,0,No,Normal system activity; no specific suspicious indicators.
+4735,257,,2026-04-01 19:18:17.603203+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,IIS_IUSRS,,,,,7088,0,No,Normal system activity; no specific suspicious indicators.
+4781,258,,2026-04-01 19:18:17.603275+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7089,0,No,Normal system activity; no specific suspicious indicators.
+4735,259,,2026-04-01 19:18:17.603279+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,IIS_IUSRS,,,,,7090,0,No,Normal system activity; no specific suspicious indicators.
+4735,260,,2026-04-01 19:18:17.603411+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Event Log Readers,,,,,7091,0,No,Normal system activity; no specific suspicious indicators.
+4781,261,,2026-04-01 19:18:17.603498+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7092,0,No,Normal system activity; no specific suspicious indicators.
+4735,262,,2026-04-01 19:18:17.603504+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Event Log Readers,,,,,7093,0,No,Normal system activity; no specific suspicious indicators.
+4735,263,,2026-04-01 19:18:17.603704+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Remote Management Users,,,,,7094,0,No,Normal system activity; no specific suspicious indicators.
+4781,264,,2026-04-01 19:18:17.603819+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7095,0,No,Normal system activity; no specific suspicious indicators.
+4735,265,,2026-04-01 19:18:17.603825+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Remote Management Users,,,,,7096,0,No,Normal system activity; no specific suspicious indicators.
+4738,266,,2026-04-01 19:18:17.625385+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7097,0,No,Normal system activity; no specific suspicious indicators.
+4724,267,,2026-04-01 19:18:17.625399+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7098,0,No,Normal system activity; no specific suspicious indicators.
+4735,268,,2026-04-01 19:18:17.625669+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,System Managed Accounts Group,,,,,7099,0,No,Normal system activity; no specific suspicious indicators.
+4781,269,,2026-04-01 19:18:17.625751+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7100,0,No,Normal system activity; no specific suspicious indicators.
+4735,270,,2026-04-01 19:18:17.625757+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,System Managed Accounts Group,,,,,7101,0,No,Normal system activity; no specific suspicious indicators.
+4735,271,,2026-04-01 19:18:17.626225+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Device Owners,,,,,7102,0,No,Normal system activity; no specific suspicious indicators.
+4781,272,,2026-04-01 19:18:17.626583+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7103,0,No,Normal system activity; no specific suspicious indicators.
+4735,273,,2026-04-01 19:18:17.626591+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Device Owners,,,,,7104,0,No,Normal system activity; no specific suspicious indicators.
+4735,274,,2026-04-01 19:18:17.627106+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,User Mode Hardware Operators,,,,,7105,0,No,Normal system activity; no specific suspicious indicators.
+4781,275,,2026-04-01 19:18:17.627235+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7106,0,No,Normal system activity; no specific suspicious indicators.
+4735,276,,2026-04-01 19:18:17.627243+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,User Mode Hardware Operators,,,,,7107,0,No,Normal system activity; no specific suspicious indicators.
+4735,277,,2026-04-01 19:18:17.627375+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,OpenSSH Users,,,,,7108,0,No,Normal system activity; no specific suspicious indicators.
+4781,278,,2026-04-01 19:18:17.627453+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7109,0,No,Normal system activity; no specific suspicious indicators.
+4735,279,,2026-04-01 19:18:17.627460+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,OpenSSH Users,,,,,7110,0,No,Normal system activity; no specific suspicious indicators.
+4738,280,,2026-04-01 19:18:17.628765+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrator,,,,,7111,0,No,Normal system activity; no specific suspicious indicators.
+4738,281,,2026-04-01 19:18:17.628901+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrator,,,,,7112,0,No,Normal system activity; no specific suspicious indicators.
+4738,282,,2026-04-01 19:18:17.648861+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7113,0,No,Normal system activity; no specific suspicious indicators.
+4724,283,,2026-04-01 19:18:17.648872+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7114,0,No,Normal system activity; no specific suspicious indicators.
+4738,284,,2026-04-01 19:18:17.649078+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guest,,,,,7115,0,No,Normal system activity; no specific suspicious indicators.
+4738,285,,2026-04-01 19:18:17.649181+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guest,,,,,7116,0,No,Normal system activity; no specific suspicious indicators.
+4738,286,,2026-04-01 19:18:17.649586+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,DefaultAccount,,,,,7117,0,No,Normal system activity; no specific suspicious indicators.
+4738,287,,2026-04-01 19:18:17.650158+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,DefaultAccount,,,,,7118,0,No,Normal system activity; no specific suspicious indicators.
+4738,288,,2026-04-01 19:18:17.650805+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,WDAGUtilityAccount,,,,,7119,0,No,Normal system activity; no specific suspicious indicators.
+4738,289,,2026-04-01 19:18:17.650936+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,WDAGUtilityAccount,,,,,7120,0,No,Normal system activity; no specific suspicious indicators.
+4737,290,,2026-04-01 19:18:17.651102+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7121,0,No,Normal system activity; no specific suspicious indicators.
+4781,291,,2026-04-01 19:18:17.651442+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7122,0,No,Normal system activity; no specific suspicious indicators.
+4737,292,,2026-04-01 19:18:17.651453+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7123,0,No,Normal system activity; no specific suspicious indicators.
+4799,293,,2026-04-01 19:18:17.652790+00:00,,,,,,,,Security,C:\Windows\System32\oobe\msoobe.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7124,0,No,Normal system activity; no specific suspicious indicators.
+4799,294,,2026-04-01 19:18:17.652832+00:00,,,,,,,,Security,C:\Windows\System32\oobe\msoobe.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7125,0,No,Normal system activity; no specific suspicious indicators.
+4732,295,,2026-04-01 19:18:17.662430+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrators,,,,,7126,0,No,Normal system activity; no specific suspicious indicators.
+4799,296,,2026-04-01 19:18:17.663717+00:00,,,,,,,,Security,C:\Windows\System32\oobe\msoobe.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7127,0,No,Normal system activity; no specific suspicious indicators.
+4799,297,,2026-04-01 19:18:17.663855+00:00,,,,,,,,Security,C:\Windows\System32\oobe\msoobe.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7128,0,No,Normal system activity; no specific suspicious indicators.
+4798,298,,2026-04-01 19:18:17.667976+00:00,,,,,,,,Security,C:\Windows\System32\lsass.exe,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7129,0,No,Normal system activity; no specific suspicious indicators.
+4648,299,,2026-04-01 19:18:17.669617+00:00,,,0x000000000000052c,,,,,Security,,,-,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\oobe\msoobe.exe,,,7130,0,No,Normal system activity; no specific suspicious indicators.
+4624,300,,2026-04-01 19:18:17.669626+00:00,,,0x000000000000052c,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\oobe\msoobe.exe,,WIN-2RR949GCCSV,7131,0,No,Normal system activity; no specific suspicious indicators.
+4624,301,,2026-04-01 19:18:17.669636+00:00,,,0x000000000000052c,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,defaultuser0,,C:\Windows\System32\oobe\msoobe.exe,,WIN-2RR949GCCSV,7132,0,No,Normal system activity; no specific suspicious indicators.
+4672,302,,2026-04-01 19:18:17.669640+00:00,,,,,,,,Security,,,,defaultuser0,,,,,,7133,0,No,Normal system activity; no specific suspicious indicators.
+5379,303,,2026-04-01 19:18:17.704000+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,7134,0,No,Normal system activity; no specific suspicious indicators.
+5379,304,,2026-04-01 19:18:17.704945+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,7135,0,No,Normal system activity; no specific suspicious indicators.
+5379,305,,2026-04-01 19:18:17.704994+00:00,,,,,,,2026-04-01 19:18:17.263266+00:00,Security,,,,WIN-2RR949GCCSV$,,,,,,7136,0,No,Normal system activity; no specific suspicious indicators.
+1534,12,,2026-04-01 19:18:18.130188+00:00,,,,,,,,Appiclation,,,,,,,,,,7137,0,No,Normal system activity; no specific suspicious indicators.
+4624,306,,2026-04-01 19:18:18.174311+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7138,0,No,Normal system activity; no specific suspicious indicators.
+4672,307,,2026-04-01 19:18:18.174314+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7139,0,No,Normal system activity; no specific suspicious indicators.
+4624,308,,2026-04-01 19:18:18.174410+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7140,0,No,Normal system activity; no specific suspicious indicators.
+4672,309,,2026-04-01 19:18:18.174410+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7141,0,No,Normal system activity; no specific suspicious indicators.
+4624,310,,2026-04-01 19:18:18.174486+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7142,0,No,Normal system activity; no specific suspicious indicators.
+4672,311,,2026-04-01 19:18:18.174488+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7143,0,No,Normal system activity; no specific suspicious indicators.
+4624,312,,2026-04-01 19:18:18.183634+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7144,0,No,Normal system activity; no specific suspicious indicators.
+4672,313,,2026-04-01 19:18:18.183638+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7145,0,No,Normal system activity; no specific suspicious indicators.
+4799,314,,2026-04-01 19:18:18.193789+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7146,0,No,Normal system activity; no specific suspicious indicators.
+4624,315,,2026-04-01 19:18:18.310780+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7147,0,No,Normal system activity; no specific suspicious indicators.
+4672,316,,2026-04-01 19:18:18.310785+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7148,0,No,Normal system activity; no specific suspicious indicators.
+4624,317,,2026-04-01 19:18:18.315357+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7149,0,No,Normal system activity; no specific suspicious indicators.

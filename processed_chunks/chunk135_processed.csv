@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4798,8320,,2026-04-08 15:37:39.557459+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,9380,0,Normal activity: Taskhostw.exe is a legitimate Windows process.
+4798,8321,,2026-04-08 15:37:39.557804+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,9381,0,Normal activity: Taskhostw.exe is a legitimate Windows process.
+4798,8322,,2026-04-08 15:37:39.558096+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,9382,0,Normal activity: Taskhostw.exe is a legitimate Windows process.
+4798,8323,,2026-04-08 15:37:39.558395+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,9383,0,Normal activity: Taskhostw.exe is a legitimate Windows process.
+5379,8324,,2026-04-08 15:37:41.944452+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9384,0,Normal activity: Security log with no suspicious details.
+5379,8325,,2026-04-08 15:37:41.944555+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9385,0,Normal activity: Security log with no suspicious details.
+5379,8326,,2026-04-08 15:37:41.944593+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9386,0,Normal activity: Security log with no suspicious details.
+5379,8327,,2026-04-08 15:37:41.948378+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9387,0,Normal activity: Security log with no suspicious details.
+5379,8328,,2026-04-08 15:37:41.948828+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9388,0,Normal activity: Security log with no suspicious details.
+5379,8329,,2026-04-08 15:37:41.951387+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9389,0,Normal activity: Security log with no suspicious details.
+5379,8330,,2026-04-08 15:37:41.951431+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9390,0,Normal activity: Security log with no suspicious details.
+5379,8331,,2026-04-08 15:37:44.201895+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9391,0,Normal activity: Security log with no suspicious details.
+5379,8332,,2026-04-08 15:37:44.201952+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9392,0,Normal activity: Security log with no suspicious details.
+5379,8333,,2026-04-08 15:37:44.201986+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9393,0,Normal activity: Security log with no suspicious details.
+5379,8334,,2026-04-08 15:37:44.204908+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9394,0,Normal activity: Security log with no suspicious details.
+5379,8335,,2026-04-08 15:37:44.205128+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9395,0,Normal activity: Security log with no suspicious details.
+5379,8336,,2026-04-08 15:37:44.206770+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9396,0,Normal activity: Security log with no suspicious details.
+5379,8337,,2026-04-08 15:37:44.206808+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9397,0,Normal activity: Security log with no suspicious details.
+44,781,,2026-04-08 15:37:44.257366+00:00,,,,,,,,System,,,,,,,,,,9398,0,Normal system log with no suspicious details.
+4799,8338,,2026-04-08 15:37:45.751717+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Administrators,,,,,9399,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8339,,2026-04-08 15:37:45.755964+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Device Owners,,,,,9400,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8340,,2026-04-08 15:37:45.756538+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Distributed COM Users,,,,,9401,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8341,,2026-04-08 15:37:45.757067+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Event Log Readers,,,,,9402,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8342,,2026-04-08 15:37:45.757895+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Guests,,,,,9403,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8343,,2026-04-08 15:37:45.758650+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Hyper-V Administrators,,,,,9404,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8344,,2026-04-08 15:37:45.759361+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,IIS_IUSRS,,,,,9405,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8345,,2026-04-08 15:37:45.760609+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,OpenSSH Users,,,,,9406,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8346,,2026-04-08 15:37:45.761148+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Performance Log Users,,,,,9407,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8347,,2026-04-08 15:37:45.762058+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Performance Monitor Users,,,,,9408,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8348,,2026-04-08 15:37:45.764568+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Remote Management Users,,,,,9409,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8349,,2026-04-08 15:37:45.765066+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,System Managed Accounts Group,,,,,9410,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8350,,2026-04-08 15:37:45.766876+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,User Mode Hardware Operators,,,,,9411,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4799,8351,,2026-04-08 15:37:45.768120+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Users,,,,,9412,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8352,,2026-04-08 15:37:45.798338+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Administrator,,,,,9413,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8353,,2026-04-08 15:37:45.798573+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,DefaultAccount,,,,,9414,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8354,,2026-04-08 15:37:45.798752+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Guest,,,,,9415,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8355,,2026-04-08 15:37:45.798952+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,pizza,,,,,9416,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8356,,2026-04-08 15:37:45.799141+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,WDAGUtilityAccount,,,,,9417,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8357,,2026-04-08 15:37:45.800203+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Administrator,,,,,9418,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8358,,2026-04-08 15:37:45.801662+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,DefaultAccount,,,,,9419,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8359,,2026-04-08 15:37:45.810452+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,Guest,,,,,9420,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8360,,2026-04-08 15:37:45.811880+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,pizza,,,,,9421,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+4798,8361,,2026-04-08 15:37:45.813562+00:00,,,,,,,,Security,C:\Windows\System32\dllhost.exe,,,pizza,WDAGUtilityAccount,,,,,9422,0,Normal activity: Dllhost.exe is a legitimate Windows process.
+5379,8362,,2026-04-08 15:37:50.146124+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9423,0,Normal activity: Security log with no suspicious details.
+5379,8363,,2026-04-08 15:37:50.146179+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9424,0,Normal activity: Security log with no suspicious details.
+5379,8364,,2026-04-08 15:37:50.146206+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9425,0,Normal activity: Security log with no suspicious details.
+5379,8365,,2026-04-08 15:37:50.153219+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9426,0,Normal activity: Security log with no suspicious details.
+5379,8366,,2026-04-08 15:37:50.157669+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9427,0,Normal activity: Security log with no suspicious details.
+5379,8367,,2026-04-08 15:37:50.163862+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9428,0,Normal activity: Security log with no suspicious details.
+5379,8368,,2026-04-08 15:37:50.163910+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9429,0,Normal activity: Security log with no suspicious details.
+4624,8369,,2026-04-08 15:37:50.617603+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9430,0,Normal activity: Services.exe is a legitimate Windows process.
+4672,8370,,2026-04-08 15:37:50.617609+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9431,0,Normal activity: SYSTEM user performing typical operations.
+7040,782,,2026-04-08 15:37:50.775459+00:00,,,,,,,,System,,,,,,,,,,9432,0,Normal system log with no suspicious details.
+5379,8371,,2026-04-08 15:37:52.676064+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9433,0,Normal activity: Security log with no suspicious details.
+5379,8372,,2026-04-08 15:37:52.676123+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9434,0,Normal activity: Security log with no suspicious details.
+5379,8373,,2026-04-08 15:37:52.676155+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9435,0,Normal activity: Security log with no suspicious details.
+5379,8374,,2026-04-08 15:37:52.688559+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9436,0,Normal activity: Security log with no suspicious details.
+5379,8375,,2026-04-08 15:37:52.697369+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9437,0,Normal activity: Security log with no suspicious details.
+5379,8376,,2026-04-08 15:37:52.716108+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9438,0,Normal activity: Security log with no suspicious details.
+5379,8377,,2026-04-08 15:37:52.716164+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9439,0,Normal activity: Security log with no suspicious details.
+5379,8378,,2026-04-08 15:37:53.930307+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9440,0,Normal activity: Security log with no suspicious details.
+5379,8379,,2026-04-08 15:37:53.930372+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9441,0,Normal activity: Security log with no suspicious details.
+5379,8380,,2026-04-08 15:37:53.930403+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9442,0,Normal activity: Security log with no suspicious details.
+5379,8381,,2026-04-08 15:37:53.932339+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9443,0,Normal activity: Security log with no suspicious details.
+5379,8382,,2026-04-08 15:37:53.932507+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9444,0,Normal activity: Security log with no suspicious details.
+5379,8383,,2026-04-08 15:37:53.934095+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9445,0,Normal activity: Security log with no suspicious details.
+5379,8384,,2026-04-08 15:37:53.934139+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9446,0,Normal activity: Security log with no suspicious details.
+4624,8385,,2026-04-08 15:37:54.276396+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9447,0,Normal activity: Services.exe is a legitimate Windows process.
+4672,8386,,2026-04-08 15:37:54.276402+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9448,0,Normal activity: SYSTEM user performing typical operations.
+5379,8387,,2026-04-08 15:37:54.609451+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9449,0,Normal activity: Security log with no suspicious details.
+5379,8388,,2026-04-08 15:37:54.609501+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9450,0,Normal activity: Security log with no suspicious details.
+5379,8389,,2026-04-08 15:37:54.609901+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9451,0,Normal activity: Security log with no suspicious details.
+5379,8390,,2026-04-08 15:37:54.852428+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9452,0,Normal activity: Security log with no suspicious details.
+5379,8391,,2026-04-08 15:37:54.852760+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9453,0,Normal activity: Security log with no suspicious details.
+5379,8392,,2026-04-08 15:37:54.854782+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9454,0,Normal activity: Security log with no suspicious details.
+5379,8393,,2026-04-08 15:37:54.854822+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,9455,0,Normal activity: Security log with no suspicious details.
+5379,8394,,2026-04-08 15:37:54.975189+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9456,0,Normal activity: Security log with no suspicious details.
+5379,8395,,2026-04-08 15:37:54.975245+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9457,0,Normal activity: Security log with no suspicious details.
+5379,8396,,2026-04-08 15:37:54.975273+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9458,0,Normal activity: Security log with no suspicious details.
+5379,8397,,2026-04-08 15:37:54.977730+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9459,0,Normal activity: Security log with no suspicious details.

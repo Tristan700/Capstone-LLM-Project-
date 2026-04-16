@@ -1,0 +1,91 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4672,165,,2026-04-01 19:17:23.966877+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6930,0,Normal system activity; SYSTEM user in Security log is typical.
+16,158,,2026-04-01 19:17:23.973480+00:00,,,,,,,,System,,,,,,,,,,6931,0,Normal system activity; no specific details provided.
+16,159,,2026-04-01 19:17:24.727262+00:00,,,,,,,,System,,,,,,,,,,6932,0,Normal system activity; no specific details provided.
+16,160,,2026-04-01 19:17:25.930506+00:00,,,,,,,,System,,,,,,,,,,6933,0,Normal system activity; no specific details provided.
+16,161,,2026-04-01 19:17:26.667290+00:00,,,,,,,,System,,,,,,,,,,6934,0,Normal system activity; no specific details provided.
+16,162,,2026-04-01 19:17:27.005383+00:00,,,,,,,,System,,,,,,,,,,6935,0,Normal system activity; no specific details provided.
+16,163,,2026-04-01 19:17:27.660505+00:00,,,,,,,,System,,,,,,,,,,6936,0,Normal system activity; no specific details provided.
+16,164,,2026-04-01 19:17:28.205000+00:00,,,,,,,,System,,,,,,,,,,6937,0,Normal system activity; no specific details provided.
+16,165,,2026-04-01 19:17:28.638493+00:00,,,,,,,,System,,,,,,,,,,6938,0,Normal system activity; no specific details provided.
+4097,6,,2026-04-01 19:17:28.774267+00:00,,,,,,,,Appiclation,,,,,,,,,,6939,0,Normal system activity; no specific details provided.
+16,166,,2026-04-01 19:17:29.369650+00:00,,,,,,,,System,,,,,,,,,,6940,0,Normal system activity; no specific details provided.
+16,167,,2026-04-01 19:17:30.306360+00:00,,,,,,,,System,,,,,,,,,,6941,0,Normal system activity; no specific details provided.
+16,168,,2026-04-01 19:17:30.679228+00:00,,,,,,,,System,,,,,,,,,,6942,0,Normal system activity; no specific details provided.
+508,7,,2026-04-01 19:17:30.781914+00:00,,,,,,,,Appiclation,,,,,,,,,,6943,0,Normal system activity; no specific details provided.
+16,169,,2026-04-01 19:17:42.309650+00:00,,,,,,,,System,,,,,,,,,,6944,0,Normal system activity; no specific details provided.
+16,170,,2026-04-01 19:17:42.929005+00:00,,,,,,,,System,,,,,,,,,,6945,0,Normal system activity; no specific details provided.
+4738,166,,2026-04-01 19:17:43.983580+00:00,,,,,,,,Security,,,,MINWINPC$,Administrator,,,,,6946,3,Low risk; change to Administrator account needs review.
+4624,167,,2026-04-01 19:17:44.545382+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6947,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,168,,2026-04-01 19:17:44.545387+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6948,0,Normal system activity; SYSTEM user in Security log is typical.
+16,171,,2026-04-01 19:17:44.912596+00:00,,,,,,,,System,,,,,,,,,,6949,0,Normal system activity; no specific details provided.
+4624,169,,2026-04-01 19:17:45.199560+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6950,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,170,,2026-04-01 19:17:45.199600+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6951,0,Normal system activity; SYSTEM user in Security log is typical.
+4624,171,,2026-04-01 19:17:45.653578+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6952,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,172,,2026-04-01 19:17:45.653582+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6953,0,Normal system activity; SYSTEM user in Security log is typical.
+4624,173,,2026-04-01 19:17:45.912867+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6954,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,174,,2026-04-01 19:17:45.912872+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6955,0,Normal system activity; SYSTEM user in Security log is typical.
+4624,175,,2026-04-01 19:17:46.253654+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6956,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,176,,2026-04-01 19:17:46.253660+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6957,0,Normal system activity; SYSTEM user in Security log is typical.
+4624,177,,2026-04-01 19:17:47.198507+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6958,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,178,,2026-04-01 19:17:47.198513+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6959,0,Normal system activity; SYSTEM user in Security log is typical.
+7040,172,,2026-04-01 19:17:47.667915+00:00,,,,,,,,System,,,,,,,,,,6960,0,Normal system activity; no specific details provided.
+4624,179,,2026-04-01 19:17:47.895535+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6961,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,180,,2026-04-01 19:17:47.895540+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6962,0,Normal system activity; SYSTEM user in Security log is typical.
+22,173,,2026-04-01 19:17:48.838648+00:00,,,,,,,,System,,,,,,,,,,6963,0,Normal system activity; no specific details provided.
+2004,174,,2026-04-01 19:17:52.544783+00:00,,,,,,,,System,,,,,,,,,,6964,0,Normal system activity; no specific details provided.
+4624,181,,2026-04-01 19:17:53.180197+00:00,,,0x00000000000002dc,,,,,Security,,Negotiate,-,MINWINPC$,SYSTEM,,C:\Windows\System32\services.exe,,-,6965,3,Low risk; SYSTEM account login via services.exe needs review.
+4672,182,,2026-04-01 19:17:53.180201+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6966,0,Normal system activity; SYSTEM user in Security log is typical.
+1074,175,,2026-04-01 19:17:53.521332+00:00,,,,,,,,System,,,,,,,,,,6967,0,Normal system activity; no specific details provided.
+86,8,Not found (404). 0x80190194 (-2145844844 HTTP_E_STATUS_NOT_FOUND),2026-04-01 19:17:54.122599+00:00,,,,,,"GetCACaps
+GetCACaps: Not Found
+{""Message"":""The authority \""vmw-keyid-4ee141457063b21f90e0af375a94b4f3b20f36e6.microsoftaik.azure.net\"" does not exist.""}
+HTTP/1.1 404 Not Found
+Date: Wed, 01 Apr 2026 16:17:15 GMT
+Content-Length: 121
+Content-Type: application/json; charset=utf-8
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+x-ms-request-id: 21ced612-0791-480c-9268-78a446fa8810
+",,Appiclation,,,,,,,,,,6968,5,"Low risk; HTTP 404 error on authority lookup, potential misconfiguration."
+1025,176,,2026-04-01 19:17:54.157825+00:00,,,,,,,,System,,,,,,,,,,6969,0,Normal system activity; no specific details provided.
+50104,178,,2026-04-01 19:17:57.880001+00:00,,,,,,,,System,,,,,,,,,,6970,0,Normal system activity; no specific details provided.
+50105,179,,2026-04-01 19:17:57.882551+00:00,,,,,,,,System,,,,,,,,,,6971,0,Normal system activity; no specific details provided.
+50106,180,,2026-04-01 19:17:57.890381+00:00,,,,,,,,System,,,,,,,,,,6972,0,Normal system activity; no specific details provided.
+51047,181,,2026-04-01 19:17:57.900585+00:00,,,,,,,,System,,,,,,,,,,6973,0,Normal system activity; no specific details provided.
+1532,9,,2026-04-01 19:17:57.908987+00:00,,,,,,,,Appiclation,,,,,,,,,,6974,0,Normal system activity; no specific details provided.
+6006,177,,2026-04-01 19:17:57.928415+00:00,,,,,,,,System,,,,,,,,,,6975,0,Normal system activity; no specific details provided.
+1100,183,,2026-04-01 19:17:57.929235+00:00,,,,,,,,Security,,,,,,,,,,6976,0,Normal system activity; no specific details provided.
+51057,186,,2026-04-01 19:17:58.018126+00:00,,,,,,,,System,,,,,,,,,,6977,0,Normal system activity; no specific details provided.
+50037,187,,2026-04-01 19:17:58.052977+00:00,,,,,,,,System,,,,,,,,,,6978,0,Normal system activity; no specific details provided.
+109,188,,2026-04-01 19:17:58.782501+00:00,,,,,,,,System,,,,,,,,,,6979,0,Normal system activity; no specific details provided.
+577,189,,2026-04-01 19:17:58.923437+00:00,,,,,,,,System,,,,,,,,,,6980,0,Normal system activity; no specific details provided.
+13,190,,2026-04-01 19:17:58.963776+00:00,,,,,,,,System,,,,,,,,,,6981,0,Normal system activity; no specific details provided.
+12,191,,2026-04-01 19:18:04.634752+00:00,,,,,,,,System,,,,,,,,,,6982,0,Normal system activity; no specific details provided.
+25,192,,2026-04-01 19:18:04.634752+00:00,,,,,,,,System,,,,,,,,,,6983,0,Normal system activity; no specific details provided.
+153,193,,2026-04-01 19:18:04.634920+00:00,,,,,,,,System,,,,,,,,,,6984,0,Normal system activity; no specific details provided.
+20,194,,2026-04-01 19:18:04.635151+00:00,,,,,,,,System,,,,,,,,,,6985,0,Normal system activity; no specific details provided.
+247,195,,2026-04-01 19:18:04.635153+00:00,,,,,,,,System,,,,,,,,,,6986,0,Normal system activity; no specific details provided.
+25,197,,2026-04-01 19:18:04.635283+00:00,,,,,,,,System,,,,,,,,,,6987,0,Normal system activity; no specific details provided.
+27,198,,2026-04-01 19:18:04.635283+00:00,,,,,,,,System,,,,,,,,,,6988,0,Normal system activity; no specific details provided.
+238,196,,2026-04-01 19:18:04.635283+00:00,,,,,,,,System,,,,,,,,,,6989,0,Normal system activity; no specific details provided.
+26,199,,2026-04-01 19:18:04.635328+00:00,,,,,,,,System,,,,,,,,,,6990,0,Normal system activity; no specific details provided.
+32,200,,2026-04-01 19:18:04.635344+00:00,,,,,,,,System,,,,,,,,,,6991,0,Normal system activity; no specific details provided.
+20,201,,2026-04-01 19:18:04.637646+00:00,,,,,,,,System,,,,,,,,,,6992,0,Normal system activity; no specific details provided.
+16,202,,2026-04-01 19:18:04.668352+00:00,,,,,,,,System,,,,,,,,,,6993,0,Normal system activity; no specific details provided.
+6,203,,2026-04-01 19:18:08.362726+00:00,,,,,,,,System,,,,,,,,,,6994,0,Normal system activity; no specific details provided.
+6,204,,2026-04-01 19:18:08.363342+00:00,,,,,,,,System,,,,,,,,,,6995,0,Normal system activity; no specific details provided.
+6,205,,2026-04-01 19:18:08.364321+00:00,,,,,,,,System,,,,,,,,,,6996,0,Normal system activity; no specific details provided.
+98,206,,2026-04-01 19:18:08.433176+00:00,,,,,,,,System,,,,,,,,,,6997,0,Normal system activity; no specific details provided.
+6,207,,2026-04-01 19:18:08.493847+00:00,,,,,,,,System,,,,,,,,,,6998,0,Normal system activity; no specific details provided.
+6,208,,2026-04-01 19:18:08.593288+00:00,,,,,,,,System,,,,,,,,,,6999,0,Normal system activity; no specific details provided.
+4688,184,,2026-04-01 19:18:08.623955+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7000,0,Normal system activity; no specific details provided.
+4696,185,,2026-04-01 19:18:08.624395+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7001,0,Normal system activity; no specific details provided.
+4826,186,,2026-04-01 19:18:08.624397+00:00,,,,,,,,Security,,,,-,,,,,,7002,0,Normal system activity; no specific details provided.
+4688,187,,2026-04-01 19:18:08.624399+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7003,0,Normal system activity; no specific details provided.
+172,209,,2026-04-01 19:18:08.630760+00:00,,,,6.0,,,,System,,,,,,,,,,7004,0,Normal system activity; no specific details provided.
+55,210,,2026-04-01 19:18:08.891376+00:00,,,,,,,,System,,,,,,,,,,7005,0,Normal system activity; no specific details provided.
+32,211,,2026-04-01 19:18:09.156534+00:00,,,,,,,,System,,,,,,,,,,7006,0,Normal system activity; no specific details provided.
+4688,188,,2026-04-01 19:18:09.293869+00:00,,,0x000000000000017c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7007,0,Normal system activity; no specific details provided.
+98,212,,2026-04-01 19:18:09.393728+00:00,,,,,,,,System,,,,,,,,,,7008,0,Normal system activity; no specific details provided.
+24,213,,2026-04-01 19:18:09.426373+00:00,,,,,,,,System,,,,,,,,,,7009,0,Normal system activity; no specific details provided.

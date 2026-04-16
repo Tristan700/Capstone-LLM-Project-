@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4624,6373,,2026-04-08 15:32:50.013288+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7350,0,Normal system activity; services.exe is a standard Windows process.
+4672,6374,,2026-04-08 15:32:50.013296+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7351,0,Normal system activity; SYSTEM user is a default system account.
+4624,6375,,2026-04-08 15:32:50.048889+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7352,0,Normal system activity; services.exe is a standard Windows process.
+4672,6376,,2026-04-08 15:32:50.048893+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7353,0,Normal system activity; SYSTEM user is a default system account.
+112,738,,2026-04-08 15:32:50.197615+00:00,,,4.0,,,,,System,,,,,,,,,,7354,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,739,,2026-04-08 15:32:50.197620+00:00,,,4.0,,,,,System,,,,,,,,,,7355,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,740,,2026-04-08 15:32:50.197624+00:00,,,4.0,,,,,System,,,,,,,,,,7356,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,741,,2026-04-08 15:32:50.197628+00:00,,,4.0,,,,,System,,,,,,,,,,7357,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,742,,2026-04-08 15:32:50.197634+00:00,,,4.0,,,,,System,,,,,,,,,,7358,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,743,,2026-04-08 15:32:50.197639+00:00,,,4.0,,,,,System,,,,,,,,,,7359,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,744,,2026-04-08 15:32:50.197643+00:00,,,4.0,,,,,System,,,,,,,,,,7360,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,745,,2026-04-08 15:32:50.197647+00:00,,,4.0,,,,,System,,,,,,,,,,7361,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,746,,2026-04-08 15:32:50.197655+00:00,,,4.0,,,,,System,,,,,,,,,,7362,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,747,,2026-04-08 15:32:50.197659+00:00,,,4.0,,,,,System,,,,,,,,,,7363,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,748,,2026-04-08 15:32:50.197666+00:00,,,4.0,,,,,System,,,,,,,,,,7364,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,749,,2026-04-08 15:32:50.197670+00:00,,,4.0,,,,,System,,,,,,,,,,7365,0,Normal system activity; EventID 112 typically indicates routine operations.
+112,750,,2026-04-08 15:32:50.197674+00:00,,,4.0,,,,,System,,,,,,,,,,7366,0,Normal system activity; EventID 112 typically indicates routine operations.
+4624,6377,,2026-04-08 15:32:50.199936+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7367,0,Normal system activity; services.exe is a standard Windows process.
+4672,6378,,2026-04-08 15:32:50.199940+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7368,0,Normal system activity; SYSTEM user is a default system account.
+5033,6379,,2026-04-08 15:32:50.558138+00:00,,,,,,,,Security,,,,,,,,,,7369,0,Normal system activity; EventID 5033 typically indicates routine operations.
+4624,6380,,2026-04-08 15:32:52.964888+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7370,0,Normal system activity; services.exe is a standard Windows process.
+4672,6381,,2026-04-08 15:32:52.964891+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7371,0,Normal system activity; SYSTEM user is a default system account.
+4624,6382,,2026-04-08 15:32:52.980297+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7372,0,Normal system activity; services.exe is a standard Windows process.
+4672,6383,,2026-04-08 15:32:52.980303+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7373,0,Normal system activity; SYSTEM user is a default system account.
+4624,6384,,2026-04-08 15:32:53.080481+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7374,0,Normal system activity; services.exe is a standard Windows process.
+4672,6385,,2026-04-08 15:32:53.080486+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7375,0,Normal system activity; SYSTEM user is a default system account.
+4624,6386,,2026-04-08 15:32:53.103661+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7376,0,Normal system activity; services.exe is a standard Windows process.
+4672,6387,,2026-04-08 15:32:53.103666+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7377,0,Normal system activity; SYSTEM user is a default system account.
+4624,6388,,2026-04-08 15:32:53.117674+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7378,0,Normal system activity; services.exe is a standard Windows process.
+4672,6389,,2026-04-08 15:32:53.117678+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7379,0,Normal system activity; SYSTEM user is a default system account.
+4624,6390,,2026-04-08 15:32:53.125099+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7380,0,Normal system activity; services.exe is a standard Windows process.
+4672,6391,,2026-04-08 15:32:53.125103+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7381,0,Normal system activity; SYSTEM user is a default system account.
+4624,6392,,2026-04-08 15:32:53.160797+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7382,0,Normal system activity; services.exe is a standard Windows process.
+4672,6393,,2026-04-08 15:32:53.160803+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7383,0,Normal system activity; SYSTEM user is a default system account.
+5615,242,,2026-04-08 15:32:53.546499+00:00,,,,,,,,Appiclation,,,,,,,,,,7384,0,Normal system activity; EventID 5615 typically indicates routine operations.
+4624,6394,,2026-04-08 15:32:55.284182+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7385,0,Normal system activity; services.exe is a standard Windows process.
+4672,6395,,2026-04-08 15:32:55.284187+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7386,0,Normal system activity; SYSTEM user is a default system account.
+4624,6396,,2026-04-08 15:32:55.284479+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7387,0,Normal system activity; services.exe is a standard Windows process.
+4672,6397,,2026-04-08 15:32:55.284485+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7388,0,Normal system activity; SYSTEM user is a default system account.
+7026,751,,2026-04-08 15:32:55.819851+00:00,,,,,,,,System,,,,,,,,,,7389,0,Normal system activity; EventID 7026 typically indicates routine operations.
+18,752,,2026-04-08 15:32:55.822142+00:00,,,,,,,,System,,,,,,,,,,7390,0,Normal system activity; EventID 18 typically indicates routine operations.
+5024,6398,,2026-04-08 15:32:57.185104+00:00,,,,,,,,Security,,,,,,,,,,7391,0,Normal system activity; EventID 5024 typically indicates routine operations.
+4624,6399,,2026-04-08 15:32:58.199249+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7392,0,Normal system activity; services.exe is a standard Windows process.
+4672,6400,,2026-04-08 15:32:58.199253+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7393,0,Normal system activity; SYSTEM user is a default system account.
+4624,6401,,2026-04-08 15:32:58.249912+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7394,0,Normal system activity; services.exe is a standard Windows process.
+4672,6402,,2026-04-08 15:32:58.249914+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7395,0,Normal system activity; SYSTEM user is a default system account.
+20,753,,2026-04-08 15:32:59.668480+00:00,,,,,,,,System,,,,,,,,,,7396,0,Normal system activity; EventID 20 typically indicates routine operations.
+5058,6403,,2026-04-08 15:32:59.757050+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,7397,0,Normal system activity; EventID 5058 typically indicates routine operations.
+5061,6404,,2026-04-08 15:32:59.757656+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,7398,0,Normal system activity; EventID 5061 typically indicates routine operations.
+5059,6405,,2026-04-08 15:32:59.757734+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,7399,0,Normal system activity; EventID 5059 typically indicates routine operations.
+5059,6406,,2026-04-08 15:32:59.762859+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,7400,0,Normal system activity; EventID 5059 typically indicates routine operations.
+4738,6407,,2026-04-08 15:32:59.791992+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,7401,0,Normal system activity; EventID 4738 typically indicates routine operations.
+4648,6408,,2026-04-08 15:32:59.802736+00:00,,,0x0000000000000594,,,,,Security,,,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,,7402,12,Critical risk; suspicious username and local IP address indicate potential unauthorized access.
+4624,6409,,2026-04-08 15:32:59.802755+00:00,,,0x0000000000000594,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,7403,12,Critical risk; suspicious username and local IP address indicate potential unauthorized access.
+4624,6410,,2026-04-08 15:32:59.802765+00:00,,,0x0000000000000594,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,7404,12,Critical risk; suspicious username and local IP address indicate potential unauthorized access.
+4672,6411,,2026-04-08 15:32:59.802767+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,7405,12,Critical risk; suspicious username indicates potential unauthorized access.
+7001,754,,2026-04-08 15:32:59.821350+00:00,,,,,,,,System,,,,,,,,,,7406,0,Normal system activity; EventID 7001 typically indicates routine operations.
+5059,6412,,2026-04-08 15:32:59.831909+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,7407,0,Normal system activity; EventID 5059 typically indicates routine operations.
+5059,6413,,2026-04-08 15:32:59.832628+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,7408,0,Normal system activity; EventID 5059 typically indicates routine operations.
+6003,243,,2026-04-08 15:32:59.841478+00:00,,,,,,,,Appiclation,,,,,,,,,,7409,0,Normal system activity; EventID 6003 typically indicates routine operations.
+4624,6414,,2026-04-08 15:32:59.916435+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7410,0,Normal system activity; services.exe is a standard Windows process.
+4672,6415,,2026-04-08 15:32:59.916445+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7411,0,Normal system activity; SYSTEM user is a default system account.
+4799,6416,,2026-04-08 15:33:00.037766+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,7412,0,Normal system activity; EventID 4799 typically indicates routine operations.
+4624,6417,,2026-04-08 15:33:00.137989+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7413,0,Normal system activity; services.exe is a standard Windows process.
+4672,6418,,2026-04-08 15:33:00.137995+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7414,0,Normal system activity; SYSTEM user is a default system account.
+5379,6419,,2026-04-08 15:33:00.187654+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,7415,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6420,,2026-04-08 15:33:00.187874+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,7416,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6421,,2026-04-08 15:33:00.187956+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,NORMALVM$,,,,,,7417,0,Normal system activity; EventID 5379 typically indicates routine operations.
+6000,244,,2026-04-08 15:33:00.245174+00:00,,,,,,,,Appiclation,,,,,,,,,,7418,0,Normal system activity; EventID 6000 typically indicates routine operations.
+5379,6422,,2026-04-08 15:33:00.278049+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7419,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6423,,2026-04-08 15:33:00.278252+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7420,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6424,,2026-04-08 15:33:00.278296+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7421,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6425,,2026-04-08 15:33:00.279362+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7422,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6426,,2026-04-08 15:33:00.279909+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7423,0,Normal system activity; EventID 5379 typically indicates routine operations.
+5379,6427,,2026-04-08 15:33:00.279968+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7424,0,Normal system activity; EventID 5379 typically indicates routine operations.
+4624,6428,,2026-04-08 15:33:00.582743+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,7425,0,Normal system activity; services.exe is a standard Windows process.
+4672,6429,,2026-04-08 15:33:00.582748+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7426,0,Normal system activity; SYSTEM user is a default system account.
+5058,6430,,2026-04-08 15:33:02.007816+00:00,,,,,%%2458,,,Security,,,,pizza,,,,,,7427,0,Normal system activity; EventID 5058 typically indicates routine operations.
+5061,6431,,2026-04-08 15:33:02.008936+00:00,,,,,%%2480,,,Security,,,,pizza,,,,,,7428,0,Normal system activity; EventID 5061 typically indicates routine operations.
+5059,6432,,2026-04-08 15:33:02.009598+00:00,,,,,%%2464,,,Security,,,,pizza,,,,,,7429,0,Normal system activity; EventID 5059 typically indicates routine operations.

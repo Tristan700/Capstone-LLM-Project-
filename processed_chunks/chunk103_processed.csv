@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4624,308,,2026-04-01 19:18:18.174410+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7140,,
+4672,309,,2026-04-01 19:18:18.174410+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7141,,
+4624,310,,2026-04-01 19:18:18.174486+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7142,,
+4672,311,,2026-04-01 19:18:18.174488+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7143,,
+4624,312,,2026-04-01 19:18:18.183634+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7144,,
+4672,313,,2026-04-01 19:18:18.183638+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7145,,
+4799,314,,2026-04-01 19:18:18.193789+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7146,,
+4624,315,,2026-04-01 19:18:18.310780+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7147,,
+4672,316,,2026-04-01 19:18:18.310785+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7148,,
+4624,317,,2026-04-01 19:18:18.315357+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7149,,
+4672,318,,2026-04-01 19:18:18.315363+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7150,0.0,"Normal system activity; SYSTEM user granted special privileges, typical for system operations."
+134,223,,2026-04-01 19:18:18.429234+00:00,,,,,,,,System,,,,,,,,,,7151,0.0,Normal system event with no specific details provided.
+4634,319,,2026-04-01 19:18:18.547714+00:00,,,,,,,,Security,,,,,defaultuser0,,,,,7152,0.0,"Normal logoff event for defaultuser0, indicating routine user session termination."
+4634,320,,2026-04-01 19:18:18.549318+00:00,,,,,,,,Security,,,,,defaultuser0,,,,,7153,0.0,"Another standard logoff event for defaultuser0, consistent with normal user activity."
+4624,321,,2026-04-01 19:18:18.601351+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7154,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,322,,2026-04-01 19:18:18.601357+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7155,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+6,224,,2026-04-01 19:18:18.631109+00:00,,,,,,,,System,,,,,,,,,,7156,0.0,"Generic system event with no specific details, typical system behavior."
+6,225,,2026-04-01 19:18:18.654648+00:00,,,,,,,,System,,,,,,,,,,7157,0.0,"Another generic system event, consistent with routine operations."
+6,226,,2026-04-01 19:18:18.657045+00:00,,,,,,,,System,,,,,,,,,,7158,0.0,"Routine system event, no specific details provided."
+50036,227,,2026-04-01 19:18:18.678436+00:00,,,,,,,,System,,,,,,,,,,7159,0.0,"System event with no specific details, typical of normal operations."
+50103,228,,2026-04-01 19:18:18.678762+00:00,,,,,,,,System,,,,,,,,,,7160,0.0,"Generic system event, consistent with routine system monitoring or updates."
+50036,229,,2026-04-01 19:18:18.685818+00:00,,,,,,,,System,,,,,,,,,,7161,0.0,"System event with no specific details, typical of normal operations."
+6,230,,2026-04-01 19:18:18.691904+00:00,,,,,,,,System,,,,,,,,,,7162,0.0,"Routine system event, no specific details provided."
+1,231,,2026-04-01 19:18:18.691910+00:00,,,,,,,,System,,,,,,,,,,7163,0.0,"Generic system event, consistent with routine operations."
+6,232,,2026-04-01 19:18:18.691984+00:00,,,,,,,,System,,,,,,,,,,7164,0.0,"Routine system event, no specific details provided."
+6,233,,2026-04-01 19:18:18.697968+00:00,,,,,,,,System,,,,,,,,,,7165,0.0,"Generic system event, consistent with routine operations."
+6,234,,2026-04-01 19:18:18.711828+00:00,,,,,,,,System,,,,,,,,,,7166,0.0,"Routine system event, no specific details provided."
+6,235,,2026-04-01 19:18:18.727570+00:00,,,,,,,,System,,,,,,,,,,7167,0.0,"Generic system event, consistent with routine operations."
+6,236,,2026-04-01 19:18:18.732744+00:00,,,,,,,,System,,,,,,,,,,7168,0.0,"Routine system event, no specific details provided."
+51046,237,,2026-04-01 19:18:18.755314+00:00,,,,,,,,System,,,,,,,,,,7169,0.0,"System event with no specific details, typical of normal operations."
+4624,323,,2026-04-01 19:18:19.021915+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7170,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,324,,2026-04-01 19:18:19.021921+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7171,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,325,,2026-04-01 19:18:19.024649+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7172,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,326,,2026-04-01 19:18:19.024652+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7173,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+6,238,,2026-04-01 19:18:19.036242+00:00,,,,,,,,System,,,,,,,,,,7174,0.0,"Generic system event, consistent with routine operations."
+6011,182,,2026-04-01 19:18:19.120934+00:00,,,,,,,,System,,,,,,,,,,7175,0.0,System event indicating routine operations or monitoring.
+6009,183,,2026-04-01 19:18:19.121267+00:00,,,,,,,,System,,,,,,,,,,7176,0.0,System event indicating routine operations or monitoring.
+6005,184,,2026-04-01 19:18:19.121307+00:00,,,,,,,,System,,,,,,,,,,7177,0.0,System event indicating routine operations or monitoring.
+6013,185,,2026-04-01 19:18:19.121628+00:00,,,,,,,,System,,,,,,,,,,7178,0.0,System event indicating routine operations or monitoring.
+4624,327,,2026-04-01 19:18:19.153154+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7179,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,328,,2026-04-01 19:18:19.153160+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7180,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4799,329,,2026-04-01 19:18:19.298555+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,WIN-2RR949GCCSV$,Administrators,,,,,7181,0.0,"Security event involving svchost.exe managing group membership, typical system behavior."
+4625,10,,2026-04-01 19:18:19.339716+00:00,,,,,,,,Appiclation,,,,,,,,,,7182,0.0,"Failed login attempt with no user or IP details, could be a misconfiguration."
+4624,330,,2026-04-01 19:18:19.531002+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7183,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,331,,2026-04-01 19:18:19.531008+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7184,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,332,,2026-04-01 19:18:19.695707+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7185,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,333,,2026-04-01 19:18:19.695713+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7186,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+112,239,,2026-04-01 19:18:19.747330+00:00,,,4.0,,,,,System,,,,,,,,,,7187,0.0,"Generic system event, consistent with routine operations."
+112,240,,2026-04-01 19:18:19.747337+00:00,,,4.0,,,,,System,,,,,,,,,,7188,0.0,"Generic system event, consistent with routine operations."
+112,241,,2026-04-01 19:18:19.747341+00:00,,,4.0,,,,,System,,,,,,,,,,7189,0.0,"Generic system event, consistent with routine operations."
+112,242,,2026-04-01 19:18:19.747347+00:00,,,4.0,,,,,System,,,,,,,,,,7190,0.0,"Generic system event, consistent with routine operations."
+112,243,,2026-04-01 19:18:19.747351+00:00,,,4.0,,,,,System,,,,,,,,,,7191,0.0,"Generic system event, consistent with routine operations."
+112,244,,2026-04-01 19:18:19.747356+00:00,,,4.0,,,,,System,,,,,,,,,,7192,0.0,"Generic system event, consistent with routine operations."
+112,245,,2026-04-01 19:18:19.747360+00:00,,,4.0,,,,,System,,,,,,,,,,7193,0.0,"Generic system event, consistent with routine operations."
+112,246,,2026-04-01 19:18:19.747366+00:00,,,4.0,,,,,System,,,,,,,,,,7194,0.0,"Generic system event, consistent with routine operations."
+112,247,,2026-04-01 19:18:19.747372+00:00,,,4.0,,,,,System,,,,,,,,,,7195,0.0,"Generic system event, consistent with routine operations."
+112,248,,2026-04-01 19:18:19.747377+00:00,,,4.0,,,,,System,,,,,,,,,,7196,0.0,"Generic system event, consistent with routine operations."
+112,249,,2026-04-01 19:18:19.747381+00:00,,,4.0,,,,,System,,,,,,,,,,7197,0.0,"Generic system event, consistent with routine operations."
+112,250,,2026-04-01 19:18:19.747385+00:00,,,4.0,,,,,System,,,,,,,,,,7198,0.0,"Generic system event, consistent with routine operations."
+112,251,,2026-04-01 19:18:19.747389+00:00,,,4.0,,,,,System,,,,,,,,,,7199,0.0,"Generic system event, consistent with routine operations."
+4624,334,,2026-04-01 19:18:19.748259+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7200,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,335,,2026-04-01 19:18:19.748264+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7201,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+5033,336,,2026-04-01 19:18:19.866373+00:00,,,,,,,,Security,,,,,,,,,,7202,0.0,"Security event with no specific details, typical of normal operations."
+4624,337,,2026-04-01 19:18:19.925522+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7203,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,338,,2026-04-01 19:18:19.925528+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7204,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,339,,2026-04-01 19:18:19.933058+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7205,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,340,,2026-04-01 19:18:19.933064+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7206,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+134,252,,2026-04-01 19:18:19.942114+00:00,,,,,,,,System,,,,,,,,,,7207,0.0,"System event with no specific details, typical of normal operations."
+4624,341,,2026-04-01 19:18:19.960745+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7208,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,342,,2026-04-01 19:18:19.960751+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7209,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,343,,2026-04-01 19:18:20.017288+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7210,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,344,,2026-04-01 19:18:20.017292+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7211,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,345,,2026-04-01 19:18:20.043810+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7212,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,346,,2026-04-01 19:18:20.043818+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7213,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,347,,2026-04-01 19:18:20.045885+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7214,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,348,,2026-04-01 19:18:20.045891+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7215,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,349,,2026-04-01 19:18:20.049662+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7216,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,350,,2026-04-01 19:18:20.049667+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7217,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."
+4624,351,,2026-04-01 19:18:20.095737+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7218,0.0,"Repeated SYSTEM login via services.exe, common for system processes."
+4672,352,,2026-04-01 19:18:20.095741+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7219,0.0,"SYSTEM granted special privileges again, normal for system administrative tasks."

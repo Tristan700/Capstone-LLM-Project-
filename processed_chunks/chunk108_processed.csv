@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+5379,6488,,2026-04-08 15:33:05.257101+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7490,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6489,,2026-04-08 15:33:05.258457+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7491,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6490,,2026-04-08 15:33:05.258511+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7492,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6491,,2026-04-08 15:33:05.298288+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7493,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6492,,2026-04-08 15:33:05.298536+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7494,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6493,,2026-04-08 15:33:05.322315+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7495,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6494,,2026-04-08 15:33:05.324760+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7496,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6495,,2026-04-08 15:33:05.324829+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7497,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6496,,2026-04-08 15:33:05.349012+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7498,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6497,,2026-04-08 15:33:05.373854+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7499,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6498,,2026-04-08 15:33:05.792217+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7500,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6499,,2026-04-08 15:33:05.794147+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7501,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6500,,2026-04-08 15:33:05.794353+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7502,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6501,,2026-04-08 15:33:05.974316+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7503,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6502,,2026-04-08 15:33:06.039499+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7504,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6503,,2026-04-08 15:33:06.388878+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7505,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6504,,2026-04-08 15:33:06.389296+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7506,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6505,,2026-04-08 15:33:06.389503+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7507,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6506,,2026-04-08 15:33:06.389690+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7508,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6507,,2026-04-08 15:33:06.389845+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7509,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6508,,2026-04-08 15:33:06.389952+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7510,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6509,,2026-04-08 15:33:06.390175+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7511,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6510,,2026-04-08 15:33:06.390310+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7512,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6511,,2026-04-08 15:33:06.390448+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7513,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6512,,2026-04-08 15:33:06.390659+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7514,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6513,,2026-04-08 15:33:06.390818+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7515,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6514,,2026-04-08 15:33:06.390921+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7516,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6515,,2026-04-08 15:33:06.391027+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7517,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6516,,2026-04-08 15:33:06.391117+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7518,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6517,,2026-04-08 15:33:06.391272+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7519,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6518,,2026-04-08 15:33:06.391594+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7520,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6519,,2026-04-08 15:33:06.395308+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7521,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6520,,2026-04-08 15:33:06.395500+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7522,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6521,,2026-04-08 15:33:06.395704+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7523,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6522,,2026-04-08 15:33:06.395851+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7524,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6523,,2026-04-08 15:33:06.396021+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7525,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6524,,2026-04-08 15:33:06.396158+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7526,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6525,,2026-04-08 15:33:06.397484+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7527,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6526,,2026-04-08 15:33:06.397663+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7528,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6527,,2026-04-08 15:33:06.397831+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7529,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6528,,2026-04-08 15:33:06.397976+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7530,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6529,,2026-04-08 15:33:06.398130+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7531,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6530,,2026-04-08 15:33:06.398256+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7532,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6531,,2026-04-08 15:33:06.398405+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7533,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6532,,2026-04-08 15:33:06.402357+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7534,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6533,,2026-04-08 15:33:06.402538+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7535,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6534,,2026-04-08 15:33:06.402714+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7536,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6535,,2026-04-08 15:33:06.402853+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7537,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6536,,2026-04-08 15:33:06.403021+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7538,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6537,,2026-04-08 15:33:06.403149+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7539,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6538,,2026-04-08 15:33:06.403305+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7540,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6539,,2026-04-08 15:33:06.403496+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7541,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6540,,2026-04-08 15:33:06.403654+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7542,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6541,,2026-04-08 15:33:06.403780+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7543,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6542,,2026-04-08 15:33:06.403923+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7544,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6543,,2026-04-08 15:33:06.404047+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7545,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6544,,2026-04-08 15:33:06.404192+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7546,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6545,,2026-04-08 15:33:06.405092+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7547,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6546,,2026-04-08 15:33:06.405260+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7548,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6547,,2026-04-08 15:33:06.405424+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7549,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6548,,2026-04-08 15:33:06.405563+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7550,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6549,,2026-04-08 15:33:06.405716+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7551,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6550,,2026-04-08 15:33:06.405842+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7552,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6551,,2026-04-08 15:33:06.405949+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7553,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6552,,2026-04-08 15:33:06.406124+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7554,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6553,,2026-04-08 15:33:06.406296+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7555,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6554,,2026-04-08 15:33:06.406427+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7556,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6555,,2026-04-08 15:33:06.406572+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7557,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6556,,2026-04-08 15:33:06.406757+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7558,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6557,,2026-04-08 15:33:06.406910+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7559,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6558,,2026-04-08 15:33:06.407042+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7560,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4648,6559,,2026-04-08 15:33:06.411472+00:00,,,0x00000000000002ec,,,,,Security,,,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,,7561,12,Yes,Critical risk due to lsass.exe process used with suspicious email as target username.
+4624,6560,,2026-04-08 15:33:06.411489+00:00,,,0x00000000000002ec,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,7562,12,Yes,Critical risk due to lsass.exe process used with suspicious email as target username.
+4624,6561,,2026-04-08 15:33:06.411503+00:00,,,0x00000000000002ec,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,7563,12,Yes,Critical risk due to lsass.exe process used with suspicious email as target username.
+4672,6562,,2026-04-08 15:33:06.411507+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,7564,12,Yes,Critical risk due to lsass.exe process used with suspicious email as target username.
+4634,6563,,2026-04-08 15:33:06.411564+00:00,,,,,,,,Security,,,,,pizza,,,,,7565,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4634,6564,,2026-04-08 15:33:06.414490+00:00,,,,,,,,Security,,,,,pizza,,,,,7566,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6565,,2026-04-08 15:33:06.562634+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7567,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6566,,2026-04-08 15:33:06.562889+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7568,0,No,Normal system activity; missing details and no indications of malicious behavior.
+5379,6567,,2026-04-08 15:33:06.563095+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,7569,0,No,Normal system activity; missing details and no indications of malicious behavior.

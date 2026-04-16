@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+5379,8660,,2026-04-08 15:38:32.541889+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9730,,
+5379,8661,,2026-04-08 15:38:32.541992+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9731,,
+5379,8662,,2026-04-08 15:38:32.542038+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9732,,
+5379,8663,,2026-04-08 15:38:32.544592+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9733,,
+5379,8664,,2026-04-08 15:38:32.544901+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9734,,
+5379,8665,,2026-04-08 15:38:32.549355+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9735,,
+5379,8666,,2026-04-08 15:38:32.549429+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9736,,
+4624,8667,,2026-04-08 15:38:32.998928+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9737,,
+4672,8668,,2026-04-08 15:38:32.998934+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9738,,
+4624,8669,,2026-04-08 15:38:33.293631+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9739,,
+4672,8670,,2026-04-08 15:38:33.293636+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9740,,
+7040,788,,2026-04-08 15:38:34.669542+00:00,,,,,,,,System,,,,,,,,,,9741,0.0,Normal system event log with no specific details provided.
+44,790,,2026-04-08 15:38:42.971931+00:00,,,,,,,,System,,,,,,,,,,9742,0.0,Normal system event log with no specific details provided.
+44,789,,2026-04-08 15:38:42.971931+00:00,,,,,,,,System,,,,,,,,,,9743,0.0,Normal system event log with no specific details provided.
+43,791,,2026-04-08 15:38:43.087721+00:00,,,,,,,,System,,,,,,,,,,9744,0.0,Normal system event log with no specific details provided.
+19,792,,2026-04-08 15:38:43.144279+00:00,,,,,,,,System,,,,,,,,,,9745,0.0,Normal system event log with no specific details provided.
+5379,8671,,2026-04-08 15:38:43.319275+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9746,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8672,,2026-04-08 15:38:43.319338+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9747,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8673,,2026-04-08 15:38:43.319370+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9748,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8674,,2026-04-08 15:38:43.321877+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9749,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8675,,2026-04-08 15:38:43.322083+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9750,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8676,,2026-04-08 15:38:43.324041+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9751,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8677,,2026-04-08 15:38:43.324085+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9752,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+4624,8678,,2026-04-08 15:38:43.940844+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9753,0.0,"Normal security event involving NORMALVM$ and SYSTEM, typical for system operations."
+4672,8679,,2026-04-08 15:38:43.940849+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9754,0.0,"Normal system event involving SYSTEM user, typical administrative privileges activity."
+5379,8680,,2026-04-08 15:38:48.883751+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9755,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8681,,2026-04-08 15:38:48.883827+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9756,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8682,,2026-04-08 15:38:48.884510+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9757,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8683,,2026-04-08 15:38:49.170086+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9758,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8684,,2026-04-08 15:38:49.178789+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9759,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8685,,2026-04-08 15:38:49.182045+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9760,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8686,,2026-04-08 15:38:49.182085+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9761,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+4624,8687,,2026-04-08 15:38:51.019999+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,9762,0.0,"Normal security event involving NORMALVM$ and SYSTEM, typical for system operations."
+4672,8688,,2026-04-08 15:38:51.020002+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,9763,0.0,"Normal system event involving SYSTEM user, typical administrative privileges activity."
+5382,8689,,2026-04-08 15:38:58.437862+00:00,,,,,,,2026-04-08 15:38:31.362148+00:00,Security,,,,pizza,,,,,,9764,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5382,8690,,2026-04-08 15:38:58.438730+00:00,,,,,,,2026-04-08 15:38:31.362148+00:00,Security,,,,pizza,,,,,,9765,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8691,,2026-04-08 15:39:02.518679+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9766,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8692,,2026-04-08 15:39:02.519739+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9767,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8693,,2026-04-08 15:39:02.519783+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9768,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8694,,2026-04-08 15:39:02.522079+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9769,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8695,,2026-04-08 15:39:02.523357+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9770,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8696,,2026-04-08 15:39:02.731136+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9771,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8697,,2026-04-08 15:39:02.731274+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9772,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8698,,2026-04-08 15:39:02.731445+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9773,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8699,,2026-04-08 15:39:02.731529+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9774,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8700,,2026-04-08 15:39:02.731649+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9775,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8701,,2026-04-08 15:39:02.731728+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9776,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8702,,2026-04-08 15:39:02.731857+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9777,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8703,,2026-04-08 15:39:02.731939+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9778,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8704,,2026-04-08 15:39:02.732050+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9779,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8705,,2026-04-08 15:39:02.732124+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9780,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8706,,2026-04-08 15:39:02.732224+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9781,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8707,,2026-04-08 15:39:02.732334+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9782,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8708,,2026-04-08 15:39:02.732452+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9783,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8709,,2026-04-08 15:39:02.732529+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9784,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8710,,2026-04-08 15:39:02.732634+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9785,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8711,,2026-04-08 15:39:02.733265+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9786,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8712,,2026-04-08 15:39:02.737543+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9787,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8713,,2026-04-08 15:39:02.737938+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9788,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8714,,2026-04-08 15:39:02.738085+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9789,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8715,,2026-04-08 15:39:02.738178+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9790,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8716,,2026-04-08 15:39:02.738285+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9791,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8717,,2026-04-08 15:39:02.738369+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9792,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8718,,2026-04-08 15:39:02.738466+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9793,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8719,,2026-04-08 15:39:02.738550+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9794,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8720,,2026-04-08 15:39:02.738646+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9795,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8721,,2026-04-08 15:39:02.738720+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9796,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8722,,2026-04-08 15:39:02.738817+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9797,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8723,,2026-04-08 15:39:02.738892+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9798,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8724,,2026-04-08 15:39:02.738995+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9799,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8725,,2026-04-08 15:39:02.742884+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9800,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8726,,2026-04-08 15:39:02.743006+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9801,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8727,,2026-04-08 15:39:02.743139+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9802,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8728,,2026-04-08 15:39:02.743214+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9803,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8729,,2026-04-08 15:39:02.743319+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9804,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8730,,2026-04-08 15:39:02.743389+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9805,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8731,,2026-04-08 15:39:02.743517+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9806,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8732,,2026-04-08 15:39:02.743681+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9807,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8733,,2026-04-08 15:39:02.743805+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9808,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."
+5379,8734,,2026-04-08 15:39:02.743879+00:00,,,,,,,2026-04-08 15:32:59.918915+00:00,Security,,,,pizza,,,,,,9809,0.0,"Repeated security event with user 'pizza' but no other details, likely normal activity."

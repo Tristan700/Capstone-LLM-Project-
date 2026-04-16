@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,Suspicious,summary
+4688,184,,2026-04-01 19:18:08.623955+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7000,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4696,185,,2026-04-01 19:18:08.624395+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7001,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4826,186,,2026-04-01 19:18:08.624397+00:00,,,,,,,,Security,,,,-,,,,,,7002,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4688,187,,2026-04-01 19:18:08.624399+00:00,,,0x0000000000000004,,,,,Security,,,,-,-,,,,,7003,0,No,Normal system activity; missing details and no indications of malicious behavior.
+172,209,,2026-04-01 19:18:08.630760+00:00,,,,6.0,,,,System,,,,,,,,,,7004,6,Yes,Medium risk due to a specified reason code of '6' in a system event.
+55,210,,2026-04-01 19:18:08.891376+00:00,,,,,,,,System,,,,,,,,,,7005,0,No,Normal system activity; missing details and no indications of malicious behavior.
+32,211,,2026-04-01 19:18:09.156534+00:00,,,,,,,,System,,,,,,,,,,7006,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4688,188,,2026-04-01 19:18:09.293869+00:00,,,0x000000000000017c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7007,0,No,Normal system activity; process initiated by a standard system process.
+98,212,,2026-04-01 19:18:09.393728+00:00,,,,,,,,System,,,,,,,,,,7008,0,No,Normal system activity; missing details and no indications of malicious behavior.
+24,213,,2026-04-01 19:18:09.426373+00:00,,,,,,,,System,,,,,,,,,,7009,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4688,189,,2026-04-01 19:18:09.476419+00:00,,,0x000000000000017c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7010,0,No,Normal system activity; process initiated by a standard system process.
+4688,190,,2026-04-01 19:18:09.563272+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7011,0,No,Normal system activity; process initiated by a standard system process.
+4688,191,,2026-04-01 19:18:09.654806+00:00,,,0x000000000000017c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7012,0,No,Normal system activity; process initiated by a standard system process.
+4688,192,,2026-04-01 19:18:09.660124+00:00,,,0x000000000000020c,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7013,0,No,Normal system activity; process initiated by a standard system process.
+4688,193,,2026-04-01 19:18:09.669640+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7014,0,No,Normal system activity; process initiated by a standard system process.
+4688,194,,2026-04-01 19:18:09.690563+00:00,,,0x0000000000000264,,,,,Security,,,,-,-,,,C:\Windows\System32\smss.exe,,7015,0,No,Normal system activity; process initiated by a standard system process.
+19,214,,2026-04-01 19:18:09.736631+00:00,,,,,,,,System,,,,,,,,,,7016,0,No,Normal system activity; missing details and no indications of malicious behavior.
+25,215,,2026-04-01 19:18:09.736650+00:00,,,,,,,,System,,,,,,,,,,7017,0,No,Normal system activity; missing details and no indications of malicious behavior.
+23,216,,2026-04-01 19:18:09.737160+00:00,,,,,,,,System,,,,,,,,,,7018,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4688,195,,2026-04-01 19:18:09.823618+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,7019,0,No,Normal system activity; process initiated by a standard system process.
+14,217,,2026-04-01 19:18:09.849274+00:00,,,,,,,,System,,,,,,,,,,7020,0,No,Normal system activity; missing details and no indications of malicious behavior.
+12,218,,2026-04-01 19:18:09.852308+00:00,,,,,,,,System,,,,,,,,,,7021,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4688,196,,2026-04-01 19:18:09.855448+00:00,,,0x000000000000026c,,,,,Security,,,,-,-,,,C:\Windows\System32\wininit.exe,,7022,0,No,Normal system activity; process initiated by a standard system process.
+6156,219,,2026-04-01 19:18:09.920469+00:00,,,,,,,,System,,,,,,,,,,7023,0,No,Normal system activity; missing details and no indications of malicious behavior.
+6417,197,,2026-04-01 19:18:09.960361+00:00,,,0x00000000000002ec,,,,,Security,,,,,,,C:\Windows\System32\lsass.exe,,,7024,0,No,Normal system activity; process initiated by a standard system process.
+4608,198,,2026-04-01 19:18:09.963463+00:00,,,,,,,,Security,,,,,,,,,,7025,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,199,,2026-04-01 19:18:09.968235+00:00,,,0x0000000000000004,,,,,Security,,-,-,-,SYSTEM,,,,-,7026,0,No,Normal system activity; process initiated by a standard system process.
+4902,200,,2026-04-01 19:18:10.123363+00:00,,,,,,,,Security,,,,,,,,,,7027,0,No,Normal system activity; missing details and no indications of malicious behavior.
+16962,220,,2026-04-01 19:18:10.130413+00:00,,,,,,,,System,,,,,,,,,,7028,0,No,Normal system activity; missing details and no indications of malicious behavior.
+16977,221,,2026-04-01 19:18:10.141874+00:00,,,,,,,,System,,,,,,,,,,7029,0,No,Normal system activity; missing details and no indications of malicious behavior.
+16983,222,,2026-04-01 19:18:10.141878+00:00,,,,,,,,System,,,,,,,,,,7030,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4648,201,,2026-04-01 19:18:10.169743+00:00,,,0x000000000000026c,,,,,Security,,,-,WIN-2RR949GCCSV$,UMFD-0,,C:\Windows\System32\wininit.exe,,,7031,0,No,Normal system activity; process initiated by a standard system process.
+4624,202,,2026-04-01 19:18:10.169762+00:00,,,0x000000000000026c,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,UMFD-0,,C:\Windows\System32\wininit.exe,,-,7032,0,No,Normal system activity; process initiated by a standard system process.
+4648,203,,2026-04-01 19:18:10.171413+00:00,,,0x00000000000002a4,,,,,Security,,,-,WIN-2RR949GCCSV$,UMFD-1,,C:\Windows\System32\winlogon.exe,,,7033,0,No,Normal system activity; process initiated by a standard system process.
+4624,204,,2026-04-01 19:18:10.171518+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,UMFD-1,,C:\Windows\System32\winlogon.exe,,-,7034,0,No,Normal system activity; process initiated by a standard system process.
+4624,205,,2026-04-01 19:18:10.204308+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7035,0,No,Normal system activity; process initiated by a standard system process.
+4672,206,,2026-04-01 19:18:10.204313+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7036,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,207,,2026-04-01 19:18:10.425344+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,NETWORK SERVICE,,C:\Windows\System32\services.exe,,-,7037,0,No,Normal system activity; process initiated by a standard system process.
+4672,208,,2026-04-01 19:18:10.425350+00:00,,,,,,,,Security,,,,NETWORK SERVICE,,,,,,7038,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,209,,2026-04-01 19:18:10.502325+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7039,0,No,Normal system activity; process initiated by a standard system process.
+4672,210,,2026-04-01 19:18:10.502331+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7040,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4648,211,,2026-04-01 19:18:10.630209+00:00,,,0x00000000000002a4,,,,,Security,,,-,WIN-2RR949GCCSV$,DWM-1,,C:\Windows\System32\winlogon.exe,,,7041,0,No,Normal system activity; process initiated by a standard system process.
+4624,212,,2026-04-01 19:18:10.630220+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,7042,0,No,Normal system activity; process initiated by a standard system process.
+4624,213,,2026-04-01 19:18:10.630234+00:00,,,0x00000000000002a4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,DWM-1,,C:\Windows\System32\winlogon.exe,,-,7043,0,No,Normal system activity; process initiated by a standard system process.
+4672,215,,2026-04-01 19:18:10.630236+00:00,,,,,,,,Security,,,,DWM-1,,,,,,7044,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4672,214,,2026-04-01 19:18:10.630236+00:00,,,,,,,,Security,,,,DWM-1,,,,,,7045,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,216,,2026-04-01 19:18:10.822014+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7046,0,No,Normal system activity; process initiated by a standard system process.
+4672,217,,2026-04-01 19:18:10.822018+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7047,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,218,,2026-04-01 19:18:10.838484+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7048,0,No,Normal system activity; process initiated by a standard system process.
+4672,219,,2026-04-01 19:18:10.838490+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7049,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,220,,2026-04-01 19:18:10.868052+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,LOCAL SERVICE,,C:\Windows\System32\services.exe,,-,7050,0,No,Normal system activity; process initiated by a standard system process.
+4672,221,,2026-04-01 19:18:10.868053+00:00,,,,,,,,Security,,,,LOCAL SERVICE,,,,,,7051,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,222,,2026-04-01 19:18:11.048117+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7052,0,No,Normal system activity; process initiated by a standard system process.
+4672,223,,2026-04-01 19:18:11.048120+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7053,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,224,,2026-04-01 19:18:11.124107+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7054,0,No,Normal system activity; process initiated by a standard system process.
+4672,225,,2026-04-01 19:18:11.124113+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7055,0,No,Normal system activity; missing details and no indications of malicious behavior.
+1531,11,,2026-04-01 19:18:11.126183+00:00,,,,,,,,Appiclation,,,,,,,,,,7056,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,226,,2026-04-01 19:18:16.129421+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7057,0,No,Normal system activity; process initiated by a standard system process.
+4672,227,,2026-04-01 19:18:16.129427+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7058,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,228,,2026-04-01 19:18:16.409567+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7059,0,No,Normal system activity; process initiated by a standard system process.
+4672,229,,2026-04-01 19:18:16.409573+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7060,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,230,,2026-04-01 19:18:17.171230+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7061,0,No,Normal system activity; process initiated by a standard system process.
+4672,231,,2026-04-01 19:18:17.171234+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7062,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4624,232,,2026-04-01 19:18:17.261183+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,WIN-2RR949GCCSV$,SYSTEM,,C:\Windows\System32\services.exe,,-,7063,0,No,Normal system activity; process initiated by a standard system process.
+4672,233,,2026-04-01 19:18:17.261189+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,7064,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4728,234,,2026-04-01 19:18:17.589401+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7065,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4720,235,,2026-04-01 19:18:17.589563+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7066,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4732,236,,2026-04-01 19:18:17.591085+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Users,,,,,7067,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4722,237,,2026-04-01 19:18:17.598967+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7068,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4738,238,,2026-04-01 19:18:17.599010+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,defaultuser0,,,,,7069,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,239,,2026-04-01 19:18:17.601500+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrators,,,,,7070,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4781,240,,2026-04-01 19:18:17.601610+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7071,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,241,,2026-04-01 19:18:17.601618+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Administrators,,,,,7072,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,242,,2026-04-01 19:18:17.601875+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Users,,,,,7073,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4781,243,,2026-04-01 19:18:17.601982+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7074,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,244,,2026-04-01 19:18:17.601995+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Users,,,,,7075,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,245,,2026-04-01 19:18:17.602146+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guests,,,,,7076,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4781,246,,2026-04-01 19:18:17.602234+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,,,,,,7077,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,247,,2026-04-01 19:18:17.602240+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Guests,,,,,7078,0,No,Normal system activity; missing details and no indications of malicious behavior.
+4735,248,,2026-04-01 19:18:17.602375+00:00,,,,,,,,Security,,,,WIN-2RR949GCCSV$,Performance Monitor Users,,,,,7079,0,No,Normal system activity; missing details and no indications of malicious behavior.

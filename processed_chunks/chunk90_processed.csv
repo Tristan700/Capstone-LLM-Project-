@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4798,5960,,2026-04-01 18:11:29.329821+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6230,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5961,,2026-04-01 18:11:29.330200+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6231,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5962,,2026-04-01 18:11:29.331890+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6232,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5963,,2026-04-01 18:11:29.332182+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6233,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5964,,2026-04-01 18:11:29.332445+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6234,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5965,,2026-04-01 18:11:29.332722+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6235,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4624,5966,,2026-04-01 18:11:29.337488+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6236,0,Normal system activity; services.exe is a standard Windows process.
+4672,5967,,2026-04-01 18:11:29.337492+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6237,0,Normal system activity; SYSTEM user is a standard system account.
+5379,5968,,2026-04-01 18:11:29.556896+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6238,0,Normal system activity; no specific details provided.
+5379,5969,,2026-04-01 18:11:29.580713+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6239,0,Normal system activity; no specific details provided.
+5379,5970,,2026-04-01 18:11:29.580936+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6240,0,Normal system activity; no specific details provided.
+5379,5971,,2026-04-01 18:11:29.581253+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6241,0,Normal system activity; no specific details provided.
+5379,5972,,2026-04-01 18:11:29.584881+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6242,0,Normal system activity; no specific details provided.
+5379,5973,,2026-04-01 18:11:29.584927+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6243,0,Normal system activity; no specific details provided.
+5379,5974,,2026-04-01 18:11:29.585073+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6244,0,Normal system activity; no specific details provided.
+5379,5975,,2026-04-01 18:11:29.799068+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6245,0,Normal system activity; no specific details provided.
+5379,5976,,2026-04-01 18:11:29.799389+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6246,0,Normal system activity; no specific details provided.
+5379,5977,,2026-04-01 18:11:29.813148+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6247,0,Normal system activity; no specific details provided.
+5379,5978,,2026-04-01 18:11:29.813206+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6248,0,Normal system activity; no specific details provided.
+4624,5979,,2026-04-01 18:11:34.617239+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6249,0,Normal system activity; services.exe is a standard Windows process.
+4672,5980,,2026-04-01 18:11:34.617247+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6250,0,Normal system activity; SYSTEM user is a standard system account.
+5379,5981,,2026-04-01 18:11:35.041016+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6251,0,Normal system activity; no specific details provided.
+5379,5982,,2026-04-01 18:11:35.041065+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6252,0,Normal system activity; no specific details provided.
+5379,5983,,2026-04-01 18:11:35.041294+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6253,0,Normal system activity; no specific details provided.
+5379,5984,,2026-04-01 18:11:35.087206+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6254,0,Normal system activity; no specific details provided.
+5379,5985,,2026-04-01 18:11:35.087259+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6255,0,Normal system activity; no specific details provided.
+5379,5986,,2026-04-01 18:11:35.087498+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6256,0,Normal system activity; no specific details provided.
+5379,5987,,2026-04-01 18:11:35.158531+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6257,0,Normal system activity; no specific details provided.
+5379,5988,,2026-04-01 18:11:35.159000+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6258,0,Normal system activity; no specific details provided.
+5379,5989,,2026-04-01 18:11:35.161001+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6259,0,Normal system activity; no specific details provided.
+5379,5990,,2026-04-01 18:11:35.161055+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6260,0,Normal system activity; no specific details provided.
+5379,5991,,2026-04-01 18:11:35.286812+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6261,0,Normal system activity; no specific details provided.
+5379,5992,,2026-04-01 18:11:35.287271+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6262,0,Normal system activity; no specific details provided.
+5379,5993,,2026-04-01 18:11:35.290049+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6263,0,Normal system activity; no specific details provided.
+5379,5994,,2026-04-01 18:11:35.290771+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,NORMALVM$,,,,,,6264,0,Normal system activity; no specific details provided.
+4798,5995,,2026-04-01 18:11:35.922560+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Administrator,,,,,6265,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5996,,2026-04-01 18:11:35.922831+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,DefaultAccount,,,,,6266,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5997,,2026-04-01 18:11:35.923140+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,Guest,,,,,6267,0,Normal system activity; taskhostw.exe is a standard Windows process.
+4798,5998,,2026-04-01 18:11:35.923557+00:00,,,,,,,,Security,C:\Windows\System32\taskhostw.exe,,,NORMALVM$,pizza,,,,,6268,0,Normal system activity; taskhostw.exe is a standard Windows process.
+15,226,,2026-04-01 18:11:36.740061+00:00,,,,,,,,Appiclation,,,,,,,,,,6269,0,Normal system activity; no specific details provided.
+4624,5999,,2026-04-01 18:11:37.411753+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6270,0,Normal system activity; services.exe is a standard Windows process.
+4672,6000,,2026-04-01 18:11:37.411758+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6271,0,Normal system activity; SYSTEM user is a standard system account.
+44,676,,2026-04-01 18:11:37.760500+00:00,,,,,,,,System,,,,,,,,,,6272,0,Normal system activity; no specific details provided.
+16384,227,,2026-04-01 18:11:53.076006+00:00,,,,,,,,Appiclation,,,,,,,,,,6273,0,Normal system activity; no specific details provided.
+5058,6001,,2026-04-01 18:12:32.361324+00:00,,,,,%%2458,,,Security,,,,LOCAL SERVICE,,,,,,6274,0,Normal system activity; LOCAL SERVICE is a standard system account.
+5061,6002,,2026-04-01 18:12:32.361692+00:00,,,,,%%2480,,,Security,,,,LOCAL SERVICE,,,,,,6275,0,Normal system activity; LOCAL SERVICE is a standard system account.
+5059,6003,,2026-04-01 18:12:32.361942+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6276,0,Normal system activity; LOCAL SERVICE is a standard system account.
+5059,6004,,2026-04-01 18:12:32.364038+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6277,0,Normal system activity; LOCAL SERVICE is a standard system account.
+4738,6005,,2026-04-01 18:12:32.380608+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,6278,0,Normal system activity; no specific details provided.
+4648,6006,,2026-04-01 18:12:32.393440+00:00,,,0x0000000000000598,,,,,Security,,,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,,6279,12,High risk due to unusual username and local IP address.
+4624,6007,,2026-04-01 18:12:32.393475+00:00,,,0x0000000000000598,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,6280,12,High risk due to unusual username and local IP address.
+4624,6008,,2026-04-01 18:12:32.393484+00:00,,,0x0000000000000598,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\svchost.exe,,NORMALVM,6281,12,High risk due to unusual username and local IP address.
+4672,6009,,2026-04-01 18:12:32.393490+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,6282,12,High risk due to unusual username.
+5059,6010,,2026-04-01 18:12:32.402573+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6283,0,Normal system activity; LOCAL SERVICE is a standard system account.
+5059,6011,,2026-04-01 18:12:32.413128+00:00,,,,,%%2464,,,Security,,,,LOCAL SERVICE,,,,,,6284,0,Normal system activity; LOCAL SERVICE is a standard system account.
+7001,677,,2026-04-01 18:12:32.414026+00:00,,,,,,,,System,,,,,,,,,,6285,0,Normal system activity; no specific details provided.
+6003,228,,2026-04-01 18:12:32.441202+00:00,,,,,,,,Appiclation,,,,,,,,,,6286,0,Normal system activity; no specific details provided.
+4738,6012,,2026-04-01 18:12:32.457767+00:00,,,,,,,,Security,,,,NORMALVM$,pizza,,,,,6287,0,Normal system activity; no specific details provided.
+4648,6013,,2026-04-01 18:12:32.461012+00:00,,,0x00000000000002e8,,,,,Security,,,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,,6288,12,High risk due to unusual username and local IP address.
+4624,6014,,2026-04-01 18:12:32.461029+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,6289,12,High risk due to unusual username and local IP address.
+4624,6015,,2026-04-01 18:12:32.461039+00:00,,,0x00000000000002e8,,,,,Security,,Negotiate,-,NORMALVM$,pizzahuthacker@gmail.com,,C:\Windows\System32\lsass.exe,,NORMALVM,6290,12,High risk due to unusual username and local IP address.
+4672,6016,,2026-04-01 18:12:32.461040+00:00,,,,,,,,Security,,,,pizzahuthacker@gmail.com,,,,,,6291,12,High risk due to unusual username.
+4634,6017,,2026-04-01 18:12:32.461281+00:00,,,,,,,,Security,,,,,pizza,,,,,6292,0,Normal system activity; no specific details provided.
+4634,6018,,2026-04-01 18:12:32.462296+00:00,,,,,,,,Security,,,,,pizza,,,,,6293,0,Normal system activity; no specific details provided.
+4799,6019,,2026-04-01 18:12:32.620050+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,6294,0,Normal system activity; svchost.exe is a standard Windows process.
+4624,6020,,2026-04-01 18:12:32.697680+00:00,,,0x00000000000002e0,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,6295,0,Normal system activity; services.exe is a standard Windows process.
+4672,6021,,2026-04-01 18:12:32.697683+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,6296,0,Normal system activity; SYSTEM user is a standard system account.
+5379,6022,,2026-04-01 18:12:32.737494+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6297,0,Normal system activity; no specific details provided.
+5379,6023,,2026-04-01 18:12:32.737778+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6298,0,Normal system activity; no specific details provided.
+5379,6024,,2026-04-01 18:12:32.737823+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6299,0,Normal system activity; no specific details provided.
+6000,229,,2026-04-01 18:12:32.792021+00:00,,,,,,,,Appiclation,,,,,,,,,,6300,0,Normal system activity; no specific details provided.
+5379,6025,,2026-04-01 18:12:33.539139+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6301,0,Normal system activity; no specific details provided.
+5379,6026,,2026-04-01 18:12:33.539572+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6302,0,Normal system activity; no specific details provided.
+5379,6027,,2026-04-01 18:12:33.539806+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6303,0,Normal system activity; no specific details provided.
+5379,6028,,2026-04-01 18:12:34.443573+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6304,0,Normal system activity; no specific details provided.
+5379,6029,,2026-04-01 18:12:34.479975+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6305,0,Normal system activity; no specific details provided.
+5379,6030,,2026-04-01 18:12:34.522604+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6306,0,Normal system activity; no specific details provided.
+5379,6031,,2026-04-01 18:12:34.523006+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6307,0,Normal system activity; no specific details provided.
+5379,6032,,2026-04-01 18:12:34.528772+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6308,0,Normal system activity; no specific details provided.
+5379,6033,,2026-04-01 18:12:34.683596+00:00,,,,,,,2026-04-01 18:09:10.508995+00:00,Security,,,,pizza,,,,,,6309,0,Normal system activity; no specific details provided.
