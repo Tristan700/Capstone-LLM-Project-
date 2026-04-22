@@ -1,0 +1,31 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID
+-,2026-04-20 18:26:19.811625+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly,,1540
+pizza,2026-04-20 18:26:20.920019+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,\\?\C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,1541
+,2026-04-20 18:26:21.279272+00:00,pizza,4689,,,C:\Windows\System32\SecurityHealthHost.exe,1542
+,2026-04-20 18:26:21.511292+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1543
+-,2026-04-20 18:26:21.675148+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=chrome.mojom.UtilWin --lang=en-US --service-sandbox-type=none --message-loop-type-ui --video-capture-use-gpu-memory-buffer --skip-read-main-dll --metrics-shmem-handle=7508,i,6999191344363125113,9486227356941251727,524288 --field-trial-handle=2580,i,16363140994783023232,2662048548580896011,262144 --variations-seed-version --pseudonymization-salt-handle=2584,i,16317294031186864908,840205868831341560,4 --trace-process-track-uuid=3190708997556373682 --mojo-platform-channel-handle=7532 /prefetch:14",,1544
+,2026-04-20 18:26:21.890415+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1545
+,2026-04-20 18:26:22.036501+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1546
+DESKTOP-A3EGFSV$,2026-04-20 18:26:22.159197+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,1547
+Administrator,2026-04-20 18:26:22.424252+00:00,DESKTOP-A3EGFSV$,4798,,,,1548
+DefaultAccount,2026-04-20 18:26:22.425404+00:00,DESKTOP-A3EGFSV$,4798,,,,1549
+global,2026-04-20 18:26:22.425766+00:00,DESKTOP-A3EGFSV$,4798,,,,1550
+Guest,2026-04-20 18:26:22.426125+00:00,DESKTOP-A3EGFSV$,4798,,,,1551
+pizza,2026-04-20 18:26:22.426594+00:00,DESKTOP-A3EGFSV$,4798,,,,1552
+,2026-04-20 18:26:22.449530+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\taskhostw.exe,1553
+pizza,2026-04-20 18:26:22.623512+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,\\?\C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,1554
+,2026-04-20 18:26:22.688543+00:00,pizza,4689,,,C:\Windows\System32\SecurityHealthHost.exe,1555
+,2026-04-20 18:26:24.941860+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1556
+,2026-04-20 18:26:25.277773+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1557
+SYSTEM,2026-04-20 18:26:30.430105+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1558
+,2026-04-20 18:26:30.430115+00:00,SYSTEM,4672,,,,1559
+-,2026-04-20 18:26:30.431932+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\directxdatabaseupdater.exe -DatabaseComplete {C0B92A30-CC61-451A-A7FC-BD43EE77CECB},,1560
+SYSTEM,2026-04-20 18:26:30.455172+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1561
+,2026-04-20 18:26:30.455177+00:00,SYSTEM,4672,,,,1562
+-,2026-04-20 18:26:30.678793+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\directxdatabaseupdater.exe,C:\Windows\System32\Dism\dismhost.exe {696962A3-1809-4785-9912-1BC6796C7AA1},,1563
+SYSTEM,2026-04-20 18:26:30.740849+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1564
+,2026-04-20 18:26:30.740854+00:00,SYSTEM,4672,,,,1565
+-,2026-04-20 18:26:30.742781+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\servicing\TrustedInstaller.exe,,1566
+-,2026-04-20 18:26:30.789238+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe -Embedding,,1567
+,2026-04-20 18:26:35.364809+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\Dism\DismHost.exe,1568
+,2026-04-20 18:26:35.374277+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\directxdatabaseupdater.exe,1569

@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+718,12,Suspicious user login attempt
+719,12,Suspicious user login success
+720,12,Suspicious user login success
+721,12,Suspicious special privileges assigned
+723,12,Suspicious user login attempt

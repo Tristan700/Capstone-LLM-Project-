@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+2,10,Security log cleared
+3,9,Audit log cleared
+6,10,System log cleared
+13,10,Application log cleared
+15,5,Unusual Edge process parameters

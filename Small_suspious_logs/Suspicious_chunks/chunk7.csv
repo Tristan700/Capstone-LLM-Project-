@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID
+,2026-04-20 18:08:22.184929+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,420
+-,2026-04-20 18:08:22.190367+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell -NoProfile -Command ""[bool](Get-CimInstance -Query 'SELECT * FROM Win32_UserAccount WHERE LocalAccount = TRUE AND SID LIKE ''S-1-5-21-%-501''' | Where-Object -Property Disabled)""",,421
+-,2026-04-20 18:08:22.197899+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,422
+Administrator,2026-04-20 18:08:23.687996+00:00,DESKTOP-A3EGFSV$,4798,,,,423
+DefaultAccount,2026-04-20 18:08:23.688280+00:00,DESKTOP-A3EGFSV$,4798,,,,424
+Guest,2026-04-20 18:08:23.688456+00:00,DESKTOP-A3EGFSV$,4798,,,,425
+pizza,2026-04-20 18:08:23.688648+00:00,DESKTOP-A3EGFSV$,4798,,,,426
+WDAGUtilityAccount,2026-04-20 18:08:23.688913+00:00,DESKTOP-A3EGFSV$,4798,,,,427
+,2026-04-20 18:08:23.761965+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,428
+,2026-04-20 18:08:23.763880+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,429
+-,2026-04-20 18:08:23.772396+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,,430
+-,2026-04-20 18:08:23.779457+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,431
+-,2026-04-20 18:08:23.812777+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,,432
+,2026-04-20 18:08:23.839823+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\net1.exe,433
+,2026-04-20 18:08:23.841015+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\net.exe,434
+,2026-04-20 18:08:23.842255+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,435
+-,2026-04-20 18:08:23.842617+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,,436
+-,2026-04-20 18:08:23.846731+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,437
+-,2026-04-20 18:08:23.869003+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,,438
+,2026-04-20 18:08:23.881788+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\net1.exe,439
+,2026-04-20 18:08:23.882887+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\net.exe,440
+,2026-04-20 18:08:23.884275+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,441
+-,2026-04-20 18:08:23.889462+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticetext,,442
+-,2026-04-20 18:08:23.897758+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,443
+,2026-04-20 18:08:23.921526+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\reg.exe,444
+,2026-04-20 18:08:23.922468+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,445
+-,2026-04-20 18:08:23.923100+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticecaption,,446
+-,2026-04-20 18:08:23.930019+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,447
+,2026-04-20 18:08:23.950407+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\reg.exe,448
+,2026-04-20 18:08:23.951250+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,449
+-,2026-04-20 18:08:23.970097+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Credential Validation""",,450
+-,2026-04-20 18:08:23.976099+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,451
+,2026-04-20 18:08:24.014397+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,452
+,2026-04-20 18:08:24.015806+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,453
+-,2026-04-20 18:08:24.015997+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Application Group Management""",,454
+-,2026-04-20 18:08:24.021326+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,455
+,2026-04-20 18:08:24.045202+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,456
+,2026-04-20 18:08:24.046518+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,457
+-,2026-04-20 18:08:24.046886+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security Group Management""",,458
+-,2026-04-20 18:08:24.051662+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,459
+,2026-04-20 18:08:24.076420+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,460
+,2026-04-20 18:08:24.077599+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,461
+-,2026-04-20 18:08:24.077799+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""User Account Management""",,462
+-,2026-04-20 18:08:24.082394+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,463
+,2026-04-20 18:08:24.105934+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,464
+,2026-04-20 18:08:24.107038+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,465
+-,2026-04-20 18:08:24.107437+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Plug and Play Events""",,466
+-,2026-04-20 18:08:24.111839+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,467
+,2026-04-20 18:08:24.138189+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,468
+,2026-04-20 18:08:24.139370+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,469
+-,2026-04-20 18:08:24.139874+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Process Creation""",,470
+-,2026-04-20 18:08:24.144562+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,471
+,2026-04-20 18:08:24.169048+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,472
+,2026-04-20 18:08:24.170288+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,473
+-,2026-04-20 18:08:24.170536+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Account Lockout""",,474
+-,2026-04-20 18:08:24.175404+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,475
+,2026-04-20 18:08:24.200132+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,476
+,2026-04-20 18:08:24.201307+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,477
+-,2026-04-20 18:08:24.201664+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Group Membership""",,478
+-,2026-04-20 18:08:24.207176+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,479
+,2026-04-20 18:08:24.231876+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,480
+,2026-04-20 18:08:24.233131+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,481
+-,2026-04-20 18:08:24.233339+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Logoff""",,482
+-,2026-04-20 18:08:24.237991+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,483
+,2026-04-20 18:08:24.262432+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,484
+,2026-04-20 18:08:24.263697+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,485
+-,2026-04-20 18:08:24.263887+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Logon""",,486
+-,2026-04-20 18:08:24.268827+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,487
+,2026-04-20 18:08:24.292303+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,488
+,2026-04-20 18:08:24.293385+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,489
+-,2026-04-20 18:08:24.293932+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Other Logon/Logoff Events""",,490
+-,2026-04-20 18:08:24.298447+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,491
+,2026-04-20 18:08:24.321243+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,492
+,2026-04-20 18:08:24.322327+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,493
+-,2026-04-20 18:08:24.322716+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Special Logon""",,494
+-,2026-04-20 18:08:24.328297+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,495
+,2026-04-20 18:08:24.351858+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SysWOW64\auditpol.exe,496
+,2026-04-20 18:08:24.352926+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,497
+-,2026-04-20 18:08:24.353371+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Detailed File Share""",,498
+-,2026-04-20 18:08:24.357937+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,499

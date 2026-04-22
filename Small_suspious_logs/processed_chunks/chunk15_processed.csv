@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID,Suspicion_Score,summary
+,2026-04-20 18:17:27.008036+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,980,12,Execution of net1.exe
+,2026-04-20 18:17:27.009851+00:00,pizza,4689,,,C:\Windows\System32\net.exe,981,12,Execution of net.exe
+-,2026-04-20 18:17:36.554178+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user system44 a /add",,982,10,User addition command via net.exe
+-,2026-04-20 18:17:36.562893+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user system44 a /add,,983,10,User addition command via net1
+,2026-04-20 18:17:36.573536+00:00,pizza,4728,,,,984,0,
+system44,2026-04-20 18:17:36.573948+00:00,pizza,4720,,,,985,8,User account creation
+system44,2026-04-20 18:17:36.596107+00:00,pizza,4722,,,,986,6,User account enabled
+system44,2026-04-20 18:17:36.596176+00:00,pizza,4738,,,,987,4,User account modified
+system44,2026-04-20 18:17:36.596188+00:00,pizza,4724,,,,988,6,Password reset attempt
+Users,2026-04-20 18:17:36.601208+00:00,pizza,4732,,,,989,6,Group membership added
+,2026-04-20 18:17:36.606367+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,990,12,Execution of net1.exe
+,2026-04-20 18:17:36.607645+00:00,pizza,4689,,,C:\Windows\System32\net.exe,991,12,Execution of net.exe
+-,2026-04-20 18:17:42.778080+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\usoclient.exe"" StartWork",,992,2,Normal system activity
+-,2026-04-20 18:17:42.815117+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,993,2,Normal system activity
+SYSTEM,2026-04-20 18:17:42.908543+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,994,2,Normal system activity
+,2026-04-20 18:17:42.908548+00:00,SYSTEM,4672,,,,995,0,
+-,2026-04-20 18:17:42.910275+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,996,2,Normal system activity
+,2026-04-20 18:17:43.035944+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\UsoClient.exe,997,2,Normal system activity
+pizza,2026-04-20 18:17:43.109514+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,998,2,Normal system activity
+pizza,2026-04-20 18:17:43.187904+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,999,2,Normal system activity
+,2026-04-20 18:17:43.263399+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1000,2,Normal system activity
+,2026-04-20 18:17:48.836346+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1001,2,Normal system activity
+,2026-04-20 18:17:48.837250+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1002,2,Normal system activity
+-,2026-04-20 18:17:50.297600+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators system44 /add",,1003,10,Admin group addition via net.exe
+-,2026-04-20 18:17:50.308010+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators system44 /add,,1004,10,Admin group addition via net1
+Administrators,2026-04-20 18:17:50.318979+00:00,pizza,4732,,,,1005,8,Group membership added
+,2026-04-20 18:17:50.324362+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,1006,12,Execution of net1.exe
+,2026-04-20 18:17:50.325777+00:00,pizza,4689,,,C:\Windows\System32\net.exe,1007,12,Execution of net.exe
+pizza,2026-04-20 18:17:51.465363+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,1008,2,Normal system activity
+,2026-04-20 18:17:51.738279+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1009,2,Normal system activity
+,2026-04-20 18:18:00.996099+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1010,2,Normal system activity
+-,2026-04-20 18:18:01.350756+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\runas.exe"" /user:system cm",,1011,10,Privileged command execution attempt
+pizza,2026-04-20 18:18:05.907516+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup,,1012,2,Normal system activity
+-,2026-04-20 18:18:10.243958+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" SignatureUpdate -ScheduleJob -RestrictPrivileges",,1013,2,Normal system activity
+-,2026-04-20 18:18:10.259533+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1014,2,Normal system activity
+-,2026-04-20 18:18:10.348455+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" SignaturesUpdateService -ScheduleJob -UnmanagedUpdate",,1015,2,Normal system activity
+-,2026-04-20 18:18:10.353157+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1016,2,Normal system activity
+-,2026-04-20 18:18:12.726048+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --type=gpu-process --disable-gpu-sandbox --use-gl=disabled --gpu-vendor-id=5140 --gpu-device-id=140 --gpu-sub-system-id=0 --gpu-revision=0 --gpu-driver-version=10.0.26100.8246 --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8246) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 147.0.3912.72)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.5604.40.0 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADoAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --ram-no-pressure-read-main-dll --metrics-shmem-handle=332,i,8765561385685814905,10573165179831114950,262144 --field-trial-handle=1968,i,9790246114753558327,7603887837585167924,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1972,i,8694844730559506556,13159710852364223709,4 --trace-process-track-uuid=3190708991934122588 --mojo-platform-channel-handle=4560 /prefetch:10 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,1017,2,Normal system activity
+,2026-04-20 18:18:12.829651+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,1018,2,Normal system activity
+SYSTEM,2026-04-20 18:18:17.143978+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1019,2,Normal system activity
+,2026-04-20 18:18:17.143984+00:00,SYSTEM,4672,,,,1020,0,
+-,2026-04-20 18:18:17.145000+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s seclogon,,1021,2,Normal system activity
+system,2026-04-20 18:18:17.304523+00:00,,4776,,,,1022,0,
+system,2026-04-20 18:18:17.304659+00:00,pizza,4625,,,C:\Windows\System32\svchost.exe,1023,6,Failed login attempt
+,2026-04-20 18:18:17.307957+00:00,pizza,4689,,,C:\Windows\System32\runas.exe,1024,2,Normal system activity
+,2026-04-20 18:18:17.361145+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\SearchProtocolHost.exe,1025,2,Normal system activity
+pizza,2026-04-20 18:18:19.861238+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B},,1026,2,Normal system activity
+-,2026-04-20 18:18:20.356741+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=gpu-process --disable-gpu-sandbox --use-gl=disabled --gpu-vendor-id=5140 --gpu-device-id=140 --gpu-sub-system-id=0 --gpu-revision=0 --gpu-driver-version=10.0.26100.8246 --gpu-preferences=SAAAAAAAAADoAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --ram-no-pressure-read-main-dll --metrics-shmem-handle=3920,i,4727317091370951582,8476468401154770887,262144 --field-trial-handle=2252,i,3616932261551619570,7225375466808652926,262144 --variations-seed-version --pseudonymization-salt-handle=2256,i,1669410902296250306,8362656500808665194,4 --trace-process-track-uuid=3190709009737917719 --mojo-platform-channel-handle=5232 /prefetch:10",,1027,2,Normal system activity
+,2026-04-20 18:18:20.442928+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1028,2,Normal system activity
+,2026-04-20 18:18:21.166189+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1029,2,Normal system activity
+pizza,2026-04-20 18:18:21.485161+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.Accounts.AppXqe94epy97qwa6w3j6w132e8zvcs117nd.mca",,1030,2,Normal system activity
+pizza,2026-04-20 18:18:21.501804+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXpybpk6fj2fe0gb0jan49e6dncngk3pa1.mca",,1031,2,Normal system activity
+pizza,2026-04-20 18:18:21.505648+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.IrisService.AppXwt29n3t7x7q6fgyrrbbqxwzkqjfjaw4y.mca",,1032,2,Normal system activity
+LOCAL SERVICE,2026-04-20 18:18:21.616879+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,1033,2,Normal system activity
+SYSTEM,2026-04-20 18:18:21.717638+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1034,2,Normal system activity
+,2026-04-20 18:18:21.717642+00:00,SYSTEM,4672,,,,1035,0,
+-,2026-04-20 18:18:21.718719+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s NetSetupSvc,,1036,2,Normal system activity
+pizza,2026-04-20 18:18:22.281084+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1037,2,Normal system activity
+pizza,2026-04-20 18:18:22.686214+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.26.509.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe"" -Embedding",,1038,2,Normal system activity
+-,2026-04-20 18:18:22.807953+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\runas.exe"" /user:system cmd",,1039,10,Privileged command execution attempt
+,2026-04-20 18:18:23.282103+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1040,2,Normal system activity
+,2026-04-20 18:18:23.564730+00:00,pizza,5382,,,,1041,0,
+,2026-04-20 18:18:23.566170+00:00,pizza,5382,,,,1042,0,
+pizza,2026-04-20 18:18:23.674608+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,1043,2,Normal system activity
+pizza,2026-04-20 18:18:23.867054+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1044,2,Normal system activity
+pizza,2026-04-20 18:18:24.595392+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1045,2,Normal system activity
+pizza,2026-04-20 18:18:24.652029+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1046,2,Normal system activity
+,2026-04-20 18:18:24.707676+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1047,2,Normal system activity
+,2026-04-20 18:18:24.915499+00:00,pizza,4689,,,C:\Windows\System32\dllhost.exe,1048,2,Normal system activity
+system,2026-04-20 18:18:25.097557+00:00,,4776,,,,1049,0,
+system,2026-04-20 18:18:25.097626+00:00,pizza,4625,,,C:\Windows\System32\svchost.exe,1050,6,Failed login attempt
+,2026-04-20 18:18:25.100187+00:00,pizza,4689,,,C:\Windows\System32\runas.exe,1051,2,Normal system activity
+,2026-04-20 18:18:25.986208+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1052,2,Normal system activity
+-,2026-04-20 18:18:32.427881+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\runas.exe"" /user:system44 cmd",,1053,10,Privileged command execution attempt
+system44,2026-04-20 18:18:35.654427+00:00,,4776,,,,1054,0,
+system44,2026-04-20 18:18:35.655071+00:00,DESKTOP-A3EGFSV$,4798,,,,1055,0,
+system44,2026-04-20 18:18:35.657154+00:00,pizza,4648,,,C:\Windows\System32\svchost.exe,1056,6,Explicit credentials used
+system44,2026-04-20 18:18:35.657167+00:00,pizza,4624,,,C:\Windows\System32\svchost.exe,1057,6,User login successful
+system44,2026-04-20 18:18:35.657175+00:00,pizza,4624,,,C:\Windows\System32\svchost.exe,1058,6,User login successful
+,2026-04-20 18:18:35.657179+00:00,system44,4672,,,,1059,0,

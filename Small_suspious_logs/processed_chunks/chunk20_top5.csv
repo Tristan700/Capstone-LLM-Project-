@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+1347,12,Suspicious runas with admin privileges
+1361,12,Suspicious conhost forced execution
+1363,12,Suspicious runas with admin privileges
+1367,12,Suspicious scheduled task creation
+1369,12,Suspicious scheduled task deletion

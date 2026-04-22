@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID,Suspicion_Score,summary
+,2026-04-20 18:19:41.897390+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1190,0,
+-,2026-04-20 18:19:41.897528+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll""",,1191,3,Installing Windows Defender manifest
+-,2026-04-20 18:19:41.900509+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1192,3,Conhost forced version execution
+,2026-04-20 18:19:41.965427+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1193,0,
+,2026-04-20 18:19:41.968481+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1194,0,
+-,2026-04-20 18:19:41.970648+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man""",,1195,3,Uninstalling Windows Defender manifest
+-,2026-04-20 18:19:41.973156+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1196,3,Conhost forced version execution
+,2026-04-20 18:19:42.010704+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1197,0,
+,2026-04-20 18:19:42.011921+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1198,0,
+-,2026-04-20 18:19:42.012577+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",,1199,3,Installing Windows Defender manifest
+-,2026-04-20 18:19:42.015165+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1200,3,Conhost forced version execution
+,2026-04-20 18:19:42.074080+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1201,0,
+,2026-04-20 18:19:42.075394+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1202,0,
+-,2026-04-20 18:19:42.077044+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man""",,1203,3,Uninstalling Windows Defender manifest
+-,2026-04-20 18:19:42.079546+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1204,3,Conhost forced version execution
+,2026-04-20 18:19:42.151978+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1205,0,
+,2026-04-20 18:19:42.153402+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1206,0,
+-,2026-04-20 18:19:42.153646+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll""",,1207,3,Installing Windows Defender manifest
+-,2026-04-20 18:19:42.156563+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1208,3,Conhost forced version execution
+,2026-04-20 18:19:42.215811+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1209,0,
+,2026-04-20 18:19:42.217339+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1210,0,
+-,2026-04-20 18:19:42.218798+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man""",,1211,3,Uninstalling Windows Defender manifest
+-,2026-04-20 18:19:42.221577+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1212,3,Conhost forced version execution
+,2026-04-20 18:19:42.373041+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1213,0,
+-,2026-04-20 18:19:42.375019+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll""",,1214,3,Installing Windows Defender manifest
+,2026-04-20 18:19:42.375340+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1215,0,
+-,2026-04-20 18:19:42.378447+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1216,3,Conhost forced version execution
+,2026-04-20 18:19:42.440834+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1217,0,
+,2026-04-20 18:19:42.442568+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1218,0,
+-,2026-04-20 18:19:42.487322+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" -EnableService",,1219,3,Enabling Windows Defender service
+-,2026-04-20 18:19:42.491413+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1220,3,Conhost forced version execution
+,2026-04-20 18:19:42.529856+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,1221,0,
+,2026-04-20 18:19:42.533144+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1222,0,
+SYSTEM,2026-04-20 18:19:43.864384+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1223,2,SYSTEM user logged in
+,2026-04-20 18:19:43.864389+00:00,SYSTEM,4672,,,,1224,2,SYSTEM granted special privileges
+-,2026-04-20 18:19:43.865677+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,,1225,3,Service execution command
+,2026-04-20 18:19:51.151482+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SystemTemp\077AD621-EB68-41C1-A06D-B57D2B5E1088\MpSigStub.exe,1226,12,Suspicious executable in SystemTemp
+,2026-04-20 18:19:51.207081+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\SoftwareDistribution\Download\Install\UpdatePlatform.amd64fre.exe,1227,12,Suspicious executable in SoftwareDistribution
+,2026-04-20 18:19:51.245665+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\UUS\Packages\Preview\amd64\wuaucltcore.exe,1228,12,Suspicious executable in UUS Packages
+,2026-04-20 18:19:51.283825+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,1229,0,
+LOCAL SERVICE,2026-04-20 18:19:51.288198+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",,1230,3,Service execution command
+,2026-04-20 18:19:51.288273+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1231,0,
+,2026-04-20 18:19:53.609713+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1232,0,
+,2026-04-20 18:19:58.785284+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1233,0,
+,2026-04-20 18:19:59.940138+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,1234,12,Suspicious executable in UUS Packages
+,2026-04-20 18:20:02.469902+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,1235,0,
+,2026-04-20 18:20:02.473886+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1236,0,
+-,2026-04-20 18:20:07.525867+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly,,1237,3,Task registration command
+pizza,2026-04-20 18:20:07.608732+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,\\?\C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding,,1238,3,SecurityHealthHost execution
+pizza,2026-04-20 18:20:07.759777+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1239,3,BackgroundTaskHost execution
+,2026-04-20 18:20:07.876188+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1240,0,
+,2026-04-20 18:20:07.890940+00:00,pizza,4689,,,C:\Windows\System32\SecurityHealthHost.exe,1241,0,
+Administrator,2026-04-20 18:20:08.012997+00:00,DESKTOP-A3EGFSV$,4798,,,,1242,2,User account management event
+DefaultAccount,2026-04-20 18:20:08.013962+00:00,DESKTOP-A3EGFSV$,4798,,,,1243,2,User account management event
+Guest,2026-04-20 18:20:08.014296+00:00,DESKTOP-A3EGFSV$,4798,,,,1244,2,User account management event
+pizza,2026-04-20 18:20:08.014727+00:00,DESKTOP-A3EGFSV$,4798,,,,1245,2,User account management event
+Administrator,2026-04-20 18:20:08.016821+00:00,DESKTOP-A3EGFSV$,4798,,,,1246,2,User account management event
+DefaultAccount,2026-04-20 18:20:08.017189+00:00,DESKTOP-A3EGFSV$,4798,,,,1247,2,User account management event
+Guest,2026-04-20 18:20:08.017551+00:00,DESKTOP-A3EGFSV$,4798,,,,1248,2,User account management event
+pizza,2026-04-20 18:20:08.017885+00:00,DESKTOP-A3EGFSV$,4798,,,,1249,2,User account management event
+-,2026-04-20 18:20:08.344797+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,1250,3,MoUsoCoreWorker execution
+SYSTEM,2026-04-20 18:20:08.440157+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1251,2,SYSTEM user logged in
+,2026-04-20 18:20:08.440163+00:00,SYSTEM,4672,,,,1252,2,SYSTEM granted special privileges
+-,2026-04-20 18:20:08.441828+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,1253,3,Service execution command
+pizza,2026-04-20 18:20:08.625587+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1254,3,BackgroundTaskHost execution
+pizza,2026-04-20 18:20:08.687078+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1255,3,RuntimeBroker execution
+,2026-04-20 18:20:08.752056+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1256,0,
+,2026-04-20 18:20:11.698933+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1257,0,
+Administrator,2026-04-20 18:20:13.456327+00:00,DESKTOP-A3EGFSV$,4798,,,,1258,2,User account management event
+DefaultAccount,2026-04-20 18:20:13.456642+00:00,DESKTOP-A3EGFSV$,4798,,,,1259,2,User account management event
+Guest,2026-04-20 18:20:13.457066+00:00,DESKTOP-A3EGFSV$,4798,,,,1260,2,User account management event
+pizza,2026-04-20 18:20:13.457415+00:00,DESKTOP-A3EGFSV$,4798,,,,1261,2,User account management event
+,2026-04-20 18:20:13.475956+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\taskhostw.exe,1262,0,
+,2026-04-20 18:20:13.518440+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\SearchFilterHost.exe,1263,0,
+,2026-04-20 18:20:13.527048+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\SearchFilterHost.exe,1264,0,
+pizza,2026-04-20 18:20:16.039593+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-659606535-1042573559-2797446579-10016_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-659606535-1042573559-2797446579-10016 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",,1265,3,SearchProtocolHost execution
+,2026-04-20 18:20:20.978012+00:00,pizza,4689,,,C:\Windows\System32\SearchProtocolHost.exe,1266,0,
+,2026-04-20 18:20:26.624989+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\SearchProtocolHost.exe,1267,0,
+,2026-04-20 18:20:53.494802+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1268,0,
+-,2026-04-20 18:20:57.577251+00:00,system44,4688,C:\Windows\System32\cmd.exe,runas  /user:Administrator cmd.exe ,,1269,9,Administrator privilege escalation attempt

@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID
+-,2026-04-20 18:13:46.952950+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,700
+-,2026-04-20 18:13:49.667988+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,701
+-,2026-04-20 18:13:51.822079+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,702
+-,2026-04-20 18:13:53.671764+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,703
+-,2026-04-20 18:13:55.684879+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,704
+,2026-04-20 18:14:07.989149+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,705
+,2026-04-20 18:14:13.657448+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\SearchProtocolHost.exe,706
+-,2026-04-20 18:14:17.271673+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\usoclient.exe"" StartWork",,707
+-,2026-04-20 18:14:17.299431+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,708
+SYSTEM,2026-04-20 18:14:17.383083+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,709
+,2026-04-20 18:14:17.383089+00:00,SYSTEM,4672,,,,710
+-,2026-04-20 18:14:17.385206+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,711
+,2026-04-20 18:14:17.496466+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\UsoClient.exe,712
+,2026-04-20 18:14:23.303652+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,713
+,2026-04-20 18:14:26.505512+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,714
+,2026-04-20 18:15:17.695173+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,715
+,2026-04-20 18:15:18.816109+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,716
+pizza,2026-04-20 18:16:05.120831+00:00,DESKTOP-A3EGFSV$,4738,,,,717
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.137135+00:00,DESKTOP-A3EGFSV$,4648,,,C:\Windows\System32\svchost.exe,718
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.137163+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\svchost.exe,719
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.137177+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\svchost.exe,720
+,2026-04-20 18:16:05.137182+00:00,pizzahuthacker@gmail.com,4672,,,,721
+pizza,2026-04-20 18:16:05.152466+00:00,DESKTOP-A3EGFSV$,4738,,,,722
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.170149+00:00,DESKTOP-A3EGFSV$,4648,,,C:\Windows\System32\lsass.exe,723
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.170170+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\lsass.exe,724
+pizzahuthacker@gmail.com,2026-04-20 18:16:05.170179+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\lsass.exe,725
+,2026-04-20 18:16:05.170185+00:00,pizzahuthacker@gmail.com,4672,,,,726
+pizza,2026-04-20 18:16:05.170437+00:00,,4634,,,,727
+pizza,2026-04-20 18:16:05.175760+00:00,,4634,,,,728
+LOCAL SERVICE,2026-04-20 18:16:05.188797+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k WebThreatDefense -p -s webthreatdefsvc,,729
+Administrators,2026-04-20 18:16:05.420303+00:00,DESKTOP-A3EGFSV$,4799,,,,730
+SYSTEM,2026-04-20 18:16:05.475826+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,731
+,2026-04-20 18:16:05.475832+00:00,SYSTEM,4672,,,,732
+-,2026-04-20 18:16:05.478058+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k CameraMonitor,,733
+-,2026-04-20 18:16:05.734571+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,734
+pizza,2026-04-20 18:16:05.747368+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,sihost.exe,,735
+pizza,2026-04-20 18:16:05.761711+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc,,736
+pizza,2026-04-20 18:16:05.825693+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc,,737
+pizza,2026-04-20 18:16:05.859276+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService,,738
+pizza,2026-04-20 18:16:05.951477+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},,739
+pizza,2026-04-20 18:16:05.974024+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,740
+-,2026-04-20 18:16:06.024345+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,741
+pizza,2026-04-20 18:16:06.036865+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,742
+,2026-04-20 18:16:06.263882+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,743
+pizza,2026-04-20 18:16:06.347738+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\winlogon.exe,C:\WINDOWS\system32\userinit.exe,,744
+-,2026-04-20 18:16:06.367567+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",,745
+-,2026-04-20 18:16:06.463034+00:00,pizza,4688,C:\Windows\System32\userinit.exe,C:\WINDOWS\Explorer.EXE,,746
+-,2026-04-20 18:16:06.485729+00:00,pizza,4688,C:\Windows\System32\sihost.exe,"""C:\Windows\System32\ShellHost.exe""",,747
+,2026-04-20 18:16:06.640093+00:00,pizza,5058,,,,748
+,2026-04-20 18:16:06.640553+00:00,pizza,5061,,,,749
+,2026-04-20 18:16:06.641382+00:00,pizza,5059,,,,750
+pizza,2026-04-20 18:16:07.477615+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc,,751
+SYSTEM,2026-04-20 18:16:07.553553+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,752
+,2026-04-20 18:16:07.553558+00:00,SYSTEM,4672,,,,753
+-,2026-04-20 18:16:07.555185+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo,,754
+,2026-04-20 18:16:07.573946+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,755
+pizza,2026-04-20 18:16:08.169516+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\sihost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"" /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp",,756
+pizza,2026-04-20 18:16:08.478214+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,757
+pizza,2026-04-20 18:16:08.827068+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{69B7FE84-6361-4423-B948-1D64820B1E96},,758
+pizza,2026-04-20 18:16:09.076765+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"" -ServerName:FullTrustApp.AppXykjsye98af63ez2annt9djke8trg8stn.mca",,759
+pizza,2026-04-20 18:16:09.182074+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca",,760
+pizza,2026-04-20 18:16:09.698980+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,761
+pizza,2026-04-20 18:16:10.101851+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc,,762
+pizza,2026-04-20 18:16:10.428778+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.7600.30.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe"" -ServerName:Microsoft.Windows.DashboardServer",,763
+-,2026-04-20 18:16:11.416962+00:00,pizza,4688,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --embedded-browser-webview=1 --webview-exe-name=SearchHost.exe --webview-exe-version=2126.5604.40.0 --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --noerrdialogs --disable-features=msSmartScreenProtection --edge-webview-enable-mojo-ipcz --enable-features=msEdgeFluentOverlayScrollbar --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8246) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 147.0.3912.72)"" --lang=en-US --mojo-named-platform-channel-pipe=5352.5844.8146567875106979667 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,764
+-,2026-04-20 18:16:12.028435+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --type=crashpad-handler --user-data-dir=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView /prefetch:4 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Crashpad --metrics-dir=C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=147.0.7727.102 ""--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --annotation=plat=Win64 ""--annotation=prod=Edge WebView2"" --annotation=ver=147.0.3912.72 --initial-client-data=0x16c,0x170,0x174,0x110,0x17c,0x7ff8f9c80d58,0x7ff8f9c80d64,0x7ff8f9c80d70",,765
+pizza,2026-04-20 18:16:12.147593+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SoftLandingTask\SoftLandingTask.exe"" -Embedding",,766
+,2026-04-20 18:16:12.225590+00:00,pizza,4695,,,,767
+pizza,2026-04-20 18:16:12.309811+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXe9cvj1thv1hmcw0cs98xm3r97tyzy2xs.mca",,768
+pizza,2026-04-20 18:16:12.363861+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:SettingsUXHostApp.AppXbcemfss8fnwzwnsjec8qzh0c3jnkn6x0.mca",,769
+,2026-04-20 18:16:12.375938+00:00,pizza,4689,,,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SoftLandingTask\SoftLandingTask.exe,770
+pizza,2026-04-20 18:16:12.377056+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca",,771
+pizza,2026-04-20 18:16:12.377106+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{D4872B74-3AFC-47CD-B8A2-9E4F998539BC},,772
+,2026-04-20 18:16:12.624367+00:00,LOCAL SERVICE,5058,,,,773
+,2026-04-20 18:16:12.625456+00:00,LOCAL SERVICE,5061,,,,774
+,2026-04-20 18:16:12.631144+00:00,LOCAL SERVICE,5059,,,,775
+,2026-04-20 18:16:12.713425+00:00,pizza,4695,,,,776
+,2026-04-20 18:16:12.713890+00:00,pizza,4695,,,,777
+-,2026-04-20 18:16:12.963842+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --type=gpu-process --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8246) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 147.0.3912.72)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.5604.40.0 --embedded-browser-webview=1 --gpu-preferences=SAAAAAAAAADgAAAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=1700,i,4373890473153780624,428987849020230339,262144 --field-trial-handle=1968,i,9790246114753558327,7603887837585167924,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1972,i,8694844730559506556,13159710852364223709,4 --trace-process-track-uuid=3190708988185955192 --mojo-platform-channel-handle=1936 /prefetch:2 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,778
+-,2026-04-20 18:16:12.963877+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --noerrdialogs --user-agent=""Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.18.9.23723; 10.0.0.0.26200.8246) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.26200 IsWebView2/True (WebView2Version 147.0.3912.72)"" --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=SearchHost.exe --webview-exe-version=2126.5604.40.0 --embedded-browser-webview=1 --startup-read-main-dll --metrics-shmem-handle=1860,i,17454661006750949990,14097547580694438382,524288 --field-trial-handle=1968,i,9790246114753558327,7603887837585167924,262144 --enable-features=msEdgeFluentOverlayScrollbar --disable-features=msSmartScreenProtection --variations-seed-version --pseudonymization-salt-handle=1972,i,8694844730559506556,13159710852364223709,4 --trace-process-track-uuid=3190708989122997041 --mojo-platform-channel-handle=2172 /prefetch:11 /pfhostedapp:71605ac00f46126b891160bd09c966621e306630",,779

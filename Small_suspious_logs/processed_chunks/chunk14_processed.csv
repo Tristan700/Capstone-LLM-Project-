@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID,Suspicion_Score,summary
+pizza,2026-04-20 18:17:01.028503+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,910,2,Normal DllHost execution.
+-,2026-04-20 18:17:01.109781+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,consent.exe 1040 604 0000012C8815AC30,,911,2,Normal consent.exe execution.
+-,2026-04-20 18:17:01.250153+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,/QuitInfo:00000000000002E4;0000000000000340; ,,912,2,Normal system command.
+,2026-04-20 18:17:02.966311+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,913,2,Normal browser process.
+,2026-04-20 18:17:02.980034+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,914,2,Normal browser process.
+,2026-04-20 18:17:03.136251+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\consent.exe,915,2,Normal consent.exe execution.
+pizza,2026-04-20 18:17:03.146364+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\explorer.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",,916,3,PowerShell launched from explorer.
+-,2026-04-20 18:17:03.466879+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,917,3,Conhost executed from PowerShell.
+,2026-04-20 18:17:06.124140+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\ctfmon.exe,918,2,Normal ctfmon.exe process.
+-,2026-04-20 18:17:06.436438+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe""",,919,3,Whoami executed from PowerShell.
+,2026-04-20 18:17:06.452602+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,920,2,Normal whoami process.
+-,2026-04-20 18:17:06.493771+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe"" /priv",,921,3,Whoami with privileges check.
+,2026-04-20 18:17:06.531565+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,922,2,Normal whoami process.
+-,2026-04-20 18:17:06.559612+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user",,923,3,Net user command from PowerShell.
+-,2026-04-20 18:17:06.575510+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user,,924,3,Net user command from net.exe.
+,2026-04-20 18:17:06.595894+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,925,2,Normal net1.exe process.
+,2026-04-20 18:17:06.597080+00:00,pizza,4689,,,C:\Windows\System32\net.exe,926,2,Normal net.exe process.
+-,2026-04-20 18:17:06.615673+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators",,927,4,Admin group modification attempt.
+-,2026-04-20 18:17:06.627165+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators,,928,4,Admin group modification attempt.
+Administrators,2026-04-20 18:17:06.640194+00:00,pizza,4799,,,,929,5,Suspicious admin group activity.
+,2026-04-20 18:17:06.642628+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,930,2,Normal net1.exe process.
+,2026-04-20 18:17:06.643936+00:00,pizza,4689,,,C:\Windows\System32\net.exe,931,2,Normal net.exe process.
+-,2026-04-20 18:17:06.672651+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\tasklist.exe""",,932,2,Normal tasklist command.
+,2026-04-20 18:17:06.904860+00:00,pizza,4689,,,C:\Windows\System32\tasklist.exe,933,2,Normal tasklist process.
+-,2026-04-20 18:17:06.948965+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\NETSTAT.EXE"" -an",,934,3,Netstat command from PowerShell.
+,2026-04-20 18:17:07.255989+00:00,pizza,4689,,,C:\Windows\System32\dllhost.exe,935,2,Normal dllhost.exe process.
+,2026-04-20 18:17:07.542336+00:00,pizza,4689,,,C:\Windows\System32\NETSTAT.EXE,936,2,Normal NETSTAT process.
+pizza,2026-04-20 18:17:07.783215+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe $(Arg0),,937,2,Normal taskhostw execution.
+-,2026-04-20 18:17:12.984407+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe""",,938,3,Whoami executed from PowerShell.
+,2026-04-20 18:17:13.000269+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,939,2,Normal whoami process.
+-,2026-04-20 18:17:13.008770+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe"" /priv",,940,3,Whoami with privileges check.
+,2026-04-20 18:17:13.048979+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,941,2,Normal whoami process.
+-,2026-04-20 18:17:13.059444+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user",,942,3,Net user command from PowerShell.
+-,2026-04-20 18:17:13.070034+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user,,943,3,Net user command from net.exe.
+,2026-04-20 18:17:13.087046+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,944,2,Normal net1.exe process.
+,2026-04-20 18:17:13.088430+00:00,pizza,4689,,,C:\Windows\System32\net.exe,945,2,Normal net.exe process.
+-,2026-04-20 18:17:13.096157+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators",,946,4,Admin group modification attempt.
+-,2026-04-20 18:17:13.107103+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators,,947,4,Admin group modification attempt.
+Administrators,2026-04-20 18:17:13.125429+00:00,pizza,4799,,,,948,5,Suspicious admin group activity.
+,2026-04-20 18:17:13.129704+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,949,2,Normal net1.exe process.
+,2026-04-20 18:17:13.131065+00:00,pizza,4689,,,C:\Windows\System32\net.exe,950,2,Normal net.exe process.
+-,2026-04-20 18:17:13.142891+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\tasklist.exe""",,951,2,Normal tasklist command.
+,2026-04-20 18:17:13.390635+00:00,pizza,4689,,,C:\Windows\System32\tasklist.exe,952,2,Normal tasklist process.
+-,2026-04-20 18:17:13.412878+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\NETSTAT.EXE"" -an",,953,3,Netstat command from PowerShell.
+,2026-04-20 18:17:13.957775+00:00,pizza,4689,,,C:\Windows\System32\NETSTAT.EXE,954,2,Normal NETSTAT process.
+-,2026-04-20 18:17:17.102150+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe""",,955,3,Whoami executed from PowerShell.
+,2026-04-20 18:17:17.112173+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,956,2,Normal whoami process.
+-,2026-04-20 18:17:17.137058+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\whoami.exe"" /priv",,957,3,Whoami with privileges check.
+,2026-04-20 18:17:17.174511+00:00,pizza,4689,,,C:\Windows\System32\whoami.exe,958,2,Normal whoami process.
+-,2026-04-20 18:17:17.184637+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user",,959,3,Net user command from PowerShell.
+-,2026-04-20 18:17:17.194675+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user,,960,3,Net user command from net.exe.
+,2026-04-20 18:17:17.211683+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,961,2,Normal net1.exe process.
+,2026-04-20 18:17:17.212864+00:00,pizza,4689,,,C:\Windows\System32\net.exe,962,2,Normal net.exe process.
+-,2026-04-20 18:17:17.222355+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators",,963,4,Admin group modification attempt.
+-,2026-04-20 18:17:17.229897+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators,,964,4,Admin group modification attempt.
+,2026-04-20 18:17:17.245285+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,965,2,Normal browser process.
+Administrators,2026-04-20 18:17:17.246038+00:00,pizza,4799,,,,966,5,Suspicious admin group activity.
+,2026-04-20 18:17:17.253408+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,967,2,Normal net1.exe process.
+,2026-04-20 18:17:17.255091+00:00,pizza,4689,,,C:\Windows\System32\net.exe,968,2,Normal net.exe process.
+-,2026-04-20 18:17:17.264074+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\tasklist.exe""",,969,2,Normal tasklist command.
+,2026-04-20 18:17:17.468290+00:00,pizza,4689,,,C:\Windows\System32\tasklist.exe,970,2,Normal tasklist process.
+-,2026-04-20 18:17:17.479179+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\NETSTAT.EXE"" -an",,971,3,Netstat command from PowerShell.
+,2026-04-20 18:17:17.964981+00:00,pizza,4689,,,C:\Windows\System32\NETSTAT.EXE,972,2,Normal NETSTAT process.
+,2026-04-20 18:17:18.813625+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,973,2,Normal background task.
+,2026-04-20 18:17:18.814634+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,974,2,Normal background task.
+-,2026-04-20 18:17:20.418978+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --ram-no-pressure-read-main-dll --metrics-shmem-handle=8444,i,16591527481097081801,5765953361292899814,524288 --field-trial-handle=2252,i,3616932261551619570,7225375466808652926,262144 --variations-seed-version --pseudonymization-salt-handle=2256,i,1669410902296250306,8362656500808665194,4 --trace-process-track-uuid=3190709008800875870 --mojo-platform-channel-handle=5844 /prefetch:14",,975,2,Normal browser execution.
+pizza,2026-04-20 18:17:20.473930+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,976,2,Normal RuntimeBroker execution.
+pizza,2026-04-20 18:17:20.675482+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-659606535-1042573559-2797446579-10014_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-659606535-1042573559-2797446579-10014 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",,977,2,Normal SearchProtocolHost execution.
+-,2026-04-20 18:17:26.985046+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user system a /add",,978,4,User creation via net command.
+-,2026-04-20 18:17:26.994551+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user system a /add,,979,4,User creation via net command.
+,2026-04-20 18:17:27.008036+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,980,2,Normal net1.exe process.
+,2026-04-20 18:17:27.009851+00:00,pizza,4689,,,C:\Windows\System32\net.exe,981,2,Normal net.exe process.
+-,2026-04-20 18:17:36.554178+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user system44 a /add",,982,4,User creation via net command.
+-,2026-04-20 18:17:36.562893+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user system44 a /add,,983,4,User creation via net command.
+,2026-04-20 18:17:36.573536+00:00,pizza,4728,,,,984,5,Suspicious group membership change.
+system44,2026-04-20 18:17:36.573948+00:00,pizza,4720,,,,985,5,Suspicious user account creation.
+system44,2026-04-20 18:17:36.596107+00:00,pizza,4722,,,,986,5,Suspicious group membership addition.
+system44,2026-04-20 18:17:36.596176+00:00,pizza,4738,,,,987,5,Suspicious user account modification.
+system44,2026-04-20 18:17:36.596188+00:00,pizza,4724,,,,988,5,Suspicious password change attempt.
+Users,2026-04-20 18:17:36.601208+00:00,pizza,4732,,,,989,5,Suspicious group membership addition.

@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID
+SYSTEM,2026-04-20 18:23:02.840218+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1330
+,2026-04-20 18:23:02.840223+00:00,SYSTEM,4672,,,,1331
+-,2026-04-20 18:23:02.842010+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,1332
+,2026-04-20 18:23:02.956903+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\UsoClient.exe,1333
+pizza,2026-04-20 18:23:03.076008+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1334
+pizza,2026-04-20 18:23:03.151974+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1335
+,2026-04-20 18:23:03.216856+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1336
+,2026-04-20 18:23:07.835970+00:00,pizza,4689,,,C:\Windows\System32\taskhostw.exe,1337
+,2026-04-20 18:23:08.145451+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1338
+,2026-04-20 18:23:12.483631+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1339
+,2026-04-20 18:23:13.787683+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,1340
+,2026-04-20 18:23:17.250198+00:00,system44,4689,,,C:\Windows\System32\cmd.exe,1341
+,2026-04-20 18:23:17.266294+00:00,system44,4689,,,C:\Windows\System32\conhost.exe,1342
+system44,2026-04-20 18:23:17.286253+00:00,,4634,,,,1343
+system44,2026-04-20 18:23:17.286472+00:00,,4634,,,,1344
+-,2026-04-20 18:23:18.275242+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe7_ Global\UsGthrCtrlFltPipeMssGthrPipe7 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",,1345
+,2026-04-20 18:23:21.192490+00:00,LOCAL SERVICE,4689,,,C:\Windows\System32\svchost.exe,1346
+-,2026-04-20 18:23:22.934237+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\runas.exe"" system44 /user:Administrator ""powershell Start-Process cmd.exe -Verb runAs""",,1347
+,2026-04-20 18:23:22.951151+00:00,pizza,4689,,,C:\Windows\System32\runas.exe,1348
+,2026-04-20 18:23:26.020952+00:00,pizza,4689,,,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1349
+,2026-04-20 18:23:26.057611+00:00,pizza,4689,,,C:\Windows\System32\conhost.exe,1350
+-,2026-04-20 18:23:30.607594+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,consent.exe 1040 604 0000012C8815B5B0,,1351
+-,2026-04-20 18:23:30.767412+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,/QuitInfo:0000000000000350;000000000000035C; ,,1352
+-,2026-04-20 18:23:30.872499+00:00,LOCAL SERVICE,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\AUDIODG.EXE 0x0000000000000234 0x0000000000000450,,1353
+-,2026-04-20 18:23:31.905859+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,1354
+pizza,2026-04-20 18:23:32.036392+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1355
+pizza,2026-04-20 18:23:32.054701+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,1356
+,2026-04-20 18:23:32.171431+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1357
+,2026-04-20 18:23:32.570370+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1358
+,2026-04-20 18:23:32.626419+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\consent.exe,1359
+pizza,2026-04-20 18:23:32.654316+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\explorer.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",,1360
+-,2026-04-20 18:23:32.878185+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1361
+,2026-04-20 18:23:34.854959+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\taskhostw.exe,1362
+-,2026-04-20 18:23:35.254055+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\runas.exe"" system44 /user:Administrator ""powershell Start-Process cmd.exe -Verb runAs""",,1363
+,2026-04-20 18:23:35.273241+00:00,pizza,4689,,,C:\Windows\System32\runas.exe,1364
+,2026-04-20 18:23:35.613165+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\ctfmon.exe,1365
+,2026-04-20 18:23:48.150990+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,1366
+-,2026-04-20 18:23:52.228096+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\schtasks.exe"" /create /tn Updater /tr cmd.exe /sc onlogon /ru SYSTEM",,1367
+,2026-04-20 18:23:52.277218+00:00,pizza,4689,,,C:\Windows\System32\schtasks.exe,1368
+-,2026-04-20 18:23:52.313549+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\schtasks.exe"" /delete /tn Updater /f",,1369
+,2026-04-20 18:23:52.336756+00:00,pizza,4689,,,C:\Windows\System32\schtasks.exe,1370
+-,2026-04-20 18:23:58.898260+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators global /add",,1371
+-,2026-04-20 18:23:58.912647+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators global /add,,1372
+,2026-04-20 18:23:58.935101+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,1373
+,2026-04-20 18:23:58.936607+00:00,pizza,4689,,,C:\Windows\System32\net.exe,1374
+,2026-04-20 18:24:03.393311+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,1375
+,2026-04-20 18:24:04.281080+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,1376
+-,2026-04-20 18:24:05.437433+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" localgroup administrators system2 /add",,1377
+-,2026-04-20 18:24:05.447315+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 localgroup administrators system2 /add,,1378
+,2026-04-20 18:24:05.460989+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,1379
+,2026-04-20 18:24:05.462633+00:00,pizza,4689,,,C:\Windows\System32\net.exe,1380
+pizza,2026-04-20 18:24:08.220257+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,1381
+pizza,2026-04-20 18:24:08.325382+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1382
+pizza,2026-04-20 18:24:08.478430+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,1383
+pizza,2026-04-20 18:24:08.540190+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,1384
+,2026-04-20 18:24:08.605888+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1385
+-,2026-04-20 18:24:09.078711+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,1386
+SYSTEM,2026-04-20 18:24:09.153593+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1387
+,2026-04-20 18:24:09.153599+00:00,SYSTEM,4672,,,,1388
+-,2026-04-20 18:24:09.155483+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,1389
+,2026-04-20 18:24:09.881527+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1390
+pizza,2026-04-20 18:24:41.803177+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca",,1391
+,2026-04-20 18:24:42.157032+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,1392
+-,2026-04-20 18:24:46.220448+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user global a /add",,1393
+-,2026-04-20 18:24:46.232227+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user global a /add,,1394
+,2026-04-20 18:24:46.242954+00:00,pizza,4728,,,,1395
+global,2026-04-20 18:24:46.243393+00:00,pizza,4720,,,,1396
+global,2026-04-20 18:24:46.265791+00:00,pizza,4722,,,,1397
+global,2026-04-20 18:24:46.265919+00:00,pizza,4738,,,,1398
+global,2026-04-20 18:24:46.265938+00:00,pizza,4724,,,,1399
+Users,2026-04-20 18:24:46.271990+00:00,pizza,4732,,,,1400
+,2026-04-20 18:24:46.277084+00:00,pizza,4689,,,C:\Windows\System32\net1.exe,1401
+,2026-04-20 18:24:46.278978+00:00,pizza,4689,,,C:\Windows\System32\net.exe,1402
+-,2026-04-20 18:24:46.314878+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" user system2 a /add",,1403
+-,2026-04-20 18:24:46.325653+00:00,pizza,4688,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 user system2 a /add,,1404
+,2026-04-20 18:24:46.337519+00:00,pizza,4728,,,,1405
+system2,2026-04-20 18:24:46.338013+00:00,pizza,4720,,,,1406
+system2,2026-04-20 18:24:46.360167+00:00,pizza,4722,,,,1407
+system2,2026-04-20 18:24:46.360247+00:00,pizza,4738,,,,1408
+system2,2026-04-20 18:24:46.360268+00:00,pizza,4724,,,,1409

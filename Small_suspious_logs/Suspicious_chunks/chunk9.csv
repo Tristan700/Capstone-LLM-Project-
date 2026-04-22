@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID
+SYSTEM,2026-04-20 18:08:42.410429+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,560
+,2026-04-20 18:08:42.410435+00:00,SYSTEM,4672,,,,561
+-,2026-04-20 18:08:42.411760+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BDESVC,,562
+-,2026-04-20 18:09:02.069937+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",,563
+,2026-04-20 18:09:02.096470+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\dxgiadaptercache.exe,564
+,2026-04-20 18:09:37.352160+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wbem\WmiPrvSE.exe,565
+,2026-04-20 18:10:00.958328+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,566
+-,2026-04-20 18:10:01.144115+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\appidpolicyconverter.exe""",,567
+-,2026-04-20 18:10:01.156351+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\appidpolicyconverter.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,568
+,2026-04-20 18:10:01.216276+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\appidpolicyconverter.exe,569
+,2026-04-20 18:10:01.217777+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,570
+,2026-04-20 18:10:01.350887+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,571
+,2026-04-20 18:10:03.667479+00:00,DESKTOP-A3EGFSV$,6416,,,,572
+SYSTEM,2026-04-20 18:10:05.127985+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,573
+,2026-04-20 18:10:05.127993+00:00,SYSTEM,4672,,,,574
+-,2026-04-20 18:10:05.130095+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BITS,,575
+LOCAL SERVICE,2026-04-20 18:10:05.220118+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV,,576
+,2026-04-20 18:10:08.966059+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe,577
+,2026-04-20 18:10:08.970036+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\servicing\TrustedInstaller.exe,578
+Administrators,2026-04-20 18:10:09.784872+00:00,DESKTOP-A3EGFSV$,4799,,,,579
+LOCAL SERVICE,2026-04-20 18:10:09.856754+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc,,580
+,2026-04-20 18:10:09.967466+00:00,LOCAL SERVICE,5058,,,,581
+,2026-04-20 18:10:09.969803+00:00,LOCAL SERVICE,5061,,,,582
+,2026-04-20 18:10:09.970510+00:00,LOCAL SERVICE,5059,,,,583
+DESKTOP-A3EGFSV$,2026-04-20 18:10:10.388657+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,584
+-,2026-04-20 18:10:10.540075+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /svc",,585
+,2026-04-20 18:10:10.597309+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,586
+-,2026-04-20 18:10:10.669250+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,587
+,2026-04-20 18:10:10.683132+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,588
+-,2026-04-20 18:10:10.745811+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",,589
+SYSTEM,2026-04-20 18:10:10.801870+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,590
+,2026-04-20 18:10:10.801876+00:00,SYSTEM,4672,,,,591
+-,2026-04-20 18:10:10.803190+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k InvSvcGroup -p -s InventorySvc,,592
+DESKTOP-A3EGFSV$,2026-04-20 18:10:10.948004+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,593
+DESKTOP-A3EGFSV$,2026-04-20 18:10:11.089386+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,,594
+,2026-04-20 18:10:11.219494+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,595
+SYSTEM,2026-04-20 18:10:11.245846+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,596
+,2026-04-20 18:10:11.245852+00:00,SYSTEM,4672,,,,597
+-,2026-04-20 18:10:11.248573+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p,,598
+SYSTEM,2026-04-20 18:10:11.628275+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,599
+,2026-04-20 18:10:11.628283+00:00,SYSTEM,4672,,,,600
+-,2026-04-20 18:10:11.630169+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UsoSvc,,601
+SYSTEM,2026-04-20 18:10:11.798786+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,602
+,2026-04-20 18:10:11.798792+00:00,SYSTEM,4672,,,,603
+-,2026-04-20 18:10:11.801504+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,604
+SYSTEM,2026-04-20 18:10:11.897152+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,605
+,2026-04-20 18:10:11.897156+00:00,SYSTEM,4672,,,,606
+-,2026-04-20 18:10:11.898582+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k whesvc -p -s whesvc,,607
+-,2026-04-20 18:10:11.907957+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,608
+LOCAL SERVICE,2026-04-20 18:10:12.165543+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc,,609
+-,2026-04-20 18:10:12.310858+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -Embedding,,610
+SYSTEM,2026-04-20 18:10:12.479849+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,611
+,2026-04-20 18:10:12.479855+00:00,SYSTEM,4672,,,,612
+-,2026-04-20 18:10:12.485720+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\SearchIndexer.exe /Embedding,,613
+-,2026-04-20 18:10:13.585531+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe1_ Global\UsGthrCtrlFltPipeMssGthrPipe1 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",,614
+Administrators,2026-04-20 18:10:13.656229+00:00,DESKTOP-A3EGFSV$,4799,,,,615
+-,2026-04-20 18:10:15.957365+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchFilterHost.exe"" 712 2516 2360 900 {0E5DCEC5-7795-4E38-9621-94DFD9F9A421}",,616
+,2026-04-20 18:10:21.053122+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,617
+DESKTOP-A3EGFSV$,2026-04-20 18:10:40.632225+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,618
+,2026-04-20 18:10:41.400133+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\sppsvc.exe,619
+-,2026-04-20 18:10:54.498932+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,/QuitInfo:00000000000002E0;00000000000002E4; ,,620
+SYSTEM,2026-04-20 18:10:57.436083+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,621
+,2026-04-20 18:10:57.436087+00:00,SYSTEM,4672,,,,622
+-,2026-04-20 18:10:57.437756+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wlidsvc,,623
+-,2026-04-20 18:10:57.890106+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,624
+-,2026-04-20 18:11:01.955059+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\wermgr.exe"" -upload",,625
+,2026-04-20 18:11:02.014450+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wermgr.exe,626
+-,2026-04-20 18:11:02.711624+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,627
+-,2026-04-20 18:11:03.876362+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,628
+,2026-04-20 18:11:04.327120+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\taskhostw.exe,629
+-,2026-04-20 18:11:05.146358+00:00,DESKTOP-A3EGFSV$,4625,,,C:\Windows\System32\svchost.exe,630
+-,2026-04-20 18:11:06.827148+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe,,631
+-,2026-04-20 18:11:06.841818+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource scheduler",,632
+-,2026-04-20 18:11:06.881569+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\Windows\System32\Microsoft.Data.UsageAndQualityInsights.MaintenanceTask.exe""",,633
+-,2026-04-20 18:11:06.910566+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\rundll32.exe"" C:\WINDOWS\system32\PcaSvc.dll,PcaPatchSdbTask",,634
+-,2026-04-20 18:11:06.917398+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\UIEOrchestratorStub.exe"" /SendHeartbeat",,635
+-,2026-04-20 18:11:06.920607+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\usoclient.exe"" StartScan",,636
+-,2026-04-20 18:11:06.935051+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\devicecensus.exe"" SystemCxt",,637
+-,2026-04-20 18:11:06.936483+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\System32\wsqmcons.exe""",,638
+,2026-04-20 18:11:07.017778+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,639

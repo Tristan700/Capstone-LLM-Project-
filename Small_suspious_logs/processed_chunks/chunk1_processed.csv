@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID,Suspicion_Score,summary
+pizza,2026-04-20 18:00:18.158943+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,taskhostw.exe $(Arg0),,0,3,Unusual process launch
+,2026-04-20 18:00:18.704304+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\ctfmon.exe,1,2,Normal process termination
+-,2026-04-20 18:00:19.056101+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\wevtutil.exe"" cl Security",,2,10,Security log cleared
+,2026-04-20 18:00:19.082523+00:00,,1102,,,,3,9,Audit log cleared
+,2026-04-20 18:00:19.083939+00:00,pizza,4689,,,C:\Windows\System32\wevtutil.exe,4,2,Normal process termination
+,2026-04-20 18:00:19.781973+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,5,2,Normal process termination
+-,2026-04-20 18:00:24.149845+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\wevtutil.exe"" cl system",,6,10,System log cleared
+,2026-04-20 18:00:24.168566+00:00,pizza,4689,,,C:\Windows\System32\wevtutil.exe,7,2,Normal process termination
+,2026-04-20 18:00:24.439650+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,8,2,Normal process termination
+,2026-04-20 18:00:27.628323+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,9,2,Normal process termination
+,2026-04-20 18:00:27.630829+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,10,2,Normal process termination
+,2026-04-20 18:00:29.851439+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,11,2,Normal process termination
+,2026-04-20 18:00:29.851713+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,12,2,Normal process termination
+-,2026-04-20 18:00:31.446438+00:00,pizza,4688,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\wevtutil.exe"" cl application",,13,10,Application log cleared
+,2026-04-20 18:00:31.459179+00:00,pizza,4689,,,C:\Windows\System32\wevtutil.exe,14,2,Normal process termination
+-,2026-04-20 18:00:34.338362+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --skip-read-main-dll --metrics-shmem-handle=6824,i,14182499647159006810,3446584055099941156,524288 --field-trial-handle=2316,i,11653587304601885560,1287113618954745513,262144 --variations-seed-version --pseudonymization-salt-handle=2368,i,15542423599154470718,16582211970420337290,4 --trace-process-track-uuid=3190709009737917719 --mojo-platform-channel-handle=9692 /prefetch:14",,15,5,Unusual Edge process parameters
+pizza,2026-04-20 18:00:34.375177+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,16,3,Unusual process launch
+,2026-04-20 18:00:34.960791+00:00,pizza,4689,,,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,17,2,Normal process termination
+,2026-04-20 18:00:35.000912+00:00,pizza,4689,,,C:\Windows\System32\conhost.exe,18,2,Normal process termination
+-,2026-04-20 18:00:38.515560+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --ram-no-pressure-read-main-dll --metrics-shmem-handle=9772,i,13831606928859619422,11610484680790526431,524288 --field-trial-handle=2316,i,11653587304601885560,1287113618954745513,262144 --variations-seed-version --pseudonymization-salt-handle=2368,i,15542423599154470718,16582211970420337290,4 --trace-process-track-uuid=3190709010674959568 --mojo-platform-channel-handle=9912 /prefetch:14",,19,5,Unusual Edge process parameters
+,2026-04-20 18:00:38.616241+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,20,2,Normal process termination
+,2026-04-20 18:00:38.657164+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,21,2,Normal process termination
+-,2026-04-20 18:00:39.595604+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,consent.exe 5700 834 0000023A7F11EC20,,22,3,Unusual process launch
+-,2026-04-20 18:00:39.701159+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,/QuitInfo:0000000000000340;0000000000000314; ,,23,3,Unusual process launch
+,2026-04-20 18:00:41.337011+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\consent.exe,24,2,Normal process termination
+pizza,2026-04-20 18:00:41.490944+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\explorer.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2512.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe"" ",,25,2,Normal process launch
+pizza,2026-04-20 18:00:42.621284+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,26,3,Unusual process launch
+,2026-04-20 18:00:44.336231+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\ctfmon.exe,27,2,Normal process termination
+-,2026-04-20 18:00:46.910391+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --skip-read-main-dll --metrics-shmem-handle=7680,i,11631088085670993948,10177857540625755142,524288 --field-trial-handle=2316,i,11653587304601885560,1287113618954745513,262144 --variations-seed-version --pseudonymization-salt-handle=2368,i,15542423599154470718,16582211970420337290,4 --trace-process-track-uuid=3190709011612001417 --mojo-platform-channel-handle=6356 /prefetch:14",,28,5,Unusual Edge process parameters
+,2026-04-20 18:00:46.962021+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,29,2,Normal process termination
+,2026-04-20 18:00:47.832493+00:00,pizza,4689,,,C:\Windows\System32\dllhost.exe,30,2,Normal process termination
+pizza,2026-04-20 18:00:50.284983+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,31,3,Unusual process launch
+,2026-04-20 18:00:55.329451+00:00,pizza,4689,,,C:\Windows\System32\dllhost.exe,32,2,Normal process termination
+-,2026-04-20 18:00:55.729507+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\appidpolicyconverter.exe""",,33,3,Unusual process launch
+-,2026-04-20 18:00:55.736418+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\appidpolicyconverter.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,34,3,Unusual process launch
+,2026-04-20 18:00:55.768642+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\appidpolicyconverter.exe,35,2,Normal process termination
+,2026-04-20 18:00:55.769888+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,36,2,Normal process termination
+,2026-04-20 18:00:56.167721+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,37,2,Normal process termination
+pizza,2026-04-20 18:00:57.987263+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},,38,3,Unusual process launch
+-,2026-04-20 18:00:59.305363+00:00,pizza,4688,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --skip-read-main-dll --metrics-shmem-handle=7800,i,12299552150625961655,6910950526685263129,524288 --field-trial-handle=2316,i,11653587304601885560,1287113618954745513,262144 --variations-seed-version --pseudonymization-salt-handle=2368,i,15542423599154470718,16582211970420337290,4 --trace-process-track-uuid=3190709012549043266 --mojo-platform-channel-handle=9900 /prefetch:14",,39,5,Unusual Edge process parameters
+,2026-04-20 18:00:59.371225+00:00,pizza,4689,,,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,40,2,Normal process termination
+,2026-04-20 18:00:59.868214+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,41,2,Normal process termination
+,2026-04-20 18:00:59.868246+00:00,pizza,4689,,,C:\Windows\System32\RuntimeBroker.exe,42,2,Normal process termination
+DESKTOP-A3EGFSV$,2026-04-20 18:01:00.668718+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,43,2,Normal process launch
+-,2026-04-20 18:01:00.826262+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /svc",,44,2,Normal process launch
+-,2026-04-20 18:01:00.871368+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",,45,2,Normal process launch
+,2026-04-20 18:01:00.883928+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,46,2,Normal process termination
+,2026-04-20 18:01:00.945303+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,47,2,Normal process termination
+SYSTEM,2026-04-20 18:01:01.000864+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,48,2,Normal system login
+,2026-04-20 18:01:01.000870+00:00,SYSTEM,4672,,,,49,2,Normal system login
+-,2026-04-20 18:01:01.002069+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k InvSvcGroup -p -s InventorySvc,,50,2,Normal process launch
+DESKTOP-A3EGFSV$,2026-04-20 18:01:01.148558+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,,51,2,Normal process launch
+DESKTOP-A3EGFSV$,2026-04-20 18:01:01.293829+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,,52,2,Normal process launch
+SYSTEM,2026-04-20 18:01:01.450672+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,53,2,Normal system login
+,2026-04-20 18:01:01.450678+00:00,SYSTEM,4672,,,,54,2,Normal system login
+-,2026-04-20 18:01:01.451904+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p,,55,2,Normal process launch
+SYSTEM,2026-04-20 18:01:01.723507+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,56,2,Normal system login
+,2026-04-20 18:01:01.723511+00:00,SYSTEM,4672,,,,57,2,Normal system login
+-,2026-04-20 18:01:01.724585+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UsoSvc,,58,2,Normal process launch
+SYSTEM,2026-04-20 18:01:01.808994+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,59,2,Normal system login
+,2026-04-20 18:01:01.809000+00:00,SYSTEM,4672,,,,60,2,Normal system login
+-,2026-04-20 18:01:01.810440+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,,61,2,Normal process launch
+-,2026-04-20 18:01:01.874125+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",,62,3,Unusual process launch
+SYSTEM,2026-04-20 18:01:01.889179+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,63,2,Normal system login
+,2026-04-20 18:01:01.889191+00:00,SYSTEM,4672,,,,64,2,Normal system login
+-,2026-04-20 18:01:01.890642+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k whesvc -p -s whesvc,,65,2,Normal process launch
+LOCAL SERVICE,2026-04-20 18:01:02.047741+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc,,66,2,Normal process launch
+-,2026-04-20 18:01:02.152605+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -Embedding,,67,3,Unusual process launch
+pizza,2026-04-20 18:01:02.202747+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",,68,3,Unusual process launch
+pizza,2026-04-20 18:01:02.317154+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,,69,3,Unusual process launch
+,2026-04-20 18:01:02.445919+00:00,pizza,4689,,,C:\Windows\System32\backgroundTaskHost.exe,70,2,Normal process termination
+pizza,2026-04-20 18:01:02.743961+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup,,71,2,Normal process launch
+,2026-04-20 18:01:03.047806+00:00,pizza,4689,,,C:\Windows\System32\dllhost.exe,72,2,Normal process termination
+-,2026-04-20 18:01:03.412117+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,"""C:\Windows\System32\usoclient.exe"" StartStoreBizCritUpdates Y/WZY2BmtEG75RRk.3",,73,3,Unusual process launch
+,2026-04-20 18:01:08.857924+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe,74,2,Normal process termination
+,2026-04-20 18:01:08.862284+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\servicing\TrustedInstaller.exe,75,2,Normal process termination
+pizza,2026-04-20 18:01:09.032562+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B},,76,3,Unusual process launch
+,2026-04-20 18:01:11.188538+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\svchost.exe,77,2,Normal process termination
+LOCAL SERVICE,2026-04-20 18:01:12.010586+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,78,3,Unusual process launch
+SYSTEM,2026-04-20 18:01:12.113693+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,79,2,Normal system login

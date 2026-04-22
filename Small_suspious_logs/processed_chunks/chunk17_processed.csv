@@ -1,0 +1,81 @@
+TargetUserName,Timestamp,SubjectUserName,EventID,ParentProcessName,CommandLine,ProcessName,RowID,Suspicion_Score,summary
+,2026-04-20 18:19:39.924862+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1120,0,
+-,2026-04-20 18:19:39.925104+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll""",,1121,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:39.927759+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1122,6,Forced conhost execution
+,2026-04-20 18:19:40.000490+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1123,0,
+,2026-04-20 18:19:40.002375+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1124,0,
+-,2026-04-20 18:19:40.003628+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man""",,1125,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:40.006414+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1126,6,Forced conhost execution
+,2026-04-20 18:19:40.044321+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1127,0,
+,2026-04-20 18:19:40.045851+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1128,0,
+-,2026-04-20 18:19:40.045959+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",,1129,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:40.048809+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1130,6,Forced conhost execution
+,2026-04-20 18:19:40.105440+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1131,0,
+,2026-04-20 18:19:40.106688+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1132,0,
+-,2026-04-20 18:19:40.108377+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man""",,1133,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:40.110983+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1134,6,Forced conhost execution
+,2026-04-20 18:19:40.180906+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1135,0,
+,2026-04-20 18:19:40.182465+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1136,0,
+-,2026-04-20 18:19:40.182566+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll""",,1137,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:40.185102+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1138,6,Forced conhost execution
+,2026-04-20 18:19:40.246635+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1139,0,
+,2026-04-20 18:19:40.248669+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1140,0,
+-,2026-04-20 18:19:40.250662+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man""",,1141,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:40.254120+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1142,6,Forced conhost execution
+,2026-04-20 18:19:40.396450+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1143,0,
+,2026-04-20 18:19:40.397821+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1144,0,
+-,2026-04-20 18:19:40.397873+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll""",,1145,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:40.400391+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1146,6,Forced conhost execution
+,2026-04-20 18:19:40.456276+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1147,0,
+,2026-04-20 18:19:40.458078+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1148,0,
+-,2026-04-20 18:19:40.482214+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wbem\mofcomp.exe ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\ProtectionManagement.mof""",,1149,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:40.485525+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wbem\mofcomp.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1150,6,Forced conhost execution
+,2026-04-20 18:19:40.686718+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wbem\mofcomp.exe,1151,0,
+,2026-04-20 18:19:40.687973+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1152,0,
+-,2026-04-20 18:19:40.690830+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\taskkill.exe /f /FI ""MODULES eq protectionmanagement.dll"" /IM WmiPrvSE.exe",,1153,3,Taskkill command targeting WmiPrvSE.exe
+-,2026-04-20 18:19:40.694130+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\taskkill.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1154,6,Forced conhost execution
+DESKTOP-A3EGFSV$,2026-04-20 18:19:40.752941+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,,1155,0,
+,2026-04-20 18:19:40.812347+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\taskkill.exe,1156,0,
+,2026-04-20 18:19:40.813684+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1157,0,
+SYSTEM,2026-04-20 18:19:40.817848+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1158,0,
+,2026-04-20 18:19:40.817852+00:00,SYSTEM,4672,,,,1159,0,
+-,2026-04-20 18:19:40.819672+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpDefenderCoreService.exe""",,1160,0,
+-,2026-04-20 18:19:40.857756+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" -RestartService",,1161,0,
+-,2026-04-20 18:19:40.861925+00:00,DESKTOP-A3EGFSV$,4688,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1162,6,Forced conhost execution
+,2026-04-20 18:19:40.868855+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,1163,0,
+,2026-04-20 18:19:40.874020+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1164,0,
+,2026-04-20 18:19:40.916939+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MsMpEng.exe,1165,0,
+SYSTEM,2026-04-20 18:19:40.917517+00:00,DESKTOP-A3EGFSV$,4624,,,C:\Windows\System32\services.exe,1166,0,
+,2026-04-20 18:19:40.917522+00:00,SYSTEM,4672,,,,1167,0,
+-,2026-04-20 18:19:40.919411+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe""",,1168,0,
+-,2026-04-20 18:19:41.044340+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-AMFilter.man""",,1169,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:41.047085+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1170,6,Forced conhost execution
+,2026-04-20 18:19:41.180788+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1171,0,
+-,2026-04-20 18:19:41.184074+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-AMFilter.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys""",,1172,3,Installing manifest via wevtutil
+,2026-04-20 18:19:41.184374+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1173,0,
+-,2026-04-20 18:19:41.187929+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1174,6,Forced conhost execution
+,2026-04-20 18:19:41.205858+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Program Files\Windows Defender\MpCmdRun.exe,1175,0,
+,2026-04-20 18:19:41.215256+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1176,0,
+,2026-04-20 18:19:41.259077+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1177,0,
+,2026-04-20 18:19:41.260763+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1178,0,
+-,2026-04-20 18:19:41.263235+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man""",,1179,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:41.265659+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1180,6,Forced conhost execution
+,2026-04-20 18:19:41.380404+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1181,0,
+,2026-04-20 18:19:41.381842+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1182,0,
+-,2026-04-20 18:19:41.382099+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll""",,1183,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:41.385567+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1184,6,Forced conhost execution
+,2026-04-20 18:19:41.828512+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1185,0,
+,2026-04-20 18:19:41.830246+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1186,0,
+-,2026-04-20 18:19:41.831888+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man""",,1187,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:41.834576+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1188,6,Forced conhost execution
+,2026-04-20 18:19:41.895903+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1189,0,
+,2026-04-20 18:19:41.897390+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1190,0,
+-,2026-04-20 18:19:41.897528+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll""",,1191,3,Installing manifest via wevtutil
+-,2026-04-20 18:19:41.900509+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1192,6,Forced conhost execution
+,2026-04-20 18:19:41.965427+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1193,0,
+,2026-04-20 18:19:41.968481+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1194,0,
+-,2026-04-20 18:19:41.970648+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man""",,1195,3,Uninstalling manifest via wevtutil
+-,2026-04-20 18:19:41.973156+00:00,DESKTOP-A3EGFSV$,4688,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,,1196,6,Forced conhost execution
+,2026-04-20 18:19:42.010704+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\wevtutil.exe,1197,0,
+,2026-04-20 18:19:42.011921+00:00,DESKTOP-A3EGFSV$,4689,,,C:\Windows\System32\conhost.exe,1198,0,
+-,2026-04-20 18:19:42.012577+00:00,DESKTOP-A3EGFSV$,4688,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",,1199,3,Installing manifest via wevtutil
