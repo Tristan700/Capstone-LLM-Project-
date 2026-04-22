@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:57.545368+00:00,DESKTOP-7CV8A7M$,,,,3290
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.553932+00:00,DESKTOP-7CV8A7M$,,,,3291
+,4688,2026-04-18 18:09:57.555365+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,3292
+,4688,2026-04-18 18:09:57.565779+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3293
+,4688,2026-04-18 18:09:57.605423+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,3294
+C:\Windows\SysWOW64\net1.exe,4689,2026-04-18 18:09:57.632095+00:00,DESKTOP-7CV8A7M$,,,,3295
+C:\Windows\SysWOW64\net.exe,4689,2026-04-18 18:09:57.633411+00:00,DESKTOP-7CV8A7M$,,,,3296
+,4688,2026-04-18 18:09:57.635189+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,3297
+,4688,2026-04-18 18:09:57.641047+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3298
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.652660+00:00,DESKTOP-7CV8A7M$,,,,3299
+,4688,2026-04-18 18:09:57.673714+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,3300
+C:\Windows\SysWOW64\net1.exe,4689,2026-04-18 18:09:57.690126+00:00,DESKTOP-7CV8A7M$,,,,3301
+C:\Windows\SysWOW64\net.exe,4689,2026-04-18 18:09:57.691143+00:00,DESKTOP-7CV8A7M$,,,,3302
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.696142+00:00,DESKTOP-7CV8A7M$,,,,3303
+,4688,2026-04-18 18:09:57.700136+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticetext,3304
+,4688,2026-04-18 18:09:57.710045+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3305
+C:\Windows\SysWOW64\reg.exe,4689,2026-04-18 18:09:57.738688+00:00,DESKTOP-7CV8A7M$,,,,3306
+,4688,2026-04-18 18:09:57.740906+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticecaption,3307
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.746086+00:00,DESKTOP-7CV8A7M$,,,,3308
+,4688,2026-04-18 18:09:57.750898+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3309
+C:\Windows\SysWOW64\reg.exe,4689,2026-04-18 18:09:57.774260+00:00,DESKTOP-7CV8A7M$,,,,3310
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.790703+00:00,DESKTOP-7CV8A7M$,,,,3311
+,4688,2026-04-18 18:09:57.793957+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Credential Validation""",3312
+,4688,2026-04-18 18:09:57.801226+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3313
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:57.842106+00:00,DESKTOP-7CV8A7M$,,,,3314
+,4688,2026-04-18 18:09:57.844528+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Application Group Management""",3315
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.846714+00:00,DESKTOP-7CV8A7M$,,,,3316
+,4688,2026-04-18 18:09:57.851110+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3317
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:57.878922+00:00,DESKTOP-7CV8A7M$,,,,3318
+,4688,2026-04-18 18:09:57.881130+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security Group Management""",3319
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.883257+00:00,DESKTOP-7CV8A7M$,,,,3320
+,4688,2026-04-18 18:09:57.888252+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3321
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:57.915623+00:00,DESKTOP-7CV8A7M$,,,,3322
+,4688,2026-04-18 18:09:57.917727+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""User Account Management""",3323
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.919722+00:00,DESKTOP-7CV8A7M$,,,,3324
+,4688,2026-04-18 18:09:57.923733+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3325
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:57.949089+00:00,DESKTOP-7CV8A7M$,,,,3326
+,4688,2026-04-18 18:09:57.951233+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Plug and Play Events""",3327
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.953655+00:00,DESKTOP-7CV8A7M$,,,,3328
+,4688,2026-04-18 18:09:57.957981+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3329
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:57.985954+00:00,DESKTOP-7CV8A7M$,,,,3330
+,4688,2026-04-18 18:09:57.988052+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Process Creation""",3331
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.990082+00:00,DESKTOP-7CV8A7M$,,,,3332
+,4688,2026-04-18 18:09:57.993967+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3333
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.021616+00:00,DESKTOP-7CV8A7M$,,,,3334
+,4688,2026-04-18 18:09:58.023613+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Account Lockout""",3335
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.025597+00:00,DESKTOP-7CV8A7M$,,,,3336
+,4688,2026-04-18 18:09:58.029865+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3337
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.055548+00:00,DESKTOP-7CV8A7M$,,,,3338
+,4688,2026-04-18 18:09:58.057571+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Group Membership""",3339
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.059526+00:00,DESKTOP-7CV8A7M$,,,,3340
+,4688,2026-04-18 18:09:58.063555+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3341
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.089199+00:00,DESKTOP-7CV8A7M$,,,,3342
+,4688,2026-04-18 18:09:58.091406+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Logoff""",3343
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.093922+00:00,DESKTOP-7CV8A7M$,,,,3344
+,4688,2026-04-18 18:09:58.099243+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3345
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.125839+00:00,DESKTOP-7CV8A7M$,,,,3346
+,4688,2026-04-18 18:09:58.128157+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Logon""",3347
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.130239+00:00,DESKTOP-7CV8A7M$,,,,3348
+,4688,2026-04-18 18:09:58.134157+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3349
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.163042+00:00,DESKTOP-7CV8A7M$,,,,3350
+,4688,2026-04-18 18:09:58.165115+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Other Logon/Logoff Events""",3351
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.167057+00:00,DESKTOP-7CV8A7M$,,,,3352
+,4688,2026-04-18 18:09:58.170963+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3353
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.198219+00:00,DESKTOP-7CV8A7M$,,,,3354
+,4688,2026-04-18 18:09:58.200283+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Special Logon""",3355
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.202219+00:00,DESKTOP-7CV8A7M$,,,,3356
+,4688,2026-04-18 18:09:58.206791+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3357
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.234062+00:00,DESKTOP-7CV8A7M$,,,,3358
+,4688,2026-04-18 18:09:58.236267+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Detailed File Share""",3359
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.238388+00:00,DESKTOP-7CV8A7M$,,,,3360
+,4688,2026-04-18 18:09:58.243292+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3361
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.269089+00:00,DESKTOP-7CV8A7M$,,,,3362
+,4688,2026-04-18 18:09:58.271154+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""File Share""",3363
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.273560+00:00,DESKTOP-7CV8A7M$,,,,3364
+,4688,2026-04-18 18:09:58.277576+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3365
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:09:58.304802+00:00,DESKTOP-7CV8A7M$,,,,3366
+,4688,2026-04-18 18:09:58.306971+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Other Object Access Events""",3367
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:58.309008+00:00,DESKTOP-7CV8A7M$,,,,3368
+,4688,2026-04-18 18:09:58.312885+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3369

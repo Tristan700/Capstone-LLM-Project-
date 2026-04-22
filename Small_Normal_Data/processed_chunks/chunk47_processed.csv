@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:39.951401+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3220,2,Normal login event.
+,4627,2026-04-18 18:09:39.951410+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3221,2,Normal group membership event.
+,4672,2026-04-18 18:09:39.951418+00:00,SYSTEM,,,,3222,2,Normal admin rights event.
+,4688,2026-04-18 18:09:39.953299+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k wsappx -p -s ClipSVC,3223,2,Normal process creation.
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:40.112888+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3224,2,Normal login event.
+,4627,2026-04-18 18:09:40.112898+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3225,2,Normal group membership event.
+,4672,2026-04-18 18:09:40.112906+00:00,SYSTEM,,,,3226,2,Normal admin rights event.
+,4688,2026-04-18 18:09:40.114183+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,3227,2,Normal process creation.
+C:\Windows\System32\slui.exe,4689,2026-04-18 18:09:40.486542+00:00,DESKTOP-7CV8A7M$,,,,3228,2,Normal process termination.
+,4688,2026-04-18 18:09:41.515131+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3229,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:41.643713+00:00,DESKTOP-7CV8A7M$,,,,3230,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:42.911222+00:00,DESKTOP-7CV8A7M$,,,,3231,2,Normal process termination.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:42.917091+00:00,DESKTOP-7CV8A7M$,,,,3232,2,Normal process termination.
+,4688,2026-04-18 18:09:42.919954+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",3233,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:42.935217+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3234,8,Suspicious command line.
+,4688,2026-04-18 18:09:43.742380+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3235,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:43.816820+00:00,DESKTOP-7CV8A7M$,,,,3236,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:44.777025+00:00,DESKTOP-7CV8A7M$,,,,3237,2,Normal process termination.
+,4688,2026-04-18 18:09:44.783981+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",3238,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:44.792816+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3239,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:44.795614+00:00,DESKTOP-7CV8A7M$,,,,3240,2,Normal process termination.
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:09:45.191648+00:00,DESKTOP-7CV8A7M$,,,,3241,2,Normal process termination.
+,4688,2026-04-18 18:09:45.671997+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3242,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:45.760242+00:00,DESKTOP-7CV8A7M$,,,,3243,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:46.403227+00:00,DESKTOP-7CV8A7M$,,,,3244,2,Normal process termination.
+,4688,2026-04-18 18:09:46.411270+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",3245,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:46.425142+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3246,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:46.427532+00:00,DESKTOP-7CV8A7M$,,,,3247,2,Normal process termination.
+,4688,2026-04-18 18:09:47.175150+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3248,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:47.256168+00:00,DESKTOP-7CV8A7M$,,,,3249,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:47.888420+00:00,DESKTOP-7CV8A7M$,,,,3250,2,Normal process termination.
+,4688,2026-04-18 18:09:47.895782+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordLength""; Remove-Item $env:TEMP\secpol.cfg",3251,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:47.908731+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3252,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:47.911324+00:00,DESKTOP-7CV8A7M$,,,,3253,2,Normal process termination.
+,4688,2026-04-18 18:09:48.672684+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3254,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:48.748344+00:00,DESKTOP-7CV8A7M$,,,,3255,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:49.394367+00:00,DESKTOP-7CV8A7M$,,,,3256,2,Normal process termination.
+,4688,2026-04-18 18:09:49.402775+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutDuration""; Remove-Item $env:TEMP\secpol.cfg",3257,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:49.416155+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3258,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:49.418486+00:00,DESKTOP-7CV8A7M$,,,,3259,2,Normal process termination.
+,4688,2026-04-18 18:09:50.164927+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3260,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:50.237846+00:00,DESKTOP-7CV8A7M$,,,,3261,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:50.768440+00:00,DESKTOP-7CV8A7M$,,,,3262,2,Normal process termination.
+,4688,2026-04-18 18:09:50.775118+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",3263,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:50.788540+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3264,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:50.790714+00:00,DESKTOP-7CV8A7M$,,,,3265,2,Normal process termination.
+,4688,2026-04-18 18:09:51.517483+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3266,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:51.589857+00:00,DESKTOP-7CV8A7M$,,,,3267,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:52.190775+00:00,DESKTOP-7CV8A7M$,,,,3268,2,Normal process termination.
+,4688,2026-04-18 18:09:52.197521+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",3269,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:52.207245+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3270,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:52.209681+00:00,DESKTOP-7CV8A7M$,,,,3271,2,Normal process termination.
+,4688,2026-04-18 18:09:52.911024+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3272,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:52.981403+00:00,DESKTOP-7CV8A7M$,,,,3273,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:53.583023+00:00,DESKTOP-7CV8A7M$,,,,3274,2,Normal process termination.
+,4688,2026-04-18 18:09:53.590771+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""ResetLockoutCount""; Remove-Item $env:TEMP\secpol.cfg",3275,12,Suspicious PowerShell script.
+,4688,2026-04-18 18:09:53.604595+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3276,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:53.606979+00:00,DESKTOP-7CV8A7M$,,,,3277,2,Normal process termination.
+,4688,2026-04-18 18:09:54.328691+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3278,10,Suspicious PowerShell command.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 18:09:54.416483+00:00,DESKTOP-7CV8A7M$,,,,3279,2,Normal process termination.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:54.950274+00:00,DESKTOP-7CV8A7M$,,,,3280,2,Normal process termination.
+,4688,2026-04-18 18:09:54.957582+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell -NoProfile -Command ""[bool](Get-CimInstance -Query 'SELECT * FROM Win32_UserAccount WHERE LocalAccount = TRUE AND SID LIKE ''S-1-5-21-%-501''' | Where-Object -Property Disabled)""",3281,12,Suspicious PowerShell command.
+,4688,2026-04-18 18:09:54.967741+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3282,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:54.993906+00:00,DESKTOP-7CV8A7M$,,,,3283,2,Normal process termination.
+,4688,2026-04-18 18:09:55.609823+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,/QuitInfo:00000000000002E0;00000000000002E4; ,3284,2,Normal process termination.
+,4798,2026-04-18 18:09:57.474453+00:00,DESKTOP-7CV8A7M$,Administrator,,,3285,2,Normal user account query.
+,4798,2026-04-18 18:09:57.474709+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3286,2,Normal user account query.
+,4798,2026-04-18 18:09:57.474867+00:00,DESKTOP-7CV8A7M$,Guest,,,3287,2,Normal user account query.
+,4798,2026-04-18 18:09:57.475052+00:00,DESKTOP-7CV8A7M$,pizza,,,3288,2,Normal user account query.
+,4798,2026-04-18 18:09:57.475208+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,3289,2,Normal user account query.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 18:09:57.545368+00:00,DESKTOP-7CV8A7M$,,,,3290,2,Normal process termination.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.553932+00:00,DESKTOP-7CV8A7M$,,,,3291,2,Normal process termination.
+,4688,2026-04-18 18:09:57.555365+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,3292,6,Suspicious net user command.
+,4688,2026-04-18 18:09:57.565779+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3293,8,Suspicious command line.
+,4688,2026-04-18 18:09:57.605423+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,3294,6,Suspicious net user command.
+C:\Windows\SysWOW64\net1.exe,4689,2026-04-18 18:09:57.632095+00:00,DESKTOP-7CV8A7M$,,,,3295,2,Normal process termination.
+C:\Windows\SysWOW64\net.exe,4689,2026-04-18 18:09:57.633411+00:00,DESKTOP-7CV8A7M$,,,,3296,2,Normal process termination.
+,4688,2026-04-18 18:09:57.635189+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,3297,6,Suspicious net user command.
+,4688,2026-04-18 18:09:57.641047+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3298,8,Suspicious command line.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:57.652660+00:00,DESKTOP-7CV8A7M$,,,,3299,2,Normal process termination.

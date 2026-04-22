@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+1610,9,PowerShell used to manipulate security policies.
+1616,9,PowerShell used to manipulate security policies.
+1622,9,PowerShell script altering account policies.
+1628,6,PowerShell querying local user accounts.
+1650,6,Registry query for legal notice text.

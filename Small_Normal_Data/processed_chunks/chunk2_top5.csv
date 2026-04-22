@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+83,12,Unusual executable path
+112,6,Targeting Administrators group
+122,6,Targeting specific user account
+88,3,Unusual command line
+136,3,Unusual command line

@@ -1,0 +1,81 @@
+EventID,RecordNumber,ErrorCode,Timestamp,User,EventName,ProcessId,Reason,Operation,MessageText,ProcessCreationTime,Source,CallerProcessName,AuthenticationPackageName,IpAddress,SubjectUserName,TargetUserName,CommandLine,ProcessName,ParentProcessName,WorkstationName,RowID,Suspicion_Score,summary
+4624,663,,2026-04-01 16:31:53.583717+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,490,,
+4672,664,,2026-04-01 16:31:53.583723+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,491,,
+4624,665,,2026-04-01 16:31:53.694370+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,492,,
+4672,666,,2026-04-01 16:31:53.694376+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,493,,
+1531,81,,2026-04-01 16:31:53.696371+00:00,,,,,,,,Appiclation,,,,,,,,,,494,,
+4624,667,,2026-04-01 16:31:53.994799+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,495,,
+4672,668,,2026-04-01 16:31:53.994802+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,496,,
+6,382,,2026-04-01 16:31:53.998566+00:00,,,,,,,,System,,,,,,,,,,497,,
+6,383,,2026-04-01 16:31:54.033396+00:00,,,,,,,,System,,,,,,,,,,498,,
+6,384,,2026-04-01 16:31:54.036175+00:00,,,,,,,,System,,,,,,,,,,499,,
+6,385,,2026-04-01 16:31:54.149220+00:00,,,,,,,,System,,,,,,,,,,500,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,386,,2026-04-01 16:31:54.157099+00:00,,,,,,,,System,,,,,,,,,,501,0.0,Normal system activity; routine system event with no suspicious indicators.
+1,387,,2026-04-01 16:31:54.157104+00:00,,,,,,,,System,,,,,,,,,,502,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,388,,2026-04-01 16:31:54.157173+00:00,,,,,,,,System,,,,,,,,,,503,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,389,,2026-04-01 16:31:54.165731+00:00,,,,,,,,System,,,,,,,,,,504,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,390,,2026-04-01 16:31:54.172194+00:00,,,,,,,,System,,,,,,,,,,505,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,391,,2026-04-01 16:31:54.194208+00:00,,,,,,,,System,,,,,,,,,,506,0.0,Normal system activity; routine system event with no suspicious indicators.
+6,392,,2026-04-01 16:31:54.249723+00:00,,,,,,,,System,,,,,,,,,,507,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,669,,2026-04-01 16:31:54.275059+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,508,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,670,,2026-04-01 16:31:54.275063+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,509,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,671,,2026-04-01 16:31:54.282814+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,510,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,672,,2026-04-01 16:31:54.282833+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,511,0.0,Normal system activity; routine system event with no suspicious indicators.
+6009,331,,2026-04-01 16:31:54.379696+00:00,,,,,,,,System,,,,,,,,,,512,0.0,Normal system activity; routine system event with no suspicious indicators.
+6005,332,,2026-04-01 16:31:54.413492+00:00,,,,,,,,System,,,,,,,,,,513,0.0,Normal system activity; routine system event with no suspicious indicators.
+6013,333,,2026-04-01 16:31:54.413807+00:00,,,,,,,,System,,,,,,,,,,514,0.0,Normal system activity; routine system event with no suspicious indicators.
+4625,80,,2026-04-01 16:31:54.591215+00:00,,,,,,,,Appiclation,,,,,,,,,,515,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,673,,2026-04-01 16:31:54.595293+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,516,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,674,,2026-04-01 16:31:54.595301+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,517,0.0,Normal system activity; routine system event with no suspicious indicators.
+4799,675,,2026-04-01 16:31:54.686127+00:00,,,,,,,,Security,C:\Windows\System32\svchost.exe,,,NORMALVM$,Administrators,,,,,518,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,676,,2026-04-01 16:31:54.847141+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,519,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,677,,2026-04-01 16:31:54.847149+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,520,0.0,Normal system activity; routine system event with no suspicious indicators.
+50036,393,,2026-04-01 16:31:55.001211+00:00,,,,,,,,System,,,,,,,,,,521,0.0,Normal system activity; routine system event with no suspicious indicators.
+50103,394,,2026-04-01 16:31:55.001776+00:00,,,,,,,,System,,,,,,,,,,522,0.0,Normal system activity; routine system event with no suspicious indicators.
+50036,395,,2026-04-01 16:31:55.005436+00:00,,,,,,,,System,,,,,,,,,,523,0.0,Normal system activity; routine system event with no suspicious indicators.
+51046,396,,2026-04-01 16:31:55.037882+00:00,,,,,,,,System,,,,,,,,,,524,0.0,Normal system activity; routine system event with no suspicious indicators.
+4798,678,,2026-04-01 16:31:55.348785+00:00,,,,,,,,Security,C:\Windows\System32\lsass.exe,,,NORMALVM$,defaultuser0,,,,,525,0.0,Normal system activity; routine system event with no suspicious indicators.
+4648,679,,2026-04-01 16:31:55.399904+00:00,,,0x000000000000050c,,,,,Security,,,127.0.0.1,NORMALVM$,defaultuser0,,C:\Windows\System32\svchost.exe,,,526,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,680,,2026-04-01 16:31:55.399916+00:00,,,0x000000000000050c,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,defaultuser0,,C:\Windows\System32\svchost.exe,,NORMALVM,527,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,681,,2026-04-01 16:31:55.399925+00:00,,,0x000000000000050c,,,,,Security,,Negotiate,127.0.0.1,NORMALVM$,defaultuser0,,C:\Windows\System32\svchost.exe,,NORMALVM,528,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,682,,2026-04-01 16:31:55.399929+00:00,,,,,,,,Security,,,,defaultuser0,,,,,,529,0.0,Normal system activity; routine system event with no suspicious indicators.
+7001,397,,2026-04-01 16:31:55.427645+00:00,,,,,,,,System,,,,,,,,,,530,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,683,,2026-04-01 16:31:55.452261+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,531,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,684,,2026-04-01 16:31:55.452267+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,532,0.0,Normal system activity; routine system event with no suspicious indicators.
+6003,82,,2026-04-01 16:31:55.455351+00:00,,,,,,,,Appiclation,,,,,,,,,,533,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,685,,2026-04-01 16:31:55.740259+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,534,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,686,,2026-04-01 16:31:55.740261+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,535,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,687,,2026-04-01 16:31:55.820629+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,536,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,688,,2026-04-01 16:31:55.820633+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,537,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,398,,2026-04-01 16:31:55.897152+00:00,,,4.0,,,,,System,,,,,,,,,,538,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,399,,2026-04-01 16:31:55.897158+00:00,,,4.0,,,,,System,,,,,,,,,,539,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,400,,2026-04-01 16:31:55.897163+00:00,,,4.0,,,,,System,,,,,,,,,,540,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,401,,2026-04-01 16:31:55.897167+00:00,,,4.0,,,,,System,,,,,,,,,,541,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,402,,2026-04-01 16:31:55.897173+00:00,,,4.0,,,,,System,,,,,,,,,,542,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,403,,2026-04-01 16:31:55.897182+00:00,,,4.0,,,,,System,,,,,,,,,,543,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,404,,2026-04-01 16:31:55.897186+00:00,,,4.0,,,,,System,,,,,,,,,,544,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,405,,2026-04-01 16:31:55.897190+00:00,,,4.0,,,,,System,,,,,,,,,,545,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,406,,2026-04-01 16:31:55.897198+00:00,,,4.0,,,,,System,,,,,,,,,,546,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,407,,2026-04-01 16:31:55.897223+00:00,,,4.0,,,,,System,,,,,,,,,,547,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,408,,2026-04-01 16:31:55.897228+00:00,,,4.0,,,,,System,,,,,,,,,,548,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,409,,2026-04-01 16:31:55.897232+00:00,,,4.0,,,,,System,,,,,,,,,,549,0.0,Normal system activity; routine system event with no suspicious indicators.
+112,410,,2026-04-01 16:31:55.897236+00:00,,,4.0,,,,,System,,,,,,,,,,550,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,689,,2026-04-01 16:31:55.899158+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,551,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,690,,2026-04-01 16:31:55.899164+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,552,0.0,Normal system activity; routine system event with no suspicious indicators.
+5033,691,,2026-04-01 16:31:56.070568+00:00,,,,,,,,Security,,,,,,,,,,553,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,692,,2026-04-01 16:31:56.837421+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,554,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,693,,2026-04-01 16:31:56.837429+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,555,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,694,,2026-04-01 16:31:56.856522+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,556,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,695,,2026-04-01 16:31:56.856525+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,557,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,696,,2026-04-01 16:31:56.924955+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,558,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,697,,2026-04-01 16:31:56.924959+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,559,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,698,,2026-04-01 16:31:56.948153+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,560,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,699,,2026-04-01 16:31:56.948158+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,561,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,700,,2026-04-01 16:31:56.955284+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,562,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,701,,2026-04-01 16:31:56.955290+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,563,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,702,,2026-04-01 16:31:56.962509+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,564,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,703,,2026-04-01 16:31:56.962515+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,565,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,704,,2026-04-01 16:31:57.003202+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,566,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,705,,2026-04-01 16:31:57.003208+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,567,0.0,Normal system activity; routine system event with no suspicious indicators.
+4624,706,,2026-04-01 16:31:57.225220+00:00,,,0x00000000000002e4,,,,,Security,,Negotiate,-,NORMALVM$,SYSTEM,,C:\Windows\System32\services.exe,,-,568,0.0,Normal system activity; routine system event with no suspicious indicators.
+4672,707,,2026-04-01 16:31:57.225225+00:00,,,,,,,,Security,,,,SYSTEM,,,,,,569,0.0,Normal system activity; routine system event with no suspicious indicators.

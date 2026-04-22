@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+C:\Windows\System32\lsass.exe,4648,2026-04-18 18:03:46.783384+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2870,10,Suspicious email as username
+C:\Windows\System32\lsass.exe,4624,2026-04-18 18:03:46.783409+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2871,10,Suspicious email as username
+,4627,2026-04-18 18:03:46.783421+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2872,10,Suspicious email as username
+C:\Windows\System32\lsass.exe,4624,2026-04-18 18:03:46.783436+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2873,10,Suspicious email as username
+,4627,2026-04-18 18:03:46.783445+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2874,10,Suspicious email as username
+,4672,2026-04-18 18:03:46.783453+00:00,pizzahuthacker@gmail.com,,,,2875,10,Suspicious email as username
+,4634,2026-04-18 18:03:46.783939+00:00,,pizza,,,2876,2,Normal logoff event
+,4634,2026-04-18 18:03:46.785612+00:00,,pizza,,,2877,2,Normal logoff event
+,4634,2026-04-18 18:03:46.787224+00:00,,pizza,,,2878,2,Normal logoff event
+,4634,2026-04-18 18:03:46.787390+00:00,,pizza,,,2879,2,Normal logoff event
+,4688,2026-04-18 18:03:47.346306+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},2880,3,Process launched by svchost
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:03:47.590704+00:00,pizza,,,,2881,2,Normal process termination
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:03:47.684029+00:00,DESKTOP-7CV8A7M$,,,,2882,2,Normal process termination
+C:\Windows\System32\ctfmon.exe,4689,2026-04-18 18:03:49.687801+00:00,DESKTOP-7CV8A7M$,,,,2883,2,Normal process termination
+,4688,2026-04-18 18:03:50.069988+00:00,LOCAL SERVICE,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\AUDIODG.EXE 0x000000000000044C 0x0000000000000448,2884,3,Audio process launched by svchost
+C:\Windows\System32\dllhost.exe,4689,2026-04-18 18:03:52.577414+00:00,pizza,,,,2885,2,Normal process termination
+C:\Windows\System32\svchost.exe,4689,2026-04-18 18:03:55.733608+00:00,DESKTOP-7CV8A7M$,,,,2886,2,Normal process termination
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,4689,2026-04-18 18:04:03.003050+00:00,pizza,,,,2887,2,Normal process termination
+,4688,2026-04-18 18:04:03.530516+00:00,pizza,-,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,"""C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --noerrdialogs --user-data-dir=""C:\Users\pizza\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView"" --webview-exe-name=Widgets.exe --webview-exe-version=526.1202.10.0 --embedded-browser-webview=1 --ram-no-pressure-read-main-dll --metrics-shmem-handle=5044,i,16216059079336801801,9586077872971492637,524288 --field-trial-handle=2300,i,10706798012665439973,12766236101246685693,262144 --variations-seed-version --pseudonymization-salt-handle=2304,i,17531207128205184664,7286160132764076105,4 --trace-process-track-uuid=3190708997556373682 --mojo-platform-channel-handle=4544 /prefetch:14 /pfhostedapp:a8eda00653c581dfd3dbafe4c7afd6e7acade90e",2888,3,Complex command line
+,4688,2026-04-18 18:04:03.924171+00:00,pizza,-,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=utility --utility-sub-type=unzip.mojom.Unzipper --lang=en-US --service-sandbox-type=service --skip-read-main-dll --metrics-shmem-handle=4000,i,1879359651735668205,689335493149871184,524288 --field-trial-handle=2284,i,7445214177790019479,381428523748705468,262144 --variations-seed-version --pseudonymization-salt-handle=2288,i,13510415274860347698,11705296152310878110,4 --trace-process-track-uuid=3190709022856503605 --mojo-platform-channel-handle=5876 /prefetch:14",2889,3,Complex command line
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:04:04.442947+00:00,pizza,,,,2890,2,Normal process termination
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,4689,2026-04-18 18:04:04.481234+00:00,pizza,,,,2891,2,Normal process termination
+,4688,2026-04-18 18:04:07.949518+00:00,pizza,-,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=40 --time-ticks-at-unix-epoch=-1776534064128359 --launch-time-ticks=1383764038 --skip-read-main-dll --metrics-shmem-handle=4340,i,14600498608392201361,9790755836450152209,2097152 --field-trial-handle=2284,i,7445214177790019479,381428523748705468,262144 --variations-seed-version --pseudonymization-salt-handle=2288,i,13510415274860347698,11705296152310878110,4 --trace-process-track-uuid=3190709023793545454 --mojo-platform-channel-handle=5872 /prefetch:1",2892,3,Complex command line
+C:\Windows\System32\svchost.exe,4689,2026-04-18 18:04:09.736860+00:00,DESKTOP-7CV8A7M$,,,,2893,2,Normal process termination
+C:\Windows\System32\SearchFilterHost.exe,4689,2026-04-18 18:04:10.662451+00:00,DESKTOP-7CV8A7M$,,,,2894,2,Normal process termination
+C:\Windows\System32\SearchFilterHost.exe,4689,2026-04-18 18:04:10.676374+00:00,DESKTOP-7CV8A7M$,,,,2895,2,Normal process termination
+C:\Windows\System32\SearchProtocolHost.exe,4689,2026-04-18 18:04:13.722475+00:00,DESKTOP-7CV8A7M$,,,,2896,2,Normal process termination
+,4688,2026-04-18 18:04:17.114395+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe -flow showtoast -checkup recoverability,2897,3,Taskhost launched by svchost
+,4688,2026-04-18 18:04:17.483238+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\backgroundTaskHost.exe"" -ServerName:Global.Accounts.AppXqe94epy97qwa6w3j6w132e8zvcs117nd.mca",2898,3,Background task launched by svchost
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:04:17.798582+00:00,pizza,,,,2899,2,Normal process termination
+,4688,2026-04-18 18:04:24.717440+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\appidcertstorecheck.exe""",2900,3,AppID cert check by svchost
+,4688,2026-04-18 18:04:24.731230+00:00,LOCAL SERVICE,-,C:\Windows\System32\appidcertstorecheck.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2901,3,Conhost launched by AppID cert check
+C:\Windows\System32\appidcertstorecheck.exe,4689,2026-04-18 18:04:24.900135+00:00,LOCAL SERVICE,,,,2902,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:04:24.904789+00:00,LOCAL SERVICE,,,,2903,2,Normal process termination
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,4689,2026-04-18 18:04:28.985132+00:00,pizza,,,,2904,2,Normal process termination
+C:\Windows\System32\wbem\WmiPrvSE.exe,4689,2026-04-18 18:04:37.191029+00:00,DESKTOP-7CV8A7M$,,,,2905,2,Normal process termination
+,4688,2026-04-18 18:04:59.029360+00:00,pizza,-,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,"""C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"" --type=renderer --pdf-upsell-enabled --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=41 --time-ticks-at-unix-epoch=-1776534064128359 --launch-time-ticks=1434844336 --ram-no-pressure-read-main-dll --metrics-shmem-handle=6756,i,7080311197841840381,14591345973283592871,2097152 --field-trial-handle=2284,i,7445214177790019479,381428523748705468,262144 --variations-seed-version --pseudonymization-salt-handle=2288,i,13510415274860347698,11705296152310878110,4 --trace-process-track-uuid=3190709024730587303 --mojo-platform-channel-handle=3976 /prefetch:1",2906,3,Complex command line
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,4689,2026-04-18 18:04:59.847408+00:00,pizza,,,,2907,2,Normal process termination
+,4688,2026-04-18 18:05:09.821304+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-1980105709-2548930214-1157036425-100112_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-1980105709-2548930214-1157036425-100112 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",2908,3,Search indexer command line
+C:\Windows\System32\backgroundTaskHost.exe,4689,2026-04-18 18:05:18.577606+00:00,pizza,,,,2909,2,Normal process termination
+C:\Windows\System32\svchost.exe,4689,2026-04-18 18:06:03.969383+00:00,DESKTOP-7CV8A7M$,,,,2910,2,Normal process termination
+,4688,2026-04-18 18:06:10.961908+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\usoclient.exe"" StartWork",2911,3,UsoClient launched by svchost
+,4688,2026-04-18 18:06:11.060799+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",2912,3,MoUsoCoreWorker launched by svchost
+C:\Windows\System32\services.exe,4624,2026-04-18 18:06:11.279886+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2913,2,Normal login event
+,4627,2026-04-18 18:06:11.279911+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2914,2,Normal group membership listed
+,4672,2026-04-18 18:06:11.279922+00:00,SYSTEM,,,,2915,2,Normal special privileges assigned
+,4688,2026-04-18 18:06:11.283091+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,2916,3,WaaSMedicSvc launched by svchost
+,4688,2026-04-18 18:06:11.605904+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",2917,3,Background task host launched by svchost
+,4688,2026-04-18 18:06:11.698605+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,2918,3,RuntimeBroker launched by svchost
+C:\Windows\System32\backgroundTaskHost.exe,4689,2026-04-18 18:06:11.934738+00:00,pizza,,,,2919,2,Normal process termination
+,4688,2026-04-18 18:06:11.963652+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,2920,3,Sppsvc launched by services
+C:\Windows\System32\UsoClient.exe,4689,2026-04-18 18:06:11.984922+00:00,DESKTOP-7CV8A7M$,,,,2921,2,Normal process termination
+,4688,2026-04-18 18:06:12.916897+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,C:\WINDOWS\uus\packages\preview\AMD64\MoNotificationUx.exe /ClearActiveNotifications /CV Fgzt8Y33PE2MCh+c.1.0.0,2922,3,MoNotificationUx launched by MoUsoCoreWorker
+C:\Windows\UUS\Packages\Preview\amd64\MoNotificationUx.exe,4689,2026-04-18 18:06:13.132143+00:00,pizza,,,,2923,2,Normal process termination
+,4688,2026-04-18 18:06:13.192938+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,2924,3,Wmiprvse launched by svchost
+C:\Windows\System32\sppsvc.exe,4689,2026-04-18 18:06:42.686155+00:00,DESKTOP-7CV8A7M$,,,,2925,2,Normal process termination
+,4688,2026-04-18 18:09:15.111467+00:00,-,-,,,2927,0,
+,4696,2026-04-18 18:09:15.111677+00:00,-,-,,,2928,0,
+,4826,2026-04-18 18:09:15.111681+00:00,-,,,,2929,0,
+,4688,2026-04-18 18:09:15.118732+00:00,-,-,,,2930,0,
+,4688,2026-04-18 18:09:16.002850+00:00,-,-,C:\Windows\System32\smss.exe,,2931,0,
+,4688,2026-04-18 18:09:16.622150+00:00,-,-,C:\Windows\System32\smss.exe,,2932,0,
+,4688,2026-04-18 18:09:16.737471+00:00,-,-,C:\Windows\System32\smss.exe,,2933,0,
+,4688,2026-04-18 18:09:16.858263+00:00,-,-,C:\Windows\System32\smss.exe,,2934,0,
+,4688,2026-04-18 18:09:16.864288+00:00,-,-,C:\Windows\System32\smss.exe,,2935,0,
+,4688,2026-04-18 18:09:16.875797+00:00,-,-,C:\Windows\System32\smss.exe,,2936,0,
+,4688,2026-04-18 18:09:16.905312+00:00,-,-,C:\Windows\System32\smss.exe,,2937,0,
+,4688,2026-04-18 18:09:17.076717+00:00,-,-,C:\Windows\System32\wininit.exe,,2938,0,
+,4688,2026-04-18 18:09:17.142672+00:00,-,-,C:\Windows\System32\wininit.exe,,2939,0,
+C:\Windows\System32\lsass.exe,6417,2026-04-18 18:09:17.247030+00:00,,,,,2940,0,
+,4608,2026-04-18 18:09:17.251343+00:00,,,,,2941,0,
+,4624,2026-04-18 18:09:17.260641+00:00,-,SYSTEM,,,2942,0,
+,4627,2026-04-18 18:09:17.260668+00:00,ANONYMOUS LOGON,SYSTEM,,,2943,0,
+,4902,2026-04-18 18:09:17.457876+00:00,,,,,2944,0,
+C:\Windows\System32\wininit.exe,4648,2026-04-18 18:09:17.525003+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2945,0,
+C:\Windows\System32\wininit.exe,4624,2026-04-18 18:09:17.525024+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2946,0,
+,4627,2026-04-18 18:09:17.525038+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2947,0,
+C:\Windows\System32\winlogon.exe,4648,2026-04-18 18:09:17.526369+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2948,0,
+C:\Windows\System32\winlogon.exe,4624,2026-04-18 18:09:17.526382+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2949,0,
+,4627,2026-04-18 18:09:17.526670+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2950,0,

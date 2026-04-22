@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+2943,6,Anonymous SYSTEM access
+2956,5,svchost launch from services
+2960,5,svchost launch from services
+2964,5,svchost launch from services
+2973,5,LogonUI.exe from winlogon

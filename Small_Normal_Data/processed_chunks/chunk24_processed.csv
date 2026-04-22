@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+,4688,2026-04-18 17:41:43.412064+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",1610,9,PowerShell used to manipulate security policies.
+,4688,2026-04-18 17:41:43.424170+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1611,3,Conhost forced version usage.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:43.426531+00:00,DESKTOP-7CV8A7M$,,,,1612,0,
+,4688,2026-04-18 17:41:44.142344+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1613,3,SecEdit used to export config.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:44.212811+00:00,DESKTOP-7CV8A7M$,,,,1614,0,
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:44.821407+00:00,DESKTOP-7CV8A7M$,,,,1615,0,
+,4688,2026-04-18 17:41:44.828815+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",1616,9,PowerShell used to manipulate security policies.
+,4688,2026-04-18 17:41:44.837496+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1617,3,Conhost forced version usage.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:44.839949+00:00,DESKTOP-7CV8A7M$,,,,1618,0,
+,4688,2026-04-18 17:41:45.547245+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1619,3,SecEdit used to export config.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:45.616678+00:00,DESKTOP-7CV8A7M$,,,,1620,0,
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:46.220463+00:00,DESKTOP-7CV8A7M$,,,,1621,0,
+,4688,2026-04-18 17:41:46.227425+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""ResetLockoutCount""; Remove-Item $env:TEMP\secpol.cfg",1622,9,PowerShell script altering account policies.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:46.228514+00:00,DESKTOP-7CV8A7M$,,,,1623,0,
+,4688,2026-04-18 17:41:46.241579+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1624,3,Conhost forced version usage.
+,4688,2026-04-18 17:41:46.953609+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1625,3,SecEdit used to export config.
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:47.021366+00:00,DESKTOP-7CV8A7M$,,,,1626,0,
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:47.568367+00:00,DESKTOP-7CV8A7M$,,,,1627,0,
+,4688,2026-04-18 17:41:47.575542+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell -NoProfile -Command ""[bool](Get-CimInstance -Query 'SELECT * FROM Win32_UserAccount WHERE LocalAccount = TRUE AND SID LIKE ''S-1-5-21-%-501''' | Where-Object -Property Disabled)""",1628,6,PowerShell querying local user accounts.
+,4688,2026-04-18 17:41:47.586836+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1629,3,Conhost forced version usage.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:47.589418+00:00,DESKTOP-7CV8A7M$,,,,1630,0,
+,4798,2026-04-18 17:41:49.339237+00:00,DESKTOP-7CV8A7M$,Administrator,,,1631,2,User account monitoring.
+,4798,2026-04-18 17:41:49.339434+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,1632,2,User account monitoring.
+,4798,2026-04-18 17:41:49.339582+00:00,DESKTOP-7CV8A7M$,Guest,,,1633,2,User account monitoring.
+,4798,2026-04-18 17:41:49.339783+00:00,DESKTOP-7CV8A7M$,pizza,,,1634,2,User account monitoring.
+,4798,2026-04-18 17:41:49.339962+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,1635,2,User account monitoring.
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:49.419619+00:00,DESKTOP-7CV8A7M$,,,,1636,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.429489+00:00,DESKTOP-7CV8A7M$,,,,1637,0,
+,4688,2026-04-18 17:41:49.431051+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,1638,5,Net user command executed.
+,4688,2026-04-18 17:41:49.441479+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1639,3,Conhost forced version usage.
+,4688,2026-04-18 17:41:49.480877+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,1640,5,Net user command executed.
+C:\Windows\SysWOW64\net1.exe,4689,2026-04-18 17:41:49.512238+00:00,DESKTOP-7CV8A7M$,,,,1641,0,
+C:\Windows\SysWOW64\net.exe,4689,2026-04-18 17:41:49.513664+00:00,DESKTOP-7CV8A7M$,,,,1642,0,
+,4688,2026-04-18 17:41:49.515619+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,net user,1643,5,Net user command executed.
+,4688,2026-04-18 17:41:49.522022+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1644,3,Conhost forced version usage.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.534031+00:00,DESKTOP-7CV8A7M$,,,,1645,0,
+,4688,2026-04-18 17:41:49.550684+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\net.exe,C:\WINDOWS\system32\net1 user,1646,5,Net user command executed.
+C:\Windows\SysWOW64\net1.exe,4689,2026-04-18 17:41:49.566071+00:00,DESKTOP-7CV8A7M$,,,,1647,0,
+C:\Windows\SysWOW64\net.exe,4689,2026-04-18 17:41:49.567343+00:00,DESKTOP-7CV8A7M$,,,,1648,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.571890+00:00,DESKTOP-7CV8A7M$,,,,1649,0,
+,4688,2026-04-18 17:41:49.574974+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticetext,1650,6,Registry query for legal notice text.
+,4688,2026-04-18 17:41:49.586256+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1651,3,Conhost forced version usage.
+C:\Windows\SysWOW64\reg.exe,4689,2026-04-18 17:41:49.613682+00:00,DESKTOP-7CV8A7M$,,,,1652,0,
+,4688,2026-04-18 17:41:49.615923+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v legalnoticecaption,1653,6,Registry query for legal notice caption.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.620691+00:00,DESKTOP-7CV8A7M$,,,,1654,0,
+,4688,2026-04-18 17:41:49.624908+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\reg.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1655,3,Conhost forced version usage.
+C:\Windows\SysWOW64\reg.exe,4689,2026-04-18 17:41:49.648331+00:00,DESKTOP-7CV8A7M$,,,,1656,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.664816+00:00,DESKTOP-7CV8A7M$,,,,1657,0,
+,4688,2026-04-18 17:41:49.668587+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Credential Validation""",1658,6,Audit policy query for credential validation.
+,4688,2026-04-18 17:41:49.676416+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1659,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.715212+00:00,DESKTOP-7CV8A7M$,,,,1660,0,
+,4688,2026-04-18 17:41:49.717472+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Application Group Management""",1661,6,Audit policy query for app group management.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.720085+00:00,DESKTOP-7CV8A7M$,,,,1662,0,
+,4688,2026-04-18 17:41:49.724998+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1663,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.751812+00:00,DESKTOP-7CV8A7M$,,,,1664,0,
+,4688,2026-04-18 17:41:49.754044+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security Group Management""",1665,6,Audit policy query for security group management.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.756166+00:00,DESKTOP-7CV8A7M$,,,,1666,0,
+,4688,2026-04-18 17:41:49.760347+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1667,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.787611+00:00,DESKTOP-7CV8A7M$,,,,1668,0,
+,4688,2026-04-18 17:41:49.789783+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""User Account Management""",1669,6,Audit policy query for user account management.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.791883+00:00,DESKTOP-7CV8A7M$,,,,1670,0,
+,4688,2026-04-18 17:41:49.796600+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1671,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.826347+00:00,DESKTOP-7CV8A7M$,,,,1672,0,
+,4688,2026-04-18 17:41:49.828688+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Plug and Play Events""",1673,6,Audit policy query for plug and play events.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.830727+00:00,DESKTOP-7CV8A7M$,,,,1674,0,
+,4688,2026-04-18 17:41:49.834949+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1675,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.862381+00:00,DESKTOP-7CV8A7M$,,,,1676,0,
+,4688,2026-04-18 17:41:49.864676+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Process Creation""",1677,6,Audit policy query for process creation.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.866976+00:00,DESKTOP-7CV8A7M$,,,,1678,0,
+,4688,2026-04-18 17:41:49.872854+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1679,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.899174+00:00,DESKTOP-7CV8A7M$,,,,1680,0,
+,4688,2026-04-18 17:41:49.901283+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Account Lockout""",1681,6,Audit policy query for account lockout.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.903450+00:00,DESKTOP-7CV8A7M$,,,,1682,0,
+,4688,2026-04-18 17:41:49.907520+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1683,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.932510+00:00,DESKTOP-7CV8A7M$,,,,1684,0,
+,4688,2026-04-18 17:41:49.934717+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Group Membership""",1685,6,Audit policy query for group membership.
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:49.935034+00:00,DESKTOP-7CV8A7M$,,,,1686,0,
+,4688,2026-04-18 17:41:49.944862+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1687,3,Conhost forced version usage.
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:49.970720+00:00,DESKTOP-7CV8A7M$,,,,1688,0,
+,4688,2026-04-18 17:41:49.973373+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Logoff""",1689,6,Audit policy query for logoff events.

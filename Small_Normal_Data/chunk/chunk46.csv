@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+,4688,2026-04-18 18:09:29.101974+00:00,DESKTOP-7CV8A7M$,-,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man""",3150
+,4688,2026-04-18 18:09:29.104368+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3151
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:29.104944+00:00,DESKTOP-7CV8A7M$,,,,3152
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 18:09:29.218807+00:00,DESKTOP-7CV8A7M$,,,,3153
+,4688,2026-04-18 18:09:29.226585+00:00,DESKTOP-7CV8A7M$,-,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll""",3154
+,4688,2026-04-18 18:09:29.229092+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3155
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:29.229584+00:00,DESKTOP-7CV8A7M$,,,,3156
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 18:09:29.308382+00:00,DESKTOP-7CV8A7M$,,,,3157
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:29.316942+00:00,DESKTOP-7CV8A7M$,,,,3158
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:29.375191+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3159
+,4627,2026-04-18 18:09:29.375200+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3160
+,4672,2026-04-18 18:09:29.375210+00:00,SYSTEM,,,,3161
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:29.375370+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3162
+,4627,2026-04-18 18:09:29.375383+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3163
+,4672,2026-04-18 18:09:29.375399+00:00,SYSTEM,,,,3164
+,4688,2026-04-18 18:09:29.377985+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wsappx -p -s AppXSvc,3165
+,4688,2026-04-18 18:09:29.378765+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k osprivacy -p -s camsvc,3166
+,4799,2026-04-18 18:09:29.531021+00:00,DESKTOP-7CV8A7M$,Administrators,,,3167
+,4688,2026-04-18 18:09:29.579920+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k WSAIFabricSvcGroup -p -s WSAIFabricSvc,3168
+,4688,2026-04-18 18:09:30.455847+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,AggregatorHost.exe,3169
+,4688,2026-04-18 18:09:31.385960+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,3170
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:31.512711+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3171
+,4627,2026-04-18 18:09:31.512718+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3172
+,4672,2026-04-18 18:09:31.512726+00:00,SYSTEM,,,,3173
+,4688,2026-04-18 18:09:31.515741+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\servicing\TrustedInstaller.exe,3174
+,4688,2026-04-18 18:09:31.582766+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\wermgr.exe"" -upload",3175
+,4688,2026-04-18 18:09:31.606989+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe -Embedding,3176
+,5024,2026-04-18 18:09:31.612217+00:00,,,,,3177
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:32.876499+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3178
+,4627,2026-04-18 18:09:32.876511+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3179
+,4672,2026-04-18 18:09:32.876518+00:00,SYSTEM,,,,3180
+,4688,2026-04-18 18:09:32.877615+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost,3181
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:32.932810+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3182
+,4627,2026-04-18 18:09:32.932819+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3183
+,4672,2026-04-18 18:09:32.932827+00:00,SYSTEM,,,,3184
+,4688,2026-04-18 18:09:32.934208+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc,3185
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:33.270166+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3186
+,4627,2026-04-18 18:09:33.270178+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3187
+,4672,2026-04-18 18:09:33.270187+00:00,SYSTEM,,,,3188
+,4688,2026-04-18 18:09:33.271296+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv,3189
+,4688,2026-04-18 18:09:33.812092+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3190
+,4798,2026-04-18 18:09:34.457821+00:00,DESKTOP-7CV8A7M$,Administrator,,,3191
+,4798,2026-04-18 18:09:34.459509+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3192
+,4798,2026-04-18 18:09:34.460886+00:00,DESKTOP-7CV8A7M$,Guest,,,3193
+,4798,2026-04-18 18:09:34.462255+00:00,DESKTOP-7CV8A7M$,pizza,,,3194
+,4798,2026-04-18 18:09:34.463907+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,3195
+,4798,2026-04-18 18:09:34.464836+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,3196
+,4798,2026-04-18 18:09:34.466942+00:00,DESKTOP-7CV8A7M$,Administrator,,,3197
+,4798,2026-04-18 18:09:34.467384+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3198
+,4798,2026-04-18 18:09:34.467894+00:00,DESKTOP-7CV8A7M$,Guest,,,3199
+,4798,2026-04-18 18:09:34.468342+00:00,DESKTOP-7CV8A7M$,pizza,,,3200
+,4798,2026-04-18 18:09:34.468876+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,3201
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:09:34.490374+00:00,LOCAL SERVICE,,,,3202
+C:\Windows\System32\dxgiadaptercache.exe,4689,2026-04-18 18:09:37.354359+00:00,DESKTOP-7CV8A7M$,,,,3203
+C:\Windows\System32\ClipRenew.exe,4689,2026-04-18 18:09:37.798210+00:00,DESKTOP-7CV8A7M$,,,,3204
+,4688,2026-04-18 18:09:38.216705+00:00,DESKTOP-7CV8A7M$,-,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpCmdRun.exe"" -RegisterWmiSchema -Root ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0""",3205
+,4688,2026-04-18 18:09:38.223982+00:00,DESKTOP-7CV8A7M$,-,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3206
+,4688,2026-04-18 18:09:38.438408+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",3207
+,4688,2026-04-18 18:09:38.492666+00:00,DESKTOP-7CV8A7M$,-,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpCmdRun.exe,"C:\WINDOWS\system32\wbem\mofcomp.exe ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\ProtectionManagement.mof""",3208
+,4688,2026-04-18 18:09:38.497646+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wbem\mofcomp.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3209
+,4688,2026-04-18 18:09:39.011015+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,3210
+C:\Windows\System32\wbem\mofcomp.exe,4689,2026-04-18 18:09:39.115995+00:00,DESKTOP-7CV8A7M$,,,,3211
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:39.118389+00:00,DESKTOP-7CV8A7M$,,,,3212
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpCmdRun.exe,4689,2026-04-18 18:09:39.146116+00:00,DESKTOP-7CV8A7M$,,,,3213
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:09:39.148104+00:00,DESKTOP-7CV8A7M$,,,,3214
+,4688,2026-04-18 18:09:39.498016+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\SppExtComObj.exe -Embedding,3215
+,4688,2026-04-18 18:09:39.535868+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\SppExtComObj.Exe,"""C:\WINDOWS\System32\SLUI.exe"" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8;NotificationInterval=1440;Trigger=NetworkAvailable",3216
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:09:39.607576+00:00,DESKTOP-7CV8A7M$,,,,3217
+,4688,2026-04-18 18:09:39.837061+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalService -p -s LicenseManager,3218
+C:\Windows\System32\wermgr.exe,4689,2026-04-18 18:09:39.900967+00:00,DESKTOP-7CV8A7M$,,,,3219
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:39.951401+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3220
+,4627,2026-04-18 18:09:39.951410+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3221
+,4672,2026-04-18 18:09:39.951418+00:00,SYSTEM,,,,3222
+,4688,2026-04-18 18:09:39.953299+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k wsappx -p -s ClipSVC,3223
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:40.112888+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3224
+,4627,2026-04-18 18:09:40.112898+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3225
+,4672,2026-04-18 18:09:40.112906+00:00,SYSTEM,,,,3226
+,4688,2026-04-18 18:09:40.114183+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,3227
+C:\Windows\System32\slui.exe,4689,2026-04-18 18:09:40.486542+00:00,DESKTOP-7CV8A7M$,,,,3228
+,4688,2026-04-18 18:09:41.515131+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",3229

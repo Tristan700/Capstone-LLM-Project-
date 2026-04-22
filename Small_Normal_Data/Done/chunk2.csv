@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+,4688,2026-04-18 17:00:01.381721+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule,71
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:01.495840+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,72
+,4627,2026-04-18 17:00:01.495852+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,73
+,4672,2026-04-18 17:00:01.495859+00:00,SYSTEM,,,,74
+,4688,2026-04-18 17:00:01.498091+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UserProfileService -p -s ProfSvc,75
+,4688,2026-04-18 17:00:01.501848+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc,76
+,4688,2026-04-18 17:00:01.557415+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s nsi,77
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:01.712605+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,78
+,4627,2026-04-18 17:00:01.712614+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,79
+,4672,2026-04-18 17:00:01.712622+00:00,SYSTEM,,,,80
+,4688,2026-04-18 17:00:01.715626+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UserManager,81
+,4688,2026-04-18 17:00:01.747215+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netprofm -p -s netprofm,82
+,4688,2026-04-18 17:00:01.833189+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\Upfc.exe /launchtype boot /cv v/EzVqK6F0+8PY+pA6p9lg.0,83
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:01.873274+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,84
+,4627,2026-04-18 17:00:01.873283+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,85
+,4672,2026-04-18 17:00:01.873291+00:00,SYSTEM,,,,86
+,4688,2026-04-18 17:00:01.875917+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -s WPDBusEnum,87
+,4688,2026-04-18 17:00:02.112688+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe ExploitGuardPolicy,88
+C:\Windows\System32\upfc.exe,4689,2026-04-18 17:00:02.128349+00:00,DESKTOP-7CV8A7M$,,,,89
+,4688,2026-04-18 17:00:02.159670+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,90
+,4688,2026-04-18 17:00:02.210493+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceRedirectionGuard -p -s EventSystem,91
+,4688,2026-04-18 17:00:02.219648+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",92
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:02.237970+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,93
+,4627,2026-04-18 17:00:02.237978+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,94
+,4672,2026-04-18 17:00:02.237988+00:00,SYSTEM,,,,95
+,4688,2026-04-18 17:00:02.239664+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain,96
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:02.265320+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,97
+,4627,2026-04-18 17:00:02.265327+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,98
+,4672,2026-04-18 17:00:02.265383+00:00,SYSTEM,,,,99
+,4688,2026-04-18 17:00:02.266638+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s Themes,100
+,4688,2026-04-18 17:00:02.353346+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,101
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:02.381279+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,102
+,4627,2026-04-18 17:00:02.381289+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,103
+,4672,2026-04-18 17:00:02.381296+00:00,SYSTEM,,,,104
+,4688,2026-04-18 17:00:02.383619+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s SENS,105
+,1101,2026-04-18 17:00:02.450777+00:00,,,,,0
+,4688,2026-04-18 17:00:02.628826+00:00,DESKTOP-7CV8A7M$,-,,,106
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:02.717216+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,107
+,4627,2026-04-18 17:00:02.717228+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,108
+,4672,2026-04-18 17:00:02.717236+00:00,SYSTEM,,,,109
+,4688,2026-04-18 17:00:02.720394+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder,110
+,4688,2026-04-18 17:00:02.746378+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s FontCache,111
+,4799,2026-04-18 17:00:02.858181+00:00,DESKTOP-7CV8A7M$,Administrators,,,112
+,4688,2026-04-18 17:00:03.123129+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp,113
+,4688,2026-04-18 17:00:03.175611+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p,114
+,6416,2026-04-18 17:00:03.233776+00:00,DESKTOP-7CV8A7M$,,,,115
+,6416,2026-04-18 17:00:03.235075+00:00,DESKTOP-7CV8A7M$,,,,116
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:03.486105+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,117
+,4627,2026-04-18 17:00:03.486113+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,118
+,4672,2026-04-18 17:00:03.486120+00:00,SYSTEM,,,,119
+,4688,2026-04-18 17:00:03.487400+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TextInputManagementService,120
+,4688,2026-04-18 17:00:03.719692+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc,121
+,4798,2026-04-18 17:00:03.946405+00:00,DESKTOP-7CV8A7M$,pizza,,,122
+,4688,2026-04-18 17:00:04.207367+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc,123
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:04.223642+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,124
+,4627,2026-04-18 17:00:04.223654+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,125
+,4672,2026-04-18 17:00:04.223661+00:00,SYSTEM,,,,126
+,4688,2026-04-18 17:00:04.225241+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s NgcSvc,127
+,4688,2026-04-18 17:00:04.418922+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p,128
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:04.683928+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,129
+,4627,2026-04-18 17:00:04.683937+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,130
+,4672,2026-04-18 17:00:04.683945+00:00,SYSTEM,,,,131
+,4688,2026-04-18 17:00:04.686171+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository,132
+,4688,2026-04-18 17:00:04.698877+00:00,LOCAL SERVICE,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\AUDIODG.EXE 0x000000000000044C 0x0000000000000448,133
+,4688,2026-04-18 17:00:04.766100+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s NgcCtnrSvc,134
+,4688,2026-04-18 17:00:04.866228+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc,135
+,4688,2026-04-18 17:00:06.143677+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,/QuitInfo:00000000000002A4;00000000000002A8; ,136
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:06.241930+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,137
+,4627,2026-04-18 17:00:06.241941+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,138
+,4672,2026-04-18 17:00:06.241949+00:00,SYSTEM,,,,139
+,4688,2026-04-18 17:00:06.243759+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s ShellHWDetection,140
+,4688,2026-04-18 17:00:06.452986+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\svchost.exe,taskhostw.exe TimeSyncTask,141
+,4688,2026-04-18 17:00:06.663021+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\ClipRenew.exe"" -e",142
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:06.873495+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,143
+,4627,2026-04-18 17:00:06.873503+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,144
+,4672,2026-04-18 17:00:06.873512+00:00,SYSTEM,,,,145
+,4688,2026-04-18 17:00:06.900536+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\spoolsv.exe,146
+,4688,2026-04-18 17:00:07.154615+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p,147
+,5033,2026-04-18 17:00:07.192442+00:00,,,,,148
+,4688,2026-04-18 17:00:07.257452+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation,149

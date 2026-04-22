@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+,4634,2026-04-18 17:00:11.329390+00:00,,pizza,,,210,0,
+,4799,2026-04-18 17:00:11.499603+00:00,DESKTOP-7CV8A7M$,Administrators,,,211,3,Targeting Administrators group
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:11.623928+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,212,0,
+,4627,2026-04-18 17:00:11.623940+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,213,0,
+,4672,2026-04-18 17:00:11.623949+00:00,SYSTEM,,,,214,0,
+,4688,2026-04-18 17:00:11.626144+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k CameraMonitor,215,5,CameraMonitor service unusual
+,4688,2026-04-18 17:00:11.731298+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,sihost.exe,216,6,sihost unusual execution
+,4688,2026-04-18 17:00:11.767412+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc,217,6,UnistackSvcGroup unusual
+,4688,2026-04-18 17:00:11.922628+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc,218,6,webthreatdefusersvc suspicious
+,4688,2026-04-18 17:00:12.011374+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService,219,6,UnistackSvcGroup unusual
+,4688,2026-04-18 17:00:12.139133+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe,220,5,taskhostw.exe unusual execution
+,4688,2026-04-18 17:00:12.143480+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",221,5,EdgeUpdate in command
+,4688,2026-04-18 17:00:12.182564+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},222,5,taskhostw.exe unusual execution
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:12.305796+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,223,0,
+,4627,2026-04-18 17:00:12.305807+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,224,0,
+,4672,2026-04-18 17:00:12.305815+00:00,SYSTEM,,,,225,0,
+,4688,2026-04-18 17:00:12.310684+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,226,5,TokenBroker service unusual
+,4688,2026-04-18 17:00:12.482397+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe,227,5,taskhostw.exe unusual execution
+,4688,2026-04-18 17:00:13.345257+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,228,5,sppsvc.exe unusual execution
+,4688,2026-04-18 17:00:13.788744+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\winlogon.exe,C:\WINDOWS\system32\userinit.exe,229,6,userinit.exe unusual execution
+,5058,2026-04-18 17:00:13.789263+00:00,pizza,,,,230,0,
+,5061,2026-04-18 17:00:13.790165+00:00,pizza,,,,231,0,
+,5059,2026-04-18 17:00:13.790768+00:00,pizza,,,,232,0,
+,4688,2026-04-18 17:00:13.815029+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc,233,5,CDPSvc service unusual
+,4688,2026-04-18 17:00:13.874262+00:00,pizza,-,C:\Windows\System32\userinit.exe,C:\WINDOWS\Explorer.EXE,234,6,Explorer.EXE unusual execution
+,4688,2026-04-18 17:00:14.271229+00:00,pizza,-,C:\Windows\System32\sihost.exe,"""C:\Windows\System32\ShellHost.exe""",235,6,ShellHost.exe unusual execution
+,5058,2026-04-18 17:00:14.312683+00:00,LOCAL SERVICE,,,,236,0,
+,5061,2026-04-18 17:00:14.313286+00:00,LOCAL SERVICE,,,,237,0,
+,5059,2026-04-18 17:00:14.315557+00:00,LOCAL SERVICE,,,,238,0,
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:00:14.541832+00:00,pizza,,,,239,5,taskhostw.exe unusual termination
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:14.804102+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,240,0,
+,4627,2026-04-18 17:00:14.804113+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,241,0,
+,4672,2026-04-18 17:00:14.804123+00:00,SYSTEM,,,,242,0,
+,4688,2026-04-18 17:00:14.806664+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k AppReadiness -p -s AppReadiness,243,5,AppReadiness service unusual
+,4688,2026-04-18 17:00:15.140560+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,AggregatorHost.exe,244,5,AggregatorHost.exe unusual execution
+,4688,2026-04-18 17:00:15.271801+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\SppExtComObj.exe -Embedding,245,5,SppExtComObj.exe unusual execution
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:16.225208+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,246,0,
+,4627,2026-04-18 17:00:16.225218+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,247,0,
+,4672,2026-04-18 17:00:16.225227+00:00,SYSTEM,,,,248,0,
+,4688,2026-04-18 17:00:16.227293+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo,249,5,Appinfo service unusual
+,4688,2026-04-18 17:00:16.243160+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\SppExtComObj.Exe,"""C:\WINDOWS\System32\SLUI.exe"" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8;NotificationInterval=1440;Trigger=UserLogon;SessionId=1",250,5,SLUI.exe unusual execution
+,4688,2026-04-18 17:00:16.444477+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\System32\slui.exe -Embedding,251,5,slui.exe unusual execution
+,4688,2026-04-18 17:00:16.738007+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\sihost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"" /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp",252,6,CrossDeviceResume.exe unusual
+,4688,2026-04-18 17:00:16.806320+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",253,5,EdgeUpdate unusual execution
+,4688,2026-04-18 17:00:16.923738+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\wermgr.exe"" -upload",254,5,wermgr.exe unusual execution
+,5024,2026-04-18 17:00:17.055456+00:00,,,,,255,0,
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:17.859735+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,256,0,
+,4627,2026-04-18 17:00:17.859743+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,257,0,
+,4672,2026-04-18 17:00:17.859770+00:00,SYSTEM,,,,258,0,
+,4688,2026-04-18 17:00:17.860922+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wlidsvc,259,5,wlidsvc service unusual
+,4688,2026-04-18 17:00:17.923391+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /svc",260,5,EdgeUpdate service unusual
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:18.523890+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,261,0,
+,4627,2026-04-18 17:00:18.523899+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,262,0,
+,4672,2026-04-18 17:00:18.523907+00:00,SYSTEM,,,,263,0,
+,4688,2026-04-18 17:00:18.524942+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost,264,5,WdiSystemHost service unusual
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:18.585135+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,265,0,
+,4627,2026-04-18 17:00:18.585144+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,266,0,
+,4672,2026-04-18 17:00:18.585163+00:00,SYSTEM,,,,267,0,
+,4688,2026-04-18 17:00:18.586390+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p,268,5,netsvcs service unusual
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:18.727648+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,269,0,
+,4627,2026-04-18 17:00:18.727657+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,270,0,
+,4672,2026-04-18 17:00:18.727665+00:00,SYSTEM,,,,271,0,
+,4688,2026-04-18 17:00:18.728870+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc,272,5,PcaSvc service unusual
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:19.015619+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,273,0,
+,4627,2026-04-18 17:00:19.015629+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,274,0,
+,4672,2026-04-18 17:00:19.015640+00:00,SYSTEM,,,,275,0,
+,4688,2026-04-18 17:00:19.016821+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv,276,5,wuauserv service unusual
+,4799,2026-04-18 17:00:19.633795+00:00,DESKTOP-7CV8A7M$,Administrators,,,277,3,Targeting Administrators group
+,6416,2026-04-18 17:00:19.720306+00:00,DESKTOP-7CV8A7M$,,,,278,0,
+C:\Windows\System32\services.exe,4624,2026-04-18 17:00:20.633768+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,279,0,
+,4627,2026-04-18 17:00:20.633778+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,280,0,
+,4672,2026-04-18 17:00:20.633787+00:00,SYSTEM,,,,281,0,
+,4688,2026-04-18 17:00:20.635712+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k wsappx -p -s ClipSVC,282,5,ClipSVC service unusual
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:00:21.508005+00:00,pizza,,,,283,5,taskhostw.exe unusual termination
+,4688,2026-04-18 17:00:21.554434+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"C:\WINDOWS\system32\rundll32.exe C:\WINDOWS\system32\AppXDeploymentExtensions.OneCore.dll,ShellRefresh",284,6,rundll32.exe unusual execution
+,4688,2026-04-18 17:00:22.064787+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc,285,6,ClipboardSvcGroup unusual
+,4688,2026-04-18 17:00:22.865353+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},286,6,DllHost.exe unusual execution
+,4688,2026-04-18 17:00:22.987778+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p,287,5,NetworkService unusual
+,4688,2026-04-18 17:00:23.306419+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{69B7FE84-6361-4423-B948-1D64820B1E96},288,6,DllHost.exe unusual execution
+,4688,2026-04-18 17:00:23.980505+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"" -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca",289,6,SearchHost.exe unusual execution

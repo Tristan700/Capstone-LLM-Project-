@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+,4798,2026-04-18 18:10:18.115763+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3500
+,4798,2026-04-18 18:10:18.116234+00:00,DESKTOP-7CV8A7M$,Guest,,,3501
+,4798,2026-04-18 18:10:18.116590+00:00,DESKTOP-7CV8A7M$,pizza,,,3502
+,4798,2026-04-18 18:10:18.129107+00:00,DESKTOP-7CV8A7M$,Administrator,,,3503
+,4798,2026-04-18 18:10:18.129587+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3504
+,4798,2026-04-18 18:10:18.129923+00:00,DESKTOP-7CV8A7M$,Guest,,,3505
+,4798,2026-04-18 18:10:18.130316+00:00,DESKTOP-7CV8A7M$,pizza,,,3506
+,4688,2026-04-18 18:10:18.436926+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\SppExtComObj.Exe,"""C:\WINDOWS\System32\SLUI.exe"" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8;NotificationInterval=1440;Trigger=UserLogon;SessionId=1",3507
+,4688,2026-04-18 18:10:18.505182+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\System32\slui.exe -Embedding,3508
+C:\Windows\System32\BdeUISrv.exe,4689,2026-04-18 18:10:18.766891+00:00,pizza,,,,3509
+,6416,2026-04-18 18:10:18.946657+00:00,DESKTOP-7CV8A7M$,,,,3510
+,4688,2026-04-18 18:10:19.009609+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CloudBackupRestoreSvc,3511
+,4688,2026-04-18 18:10:19.849724+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},3512
+,4688,2026-04-18 18:10:19.920229+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3513
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe,4689,2026-04-18 18:10:20.005980+00:00,pizza,,,,3514
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.070215+00:00,pizza,,,,3515
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.093739+00:00,pizza,,,,3516
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.096306+00:00,pizza,,,,3517
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.097023+00:00,pizza,,,,3518
+,4688,2026-04-18 18:10:20.200636+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",3519
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:10:20.818071+00:00,pizza,,,,3520
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.919291+00:00,pizza,,,,3521
+C:\Program Files (x86)\Microsoft\EdgeWebView\Application\147.0.3912.72\msedgewebview2.exe,4689,2026-04-18 18:10:20.921480+00:00,pizza,,,,3522
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:20.933544+00:00,DESKTOP-7CV8A7M$,,,,3523
+C:\Windows\System32\slui.exe,4689,2026-04-18 18:10:21.119263+00:00,pizza,,,,3524
+C:\Windows\System32\slui.exe,4689,2026-04-18 18:10:21.122627+00:00,DESKTOP-7CV8A7M$,,,,3525
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:10:21.180159+00:00,DESKTOP-7CV8A7M$,,,,3526
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.203833+00:00,DESKTOP-7CV8A7M$,,,,3527
+,4688,2026-04-18 18:10:21.207275+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Authentication Policy Change""",3528
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.214615+00:00,DESKTOP-7CV8A7M$,,,,3529
+,4688,2026-04-18 18:10:21.235798+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3530
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.279627+00:00,DESKTOP-7CV8A7M$,,,,3531
+,4688,2026-04-18 18:10:21.282509+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Authorization Policy Change""",3532
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.285141+00:00,DESKTOP-7CV8A7M$,,,,3533
+,4688,2026-04-18 18:10:21.291523+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3534
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.327356+00:00,DESKTOP-7CV8A7M$,,,,3535
+,4688,2026-04-18 18:10:21.330265+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""MPSSVC Rule-Level Policy Change""",3536
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.333223+00:00,DESKTOP-7CV8A7M$,,,,3537
+,4688,2026-04-18 18:10:21.341745+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3538
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.373373+00:00,DESKTOP-7CV8A7M$,,,,3539
+,4688,2026-04-18 18:10:21.375982+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Other Policy Change Events""",3540
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.378735+00:00,DESKTOP-7CV8A7M$,,,,3541
+,4688,2026-04-18 18:10:21.384836+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3542
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.418409+00:00,DESKTOP-7CV8A7M$,,,,3543
+,4688,2026-04-18 18:10:21.421074+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Sensitive Privilege Use""",3544
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.423595+00:00,DESKTOP-7CV8A7M$,,,,3545
+,4688,2026-04-18 18:10:21.429369+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3546
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.470947+00:00,DESKTOP-7CV8A7M$,,,,3547
+,4688,2026-04-18 18:10:21.475700+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""IPsec Driver""",3548
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.478767+00:00,DESKTOP-7CV8A7M$,,,,3549
+,4688,2026-04-18 18:10:21.486258+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3550
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.524426+00:00,DESKTOP-7CV8A7M$,,,,3551
+,4688,2026-04-18 18:10:21.527485+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Other System Events""",3552
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.531788+00:00,DESKTOP-7CV8A7M$,,,,3553
+,4688,2026-04-18 18:10:21.537756+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3554
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.577436+00:00,DESKTOP-7CV8A7M$,,,,3555
+,4688,2026-04-18 18:10:21.580370+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security State Change""",3556
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.583139+00:00,DESKTOP-7CV8A7M$,,,,3557
+,4688,2026-04-18 18:10:21.589077+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3558
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.625177+00:00,DESKTOP-7CV8A7M$,,,,3559
+,4688,2026-04-18 18:10:21.628323+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security System Extension""",3560
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.630968+00:00,DESKTOP-7CV8A7M$,,,,3561
+,4688,2026-04-18 18:10:21.636932+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3562
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.671724+00:00,DESKTOP-7CV8A7M$,,,,3563
+,4688,2026-04-18 18:10:21.674793+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""System Integrity""",3564
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.677759+00:00,DESKTOP-7CV8A7M$,,,,3565
+,4688,2026-04-18 18:10:21.683475+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,3566
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 18:10:21.732016+00:00,DESKTOP-7CV8A7M$,,,,3567
+,4799,2026-04-18 18:10:21.741327+00:00,pizza,Administrators,,,3568
+C:\Windows\System32\conhost.exe,4689,2026-04-18 18:10:21.776285+00:00,DESKTOP-7CV8A7M$,,,,3569
+C:\Windows\System32\dxgiadaptercache.exe,4689,2026-04-18 18:10:21.800339+00:00,DESKTOP-7CV8A7M$,,,,3570
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 18:10:21.998188+00:00,pizza,,,,3571
+C:\Windows\System32\dllhost.exe,4689,2026-04-18 18:10:22.255178+00:00,pizza,,,,3572
+C:\Windows\System32\dllhost.exe,4689,2026-04-18 18:10:22.520250+00:00,pizza,,,,3573
+,4798,2026-04-18 18:10:22.845652+00:00,DESKTOP-7CV8A7M$,Administrator,,,3574
+,4798,2026-04-18 18:10:22.846485+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3575
+,4798,2026-04-18 18:10:22.846844+00:00,DESKTOP-7CV8A7M$,Guest,,,3576
+,4798,2026-04-18 18:10:22.847261+00:00,DESKTOP-7CV8A7M$,pizza,,,3577
+,4798,2026-04-18 18:10:22.854822+00:00,DESKTOP-7CV8A7M$,Administrator,,,3578
+,4798,2026-04-18 18:10:22.855141+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,3579

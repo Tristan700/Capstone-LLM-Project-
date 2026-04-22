@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+,4688,2026-04-18 17:03:16.190083+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent""\* /grant *S-1-5-11:RX",700,8,Permission modification via icacls
+,4688,2026-04-18 17:03:16.218849+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,701,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.314026+00:00,DESKTOP-7CV8A7M$,,,,702,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.318958+00:00,DESKTOP-7CV8A7M$,,,,703,2,Normal process termination
+,4688,2026-04-18 17:03:16.339430+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent"" /grant *S-1-5-11:RX",704,8,Permission modification via icacls
+,4688,2026-04-18 17:03:16.346216+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,705,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.406487+00:00,DESKTOP-7CV8A7M$,,,,706,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.413233+00:00,DESKTOP-7CV8A7M$,,,,707,2,Normal process termination
+,4688,2026-04-18 17:03:16.422434+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\*ossec.conf"" /remove *S-1-5-11 /q",708,9,Critical file permission removal
+,4688,2026-04-18 17:03:16.428007+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,709,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.462271+00:00,DESKTOP-7CV8A7M$,,,,710,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.468744+00:00,DESKTOP-7CV8A7M$,,,,711,2,Normal process termination
+,4688,2026-04-18 17:03:16.479996+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\client.keys"" /remove *S-1-5-11 /q",712,9,Critical file permission removal
+,4688,2026-04-18 17:03:16.489191+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,713,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.527512+00:00,DESKTOP-7CV8A7M$,,,,714,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.534409+00:00,DESKTOP-7CV8A7M$,,,,715,2,Normal process termination
+,4688,2026-04-18 17:03:16.547453+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\authd.pass"" /remove *S-1-5-11 /q",716,9,Critical file permission removal
+,4688,2026-04-18 17:03:16.555786+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,717,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.608925+00:00,DESKTOP-7CV8A7M$,,,,718,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.614147+00:00,DESKTOP-7CV8A7M$,,,,719,2,Normal process termination
+,4688,2026-04-18 17:03:16.631689+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\msiexec.exe,"""C:\Windows\SysWOW64\icacls.exe"" ""C:\Program Files (x86)\ossec-agent\tmp"" /remove:g *S-1-5-11 /q",720,9,Critical file permission removal
+,4688,2026-04-18 17:03:16.640676+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\icacls.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,721,3,Conhost executed with flags
+C:\Windows\SysWOW64\icacls.exe,4689,2026-04-18 17:03:16.690903+00:00,DESKTOP-7CV8A7M$,,,,722,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:16.703138+00:00,DESKTOP-7CV8A7M$,,,,723,2,Normal process termination
+C:\Windows\SysWOW64\msiexec.exe,4689,2026-04-18 17:03:16.739702+00:00,DESKTOP-7CV8A7M$,,,,724,2,Normal process termination
+C:\Windows\SysWOW64\msiexec.exe,4689,2026-04-18 17:03:16.743061+00:00,pizza,,,,725,2,Normal process termination
+C:\Windows\System32\msiexec.exe,4689,2026-04-18 17:03:16.751730+00:00,pizza,,,,726,2,Normal process termination
+,4688,2026-04-18 17:03:16.837318+00:00,LOCAL SERVICE,-,C:\Windows\System32\appidcertstorecheck.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,727,3,Conhost executed with flags
+C:\Windows\System32\svchost.exe,4689,2026-04-18 17:03:17.818008+00:00,DESKTOP-7CV8A7M$,,,,728,2,Normal process termination
+,4688,2026-04-18 17:03:18.793184+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW,729,3,Software inventory update
+,4688,2026-04-18 17:03:18.809149+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\CompatTelRunner.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,730,3,Conhost executed with flags
+C:\Windows\System32\CompatTelRunner.exe,4689,2026-04-18 17:03:19.004684+00:00,DESKTOP-7CV8A7M$,,,,731,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:19.055660+00:00,DESKTOP-7CV8A7M$,,,,732,2,Normal process termination
+,4688,2026-04-18 17:03:20.932264+00:00,pizza,-,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\net.exe"" START Wazuh",733,5,Wazuh service start command
+,4688,2026-04-18 17:03:20.952930+00:00,pizza,-,C:\Windows\System32\net.exe,C:\WINDOWS\system32\net1 START Wazuh,734,5,Wazuh service start command
+,4799,2026-04-18 17:03:20.988176+00:00,pizza,Administrators,,,735,6,User added to Administrators
+C:\Windows\System32\dllhost.exe,4689,2026-04-18 17:03:21.116226+00:00,pizza,,,,736,2,Normal process termination
+,4688,2026-04-18 17:03:21.638859+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,"""C:\Program Files (x86)\ossec-agent\wazuh-agent.exe""",737,3,Wazuh agent execution
+,4799,2026-04-18 17:03:22.019850+00:00,pizza,Administrators,,,738,6,User added to Administrators
+C:\Windows\System32\svchost.exe,4689,2026-04-18 17:03:22.399548+00:00,DESKTOP-7CV8A7M$,,,,739,2,Normal process termination
+C:\Windows\System32\net1.exe,4689,2026-04-18 17:03:23.704899+00:00,pizza,,,,740,2,Normal process termination
+C:\Windows\System32\net.exe,4689,2026-04-18 17:03:23.731836+00:00,pizza,,,,741,2,Normal process termination
+,4688,2026-04-18 17:03:24.917656+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""PasswordHistorySize""; Remove-Item $env:TEMP\secpol.cfg",742,10,Security policy export and deletion
+C:\Windows\System32\services.exe,4624,2026-04-18 17:03:25.319349+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,743,2,Normal login event
+,4627,2026-04-18 17:03:25.319359+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,744,2,Normal login event
+,4672,2026-04-18 17:03:25.319368+00:00,SYSTEM,,,,745,2,Normal login event
+,4688,2026-04-18 17:03:25.320679+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\servicing\TrustedInstaller.exe,746,3,TrustedInstaller execution
+,4688,2026-04-18 17:03:25.387236+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe -Embedding,747,3,TiWorker execution
+,4798,2026-04-18 17:03:27.336599+00:00,DESKTOP-7CV8A7M$,Administrator,,,748,6,User monitoring event
+,4798,2026-04-18 17:03:27.337372+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,749,6,User monitoring event
+,4798,2026-04-18 17:03:27.338316+00:00,DESKTOP-7CV8A7M$,Guest,,,750,6,User monitoring event
+,4798,2026-04-18 17:03:27.339025+00:00,DESKTOP-7CV8A7M$,pizza,,,751,6,User monitoring event
+,4798,2026-04-18 17:03:27.339840+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,752,6,User monitoring event
+,4798,2026-04-18 17:03:27.340328+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,753,6,User monitoring event
+,4798,2026-04-18 17:03:27.342339+00:00,DESKTOP-7CV8A7M$,Administrator,,,754,6,User monitoring event
+,4798,2026-04-18 17:03:27.342670+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,755,6,User monitoring event
+,4798,2026-04-18 17:03:27.342920+00:00,DESKTOP-7CV8A7M$,Guest,,,756,6,User monitoring event
+,4798,2026-04-18 17:03:27.343239+00:00,DESKTOP-7CV8A7M$,pizza,,,757,6,User monitoring event
+,4798,2026-04-18 17:03:27.343496+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,758,6,User monitoring event
+,4688,2026-04-18 17:03:27.959328+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,759,3,Conhost executed with flags
+,4688,2026-04-18 17:03:34.238487+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\appidcertstorecheck.exe""",760,3,AppID cert store check
+,4688,2026-04-18 17:03:34.529110+00:00,LOCAL SERVICE,-,C:\Windows\System32\appidcertstorecheck.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,761,3,Conhost executed with flags
+C:\Windows\System32\appidcertstorecheck.exe,4689,2026-04-18 17:03:34.764538+00:00,LOCAL SERVICE,,,,762,2,Normal process termination
+C:\Windows\System32\appidcertstorecheck.exe,4689,2026-04-18 17:03:34.765547+00:00,LOCAL SERVICE,,,,763,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:34.774767+00:00,LOCAL SERVICE,,,,764,2,Normal process termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:34.779646+00:00,LOCAL SERVICE,,,,765,2,Normal process termination
+,4688,2026-04-18 17:03:36.495516+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",766,8,Security policy export command
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:03:36.637594+00:00,DESKTOP-7CV8A7M$,,,,767,2,Normal process termination
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:03:37.624317+00:00,DESKTOP-7CV8A7M$,,,,768,2,Normal process termination
+,4688,2026-04-18 17:03:37.633520+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",769,10,Security policy export and deletion
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:03:37.640808+00:00,DESKTOP-7CV8A7M$,,,,770,2,Normal process termination
+,4688,2026-04-18 17:03:37.646799+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,771,3,Conhost executed with flags
+,4688,2026-04-18 17:03:38.430134+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",772,8,Security policy export command
+C:\Windows\UUS\Packages\Preview\amd64\MoUsoCoreWorker.exe,4689,2026-04-18 17:03:38.513435+00:00,DESKTOP-7CV8A7M$,,,,773,2,Normal process termination
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:03:38.525122+00:00,DESKTOP-7CV8A7M$,,,,774,2,Normal process termination
+,4688,2026-04-18 17:03:38.579134+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,775,3,RuntimeBroker execution
+,4688,2026-04-18 17:03:38.608191+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,776,3,RuntimeBroker execution
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:03:39.252468+00:00,DESKTOP-7CV8A7M$,,,,777,2,Normal process termination
+,4688,2026-04-18 17:03:39.260700+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",778,10,Security policy export and deletion
+,4688,2026-04-18 17:03:39.268551+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,779,3,Conhost executed with flags

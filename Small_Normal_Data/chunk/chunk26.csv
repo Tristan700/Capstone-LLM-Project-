@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:50.527126+00:00,DESKTOP-7CV8A7M$,,,,1750
+,4688,2026-04-18 17:41:50.531923+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1751
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:50.560068+00:00,DESKTOP-7CV8A7M$,,,,1752
+,4688,2026-04-18 17:41:50.562508+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security State Change""",1753
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:50.562840+00:00,DESKTOP-7CV8A7M$,,,,1754
+,4688,2026-04-18 17:41:50.571751+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1755
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:50.599352+00:00,DESKTOP-7CV8A7M$,,,,1756
+,4688,2026-04-18 17:41:50.601843+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""Security System Extension""",1757
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:50.605259+00:00,DESKTOP-7CV8A7M$,,,,1758
+,4688,2026-04-18 17:41:50.611479+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1759
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:50.637451+00:00,DESKTOP-7CV8A7M$,,,,1760
+,4688,2026-04-18 17:41:50.639656+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"auditpol.exe /get /subcategory:""System Integrity""",1761
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:50.641735+00:00,DESKTOP-7CV8A7M$,,,,1762
+,4688,2026-04-18 17:41:50.645979+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\auditpol.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1763
+C:\Windows\SysWOW64\auditpol.exe,4689,2026-04-18 17:41:50.672516+00:00,DESKTOP-7CV8A7M$,,,,1764
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:50.693113+00:00,DESKTOP-7CV8A7M$,,,,1765
+C:\Windows\System32\SppExtComObj.Exe,4689,2026-04-18 17:42:02.178524+00:00,DESKTOP-7CV8A7M$,,,,1766
+C:\Windows\System32\sppsvc.exe,4689,2026-04-18 17:42:02.183615+00:00,DESKTOP-7CV8A7M$,,,,1767
+C:\Windows\System32\services.exe,4624,2026-04-18 17:42:04.167179+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1768
+,4627,2026-04-18 17:42:04.167212+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1769
+,4672,2026-04-18 17:42:04.167280+00:00,SYSTEM,,,,1770
+,4688,2026-04-18 17:42:04.168655+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BDESVC,1771
+,4688,2026-04-18 17:42:14.515490+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",1772
+C:\Windows\System32\dxgiadaptercache.exe,4689,2026-04-18 17:42:14.557098+00:00,DESKTOP-7CV8A7M$,,,,1773
+,4688,2026-04-18 17:42:15.183130+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,/QuitInfo:00000000000002E0;00000000000002E4; ,1774
+,5058,2026-04-18 17:42:19.001652+00:00,LOCAL SERVICE,,,,1775
+,5061,2026-04-18 17:42:19.002544+00:00,LOCAL SERVICE,,,,1776
+,5059,2026-04-18 17:42:19.002741+00:00,LOCAL SERVICE,,,,1777
+,5059,2026-04-18 17:42:19.009066+00:00,LOCAL SERVICE,,,,1778
+,4738,2026-04-18 17:42:19.037245+00:00,DESKTOP-7CV8A7M$,pizza,,,1779
+C:\Windows\System32\svchost.exe,4648,2026-04-18 17:42:19.048168+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1780
+C:\Windows\System32\svchost.exe,4624,2026-04-18 17:42:19.048191+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1781
+,4627,2026-04-18 17:42:19.048208+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1782
+C:\Windows\System32\svchost.exe,4624,2026-04-18 17:42:19.048244+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1783
+,4627,2026-04-18 17:42:19.048254+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1784
+,4672,2026-04-18 17:42:19.048290+00:00,pizzahuthacker@gmail.com,,,,1785
+,5059,2026-04-18 17:42:19.057043+00:00,LOCAL SERVICE,,,,1786
+,5059,2026-04-18 17:42:19.104170+00:00,LOCAL SERVICE,,,,1787
+,4738,2026-04-18 17:42:19.156815+00:00,DESKTOP-7CV8A7M$,pizza,,,1788
+C:\Windows\System32\lsass.exe,4648,2026-04-18 17:42:19.165901+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1789
+C:\Windows\System32\lsass.exe,4624,2026-04-18 17:42:19.165937+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1790
+,4627,2026-04-18 17:42:19.165972+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1791
+C:\Windows\System32\lsass.exe,4624,2026-04-18 17:42:19.166107+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1792
+,4627,2026-04-18 17:42:19.166124+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,1793
+,4672,2026-04-18 17:42:19.166138+00:00,pizzahuthacker@gmail.com,,,,1794
+,4634,2026-04-18 17:42:19.166666+00:00,,pizza,,,1795
+,4634,2026-04-18 17:42:19.174341+00:00,,pizza,,,1796
+,4799,2026-04-18 17:42:19.251795+00:00,DESKTOP-7CV8A7M$,Administrators,,,1797
+C:\Windows\System32\services.exe,4624,2026-04-18 17:42:19.717733+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1798
+,4627,2026-04-18 17:42:19.717745+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1799
+,4672,2026-04-18 17:42:19.717754+00:00,SYSTEM,,,,1800
+,4688,2026-04-18 17:42:19.719265+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k CameraMonitor,1801
+,4688,2026-04-18 17:42:19.900225+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,sihost.exe,1802
+,4688,2026-04-18 17:42:19.901949+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc,1803
+,4688,2026-04-18 17:42:19.922523+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe,1804
+,4688,2026-04-18 17:42:19.986042+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc,1805
+,4688,2026-04-18 17:42:20.214405+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService,1806
+,4688,2026-04-18 17:42:20.416683+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},1807
+,4688,2026-04-18 17:42:20.428885+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe,1808
+,4688,2026-04-18 17:42:20.459869+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",1809
+,4688,2026-04-18 17:42:20.510302+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe,1810
+,4688,2026-04-18 17:42:21.050396+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /ua /installsource core",1811
+,4688,2026-04-18 17:42:21.870914+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\winlogon.exe,C:\WINDOWS\system32\userinit.exe,1812
+,5058,2026-04-18 17:42:21.989388+00:00,pizza,,,,1813
+,5061,2026-04-18 17:42:21.990688+00:00,pizza,,,,1814
+,5059,2026-04-18 17:42:21.993866+00:00,pizza,,,,1815
+,4688,2026-04-18 17:42:22.107525+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc,1816
+,4688,2026-04-18 17:42:22.140560+00:00,pizza,-,C:\Windows\System32\userinit.exe,C:\WINDOWS\Explorer.EXE,1817
+,4688,2026-04-18 17:42:22.271915+00:00,pizza,-,C:\Windows\System32\sihost.exe,"""C:\Windows\System32\ShellHost.exe""",1818
+,5058,2026-04-18 17:42:22.624544+00:00,LOCAL SERVICE,,,,1819
+,5061,2026-04-18 17:42:22.624842+00:00,LOCAL SERVICE,,,,1820
+,5059,2026-04-18 17:42:22.625599+00:00,LOCAL SERVICE,,,,1821
+,4688,2026-04-18 17:42:23.686453+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc,1822
+C:\Windows\System32\services.exe,4624,2026-04-18 17:42:23.961227+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1823
+,4627,2026-04-18 17:42:23.961237+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1824
+,4672,2026-04-18 17:42:23.961248+00:00,SYSTEM,,,,1825
+,4688,2026-04-18 17:42:23.965235+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo,1826
+,4688,2026-04-18 17:42:25.178867+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},1827
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,4689,2026-04-18 17:42:25.308996+00:00,DESKTOP-7CV8A7M$,,,,1828
+,4688,2026-04-18 17:42:25.452177+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\sihost.exe,"""C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"" /tileid MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CrossDeviceResumeApp",1829

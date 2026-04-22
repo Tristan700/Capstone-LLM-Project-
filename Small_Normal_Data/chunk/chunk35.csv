@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+C:\Windows\System32\backgroundTaskHost.exe,4689,2026-04-18 17:51:04.779146+00:00,pizza,,,,2380
+,4688,2026-04-18 17:51:05.661329+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\SearchIndexer.exe,"""C:\WINDOWS\System32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-1980105709-2548930214-1157036425-10016_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-1980105709-2548930214-1157036425-10016 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon""  ""1""",2381
+,4688,2026-04-18 17:51:07.670811+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,/QuitInfo:0000000000000338;0000000000000348; ,2382
+,5059,2026-04-18 17:51:10.419596+00:00,LOCAL SERVICE,,,,2383
+,5059,2026-04-18 17:51:10.421007+00:00,LOCAL SERVICE,,,,2384
+,4738,2026-04-18 17:51:10.445524+00:00,DESKTOP-7CV8A7M$,pizza,,,2385
+C:\Windows\System32\svchost.exe,4648,2026-04-18 17:51:10.449900+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2386
+C:\Windows\System32\svchost.exe,4624,2026-04-18 17:51:10.449923+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2387
+,4627,2026-04-18 17:51:10.449934+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2388
+C:\Windows\System32\svchost.exe,4624,2026-04-18 17:51:10.449947+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2389
+,4627,2026-04-18 17:51:10.449955+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2390
+,4672,2026-04-18 17:51:10.449963+00:00,pizzahuthacker@gmail.com,,,,2391
+,4801,2026-04-18 17:51:10.451202+00:00,,pizza,,,2392
+,5059,2026-04-18 17:51:10.911079+00:00,LOCAL SERVICE,,,,2393
+,5059,2026-04-18 17:51:10.912405+00:00,LOCAL SERVICE,,,,2394
+,4688,2026-04-18 17:51:10.948399+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe,2395
+,4738,2026-04-18 17:51:10.960154+00:00,DESKTOP-7CV8A7M$,pizza,,,2396
+,4688,2026-04-18 17:51:10.969286+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe KEYROAMING,2397
+C:\Windows\System32\lsass.exe,4648,2026-04-18 17:51:10.972052+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2398
+C:\Windows\System32\lsass.exe,4624,2026-04-18 17:51:10.972073+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2399
+,4627,2026-04-18 17:51:10.972084+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2400
+C:\Windows\System32\lsass.exe,4624,2026-04-18 17:51:10.972097+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2401
+,4627,2026-04-18 17:51:10.972105+00:00,DESKTOP-7CV8A7M$,pizzahuthacker@gmail.com,,,2402
+,4672,2026-04-18 17:51:10.972113+00:00,pizzahuthacker@gmail.com,,,,2403
+,4634,2026-04-18 17:51:10.974371+00:00,,pizza,,,2404
+,4634,2026-04-18 17:51:10.974926+00:00,,pizza,,,2405
+,4634,2026-04-18 17:51:10.974989+00:00,,pizza,,,2406
+,4634,2026-04-18 17:51:10.975136+00:00,,pizza,,,2407
+C:\Windows\System32\LogonUI.exe,4689,2026-04-18 17:51:11.147430+00:00,DESKTOP-7CV8A7M$,,,,2408
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:51:11.349556+00:00,pizza,,,,2409
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:51:11.417122+00:00,DESKTOP-7CV8A7M$,,,,2410
+,4688,2026-04-18 17:51:12.478544+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe,2411
+C:\Windows\System32\svchost.exe,4689,2026-04-18 17:51:12.971310+00:00,DESKTOP-7CV8A7M$,,,,2412
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:51:13.500315+00:00,DESKTOP-7CV8A7M$,,,,2413
+C:\Windows\System32\ctfmon.exe,4689,2026-04-18 17:51:14.292299+00:00,DESKTOP-7CV8A7M$,,,,2414
+,4688,2026-04-18 17:51:30.864885+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" SignatureUpdate -ScheduleJob -RestrictPrivileges",2415
+,4688,2026-04-18 17:51:30.904249+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2416
+,4688,2026-04-18 17:51:31.051048+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" SignaturesUpdateService -ScheduleJob -UnmanagedUpdate",2417
+,4688,2026-04-18 17:51:31.109549+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2418
+,4688,2026-04-18 17:51:32.743591+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,2419
+C:\Windows\System32\svchost.exe,4689,2026-04-18 17:51:33.607004+00:00,DESKTOP-7CV8A7M$,,,,2420
+,4688,2026-04-18 17:51:36.138147+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B},2421
+,4688,2026-04-18 17:51:37.860029+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\wbem\wmiprvse.exe -secured -Embedding,2422
+C:\Windows\System32\services.exe,4624,2026-04-18 17:51:37.992912+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2423
+,4627,2026-04-18 17:51:37.992922+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2424
+,4672,2026-04-18 17:51:37.992931+00:00,SYSTEM,,,,2425
+,4688,2026-04-18 17:51:37.994331+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s NetSetupSvc,2426
+C:\Windows\System32\dllhost.exe,4689,2026-04-18 17:51:41.261524+00:00,pizza,,,,2427
+,4688,2026-04-18 17:51:41.449116+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,taskhostw.exe -flow showtoast -checkup recoverability,2428
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:51:41.652805+00:00,pizza,,,,2429
+,4688,2026-04-18 17:51:49.013763+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\wuaucltcore.exe"" /DeploymentHandlerFullPath \\?\C:\Windows\UUS\Packages\Preview\AMD64\UpdateDeploy.dll /ClassId b7be1601-e125-4192-adfd-873bec4d57f6 /RunHandlerComServer",2430
+,4688,2026-04-18 17:51:49.454115+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\UUS\Packages\Preview\amd64\wuaucltcore.exe,"""C:\WINDOWS\SoftwareDistribution\Download\Install\UpdatePlatform.amd64fre.exe"" ",2431
+,4688,2026-04-18 17:51:53.367126+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SoftwareDistribution\Download\Install\UpdatePlatform.amd64fre.exe,C:\WINDOWS\SystemTemp\BAC6E9CC-E591-4AA1-A3B8-1DF9F43ED0E0\MpSigStub.exe /stub 1.1.26030.3011 /payload 4.18.26030.3011 /program C:\WINDOWS\SoftwareDistribution\Download\Install\UpdatePlatform.amd64fre.exe,2432
+,4688,2026-04-18 17:51:54.470221+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SystemTemp\BAC6E9CC-E591-4AA1-A3B8-1DF9F43ED0E0\MpSigStub.exe,C:\WINDOWS\SystemTemp\BAC6E9CC-E591-4AA1-A3B8-1DF9F43ED0E0\MpRecovery.exe,2433
+C:\Windows\SystemTemp\BAC6E9CC-E591-4AA1-A3B8-1DF9F43ED0E0\MpRecovery.exe,4689,2026-04-18 17:51:54.510351+00:00,DESKTOP-7CV8A7M$,,,,2434
+C:\Program Files\Windows Defender\NisSrv.exe,4689,2026-04-18 17:52:12.208004+00:00,LOCAL SERVICE,,,,2435
+,4688,2026-04-18 17:52:13.809000+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" -RestartService",2436
+,4688,2026-04-18 17:52:13.822851+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2437
+C:\Windows\System32\services.exe,4624,2026-04-18 17:52:14.956512+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2438
+,4627,2026-04-18 17:52:14.956526+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2439
+,4672,2026-04-18 17:52:14.956535+00:00,SYSTEM,,,,2440
+,4688,2026-04-18 17:52:14.961435+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,"""C:\Program Files\Windows Defender\MsMpEng.exe""",2441
+C:\Program Files\Windows Defender\MsMpEng.exe,4689,2026-04-18 17:52:15.094530+00:00,DESKTOP-7CV8A7M$,,,,2442
+C:\Program Files\Windows Defender\MpCmdRun.exe,4689,2026-04-18 17:52:15.651865+00:00,DESKTOP-7CV8A7M$,,,,2443
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:15.812395+00:00,DESKTOP-7CV8A7M$,,,,2444
+,4688,2026-04-18 17:52:19.087114+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-AMFilter.man""",2445
+,4688,2026-04-18 17:52:19.125788+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2446
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:19.714663+00:00,DESKTOP-7CV8A7M$,,,,2447
+,4688,2026-04-18 17:52:19.717293+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-AMFilter.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Drivers\WdFilter.sys""",2448
+,4688,2026-04-18 17:52:19.730988+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2449
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:19.731321+00:00,DESKTOP-7CV8A7M$,,,,2450
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:19.858852+00:00,DESKTOP-7CV8A7M$,,,,2451
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:19.873249+00:00,DESKTOP-7CV8A7M$,,,,2452
+,4688,2026-04-18 17:52:19.876385+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man""",2453
+,4688,2026-04-18 17:52:19.879122+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2454
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:20.120598+00:00,DESKTOP-7CV8A7M$,,,,2455
+,4688,2026-04-18 17:52:20.123589+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll""",2456
+,4688,2026-04-18 17:52:20.127880+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2457
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:20.128473+00:00,DESKTOP-7CV8A7M$,,,,2458
+C:\Windows\System32\SearchProtocolHost.exe,4689,2026-04-18 17:52:20.835573+00:00,DESKTOP-7CV8A7M$,,,,2459

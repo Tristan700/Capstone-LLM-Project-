@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:19.731321+00:00,DESKTOP-7CV8A7M$,,,,2450,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:19.858852+00:00,DESKTOP-7CV8A7M$,,,,2451,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:19.873249+00:00,DESKTOP-7CV8A7M$,,,,2452,0,
+,4688,2026-04-18 17:52:19.876385+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man""",2453,8,Uninstalling Windows Defender manifest
+,4688,2026-04-18 17:52:19.879122+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2454,8,Forced conhost execution
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:20.120598+00:00,DESKTOP-7CV8A7M$,,,,2455,0,
+,4688,2026-04-18 17:52:20.123589+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Windows-Windows Defender.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpEvMsg.dll""",2456,8,Installing Windows Defender manifest
+,4688,2026-04-18 17:52:20.127880+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2457,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:20.128473+00:00,DESKTOP-7CV8A7M$,,,,2458,0,
+C:\Windows\System32\SearchProtocolHost.exe,4689,2026-04-18 17:52:20.835573+00:00,DESKTOP-7CV8A7M$,,,,2459,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:21.962330+00:00,DESKTOP-7CV8A7M$,,,,2460,0,
+C:\Windows\System32\svchost.exe,4689,2026-04-18 17:52:21.994448+00:00,DESKTOP-7CV8A7M$,,,,2461,0,
+,4688,2026-04-18 17:52:22.002554+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man""",2462,8,Uninstalling Windows Defender manifest
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:22.172533+00:00,DESKTOP-7CV8A7M$,,,,2463,0,
+,4688,2026-04-18 17:52:22.173235+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2464,8,Forced conhost execution
+,4688,2026-04-18 17:52:22.313900+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\Users\pizza\AppData\Local\Microsoft\OneDrive\26.055.0323.0004\OneDriveLauncher.exe"" /startInstances",2465,3,OneDriveLauncher executed by user
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:22.322817+00:00,DESKTOP-7CV8A7M$,,,,2466,0,
+,4688,2026-04-18 17:52:22.337955+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Service.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpSvc.dll""",2467,8,Installing Windows Defender manifest
+,4688,2026-04-18 17:52:23.468151+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe,2468,3,Taskhostw executed
+,4688,2026-04-18 17:52:23.502754+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2469,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:23.654959+00:00,DESKTOP-7CV8A7M$,,,,2470,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:24.121883+00:00,DESKTOP-7CV8A7M$,,,,2471,0,
+,4688,2026-04-18 17:52:24.171270+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man""",2472,8,Uninstalling Windows Defender manifest
+,4688,2026-04-18 17:52:24.191835+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2473,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:24.203234+00:00,DESKTOP-7CV8A7M$,,,,2474,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:24.285370+00:00,DESKTOP-7CV8A7M$,,,,2475,0,
+,4688,2026-04-18 17:52:24.294271+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-NIS.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\NisSrv.exe""",2476,8,Installing Windows Defender manifest
+,4688,2026-04-18 17:52:24.297361+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2477,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:24.297703+00:00,DESKTOP-7CV8A7M$,,,,2478,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:24.376192+00:00,DESKTOP-7CV8A7M$,,,,2479,0,
+,4688,2026-04-18 17:52:24.387878+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man""",2480,8,Uninstalling Windows Defender manifest
+,4688,2026-04-18 17:52:24.392099+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2481,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:24.392197+00:00,DESKTOP-7CV8A7M$,,,,2482,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:24.607136+00:00,DESKTOP-7CV8A7M$,,,,2483,0,
+,4688,2026-04-18 17:52:24.611517+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-RTP.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpRtp.dll""",2484,8,Installing Windows Defender manifest
+,4688,2026-04-18 17:52:24.622152+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2485,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:24.622540+00:00,DESKTOP-7CV8A7M$,,,,2486,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:24.762264+00:00,DESKTOP-7CV8A7M$,,,,2487,0,
+,4688,2026-04-18 17:52:24.766855+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe uninstall-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man""",2488,8,Uninstalling Windows Defender manifest
+,4688,2026-04-18 17:52:24.781857+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2489,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:24.782974+00:00,DESKTOP-7CV8A7M$,,,,2490,0,
+,4688,2026-04-18 17:52:25.065353+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\Windows\ImmersiveControlPanel\SystemSettings.exe"" -ServerName:microsoft.windows.immersivecontrolpanel",2491,3,SystemSettings executed by user
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:25.252007+00:00,DESKTOP-7CV8A7M$,,,,2492,0,
+,4688,2026-04-18 17:52:25.263445+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wevtutil.exe install-manifest ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\Microsoft-Antimalware-Protection.man"" ""/resourceFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/messageFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll"" ""/parameterFilePath:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpClient.dll""",2493,8,Installing Windows Defender manifest
+,4688,2026-04-18 17:52:25.460611+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wevtutil.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2494,8,Forced conhost execution
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:25.546921+00:00,DESKTOP-7CV8A7M$,,,,2495,0,
+C:\Windows\System32\wevtutil.exe,4689,2026-04-18 17:52:25.924547+00:00,DESKTOP-7CV8A7M$,,,,2496,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:27.134706+00:00,DESKTOP-7CV8A7M$,,,,2497,0,
+,4688,2026-04-18 17:52:27.137516+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\wbem\mofcomp.exe ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\ProtectionManagement.mof""",2498,3,MOF file compilation
+,4688,2026-04-18 17:52:27.143166+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\wbem\mofcomp.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2499,8,Forced conhost execution
+,4688,2026-04-18 17:52:27.793262+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\uus\packages\preview\AMD64\MoUsoCoreWorker.exe"" useprivatenamespaces",2500,3,MoUsoCoreWorker executed
+C:\Windows\System32\services.exe,4624,2026-04-18 17:52:28.439671+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2501,0,
+,4627,2026-04-18 17:52:28.439680+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2502,0,
+,4672,2026-04-18 17:52:28.439690+00:00,SYSTEM,,,,2503,0,
+,4688,2026-04-18 17:52:28.445000+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc,2504,3,WaaSMedicSvc service start
+C:\Windows\System32\wbem\mofcomp.exe,4689,2026-04-18 17:52:29.058973+00:00,DESKTOP-7CV8A7M$,,,,2505,0,
+,4688,2026-04-18 17:52:29.176420+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"C:\WINDOWS\system32\taskkill.exe /f /FI ""MODULES eq protectionmanagement.dll"" /IM WmiPrvSE.exe",2506,8,Forced task termination
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:29.218508+00:00,DESKTOP-7CV8A7M$,,,,2507,0,
+,4688,2026-04-18 17:52:29.247299+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\taskkill.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2508,8,Forced conhost execution
+,4688,2026-04-18 17:52:29.553438+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\BackgroundTaskHost.exe"" -ServerName:BackgroundTaskHost.WebAccountProvider",2509,3,BackgroundTaskHost executed by user
+C:\Windows\System32\taskkill.exe,4689,2026-04-18 17:52:29.638531+00:00,DESKTOP-7CV8A7M$,,,,2510,0,
+C:\Windows\System32\services.exe,4624,2026-04-18 17:52:29.666313+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2511,0,
+,4627,2026-04-18 17:52:29.666323+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2512,0,
+,4672,2026-04-18 17:52:29.666332+00:00,SYSTEM,,,,2513,0,
+,4688,2026-04-18 17:52:29.668261+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MpDefenderCoreService.exe""",2514,3,MpDefenderCoreService executed
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:29.673542+00:00,DESKTOP-7CV8A7M$,,,,2515,0,
+,4688,2026-04-18 17:52:29.905088+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,2516,3,RuntimeBroker executed by user
+,4688,2026-04-18 17:52:30.103086+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MsMpEng.exe,"""C:\Program Files\Windows Defender\MpCmdRun.exe"" -RestartService",2517,3,Windows Defender service restart
+,4688,2026-04-18 17:52:30.290184+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files\Windows Defender\MpCmdRun.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,2518,8,Forced conhost execution
+C:\Windows\System32\services.exe,4624,2026-04-18 17:52:30.824787+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2519,0,
+,4627,2026-04-18 17:52:30.824799+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2520,0,
+,4672,2026-04-18 17:52:30.824808+00:00,SYSTEM,,,,2521,0,
+,4688,2026-04-18 17:52:30.827053+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,"""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26030.3011-0\MsMpEng.exe""",2522,3,MsMpEng service start
+C:\Program Files\Windows Defender\MsMpEng.exe,4689,2026-04-18 17:52:30.838207+00:00,DESKTOP-7CV8A7M$,,,,2523,0,
+C:\Program Files\Windows Defender\MpCmdRun.exe,4689,2026-04-18 17:52:31.308174+00:00,DESKTOP-7CV8A7M$,,,,2524,0,
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:52:31.557568+00:00,DESKTOP-7CV8A7M$,,,,2525,0,
+C:\Windows\System32\backgroundTaskHost.exe,4689,2026-04-18 17:52:32.030315+00:00,pizza,,,,2526,0,
+,4688,2026-04-18 17:52:33.751705+00:00,DESKTOP-7CV8A7M$,pizza,C:\Windows\System32\svchost.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding,2527,3,UserOOBEBroker executed by user
+C:\Windows\System32\services.exe,4624,2026-04-18 17:52:34.017702+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2528,0,
+,4627,2026-04-18 17:52:34.017715+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2529,0,

@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID
+,4672,2026-04-18 17:41:25.567659+00:00,SYSTEM,,,,1540
+,4688,2026-04-18 17:41:25.568644+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\servicing\TrustedInstaller.exe,1541
+,4688,2026-04-18 17:41:25.637152+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8247_none_a53a4f5b773e04f9\TiWorker.exe -Embedding,1542
+C:\Windows\System32\services.exe,4624,2026-04-18 17:41:26.918762+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1543
+,4627,2026-04-18 17:41:26.918772+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1544
+,4672,2026-04-18 17:41:26.918779+00:00,SYSTEM,,,,1545
+,4688,2026-04-18 17:41:26.919998+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv,1546
+,4798,2026-04-18 17:41:28.624165+00:00,DESKTOP-7CV8A7M$,Administrator,,,1547
+,4798,2026-04-18 17:41:28.627897+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,1548
+,4798,2026-04-18 17:41:28.628565+00:00,DESKTOP-7CV8A7M$,Guest,,,1549
+,4798,2026-04-18 17:41:28.629261+00:00,DESKTOP-7CV8A7M$,pizza,,,1550
+,4798,2026-04-18 17:41:28.630106+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,1551
+,4798,2026-04-18 17:41:28.630625+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,1552
+,4798,2026-04-18 17:41:28.636105+00:00,DESKTOP-7CV8A7M$,Administrator,,,1553
+,4798,2026-04-18 17:41:28.636408+00:00,DESKTOP-7CV8A7M$,DefaultAccount,,,1554
+,4798,2026-04-18 17:41:28.636717+00:00,DESKTOP-7CV8A7M$,Guest,,,1555
+,4798,2026-04-18 17:41:28.636978+00:00,DESKTOP-7CV8A7M$,pizza,,,1556
+,4798,2026-04-18 17:41:28.637247+00:00,DESKTOP-7CV8A7M$,WDAGUtilityAccount,,,1557
+C:\Windows\System32\dxgiadaptercache.exe,4689,2026-04-18 17:41:30.045414+00:00,DESKTOP-7CV8A7M$,,,,1558
+C:\Windows\System32\ClipRenew.exe,4689,2026-04-18 17:41:30.357679+00:00,DESKTOP-7CV8A7M$,,,,1559
+,4688,2026-04-18 17:41:30.368517+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\sppsvc.exe,1560
+,4688,2026-04-18 17:41:30.955875+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,"""C:\Program Files\Windows Defender\NisSrv.exe""",1561
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:41:31.188198+00:00,DESKTOP-7CV8A7M$,,,,1562
+,4688,2026-04-18 17:41:31.189337+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\svchost.exe,C:\WINDOWS\system32\SppExtComObj.exe -Embedding,1563
+,4688,2026-04-18 17:41:31.254736+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\SppExtComObj.Exe,"""C:\WINDOWS\System32\SLUI.exe"" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8;NotificationInterval=1440;Trigger=NetworkAvailable",1564
+,4688,2026-04-18 17:41:31.500298+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalService -p -s LicenseManager,1565
+C:\Windows\System32\services.exe,4624,2026-04-18 17:41:31.599016+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1566
+,4627,2026-04-18 17:41:31.599026+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1567
+,4672,2026-04-18 17:41:31.599033+00:00,SYSTEM,,,,1568
+,4688,2026-04-18 17:41:31.600500+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k wsappx -p -s ClipSVC,1569
+C:\Windows\System32\services.exe,4624,2026-04-18 17:41:31.744083+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1570
+,4627,2026-04-18 17:41:31.744093+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,1571
+,4672,2026-04-18 17:41:31.744104+00:00,SYSTEM,,,,1572
+,4688,2026-04-18 17:41:31.745398+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker,1573
+C:\Windows\System32\slui.exe,4689,2026-04-18 17:41:32.160763+00:00,DESKTOP-7CV8A7M$,,,,1574
+C:\Windows\System32\wermgr.exe,4689,2026-04-18 17:41:32.507017+00:00,DESKTOP-7CV8A7M$,,,,1575
+,4688,2026-04-18 17:41:33.880014+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1576
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:34.024845+00:00,DESKTOP-7CV8A7M$,,,,1577
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:35.396244+00:00,DESKTOP-7CV8A7M$,,,,1578
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:35.402834+00:00,DESKTOP-7CV8A7M$,,,,1579
+,4688,2026-04-18 17:41:35.408112+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",1580
+,4688,2026-04-18 17:41:35.422264+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1581
+,4688,2026-04-18 17:41:36.257126+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1582
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:36.335899+00:00,DESKTOP-7CV8A7M$,,,,1583
+C:\Windows\System32\taskhostw.exe,4689,2026-04-18 17:41:36.832510+00:00,DESKTOP-7CV8A7M$,,,,1584
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:37.163267+00:00,DESKTOP-7CV8A7M$,,,,1585
+,4688,2026-04-18 17:41:37.170988+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MaximumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",1586
+,4688,2026-04-18 17:41:37.179228+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1587
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:37.181854+00:00,DESKTOP-7CV8A7M$,,,,1588
+,4688,2026-04-18 17:41:37.959526+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1589
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:38.060101+00:00,DESKTOP-7CV8A7M$,,,,1590
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:38.722742+00:00,DESKTOP-7CV8A7M$,,,,1591
+,4688,2026-04-18 17:41:38.730328+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordAge""; Remove-Item $env:TEMP\secpol.cfg",1592
+,4688,2026-04-18 17:41:38.743191+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1593
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:38.745668+00:00,DESKTOP-7CV8A7M$,,,,1594
+,4688,2026-04-18 17:41:39.504709+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1595
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:39.581938+00:00,DESKTOP-7CV8A7M$,,,,1596
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:40.470892+00:00,DESKTOP-7CV8A7M$,,,,1597
+,4688,2026-04-18 17:41:40.478308+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""MinimumPasswordLength""; Remove-Item $env:TEMP\secpol.cfg",1598
+,4688,2026-04-18 17:41:40.492531+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1599
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:40.495335+00:00,DESKTOP-7CV8A7M$,,,,1600
+,4688,2026-04-18 17:41:41.280169+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1601
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:41.356522+00:00,DESKTOP-7CV8A7M$,,,,1602
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:42.045593+00:00,DESKTOP-7CV8A7M$,,,,1603
+,4688,2026-04-18 17:41:42.053394+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutDuration""; Remove-Item $env:TEMP\secpol.cfg",1604
+,4688,2026-04-18 17:41:42.066677+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1605
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:42.069065+00:00,DESKTOP-7CV8A7M$,,,,1606
+,4688,2026-04-18 17:41:42.791550+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1607
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:42.860966+00:00,DESKTOP-7CV8A7M$,,,,1608
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:43.405130+00:00,DESKTOP-7CV8A7M$,,,,1609
+,4688,2026-04-18 17:41:43.412064+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",1610
+,4688,2026-04-18 17:41:43.424170+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1611
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:43.426531+00:00,DESKTOP-7CV8A7M$,,,,1612
+,4688,2026-04-18 17:41:44.142344+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1613
+C:\Windows\SysWOW64\SecEdit.exe,4689,2026-04-18 17:41:44.212811+00:00,DESKTOP-7CV8A7M$,,,,1614
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,4689,2026-04-18 17:41:44.821407+00:00,DESKTOP-7CV8A7M$,,,,1615
+,4688,2026-04-18 17:41:44.828815+00:00,DESKTOP-7CV8A7M$,-,C:\Program Files (x86)\ossec-agent\wazuh-agent.exe,"powershell secedit /export /cfg $env:TEMP\secpol.cfg; Get-Content $env:TEMP\secpol.cfg | Select-String ""LockoutBadCount""; Remove-Item $env:TEMP\secpol.cfg",1616
+,4688,2026-04-18 17:41:44.837496+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,\??\C:\WINDOWS\system32\conhost.exe 0xffffffff -ForceV1,1617
+C:\Windows\System32\conhost.exe,4689,2026-04-18 17:41:44.839949+00:00,DESKTOP-7CV8A7M$,,,,1618
+,4688,2026-04-18 17:41:45.547245+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,"""C:\WINDOWS\system32\SecEdit.exe"" /export /cfg C:\WINDOWS\TEMP\secpol.cfg",1619

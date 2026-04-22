@@ -1,0 +1,6 @@
+RowID,Suspicion_Score,summary
+3568,9,Administrators group targeted
+3507,6,SLUI.exe auto activation
+3508,6,SLUI.exe embedding
+3528,6,Audit policy change command
+3532,6,Audit policy change command

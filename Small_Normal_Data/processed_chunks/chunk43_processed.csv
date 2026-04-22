@@ -1,0 +1,81 @@
+ProcessName,EventID,Timestamp,SubjectUserName,TargetUserName,ParentProcessName,CommandLine,RowID,Suspicion_Score,summary
+,4608,2026-04-18 18:09:17.251343+00:00,,,,,2941,0,
+,4624,2026-04-18 18:09:17.260641+00:00,-,SYSTEM,,,2942,3,SYSTEM login without process
+,4627,2026-04-18 18:09:17.260668+00:00,ANONYMOUS LOGON,SYSTEM,,,2943,6,Anonymous SYSTEM access
+,4902,2026-04-18 18:09:17.457876+00:00,,,,,2944,0,
+C:\Windows\System32\wininit.exe,4648,2026-04-18 18:09:17.525003+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2945,2,Normal wininit activity
+C:\Windows\System32\wininit.exe,4624,2026-04-18 18:09:17.525024+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2946,2,Normal wininit activity
+,4627,2026-04-18 18:09:17.525038+00:00,DESKTOP-7CV8A7M$,UMFD-0,,,2947,2,Normal wininit activity
+C:\Windows\System32\winlogon.exe,4648,2026-04-18 18:09:17.526369+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2948,2,Normal winlogon activity
+C:\Windows\System32\winlogon.exe,4624,2026-04-18 18:09:17.526382+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2949,2,Normal winlogon activity
+,4627,2026-04-18 18:09:17.526670+00:00,DESKTOP-7CV8A7M$,UMFD-1,,,2950,2,Normal winlogon activity
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:17.546926+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2951,2,Normal services.exe activity
+,4627,2026-04-18 18:09:17.546938+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2952,2,Normal services.exe activity
+,4672,2026-04-18 18:09:17.546946+00:00,SYSTEM,,,,2953,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:17.571568+00:00,DESKTOP-7CV8A7M$,UMFD-1,C:\Windows\System32\winlogon.exe,"""fontdrvhost.exe""",2954,3,fontdrvhost.exe from winlogon
+,4688,2026-04-18 18:09:17.571569+00:00,DESKTOP-7CV8A7M$,UMFD-0,C:\Windows\System32\wininit.exe,"""fontdrvhost.exe""",2955,3,fontdrvhost.exe from wininit
+,4688,2026-04-18 18:09:17.571581+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p,2956,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:17.841112+00:00,DESKTOP-7CV8A7M$,NETWORK SERVICE,,,2957,2,Normal services.exe activity
+,4627,2026-04-18 18:09:17.841122+00:00,DESKTOP-7CV8A7M$,NETWORK SERVICE,,,2958,2,Normal services.exe activity
+,4672,2026-04-18 18:09:17.841131+00:00,NETWORK SERVICE,,,,2959,2,Normal NETWORK SERVICE privilege
+,4688,2026-04-18 18:09:17.901665+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k RPCSS -p,2960,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.024359+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2961,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.024368+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2962,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.024389+00:00,SYSTEM,,,,2963,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.025642+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p -s LSM,2964,5,svchost launch from services
+C:\Windows\System32\winlogon.exe,4648,2026-04-18 18:09:18.183027+00:00,DESKTOP-7CV8A7M$,DWM-1,,,2965,2,Normal winlogon activity
+C:\Windows\System32\winlogon.exe,4624,2026-04-18 18:09:18.183039+00:00,DESKTOP-7CV8A7M$,DWM-1,,,2966,2,Normal winlogon activity
+,4627,2026-04-18 18:09:18.183048+00:00,DESKTOP-7CV8A7M$,DWM-1,,,2967,2,Normal winlogon activity
+C:\Windows\System32\winlogon.exe,4624,2026-04-18 18:09:18.183060+00:00,DESKTOP-7CV8A7M$,DWM-1,,,2968,2,Normal winlogon activity
+,4627,2026-04-18 18:09:18.183067+00:00,DESKTOP-7CV8A7M$,DWM-1,,,2969,2,Normal winlogon activity
+,4672,2026-04-18 18:09:18.183073+00:00,DWM-1,,,,2970,2,Normal DWM-1 privilege
+,4672,2026-04-18 18:09:18.183073+00:00,DWM-1,,,,2971,2,Normal DWM-1 privilege
+,4688,2026-04-18 18:09:18.186977+00:00,DESKTOP-7CV8A7M$,DWM-1,C:\Windows\System32\winlogon.exe,"""dwm.exe""",2972,3,dwm.exe from winlogon
+,4688,2026-04-18 18:09:18.192080+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\winlogon.exe,"""LogonUI.exe"" /flags:0x2 /state0:0xa3bd4055 /state1:0x41c64e6d",2973,5,LogonUI.exe from winlogon
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.450056+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2974,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.450066+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2975,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.450096+00:00,SYSTEM,,,,2976,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.452301+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k GPSvcGroup,2977,5,svchost launch from services
+,4688,2026-04-18 18:09:18.462889+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,2978,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.520037+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,,,2979,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.520056+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,,,2980,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.520063+00:00,LOCAL SERVICE,,,,2981,2,Normal LOCAL SERVICE privilege
+,4688,2026-04-18 18:09:18.559961+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,2982,5,svchost launch from services
+,4688,2026-04-18 18:09:18.567219+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p,2983,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.613161+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2984,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.613171+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2985,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.613180+00:00,SYSTEM,,,,2986,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.614582+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService,2987,5,svchost launch from services
+,4688,2026-04-18 18:09:18.629791+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc,2988,5,svchost launch from services
+,4688,2026-04-18 18:09:18.665699+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s AppIDSvc,2989,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.721384+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2990,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.721397+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2991,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.721409+00:00,SYSTEM,,,,2992,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.725054+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule,2993,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.907200+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2994,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.907209+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2995,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.907219+00:00,SYSTEM,,,,2996,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.909538+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k UserProfileService -p -s ProfSvc,2997,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:18.992105+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2998,2,Normal services.exe activity
+,4627,2026-04-18 18:09:18.992117+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,2999,2,Normal services.exe activity
+,4672,2026-04-18 18:09:18.992126+00:00,SYSTEM,,,,3000,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:18.993372+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s PrintDeviceConfigurationService,3001,5,svchost launch from services
+,4688,2026-04-18 18:09:19.053736+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc,3002,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:19.101160+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3003,2,Normal services.exe activity
+,4627,2026-04-18 18:09:19.101181+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3004,2,Normal services.exe activity
+,4672,2026-04-18 18:09:19.101191+00:00,SYSTEM,,,,3005,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:19.103439+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UserManager,3006,5,svchost launch from services
+,4688,2026-04-18 18:09:19.125874+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s nsi,3007,5,svchost launch from services
+,4688,2026-04-18 18:09:19.411283+00:00,DESKTOP-7CV8A7M$,DESKTOP-7CV8A7M$,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k netprofm -p -s netprofm,3008,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:19.468805+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3009,2,Normal services.exe activity
+,4627,2026-04-18 18:09:19.468817+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3010,2,Normal services.exe activity
+,4672,2026-04-18 18:09:19.468824+00:00,SYSTEM,,,,3011,2,Normal SYSTEM privilege
+,4688,2026-04-18 18:09:19.471022+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\System32\Upfc.exe /launchtype boot /cv C4zdE0pQ+0OUTSBJ26rq0A.0,3012,5,Upfc.exe launch from services
+,4688,2026-04-18 18:09:19.473032+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -s WPDBusEnum,3013,5,svchost launch from services
+,4688,2026-04-18 18:09:19.592144+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,taskhostw.exe ExploitGuardPolicy,3014,5,taskhostw.exe from svchost
+C:\Windows\System32\upfc.exe,4689,2026-04-18 18:09:19.600771+00:00,DESKTOP-7CV8A7M$,,,,3015,2,Normal upfc.exe termination
+,4688,2026-04-18 18:09:19.658993+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,3016,5,svchost launch from services
+,4688,2026-04-18 18:09:19.689064+00:00,DESKTOP-7CV8A7M$,-,C:\Windows\System32\svchost.exe,"""C:\WINDOWS\system32\dxgiadaptercache.exe""",3017,5,dxgiadaptercache.exe from svchost
+,4688,2026-04-18 18:09:19.775488+00:00,DESKTOP-7CV8A7M$,LOCAL SERVICE,C:\Windows\System32\services.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceRedirectionGuard -p -s EventSystem,3018,5,svchost launch from services
+C:\Windows\System32\services.exe,4624,2026-04-18 18:09:19.781435+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3019,2,Normal services.exe activity
+,4627,2026-04-18 18:09:19.781445+00:00,DESKTOP-7CV8A7M$,SYSTEM,,,3020,2,Normal services.exe activity
